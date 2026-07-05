@@ -1,0 +1,6004 @@
+============================================================
+  储能 单词列表 (1000 词)
+============================================================
+
+[   1] lithium iron phosphate
+       释义: 磷酸铁锂
+       音标: /lithium-ir/
+       难度: ★★
+       例句: LFP batteries dominate stationary storage due to safety and cycle life.
+
+[   2] nickel manganese cobalt
+       释义: 镍钴锰三元
+       音标: /nickel-man/
+       难度: ★★
+       例句: NMC batteries offer higher energy density than LFP.
+
+[   3] nickel cobalt aluminum
+       释义: 镍钴铝三元
+       音标: /nickel-cob/
+       难度: ★★★
+       例句: NCA batteries are primarily used in electric vehicles.
+
+[   4] lithium titanate
+       释义: 钛酸锂
+       音标: /lithium-ti/
+       难度: ★★★★
+       例句: LTO batteries offer extremely long cycle life and fast charging.
+
+[   5] lithium manganese oxide
+       释义: 锰酸锂
+       音标: /lithium-ma/
+       难度: ★★★★
+       例句: LMO offers high power capability and thermal stability.
+
+[   6] solid state battery
+       释义: 固态电池
+       音标: /solid-stat/
+       难度: ★★★★
+       例句: Solid state batteries replace liquid electrolyte with solid conductors.
+
+[   7] sodium ion battery
+       释义: 钠离子电池
+       音标: /sodium-ion/
+       难度: ★★★
+       例句: Sodium-ion batteries offer lower cost and abundant raw materials.
+
+[   8] flow battery
+       释义: 液流电池
+       音标: /flow-batte/
+       难度: ★★★
+       例句: Flow batteries store energy in liquid electrolytes in external tanks.
+
+[   9] vanadium redox flow battery
+       释义: 全钒液流电池
+       音标: /vanadium-r/
+       难度: ★★★★
+       例句: VRFB offers independent power and energy scaling for long duration.
+
+[  10] zinc bromine flow battery
+       释义: 锌溴液流电池
+       音标: /zinc-bromi/
+       难度: ★★★★
+       例句: ZnBr flow batteries offer lower cost but lower efficiency.
+
+[  11] iron chromium flow battery
+       释义: 铁铬液流电池
+       音标: /iron-chrom/
+       难度: ★★★★★
+       例句: FeCr flow batteries use abundant low-cost materials.
+
+[  12] lead acid battery
+       释义: 铅酸电池
+       音标: /lead-acid-/
+       难度: ★
+       例句: Lead acid batteries are reliable but heavy with limited cycle life.
+
+[  13] advanced lead acid
+       释义: 先进铅酸
+       音标: /advanced-l/
+       难度: ★★★
+       例句: Carbon-enhanced lead acid improves cycle life for grid applications.
+
+[  14] nickel cadmium battery
+       释义: 镍镉电池
+       音标: /nickel-cad/
+       难度: ★★
+       例句: NiCd batteries tolerate extreme temperatures but contain toxic cadmium.
+
+[  15] nickel metal hydride battery
+       释义: 镍氢电池
+       音标: /nickel-met/
+       难度: ★★
+       例句: NiMH batteries are used in hybrid vehicles and consumer electronics.
+
+[  16] compressed air energy storage
+       释义: 压缩空气储能
+       音标: /compressed/
+       难度: ★★★
+       例句: CAES stores energy by compressing air into underground caverns.
+
+[  17] adiabatic CAES
+       释义: 绝热压缩空气储能
+       音标: /adiabatic-/
+       难度: ★★★★★
+       例句: Advanced adiabatic CAES captures compression heat to improve efficiency.
+
+[  18] liquid air energy storage
+       释义: 液态空气储能
+       音标: /liquid-air/
+       难度: ★★★★
+       例句: LAES stores energy by liquefying air for later expansion.
+
+[  19] pumped hydro storage
+       释义: 抽水蓄能
+       音标: /pumped-hyd/
+       难度: ★★
+       例句: Pumped hydro is the most mature and widely deployed storage technology.
+
+[  20] flywheel energy storage
+       释义: 飞轮储能
+       音标: /flywheel-e/
+       难度: ★★★
+       例句: Flywheels store kinetic energy for short-duration high-power applications.
+
+[  21] superconducting magnetic energy storage
+       释义: 超导磁储能
+       音标: /supercondu/
+       难度: ★★★★★
+       例句: SMES stores energy in magnetic fields for ultra-fast response.
+
+[  22] supercapacitor
+       释义: 超级电容器
+       音标: /supercapac/
+       难度: ★★★
+       例句: Supercapacitors deliver very high power but lower energy density.
+
+[  23] hybrid energy storage system
+       释义: 混合储能系统
+       音标: /hybrid-ene/
+       难度: ★★★
+       例句: Hybrid storage combines high-energy and high-power technologies.
+
+[  24] battery cell
+       释义: 电芯
+       音标: /battery-ce/
+       难度: ★
+       例句: The battery cell is the basic electrochemical unit.
+
+[  25] battery module
+       释义: 电池模组
+       音标: /battery-mo/
+       难度: ★
+       例句: Multiple cells are assembled into a battery module.
+
+[  26] battery pack
+       释义: 电池包
+       音标: /battery-pa/
+       难度: ★
+       例句: The battery pack integrates modules with thermal and electrical management.
+
+[  27] battery rack
+       释义: 电池架
+       音标: /battery-ra/
+       难度: ★★
+       例句: Battery racks house multiple modules in a vertical configuration.
+
+[  28] battery container
+       释义: 电池集装箱
+       音标: /battery-co/
+       难度: ★★
+       例句: Containerized BESS simplifies transport and installation.
+
+[  29] state of charge
+       释义: 荷电状态
+       音标: /state-of-c/
+       难度: ★★
+       例句: SOC indicates the remaining capacity as a percentage of full charge.
+
+[  30] state of health
+       释义: 健康状态
+       音标: /state-of-h/
+       难度: ★★★
+       例句: SOH measures the battery's degradation relative to its initial condition.
+
+[  31] state of power
+       释义: 功率状态
+       音标: /state-of-p/
+       难度: ★★★
+       例句: SOP estimates the available charge and discharge power capability.
+
+[  32] depth of discharge
+       释义: 放电深度
+       音标: /depth-of-d/
+       难度: ★★
+       例句: Limiting DOD extends battery cycle life.
+
+[  33] cycle life
+       释义: 循环寿命
+       音标: /cycle-life/
+       难度: ★★
+       例句: Cycle life is the number of charge-discharge cycles before capacity fades.
+
+[  34] calendar life
+       释义: 日历寿命
+       音标: /calendar-l/
+       难度: ★★★
+       例句: Calendar aging occurs regardless of cycling activity.
+
+[  35] solid electrolyte interphase
+       释义: 固体电解质界面膜
+       音标: /solid-elec/
+       难度: ★★★★★
+       例句: SEI formation consumes lithium during the initial charge cycle.
+
+[  36] capacity fade
+       释义: 容量衰减
+       音标: /capacity-f/
+       难度: ★★
+       例句: Capacity fade results from loss of active lithium and electrode degradation.
+
+[  37] internal resistance
+       释义: 内阻
+       音标: /internal-r/
+       难度: ★★
+       例句: Rising internal resistance reduces efficiency and power capability.
+
+[  38] coulombic efficiency
+       释义: 库仑效率
+       音标: /coulombic-/
+       难度: ★★★★
+       例句: Commercial lithium cells achieve over 99.9% coulombic efficiency.
+
+[  39] voltage hysteresis
+       释义: 电压滞后
+       音标: /voltage-hy/
+       难度: ★★★★
+       例句: Voltage hysteresis means charge and discharge curves do not overlap.
+
+[  40] open circuit voltage
+       释义: 开路电压
+       音标: /open-circu/
+       难度: ★★★
+       例句: OCV varies with SOC and temperature.
+
+[  41] cutoff voltage
+       释义: 截止电压
+       音标: /cutoff-vol/
+       难度: ★★
+       例句: Charge cutoff voltage is typically 4.2V for NMC cells.
+
+[  42] nominal voltage
+       释义: 标称电压
+       音标: /nominal-vo/
+       难度: ★
+       例句: The nominal voltage of an LFP cell is 3.2V.
+
+[  43] C-rate
+       释义: 充放电倍率
+       音标: /c-rate/
+       难度: ★★
+       例句: 1C rate means the battery charges or discharges in one hour.
+
+[  44] power density
+       释义: 功率密度
+       音标: /power-dens/
+       难度: ★★
+       例句: Power density determines the battery's ability to deliver high current.
+
+[  45] specific energy
+       释义: 比能量
+       音标: /specific-e/
+       难度: ★★★
+       例句: Specific energy is the energy per unit mass of the battery.
+
+[  46] specific power
+       释义: 比功率
+       音标: /specific-p/
+       难度: ★★★
+       例句: Specific power is the power per unit mass of the battery.
+
+[  47] round-trip efficiency
+       释义: 往返效率
+       音标: /round-trip/
+       难度: ★★
+       例句: Grid-scale BESS typically achieves 85-95% round-trip efficiency.
+
+[  48] energy capacity
+       释义: 能量容量
+       音标: /energy-cap/
+       难度: ★
+       例句: Energy capacity is rated in MWh for utility-scale storage.
+
+[  49] power rating
+       释义: 功率等级
+       音标: /power-rati/
+       难度: ★
+       例句: Power rating defines the maximum charge and discharge rate in MW.
+
+[  50] energy-to-power ratio
+       释义: 能量功率比
+       音标: /energy-to-/
+       难度: ★★★
+       例句: Short-duration storage has an E/P ratio under 2 hours.
+
+[  51] long-duration energy storage
+       释义: 长时储能
+       音标: /long-durat/
+       难度: ★★★
+       例句: LDES provides 8+ hours of discharge for grid reliability.
+
+[  52] grid-forming inverter
+       释义: 构网型逆变器
+       音标: /grid-formi/
+       难度: ★★★★
+       例句: Grid-forming inverters establish voltage and frequency reference.
+
+[  53] grid-following inverter
+       释义: 跟网型逆变器
+       音标: /grid-follo/
+       难度: ★★★
+       例句: Grid-following inverters synchronize to an existing grid voltage.
+
+[  54] black start capability
+       释义: 黑启动能力
+       音标: /black-star/
+       难度: ★★★★
+       例句: Black start capability enables grid restoration without external power.
+
+[  55] peak shaving
+       释义: 削峰
+       音标: /peak-shavi/
+       难度: ★★
+       例句: Peak shaving reduces demand charges by discharging during peak periods.
+
+[  56] load shifting
+       释义: 负荷转移
+       音标: /load-shift/
+       难度: ★★
+       例句: Load shifting moves energy consumption from peak to off-peak hours.
+
+[  57] frequency regulation
+       释义: 频率调节
+       音标: /frequency-/
+       难度: ★★
+       例句: Frequency regulation balances generation and load in real time.
+
+[  58] voltage support
+       释义: 电压支撑
+       音标: /voltage-su/
+       难度: ★★
+       例句: Voltage support maintains grid voltage within acceptable limits.
+
+[  59] spinning reserve
+       释义: 旋转备用
+       音标: /spinning-r/
+       难度: ★★★
+       例句: Spinning reserve provides capacity that can respond within 10 minutes.
+
+[  60] non-spinning reserve
+       释义: 非旋转备用
+       音标: /non-spinni/
+       难度: ★★★
+       例句: Non-spinning reserve can respond within 30 minutes.
+
+[  61] demand response
+       释义: 需求响应
+       音标: /demand-res/
+       难度: ★★
+       例句: Demand response adjusts consumption in response to grid signals.
+
+[  62] virtual power plant
+       释义: 虚拟电厂
+       音标: /virtual-po/
+       难度: ★★★
+       例句: VPP aggregates distributed energy resources into a single controllable entity.
+
+[  63] behind-the-meter storage
+       释义: 表后储能
+       音标: /behind-the/
+       难度: ★★★
+       例句: BTM storage reduces customer bills through peak shaving and self-consumption.
+
+[  64] front-of-meter storage
+       释义: 表前储能
+       音标: /front-of-m/
+       难度: ★★★
+       例句: FOM storage participates in wholesale markets and grid services.
+
+[  65] community storage
+       释义: 社区储能
+       音标: /community-/
+       难度: ★★★
+       例句: Community storage serves multiple customers from a shared asset.
+
+[  66] co-located storage
+       释义: 共址储能
+       音标: /co-located/
+       难度: ★★
+       例句: Co-located storage shares the grid connection with a generation asset.
+
+[  67] standalone storage
+       释义: 独立储能
+       音标: /standalone/
+       难度: ★★
+       例句: Standalone storage connects directly to the grid without co-located generation.
+
+[  68] stacked revenue
+       释义: 叠加收益
+       音标: /stacked-re/
+       难度: ★★★
+       例句: Stacked revenue combines multiple value streams for storage projects.
+
+[  69] thermal energy storage
+       释义: 热能存储
+       音标: /thermal-en/
+       难度: ★★
+       例句: TES stores heat or cold for later use in buildings or industrial processes.
+
+[  70] molten salt storage
+       释义: 熔盐储能
+       音标: /molten-sal/
+       难度: ★★★
+       例句: Molten salt storage enables CSP plants to generate after sunset.
+
+[  71] phase change material
+       释义: 相变材料
+       音标: /phase-chan/
+       难度: ★★★★
+       例句: PCM absorbs and releases heat during phase transitions.
+
+[  72] hydrogen energy storage
+       释义: 氢储能
+       音标: /hydrogen-e/
+       难度: ★★★
+       例句: Hydrogen storage converts electricity to hydrogen and back via fuel cells.
+
+[  73] power-to-gas
+       释义: 电转气
+       音标: /power-to-g/
+       难度: ★★★★
+       例句: Power-to-gas converts surplus electricity into hydrogen or methane.
+
+[  74] power-to-liquid
+       释义: 电转液
+       音标: /power-to-l/
+       难度: ★★★★★
+       例句: Power-to-liquid produces synthetic fuels from electricity and CO2.
+
+[  75] cold storage
+       释义: 蓄冷
+       音标: /cold-stora/
+       难度: ★★★
+       例句: Cold storage shifts air conditioning load to off-peak hours.
+
+[  76] ice storage
+       释义: 冰蓄冷
+       音标: /ice-storag/
+       难度: ★★★
+       例句: Ice storage makes ice at night for daytime cooling.
+
+[  77] battery management system
+       释义: 电池管理系统
+       音标: /battery-mana/
+       难度: ★★
+       例句: BMS monitors and protects individual cells for safe operation.
+
+[  78] cell balancing
+       释义: 电芯均衡
+       音标: /cell-balanci/
+       难度: ★★★
+       例句: Cell balancing equalizes SOC across cells in a series string.
+
+[  79] passive balancing
+       释义: 被动均衡
+       音标: /passive-bala/
+       难度: ★★★
+       例句: Passive balancing dissipates excess energy through resistors.
+
+[  80] active balancing
+       释义: 主动均衡
+       音标: /active-balan/
+       难度: ★★★★
+       例句: Active balancing transfers charge between cells for higher efficiency.
+
+[  81] cell monitoring unit
+       释义: 电芯监测单元
+       音标: /cell-monitor/
+       难度: ★★★
+       例句: CMU measures voltage and temperature for each cell group.
+
+[  82] battery control unit
+       释义: 电池控制单元
+       音标: /battery-cont/
+       难度: ★★★
+       例句: BCU processes sensor data and executes control algorithms.
+
+[  83] battery disconnect unit
+       释义: 电池断开单元
+       音标: /battery-disc/
+       难度: ★★★
+       例句: BDU isolates the battery in fault conditions.
+
+[  84] contactor
+       释义: 接触器
+       音标: /contactor/
+       难度: ★★
+       例句: Contactors switch high-current paths under load.
+
+[  85] precharge circuit
+       释义: 预充电电路
+       音标: /precharge-ci/
+       难度: ★★★
+       例句: The precharge circuit limits inrush current when connecting the battery.
+
+[  86] fuse
+       释义: 熔断器
+       音标: /fuse/
+       难度: ★
+       例句: Fuses provide overcurrent protection for battery circuits.
+
+[  87] direct current circuit breaker
+       释义: 直流断路器
+       音标: /direct-curre/
+       难度: ★★★
+       例句: DC circuit breakers interrupt DC fault currents safely.
+
+[  88] isolation monitoring
+       释义: 绝缘监测
+       音标: /isolation-mo/
+       难度: ★★★
+       例句: Isolation monitoring detects ground faults in the DC system.
+
+[  89] interlock
+       释义: 联锁
+       音标: /interlock/
+       难度: ★★
+       例句: Interlocks prevent access to energized compartments.
+
+[  90] power conversion system
+       释义: 储能变流器
+       音标: /power-conver/
+       难度: ★★
+       例句: PCS converts DC battery power to AC for grid connection.
+
+[  91] bidirectional converter
+       释义: 双向变流器
+       音标: /bidirectiona/
+       难度: ★★★
+       例句: Bidirectional converter enables both charging and discharging.
+
+[  92] AC-DC converter
+       释义: 交直流变换器
+       音标: /ac-dc-conver/
+       难度: ★★
+       例句: AC-DC converter rectifies AC grid power to charge batteries.
+
+[  93] DC-AC inverter
+       释义: 直流交流逆变器
+       音标: /dc-ac-invert/
+       难度: ★★
+       例句: DC-AC inverter converts battery DC to grid-compatible AC.
+
+[  94] DC-DC converter
+       释义: 直流直流变换器
+       音标: /dc-dc-conver/
+       难度: ★★★
+       例句: DC-DC converter adjusts voltage between battery and DC link.
+
+[  95] boost converter
+       释义: 升压变换器
+       音标: /boost-conver/
+       难度: ★★★
+       例句: Boost converter steps up the output voltage.
+
+[  96] buck converter
+       释义: 降压变换器
+       音标: /buck-convert/
+       难度: ★★★
+       例句: Buck converter steps down the output voltage.
+
+[  97] buck-boost converter
+       释义: 升降压变换器
+       音标: /buck-boost-c/
+       难度: ★★★
+       例句: Buck-boost converter can step voltage up or down.
+
+[  98] isolated converter
+       释义: 隔离型变换器
+       音标: /isolated-con/
+       难度: ★★★★
+       例句: Isolated converters use a transformer for galvanic isolation.
+
+[  99] non-isolated converter
+       释义: 非隔离型变换器
+       音标: /non-isolated/
+       难度: ★★★
+       例句: Non-isolated converters have no transformer, saving cost and size.
+
+[ 100] dual active bridge
+       释义: 双有源桥
+       音标: /dual-active-/
+       难度: ★★★★★
+       例句: DAB converter enables bidirectional isolated DC-DC conversion.
+
+[ 101] multilevel converter
+       释义: 多电平变流器
+       音标: /multilevel-c/
+       难度: ★★★★
+       例句: Multilevel converters achieve higher voltage with lower-rated devices.
+
+[ 102] neutral point clamped converter
+       释义: 中点箝位变流器
+       音标: /neutral-poin/
+       难度: ★★★★★
+       例句: NPC converter is a three-level topology for medium voltage.
+
+[ 103] modular multilevel converter
+       释义: 模块化多电平变流器
+       音标: /modular-mult/
+       难度: ★★★★★
+       例句: MMC stacks submodules for scalable voltage.
+
+[ 104] silicon carbide
+       释义: 碳化硅
+       音标: /silicon-carb/
+       难度: ★★★
+       例句: SiC power devices enable higher frequency and efficiency.
+
+[ 105] gallium nitride
+       释义: 氮化镓
+       音标: /gallium-nitr/
+       难度: ★★★★
+       例句: GaN offers even faster switching than SiC for lower voltage.
+
+[ 106] thermal management system
+       释义: 热管理系统
+       音标: /thermal-mana/
+       难度: ★★
+       例句: TMS maintains battery temperature within the optimal range.
+
+[ 107] liquid cooling
+       释义: 液冷
+       音标: /liquid-cooli/
+       难度: ★★
+       例句: Liquid cooling provides higher heat removal capacity than air.
+
+[ 108] air cooling
+       释义: 风冷
+       音标: /air-cooling/
+       难度: ★★
+       例句: Air cooling is simpler and lower cost than liquid cooling.
+
+[ 109] refrigerant cooling
+       释义: 制冷剂冷却
+       音标: /refrigerant-/
+       难度: ★★★
+       例句: Refrigerant cooling directly evaporates refrigerant on battery surfaces.
+
+[ 110] immersion cooling
+       释义: 浸没式冷却
+       音标: /immersion-co/
+       难度: ★★★★
+       例句: Immersion cooling submerges cells in dielectric fluid.
+
+[ 111] cold plate
+       释义: 冷板
+       音标: /cold-plate/
+       难度: ★★★
+       例句: Cold plates transfer heat from cells to circulating coolant.
+
+[ 112] heat pipe
+       释义: 热管
+       音标: /heat-pipe/
+       难度: ★★★★
+       例句: Heat pipes passively transfer heat through phase change.
+
+[ 113] thermal runaway
+       释义: 热失控
+       音标: /thermal-runa/
+       难度: ★★
+       例句: Thermal runaway can cascade from cell to cell if not contained.
+
+[ 114] thermal propagation
+       释义: 热蔓延
+       音标: /thermal-prop/
+       难度: ★★★
+       例句: Thermal propagation barriers slow the spread between modules.
+
+[ 115] venting
+       释义: 排气
+       音标: /venting/
+       难度: ★★★
+       例句: Venting releases gases from a cell in thermal runaway.
+
+[ 116] fire suppression system
+       释义: 灭火系统
+       音标: /fire-suppres/
+       难度: ★★★
+       例句: Fire suppression system limits damage from thermal runaway events.
+
+[ 117] gas detection
+       释义: 气体检测
+       音标: /gas-detectio/
+       难度: ★★★
+       例句: Gas detection provides early warning before thermal runaway.
+
+[ 118] smoke detection
+       释义: 烟雾检测
+       音标: /smoke-detect/
+       难度: ★★
+       例句: Smoke detection triggers alarms and system shutdown.
+
+[ 119] flame detection
+       释义: 火焰检测
+       音标: /flame-detect/
+       难度: ★★★
+       例句: Flame detection confirms active fire for suppression activation.
+
+[ 120] energy management system
+       释义: 能量管理系统
+       音标: /energy-manag/
+       难度: ★★
+       例句: EMS optimizes storage dispatch for maximum revenue.
+
+[ 121] dispatch optimization
+       释义: 调度优化
+       音标: /dispatch-opt/
+       难度: ★★★
+       例句: Dispatch optimization decides when to charge and discharge.
+
+[ 122] day-ahead market
+       释义: 日前市场
+       音标: /day-ahead-ma/
+       难度: ★★★
+       例句: Day-ahead markets trade electricity for delivery the next day.
+
+[ 123] real-time market
+       释义: 实时市场
+       音标: /real-time-ma/
+       难度: ★★★
+       例句: Real-time markets balance supply and demand during delivery.
+
+[ 124] intraday market
+       释义: 日内市场
+       音标: /intraday-mar/
+       难度: ★★★★
+       例句: Intraday markets allow adjustments closer to delivery.
+
+[ 125] primary frequency response
+       释义: 一次调频
+       音标: /primary-freq/
+       难度: ★★★
+       例句: PFR responds within seconds to frequency deviations.
+
+[ 126] secondary frequency response
+       释义: 二次调频
+       音标: /secondary-fr/
+       难度: ★★★★
+       例句: SFR restores frequency to nominal over minutes.
+
+[ 127] tertiary frequency response
+       释义: 三次调频
+       音标: /tertiary-fre/
+       难度: ★★★★
+       例句: Tertiary response replaces secondary reserves over longer periods.
+
+[ 128] automatic generation control
+       释义: 自动发电控制
+       音标: /automatic-ge/
+       难度: ★★★★
+       例句: AGC sends signals to resources for frequency regulation.
+
+[ 129] reactive power service
+       释义: 无功服务
+       音标: /reactive-pow/
+       难度: ★★★
+       例句: Reactive power service maintains voltage profiles.
+
+[ 130] black start service
+       释义: 黑启动服务
+       音标: /black-start-/
+       难度: ★★★
+       例句: Black start restores power without external grid supply.
+
+[ 131] capacity market
+       释义: 容量市场
+       音标: /capacity-mar/
+       难度: ★★★
+       例句: Capacity markets pay for availability rather than energy.
+
+[ 132] energy arbitrage
+       释义: 能量套利
+       音标: /energy-arbit/
+       难度: ★★
+       例句: Energy arbitrage buys low and sells high on wholesale markets.
+
+[ 133] frequency containment reserve
+       释义: 频率抑制储备
+       音标: /frequency-co/
+       难度: ★★★★★
+       例句: FCR is the fastest response reserve in European markets.
+
+[ 134] automatic frequency restoration reserve
+       释义: 自动频率恢复储备
+       音标: /automatic-fr/
+       难度: ★★★★★
+       例句: aFRR automatically restores frequency within minutes.
+
+[ 135] manual frequency restoration reserve
+       释义: 手动频率恢复储备
+       音标: /manual-frequ/
+       难度: ★★★★★
+       例句: mFRR is activated by operator dispatch.
+
+[ 136] replacement reserve
+       释义: 替代备用
+       音标: /replacement-/
+       难度: ★★★★★
+       例句: RR replaces activated frequency restoration reserves.
+
+[ 137] degradation cost
+       释义: 退化成本
+       音标: /degradation-/
+       难度: ★★★
+       例句: Degradation cost reflects the reduction in battery value from cycling.
+
+[ 138] augmentation
+       释义: 增补
+       音标: /augmentation/
+       难度: ★★★
+       例句: Augmentation adds capacity over time to compensate for degradation.
+
+[ 139] oversizing
+       释义: 超配
+       音标: /oversizing/
+       难度: ★★★
+       例句: Oversizing provides extra capacity for future degradation.
+
+[ 140] warranty management
+       释义: 质保管理
+       音标: /warranty-man/
+       难度: ★★★
+       例句: Warranty management tracks cycling within guaranteed limits.
+
+[ 141] performance guarantee
+       释义: 性能保证
+       音标: /performance-/
+       难度: ★★★
+       例句: Performance guarantee ensures minimum capacity for the warranty period.
+
+[ 142] energy throughput guarantee
+       释义: 能量吞吐保证
+       音标: /energy-throu/
+       难度: ★★★★
+       例句: ETG guarantees total energy cycled over the warranty period.
+
+[ 143] site acceptance test
+       释义: 现场验收测试
+       音标: /site-accepta/
+       难度: ★★★
+       例句: SAT confirms performance at the installation site.
+
+[ 144] factory acceptance test
+       释义: 工厂验收测试
+       音标: /factory-acce/
+       难度: ★★★
+       例句: FAT verifies equipment performance before shipment.
+
+[ 145] grid compliance test
+       释义: 并网合规测试
+       音标: /grid-complia/
+       难度: ★★★
+       例句: Grid compliance test verifies adherence to grid code requirements.
+
+[ 146] response time test
+       释义: 响应时间测试
+       音标: /response-tim/
+       难度: ★★★
+       例句: Response time test measures the delay from signal to power change.
+
+[ 147] ramp rate test
+       释义: 爬坡率测试
+       音标: /ramp-rate-te/
+       难度: ★★★
+       例句: Ramp rate test measures how fast power can change.
+
+[ 148] accuracy test
+       释义: 精度测试
+       音标: /accuracy-tes/
+       难度: ★★★
+       例句: Accuracy test compares commanded power to actual power.
+
+[ 149] availability test
+       释义: 可用率测试
+       音标: /availability/
+       难度: ★★★
+       例句: Availability test measures the percentage of time the system is operational.
+
+[ 150] round-trip efficiency test
+       释义: 往返效率测试
+       音标: /round-trip-e/
+       难度: ★★★
+       例句: RTE test measures the ratio of discharged to charged energy.
+
+[ 151] battery design
+       释义: batterydesign
+       音标: /battery-design/
+       难度: ★★
+       例句: battery design is critical for energy storage systems.
+
+[ 152] battery simulation
+       释义: batterysimulation
+       音标: /battery-simula/
+       难度: ★★
+       例句: battery simulation is critical for energy storage systems.
+
+[ 153] battery testing
+       释义: batterytesting
+       音标: /battery-testin/
+       难度: ★★
+       例句: battery testing is critical for energy storage systems.
+
+[ 154] battery validation
+       释义: batteryvalidation
+       音标: /battery-valida/
+       难度: ★★
+       例句: battery validation is critical for energy storage systems.
+
+[ 155] battery optimization
+       释义: batteryoptimization
+       音标: /battery-optimi/
+       难度: ★★
+       例句: battery optimization is critical for energy storage systems.
+
+[ 156] battery management
+       释义: batterymanagement
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management is critical for energy storage systems.
+
+[ 157] battery control
+       释义: batterycontrol
+       音标: /battery-contro/
+       难度: ★★
+       例句: battery control is critical for energy storage systems.
+
+[ 158] battery monitoring
+       释义: batterymonitoring
+       音标: /battery-monito/
+       难度: ★★
+       例句: battery monitoring is critical for energy storage systems.
+
+[ 159] battery strategy
+       释义: batterystrategy
+       音标: /battery-strate/
+       难度: ★★
+       例句: battery strategy is critical for energy storage systems.
+
+[ 160] battery method
+       释义: batterymethod
+       音标: /battery-method/
+       难度: ★★
+       例句: battery method is critical for energy storage systems.
+
+[ 161] battery approach
+       释义: batteryapproach
+       音标: /battery-approa/
+       难度: ★★
+       例句: battery approach is critical for energy storage systems.
+
+[ 162] cell system
+       释义: cellsystem
+       音标: /cell-system/
+       难度: ★★
+       例句: cell system is critical for energy storage systems.
+
+[ 163] cell design
+       释义: celldesign
+       音标: /cell-design/
+       难度: ★★
+       例句: cell design is critical for energy storage systems.
+
+[ 164] cell modeling
+       释义: cellmodeling
+       音标: /cell-modeling/
+       难度: ★★
+       例句: cell modeling is critical for energy storage systems.
+
+[ 165] cell testing
+       释义: celltesting
+       音标: /cell-testing/
+       难度: ★★
+       例句: cell testing is critical for energy storage systems.
+
+[ 166] cell validation
+       释义: cellvalidation
+       音标: /cell-validatio/
+       难度: ★★
+       例句: cell validation is critical for energy storage systems.
+
+[ 167] cell management
+       释义: cellmanagement
+       音标: /cell-managemen/
+       难度: ★★
+       例句: cell management is critical for energy storage systems.
+
+[ 168] cell control
+       释义: cellcontrol
+       音标: /cell-control/
+       难度: ★★
+       例句: cell control is critical for energy storage systems.
+
+[ 169] cell monitoring
+       释义: cellmonitoring
+       音标: /cell-monitorin/
+       难度: ★★
+       例句: cell monitoring is critical for energy storage systems.
+
+[ 170] cell strategy
+       释义: cellstrategy
+       音标: /cell-strategy/
+       难度: ★★
+       例句: cell strategy is critical for energy storage systems.
+
+[ 171] cell method
+       释义: cellmethod
+       音标: /cell-method/
+       难度: ★★
+       例句: cell method is critical for energy storage systems.
+
+[ 172] cell approach
+       释义: cellapproach
+       音标: /cell-approach/
+       难度: ★★
+       例句: cell approach is critical for energy storage systems.
+
+[ 173] module system
+       释义: modulesystem
+       音标: /module-system/
+       难度: ★★
+       例句: module system is critical for energy storage systems.
+
+[ 174] module design
+       释义: moduledesign
+       音标: /module-design/
+       难度: ★★
+       例句: module design is critical for energy storage systems.
+
+[ 175] module modeling
+       释义: modulemodeling
+       音标: /module-modelin/
+       难度: ★★
+       例句: module modeling is critical for energy storage systems.
+
+[ 176] module simulation
+       释义: modulesimulation
+       音标: /module-simulat/
+       难度: ★★
+       例句: module simulation is critical for energy storage systems.
+
+[ 177] module testing
+       释义: moduletesting
+       音标: /module-testing/
+       难度: ★★
+       例句: module testing is critical for energy storage systems.
+
+[ 178] module validation
+       释义: modulevalidation
+       音标: /module-validat/
+       难度: ★★
+       例句: module validation is critical for energy storage systems.
+
+[ 179] module optimization
+       释义: moduleoptimization
+       音标: /module-optimiz/
+       难度: ★★
+       例句: module optimization is critical for energy storage systems.
+
+[ 180] module control
+       释义: modulecontrol
+       音标: /module-control/
+       难度: ★★
+       例句: module control is critical for energy storage systems.
+
+[ 181] module strategy
+       释义: modulestrategy
+       音标: /module-strateg/
+       难度: ★★
+       例句: module strategy is critical for energy storage systems.
+
+[ 182] module algorithm
+       释义: modulealgorithm
+       音标: /module-algorit/
+       难度: ★★
+       例句: module algorithm is critical for energy storage systems.
+
+[ 183] module method
+       释义: modulemethod
+       音标: /module-method/
+       难度: ★★
+       例句: module method is critical for energy storage systems.
+
+[ 184] pack design
+       释义: packdesign
+       音标: /pack-design/
+       难度: ★★
+       例句: pack design is critical for energy storage systems.
+
+[ 185] pack simulation
+       释义: packsimulation
+       音标: /pack-simulatio/
+       难度: ★★
+       例句: pack simulation is critical for energy storage systems.
+
+[ 186] pack testing
+       释义: packtesting
+       音标: /pack-testing/
+       难度: ★★
+       例句: pack testing is critical for energy storage systems.
+
+[ 187] pack validation
+       释义: packvalidation
+       音标: /pack-validatio/
+       难度: ★★
+       例句: pack validation is critical for energy storage systems.
+
+[ 188] pack optimization
+       释义: packoptimization
+       音标: /pack-optimizat/
+       难度: ★★
+       例句: pack optimization is critical for energy storage systems.
+
+[ 189] pack management
+       释义: packmanagement
+       音标: /pack-managemen/
+       难度: ★★
+       例句: pack management is critical for energy storage systems.
+
+[ 190] pack control
+       释义: packcontrol
+       音标: /pack-control/
+       难度: ★★
+       例句: pack control is critical for energy storage systems.
+
+[ 191] pack strategy
+       释义: packstrategy
+       音标: /pack-strategy/
+       难度: ★★
+       例句: pack strategy is critical for energy storage systems.
+
+[ 192] pack approach
+       释义: packapproach
+       音标: /pack-approach/
+       难度: ★★
+       例句: pack approach is critical for energy storage systems.
+
+[ 193] rack system
+       释义: racksystem
+       音标: /rack-system/
+       难度: ★★
+       例句: rack system is critical for energy storage systems.
+
+[ 194] rack design
+       释义: rackdesign
+       音标: /rack-design/
+       难度: ★★
+       例句: rack design is critical for energy storage systems.
+
+[ 195] rack modeling
+       释义: rackmodeling
+       音标: /rack-modeling/
+       难度: ★★
+       例句: rack modeling is critical for energy storage systems.
+
+[ 196] rack testing
+       释义: racktesting
+       音标: /rack-testing/
+       难度: ★★
+       例句: rack testing is critical for energy storage systems.
+
+[ 197] rack optimization
+       释义: rackoptimization
+       音标: /rack-optimizat/
+       难度: ★★
+       例句: rack optimization is critical for energy storage systems.
+
+[ 198] rack control
+       释义: rackcontrol
+       音标: /rack-control/
+       难度: ★★
+       例句: rack control is critical for energy storage systems.
+
+[ 199] rack strategy
+       释义: rackstrategy
+       音标: /rack-strategy/
+       难度: ★★
+       例句: rack strategy is critical for energy storage systems.
+
+[ 200] rack algorithm
+       释义: rackalgorithm
+       音标: /rack-algorithm/
+       难度: ★★
+       例句: rack algorithm is critical for energy storage systems.
+
+[ 201] rack method
+       释义: rackmethod
+       音标: /rack-method/
+       难度: ★★
+       例句: rack method is critical for energy storage systems.
+
+[ 202] rack approach
+       释义: rackapproach
+       音标: /rack-approach/
+       难度: ★★
+       例句: rack approach is critical for energy storage systems.
+
+[ 203] container design
+       释义: containerdesign
+       音标: /container-desi/
+       难度: ★★
+       例句: container design is critical for energy storage systems.
+
+[ 204] container modeling
+       释义: containermodeling
+       音标: /container-mode/
+       难度: ★★
+       例句: container modeling is critical for energy storage systems.
+
+[ 205] container validation
+       释义: containervalidation
+       音标: /container-vali/
+       难度: ★★
+       例句: container validation is critical for energy storage systems.
+
+[ 206] container optimization
+       释义: containeroptimization
+       音标: /container-opti/
+       难度: ★★
+       例句: container optimization is critical for energy storage systems.
+
+[ 207] container management
+       释义: containermanagement
+       音标: /container-mana/
+       难度: ★★
+       例句: container management is critical for energy storage systems.
+
+[ 208] container control
+       释义: containercontrol
+       音标: /container-cont/
+       难度: ★★
+       例句: container control is critical for energy storage systems.
+
+[ 209] container monitoring
+       释义: containermonitoring
+       音标: /container-moni/
+       难度: ★★
+       例句: container monitoring is critical for energy storage systems.
+
+[ 210] container strategy
+       释义: containerstrategy
+       音标: /container-stra/
+       难度: ★★
+       例句: container strategy is critical for energy storage systems.
+
+[ 211] container algorithm
+       释义: containeralgorithm
+       音标: /container-algo/
+       难度: ★★
+       例句: container algorithm is critical for energy storage systems.
+
+[ 212] container method
+       释义: containermethod
+       音标: /container-meth/
+       难度: ★★
+       例句: container method is critical for energy storage systems.
+
+[ 213] container approach
+       释义: containerapproach
+       音标: /container-appr/
+       难度: ★★
+       例句: container approach is critical for energy storage systems.
+
+[ 214] BMS design
+       释义: BMSdesign
+       音标: /bms-design/
+       难度: ★★
+       例句: BMS design is critical for energy storage systems.
+
+[ 215] BMS modeling
+       释义: BMSmodeling
+       音标: /bms-modeling/
+       难度: ★★
+       例句: BMS modeling is critical for energy storage systems.
+
+[ 216] BMS simulation
+       释义: BMSsimulation
+       音标: /bms-simulation/
+       难度: ★★
+       例句: BMS simulation is critical for energy storage systems.
+
+[ 217] BMS validation
+       释义: BMSvalidation
+       音标: /bms-validation/
+       难度: ★★
+       例句: BMS validation is critical for energy storage systems.
+
+[ 218] BMS management
+       释义: BMSmanagement
+       音标: /bms-management/
+       难度: ★★
+       例句: BMS management is critical for energy storage systems.
+
+[ 219] BMS monitoring
+       释义: BMSmonitoring
+       音标: /bms-monitoring/
+       难度: ★★
+       例句: BMS monitoring is critical for energy storage systems.
+
+[ 220] BMS strategy
+       释义: BMSstrategy
+       音标: /bms-strategy/
+       难度: ★★
+       例句: BMS strategy is critical for energy storage systems.
+
+[ 221] BMS algorithm
+       释义: BMSalgorithm
+       音标: /bms-algorithm/
+       难度: ★★
+       例句: BMS algorithm is critical for energy storage systems.
+
+[ 222] BMS method
+       释义: BMSmethod
+       音标: /bms-method/
+       难度: ★★
+       例句: BMS method is critical for energy storage systems.
+
+[ 223] PCS design
+       释义: PCSdesign
+       音标: /pcs-design/
+       难度: ★★
+       例句: PCS design is critical for energy storage systems.
+
+[ 224] PCS simulation
+       释义: PCSsimulation
+       音标: /pcs-simulation/
+       难度: ★★
+       例句: PCS simulation is critical for energy storage systems.
+
+[ 225] PCS validation
+       释义: PCSvalidation
+       音标: /pcs-validation/
+       难度: ★★
+       例句: PCS validation is critical for energy storage systems.
+
+[ 226] PCS optimization
+       释义: PCSoptimization
+       音标: /pcs-optimizati/
+       难度: ★★
+       例句: PCS optimization is critical for energy storage systems.
+
+[ 227] PCS control
+       释义: PCScontrol
+       音标: /pcs-control/
+       难度: ★★
+       例句: PCS control is critical for energy storage systems.
+
+[ 228] PCS monitoring
+       释义: PCSmonitoring
+       音标: /pcs-monitoring/
+       难度: ★★
+       例句: PCS monitoring is critical for energy storage systems.
+
+[ 229] PCS strategy
+       释义: PCSstrategy
+       音标: /pcs-strategy/
+       难度: ★★
+       例句: PCS strategy is critical for energy storage systems.
+
+[ 230] PCS method
+       释义: PCSmethod
+       音标: /pcs-method/
+       难度: ★★
+       例句: PCS method is critical for energy storage systems.
+
+[ 231] EMS design
+       释义: EMSdesign
+       音标: /ems-design/
+       难度: ★★
+       例句: EMS design is critical for energy storage systems.
+
+[ 232] EMS optimization
+       释义: EMSoptimization
+       音标: /ems-optimizati/
+       难度: ★★
+       例句: EMS optimization is critical for energy storage systems.
+
+[ 233] EMS monitoring
+       释义: EMSmonitoring
+       音标: /ems-monitoring/
+       难度: ★★
+       例句: EMS monitoring is critical for energy storage systems.
+
+[ 234] EMS strategy
+       释义: EMSstrategy
+       音标: /ems-strategy/
+       难度: ★★
+       例句: EMS strategy is critical for energy storage systems.
+
+[ 235] EMS algorithm
+       释义: EMSalgorithm
+       音标: /ems-algorithm/
+       难度: ★★
+       例句: EMS algorithm is critical for energy storage systems.
+
+[ 236] SCADA system
+       释义: SCADAsystem
+       音标: /scada-system/
+       难度: ★★
+       例句: SCADA system is critical for energy storage systems.
+
+[ 237] SCADA control
+       释义: SCADAcontrol
+       音标: /scada-control/
+       难度: ★★
+       例句: SCADA control is critical for energy storage systems.
+
+[ 238] SCADA monitoring
+       释义: SCADAmonitoring
+       音标: /scada-monitori/
+       难度: ★★
+       例句: SCADA monitoring is critical for energy storage systems.
+
+[ 239] SCADA method
+       释义: SCADAmethod
+       音标: /scada-method/
+       难度: ★★
+       例句: SCADA method is critical for energy storage systems.
+
+[ 240] SCADA approach
+       释义: SCADAapproach
+       音标: /scada-approach/
+       难度: ★★
+       例句: SCADA approach is critical for energy storage systems.
+
+[ 241] thermal management modeling
+       释义: thermal managementmodeling
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management modeling is critical for energy storage systems.
+
+[ 242] thermal management simulation
+       释义: thermal managementsimulation
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management simulation is critical for energy storage systems.
+
+[ 243] thermal management testing
+       释义: thermal managementtesting
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management testing is critical for energy storage systems.
+
+[ 244] thermal management optimization
+       释义: thermal managementoptimization
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management optimization is critical for energy storage systems.
+
+[ 245] thermal management management
+       释义: thermal managementmanagement
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management management is critical for energy storage systems.
+
+[ 246] thermal management control
+       释义: thermal managementcontrol
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management control is critical for energy storage systems.
+
+[ 247] thermal management algorithm
+       释义: thermal managementalgorithm
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management algorithm is critical for energy storage systems.
+
+[ 248] thermal management approach
+       释义: thermal managementapproach
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management approach is critical for energy storage systems.
+
+[ 249] cooling system
+       释义: coolingsystem
+       音标: /cooling-system/
+       难度: ★★
+       例句: cooling system is critical for energy storage systems.
+
+[ 250] cooling design
+       释义: coolingdesign
+       音标: /cooling-design/
+       难度: ★★
+       例句: cooling design is critical for energy storage systems.
+
+[ 251] cooling modeling
+       释义: coolingmodeling
+       音标: /cooling-modeli/
+       难度: ★★
+       例句: cooling modeling is critical for energy storage systems.
+
+[ 252] cooling simulation
+       释义: coolingsimulation
+       音标: /cooling-simula/
+       难度: ★★
+       例句: cooling simulation is critical for energy storage systems.
+
+[ 253] cooling testing
+       释义: coolingtesting
+       音标: /cooling-testin/
+       难度: ★★
+       例句: cooling testing is critical for energy storage systems.
+
+[ 254] cooling validation
+       释义: coolingvalidation
+       音标: /cooling-valida/
+       难度: ★★
+       例句: cooling validation is critical for energy storage systems.
+
+[ 255] cooling optimization
+       释义: coolingoptimization
+       音标: /cooling-optimi/
+       难度: ★★
+       例句: cooling optimization is critical for energy storage systems.
+
+[ 256] cooling control
+       释义: coolingcontrol
+       音标: /cooling-contro/
+       难度: ★★
+       例句: cooling control is critical for energy storage systems.
+
+[ 257] cooling monitoring
+       释义: coolingmonitoring
+       音标: /cooling-monito/
+       难度: ★★
+       例句: cooling monitoring is critical for energy storage systems.
+
+[ 258] cooling strategy
+       释义: coolingstrategy
+       音标: /cooling-strate/
+       难度: ★★
+       例句: cooling strategy is critical for energy storage systems.
+
+[ 259] cooling algorithm
+       释义: coolingalgorithm
+       音标: /cooling-algori/
+       难度: ★★
+       例句: cooling algorithm is critical for energy storage systems.
+
+[ 260] cooling method
+       释义: coolingmethod
+       音标: /cooling-method/
+       难度: ★★
+       例句: cooling method is critical for energy storage systems.
+
+[ 261] cooling approach
+       释义: coolingapproach
+       音标: /cooling-approa/
+       难度: ★★
+       例句: cooling approach is critical for energy storage systems.
+
+[ 262] heating system
+       释义: heatingsystem
+       音标: /heating-system/
+       难度: ★★
+       例句: heating system is critical for energy storage systems.
+
+[ 263] heating design
+       释义: heatingdesign
+       音标: /heating-design/
+       难度: ★★
+       例句: heating design is critical for energy storage systems.
+
+[ 264] heating modeling
+       释义: heatingmodeling
+       音标: /heating-modeli/
+       难度: ★★
+       例句: heating modeling is critical for energy storage systems.
+
+[ 265] heating simulation
+       释义: heatingsimulation
+       音标: /heating-simula/
+       难度: ★★
+       例句: heating simulation is critical for energy storage systems.
+
+[ 266] heating testing
+       释义: heatingtesting
+       音标: /heating-testin/
+       难度: ★★
+       例句: heating testing is critical for energy storage systems.
+
+[ 267] heating validation
+       释义: heatingvalidation
+       音标: /heating-valida/
+       难度: ★★
+       例句: heating validation is critical for energy storage systems.
+
+[ 268] heating optimization
+       释义: heatingoptimization
+       音标: /heating-optimi/
+       难度: ★★
+       例句: heating optimization is critical for energy storage systems.
+
+[ 269] heating strategy
+       释义: heatingstrategy
+       音标: /heating-strate/
+       难度: ★★
+       例句: heating strategy is critical for energy storage systems.
+
+[ 270] heating algorithm
+       释义: heatingalgorithm
+       音标: /heating-algori/
+       难度: ★★
+       例句: heating algorithm is critical for energy storage systems.
+
+[ 271] heating method
+       释义: heatingmethod
+       音标: /heating-method/
+       难度: ★★
+       例句: heating method is critical for energy storage systems.
+
+[ 272] HVAC system
+       释义: HVACsystem
+       音标: /hvac-system/
+       难度: ★★
+       例句: HVAC system is critical for energy storage systems.
+
+[ 273] HVAC design
+       释义: HVACdesign
+       音标: /hvac-design/
+       难度: ★★
+       例句: HVAC design is critical for energy storage systems.
+
+[ 274] HVAC simulation
+       释义: HVACsimulation
+       音标: /hvac-simulatio/
+       难度: ★★
+       例句: HVAC simulation is critical for energy storage systems.
+
+[ 275] HVAC validation
+       释义: HVACvalidation
+       音标: /hvac-validatio/
+       难度: ★★
+       例句: HVAC validation is critical for energy storage systems.
+
+[ 276] HVAC optimization
+       释义: HVACoptimization
+       音标: /hvac-optimizat/
+       难度: ★★
+       例句: HVAC optimization is critical for energy storage systems.
+
+[ 277] HVAC management
+       释义: HVACmanagement
+       音标: /hvac-managemen/
+       难度: ★★
+       例句: HVAC management is critical for energy storage systems.
+
+[ 278] HVAC control
+       释义: HVACcontrol
+       音标: /hvac-control/
+       难度: ★★
+       例句: HVAC control is critical for energy storage systems.
+
+[ 279] HVAC monitoring
+       释义: HVACmonitoring
+       音标: /hvac-monitorin/
+       难度: ★★
+       例句: HVAC monitoring is critical for energy storage systems.
+
+[ 280] HVAC algorithm
+       释义: HVACalgorithm
+       音标: /hvac-algorithm/
+       难度: ★★
+       例句: HVAC algorithm is critical for energy storage systems.
+
+[ 281] HVAC method
+       释义: HVACmethod
+       音标: /hvac-method/
+       难度: ★★
+       例句: HVAC method is critical for energy storage systems.
+
+[ 282] HVAC approach
+       释义: HVACapproach
+       音标: /hvac-approach/
+       难度: ★★
+       例句: HVAC approach is critical for energy storage systems.
+
+[ 283] fire suppression modeling
+       释义: fire suppressionmodeling
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression modeling is critical for energy storage systems.
+
+[ 284] fire suppression testing
+       释义: fire suppressiontesting
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression testing is critical for energy storage systems.
+
+[ 285] fire suppression optimization
+       释义: fire suppressionoptimization
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression optimization is critical for energy storage systems.
+
+[ 286] fire suppression management
+       释义: fire suppressionmanagement
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression management is critical for energy storage systems.
+
+[ 287] fire suppression control
+       释义: fire suppressioncontrol
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression control is critical for energy storage systems.
+
+[ 288] fire suppression monitoring
+       释义: fire suppressionmonitoring
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression monitoring is critical for energy storage systems.
+
+[ 289] fire suppression strategy
+       释义: fire suppressionstrategy
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression strategy is critical for energy storage systems.
+
+[ 290] fire suppression algorithm
+       释义: fire suppressionalgorithm
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression algorithm is critical for energy storage systems.
+
+[ 291] fire suppression method
+       释义: fire suppressionmethod
+       音标: /fire-suppressi/
+       难度: ★★
+       例句: fire suppression method is critical for energy storage systems.
+
+[ 292] safety system
+       释义: safetysystem
+       音标: /safety-system/
+       难度: ★★
+       例句: safety system is critical for energy storage systems.
+
+[ 293] safety modeling
+       释义: safetymodeling
+       音标: /safety-modelin/
+       难度: ★★
+       例句: safety modeling is critical for energy storage systems.
+
+[ 294] safety simulation
+       释义: safetysimulation
+       音标: /safety-simulat/
+       难度: ★★
+       例句: safety simulation is critical for energy storage systems.
+
+[ 295] safety testing
+       释义: safetytesting
+       音标: /safety-testing/
+       难度: ★★
+       例句: safety testing is critical for energy storage systems.
+
+[ 296] safety validation
+       释义: safetyvalidation
+       音标: /safety-validat/
+       难度: ★★
+       例句: safety validation is critical for energy storage systems.
+
+[ 297] safety optimization
+       释义: safetyoptimization
+       音标: /safety-optimiz/
+       难度: ★★
+       例句: safety optimization is critical for energy storage systems.
+
+[ 298] safety management
+       释义: safetymanagement
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management is critical for energy storage systems.
+
+[ 299] safety control
+       释义: safetycontrol
+       音标: /safety-control/
+       难度: ★★
+       例句: safety control is critical for energy storage systems.
+
+[ 300] safety strategy
+       释义: safetystrategy
+       音标: /safety-strateg/
+       难度: ★★
+       例句: safety strategy is critical for energy storage systems.
+
+[ 301] safety algorithm
+       释义: safetyalgorithm
+       音标: /safety-algorit/
+       难度: ★★
+       例句: safety algorithm is critical for energy storage systems.
+
+[ 302] safety method
+       释义: safetymethod
+       音标: /safety-method/
+       难度: ★★
+       例句: safety method is critical for energy storage systems.
+
+[ 303] safety approach
+       释义: safetyapproach
+       音标: /safety-approac/
+       难度: ★★
+       例句: safety approach is critical for energy storage systems.
+
+[ 304] protection design
+       释义: protectiondesign
+       音标: /protection-des/
+       难度: ★★
+       例句: protection design is critical for energy storage systems.
+
+[ 305] protection modeling
+       释义: protectionmodeling
+       音标: /protection-mod/
+       难度: ★★
+       例句: protection modeling is critical for energy storage systems.
+
+[ 306] protection simulation
+       释义: protectionsimulation
+       音标: /protection-sim/
+       难度: ★★
+       例句: protection simulation is critical for energy storage systems.
+
+[ 307] protection testing
+       释义: protectiontesting
+       音标: /protection-tes/
+       难度: ★★
+       例句: protection testing is critical for energy storage systems.
+
+[ 308] protection validation
+       释义: protectionvalidation
+       音标: /protection-val/
+       难度: ★★
+       例句: protection validation is critical for energy storage systems.
+
+[ 309] protection management
+       释义: protectionmanagement
+       音标: /protection-man/
+       难度: ★★
+       例句: protection management is critical for energy storage systems.
+
+[ 310] protection control
+       释义: protectioncontrol
+       音标: /protection-con/
+       难度: ★★
+       例句: protection control is critical for energy storage systems.
+
+[ 311] protection monitoring
+       释义: protectionmonitoring
+       音标: /protection-mon/
+       难度: ★★
+       例句: protection monitoring is critical for energy storage systems.
+
+[ 312] protection strategy
+       释义: protectionstrategy
+       音标: /protection-str/
+       难度: ★★
+       例句: protection strategy is critical for energy storage systems.
+
+[ 313] protection algorithm
+       释义: protectionalgorithm
+       音标: /protection-alg/
+       难度: ★★
+       例句: protection algorithm is critical for energy storage systems.
+
+[ 314] protection method
+       释义: protectionmethod
+       音标: /protection-met/
+       难度: ★★
+       例句: protection method is critical for energy storage systems.
+
+[ 315] protection approach
+       释义: protectionapproach
+       音标: /protection-app/
+       难度: ★★
+       例句: protection approach is critical for energy storage systems.
+
+[ 316] monitoring system
+       释义: monitoringsystem
+       音标: /monitoring-sys/
+       难度: ★★
+       例句: monitoring system is critical for energy storage systems.
+
+[ 317] monitoring design
+       释义: monitoringdesign
+       音标: /monitoring-des/
+       难度: ★★
+       例句: monitoring design is critical for energy storage systems.
+
+[ 318] monitoring modeling
+       释义: monitoringmodeling
+       音标: /monitoring-mod/
+       难度: ★★
+       例句: monitoring modeling is critical for energy storage systems.
+
+[ 319] monitoring simulation
+       释义: monitoringsimulation
+       音标: /monitoring-sim/
+       难度: ★★
+       例句: monitoring simulation is critical for energy storage systems.
+
+[ 320] monitoring testing
+       释义: monitoringtesting
+       音标: /monitoring-tes/
+       难度: ★★
+       例句: monitoring testing is critical for energy storage systems.
+
+[ 321] monitoring validation
+       释义: monitoringvalidation
+       音标: /monitoring-val/
+       难度: ★★
+       例句: monitoring validation is critical for energy storage systems.
+
+[ 322] monitoring optimization
+       释义: monitoringoptimization
+       音标: /monitoring-opt/
+       难度: ★★
+       例句: monitoring optimization is critical for energy storage systems.
+
+[ 323] monitoring management
+       释义: monitoringmanagement
+       音标: /monitoring-man/
+       难度: ★★
+       例句: monitoring management is critical for energy storage systems.
+
+[ 324] monitoring control
+       释义: monitoringcontrol
+       音标: /monitoring-con/
+       难度: ★★
+       例句: monitoring control is critical for energy storage systems.
+
+[ 325] monitoring strategy
+       释义: monitoringstrategy
+       音标: /monitoring-str/
+       难度: ★★
+       例句: monitoring strategy is critical for energy storage systems.
+
+[ 326] monitoring algorithm
+       释义: monitoringalgorithm
+       音标: /monitoring-alg/
+       难度: ★★
+       例句: monitoring algorithm is critical for energy storage systems.
+
+[ 327] monitoring method
+       释义: monitoringmethod
+       音标: /monitoring-met/
+       难度: ★★
+       例句: monitoring method is critical for energy storage systems.
+
+[ 328] monitoring approach
+       释义: monitoringapproach
+       音标: /monitoring-app/
+       难度: ★★
+       例句: monitoring approach is critical for energy storage systems.
+
+[ 329] control system
+       释义: controlsystem
+       音标: /control-system/
+       难度: ★★
+       例句: control system is critical for energy storage systems.
+
+[ 330] control design
+       释义: controldesign
+       音标: /control-design/
+       难度: ★★
+       例句: control design is critical for energy storage systems.
+
+[ 331] control modeling
+       释义: controlmodeling
+       音标: /control-modeli/
+       难度: ★★
+       例句: control modeling is critical for energy storage systems.
+
+[ 332] control optimization
+       释义: controloptimization
+       音标: /control-optimi/
+       难度: ★★
+       例句: control optimization is critical for energy storage systems.
+
+[ 333] control control
+       释义: controlcontrol
+       音标: /control-contro/
+       难度: ★★
+       例句: control control is critical for energy storage systems.
+
+[ 334] control monitoring
+       释义: controlmonitoring
+       音标: /control-monito/
+       难度: ★★
+       例句: control monitoring is critical for energy storage systems.
+
+[ 335] control strategy
+       释义: controlstrategy
+       音标: /control-strate/
+       难度: ★★
+       例句: control strategy is critical for energy storage systems.
+
+[ 336] control algorithm
+       释义: controlalgorithm
+       音标: /control-algori/
+       难度: ★★
+       例句: control algorithm is critical for energy storage systems.
+
+[ 337] control method
+       释义: controlmethod
+       音标: /control-method/
+       难度: ★★
+       例句: control method is critical for energy storage systems.
+
+[ 338] charge system
+       释义: chargesystem
+       音标: /charge-system/
+       难度: ★★
+       例句: charge system is critical for energy storage systems.
+
+[ 339] charge design
+       释义: chargedesign
+       音标: /charge-design/
+       难度: ★★
+       例句: charge design is critical for energy storage systems.
+
+[ 340] charge simulation
+       释义: chargesimulation
+       音标: /charge-simulat/
+       难度: ★★
+       例句: charge simulation is critical for energy storage systems.
+
+[ 341] charge testing
+       释义: chargetesting
+       音标: /charge-testing/
+       难度: ★★
+       例句: charge testing is critical for energy storage systems.
+
+[ 342] charge validation
+       释义: chargevalidation
+       音标: /charge-validat/
+       难度: ★★
+       例句: charge validation is critical for energy storage systems.
+
+[ 343] charge optimization
+       释义: chargeoptimization
+       音标: /charge-optimiz/
+       难度: ★★
+       例句: charge optimization is critical for energy storage systems.
+
+[ 344] charge management
+       释义: chargemanagement
+       音标: /charge-managem/
+       难度: ★★
+       例句: charge management is critical for energy storage systems.
+
+[ 345] charge strategy
+       释义: chargestrategy
+       音标: /charge-strateg/
+       难度: ★★
+       例句: charge strategy is critical for energy storage systems.
+
+[ 346] charge algorithm
+       释义: chargealgorithm
+       音标: /charge-algorit/
+       难度: ★★
+       例句: charge algorithm is critical for energy storage systems.
+
+[ 347] charge method
+       释义: chargemethod
+       音标: /charge-method/
+       难度: ★★
+       例句: charge method is critical for energy storage systems.
+
+[ 348] discharge system
+       释义: dischargesystem
+       音标: /discharge-syst/
+       难度: ★★
+       例句: discharge system is critical for energy storage systems.
+
+[ 349] discharge design
+       释义: dischargedesign
+       音标: /discharge-desi/
+       难度: ★★
+       例句: discharge design is critical for energy storage systems.
+
+[ 350] discharge validation
+       释义: dischargevalidation
+       音标: /discharge-vali/
+       难度: ★★
+       例句: discharge validation is critical for energy storage systems.
+
+[ 351] discharge optimization
+       释义: dischargeoptimization
+       音标: /discharge-opti/
+       难度: ★★
+       例句: discharge optimization is critical for energy storage systems.
+
+[ 352] discharge management
+       释义: dischargemanagement
+       音标: /discharge-mana/
+       难度: ★★
+       例句: discharge management is critical for energy storage systems.
+
+[ 353] discharge monitoring
+       释义: dischargemonitoring
+       音标: /discharge-moni/
+       难度: ★★
+       例句: discharge monitoring is critical for energy storage systems.
+
+[ 354] discharge strategy
+       释义: dischargestrategy
+       音标: /discharge-stra/
+       难度: ★★
+       例句: discharge strategy is critical for energy storage systems.
+
+[ 355] discharge algorithm
+       释义: dischargealgorithm
+       音标: /discharge-algo/
+       难度: ★★
+       例句: discharge algorithm is critical for energy storage systems.
+
+[ 356] discharge method
+       释义: dischargemethod
+       音标: /discharge-meth/
+       难度: ★★
+       例句: discharge method is critical for energy storage systems.
+
+[ 357] discharge approach
+       释义: dischargeapproach
+       音标: /discharge-appr/
+       难度: ★★
+       例句: discharge approach is critical for energy storage systems.
+
+[ 358] cycle system
+       释义: cyclesystem
+       音标: /cycle-system/
+       难度: ★★
+       例句: cycle system is critical for energy storage systems.
+
+[ 359] cycle design
+       释义: cycledesign
+       音标: /cycle-design/
+       难度: ★★
+       例句: cycle design is critical for energy storage systems.
+
+[ 360] cycle modeling
+       释义: cyclemodeling
+       音标: /cycle-modeling/
+       难度: ★★
+       例句: cycle modeling is critical for energy storage systems.
+
+[ 361] cycle simulation
+       释义: cyclesimulation
+       音标: /cycle-simulati/
+       难度: ★★
+       例句: cycle simulation is critical for energy storage systems.
+
+[ 362] cycle testing
+       释义: cycletesting
+       音标: /cycle-testing/
+       难度: ★★
+       例句: cycle testing is critical for energy storage systems.
+
+[ 363] cycle validation
+       释义: cyclevalidation
+       音标: /cycle-validati/
+       难度: ★★
+       例句: cycle validation is critical for energy storage systems.
+
+[ 364] cycle optimization
+       释义: cycleoptimization
+       音标: /cycle-optimiza/
+       难度: ★★
+       例句: cycle optimization is critical for energy storage systems.
+
+[ 365] cycle management
+       释义: cyclemanagement
+       音标: /cycle-manageme/
+       难度: ★★
+       例句: cycle management is critical for energy storage systems.
+
+[ 366] cycle strategy
+       释义: cyclestrategy
+       音标: /cycle-strategy/
+       难度: ★★
+       例句: cycle strategy is critical for energy storage systems.
+
+[ 367] cycle algorithm
+       释义: cyclealgorithm
+       音标: /cycle-algorith/
+       难度: ★★
+       例句: cycle algorithm is critical for energy storage systems.
+
+[ 368] cycle method
+       释义: cyclemethod
+       音标: /cycle-method/
+       难度: ★★
+       例句: cycle method is critical for energy storage systems.
+
+[ 369] calendar design
+       释义: calendardesign
+       音标: /calendar-desig/
+       难度: ★★
+       例句: calendar design is critical for energy storage systems.
+
+[ 370] calendar simulation
+       释义: calendarsimulation
+       音标: /calendar-simul/
+       难度: ★★
+       例句: calendar simulation is critical for energy storage systems.
+
+[ 371] calendar validation
+       释义: calendarvalidation
+       音标: /calendar-valid/
+       难度: ★★
+       例句: calendar validation is critical for energy storage systems.
+
+[ 372] calendar optimization
+       释义: calendaroptimization
+       音标: /calendar-optim/
+       难度: ★★
+       例句: calendar optimization is critical for energy storage systems.
+
+[ 373] calendar control
+       释义: calendarcontrol
+       音标: /calendar-contr/
+       难度: ★★
+       例句: calendar control is critical for energy storage systems.
+
+[ 374] calendar strategy
+       释义: calendarstrategy
+       音标: /calendar-strat/
+       难度: ★★
+       例句: calendar strategy is critical for energy storage systems.
+
+[ 375] calendar algorithm
+       释义: calendaralgorithm
+       音标: /calendar-algor/
+       难度: ★★
+       例句: calendar algorithm is critical for energy storage systems.
+
+[ 376] calendar method
+       释义: calendarmethod
+       音标: /calendar-metho/
+       难度: ★★
+       例句: calendar method is critical for energy storage systems.
+
+[ 377] capacity system
+       释义: capacitysystem
+       音标: /capacity-syste/
+       难度: ★★
+       例句: capacity system is critical for energy storage systems.
+
+[ 378] capacity design
+       释义: capacitydesign
+       音标: /capacity-desig/
+       难度: ★★
+       例句: capacity design is critical for energy storage systems.
+
+[ 379] capacity testing
+       释义: capacitytesting
+       音标: /capacity-testi/
+       难度: ★★
+       例句: capacity testing is critical for energy storage systems.
+
+[ 380] capacity validation
+       释义: capacityvalidation
+       音标: /capacity-valid/
+       难度: ★★
+       例句: capacity validation is critical for energy storage systems.
+
+[ 381] capacity management
+       释义: capacitymanagement
+       音标: /capacity-manag/
+       难度: ★★
+       例句: capacity management is critical for energy storage systems.
+
+[ 382] capacity control
+       释义: capacitycontrol
+       音标: /capacity-contr/
+       难度: ★★
+       例句: capacity control is critical for energy storage systems.
+
+[ 383] capacity monitoring
+       释义: capacitymonitoring
+       音标: /capacity-monit/
+       难度: ★★
+       例句: capacity monitoring is critical for energy storage systems.
+
+[ 384] capacity strategy
+       释义: capacitystrategy
+       音标: /capacity-strat/
+       难度: ★★
+       例句: capacity strategy is critical for energy storage systems.
+
+[ 385] capacity algorithm
+       释义: capacityalgorithm
+       音标: /capacity-algor/
+       难度: ★★
+       例句: capacity algorithm is critical for energy storage systems.
+
+[ 386] capacity method
+       释义: capacitymethod
+       音标: /capacity-metho/
+       难度: ★★
+       例句: capacity method is critical for energy storage systems.
+
+[ 387] energy validation
+       释义: energyvalidation
+       音标: /energy-validat/
+       难度: ★★
+       例句: energy validation is critical for energy storage systems.
+
+[ 388] energy optimization
+       释义: energyoptimization
+       音标: /energy-optimiz/
+       难度: ★★
+       例句: energy optimization is critical for energy storage systems.
+
+[ 389] energy management
+       释义: energymanagement
+       音标: /energy-managem/
+       难度: ★★
+       例句: energy management is critical for energy storage systems.
+
+[ 390] energy control
+       释义: energycontrol
+       音标: /energy-control/
+       难度: ★★
+       例句: energy control is critical for energy storage systems.
+
+[ 391] energy monitoring
+       释义: energymonitoring
+       音标: /energy-monitor/
+       难度: ★★
+       例句: energy monitoring is critical for energy storage systems.
+
+[ 392] energy strategy
+       释义: energystrategy
+       音标: /energy-strateg/
+       难度: ★★
+       例句: energy strategy is critical for energy storage systems.
+
+[ 393] energy algorithm
+       释义: energyalgorithm
+       音标: /energy-algorit/
+       难度: ★★
+       例句: energy algorithm is critical for energy storage systems.
+
+[ 394] energy approach
+       释义: energyapproach
+       音标: /energy-approac/
+       难度: ★★
+       例句: energy approach is critical for energy storage systems.
+
+[ 395] power design
+       释义: powerdesign
+       音标: /power-design/
+       难度: ★★
+       例句: power design is critical for energy storage systems.
+
+[ 396] power modeling
+       释义: powermodeling
+       音标: /power-modeling/
+       难度: ★★
+       例句: power modeling is critical for energy storage systems.
+
+[ 397] power testing
+       释义: powertesting
+       音标: /power-testing/
+       难度: ★★
+       例句: power testing is critical for energy storage systems.
+
+[ 398] power validation
+       释义: powervalidation
+       音标: /power-validati/
+       难度: ★★
+       例句: power validation is critical for energy storage systems.
+
+[ 399] power optimization
+       释义: poweroptimization
+       音标: /power-optimiza/
+       难度: ★★
+       例句: power optimization is critical for energy storage systems.
+
+[ 400] power management
+       释义: powermanagement
+       音标: /power-manageme/
+       难度: ★★
+       例句: power management is critical for energy storage systems.
+
+[ 401] power control
+       释义: powercontrol
+       音标: /power-control/
+       难度: ★★
+       例句: power control is critical for energy storage systems.
+
+[ 402] power monitoring
+       释义: powermonitoring
+       音标: /power-monitori/
+       难度: ★★
+       例句: power monitoring is critical for energy storage systems.
+
+[ 403] power strategy
+       释义: powerstrategy
+       音标: /power-strategy/
+       难度: ★★
+       例句: power strategy is critical for energy storage systems.
+
+[ 404] power algorithm
+       释义: poweralgorithm
+       音标: /power-algorith/
+       难度: ★★
+       例句: power algorithm is critical for energy storage systems.
+
+[ 405] power method
+       释义: powermethod
+       音标: /power-method/
+       难度: ★★
+       例句: power method is critical for energy storage systems.
+
+[ 406] efficiency modeling
+       释义: efficiencymodeling
+       音标: /efficiency-mod/
+       难度: ★★
+       例句: efficiency modeling is critical for energy storage systems.
+
+[ 407] efficiency simulation
+       释义: efficiencysimulation
+       音标: /efficiency-sim/
+       难度: ★★
+       例句: efficiency simulation is critical for energy storage systems.
+
+[ 408] efficiency testing
+       释义: efficiencytesting
+       音标: /efficiency-tes/
+       难度: ★★
+       例句: efficiency testing is critical for energy storage systems.
+
+[ 409] efficiency optimization
+       释义: efficiencyoptimization
+       音标: /efficiency-opt/
+       难度: ★★
+       例句: efficiency optimization is critical for energy storage systems.
+
+[ 410] efficiency management
+       释义: efficiencymanagement
+       音标: /efficiency-man/
+       难度: ★★
+       例句: efficiency management is critical for energy storage systems.
+
+[ 411] efficiency monitoring
+       释义: efficiencymonitoring
+       音标: /efficiency-mon/
+       难度: ★★
+       例句: efficiency monitoring is critical for energy storage systems.
+
+[ 412] efficiency strategy
+       释义: efficiencystrategy
+       音标: /efficiency-str/
+       难度: ★★
+       例句: efficiency strategy is critical for energy storage systems.
+
+[ 413] efficiency algorithm
+       释义: efficiencyalgorithm
+       音标: /efficiency-alg/
+       难度: ★★
+       例句: efficiency algorithm is critical for energy storage systems.
+
+[ 414] efficiency method
+       释义: efficiencymethod
+       音标: /efficiency-met/
+       难度: ★★
+       例句: efficiency method is critical for energy storage systems.
+
+[ 415] efficiency approach
+       释义: efficiencyapproach
+       音标: /efficiency-app/
+       难度: ★★
+       例句: efficiency approach is critical for energy storage systems.
+
+[ 416] round trip system
+       释义: round tripsystem
+       音标: /round-trip-sys/
+       难度: ★★
+       例句: round trip system is critical for energy storage systems.
+
+[ 417] round trip design
+       释义: round tripdesign
+       音标: /round-trip-des/
+       难度: ★★
+       例句: round trip design is critical for energy storage systems.
+
+[ 418] round trip modeling
+       释义: round tripmodeling
+       音标: /round-trip-mod/
+       难度: ★★
+       例句: round trip modeling is critical for energy storage systems.
+
+[ 419] round trip simulation
+       释义: round tripsimulation
+       音标: /round-trip-sim/
+       难度: ★★
+       例句: round trip simulation is critical for energy storage systems.
+
+[ 420] round trip testing
+       释义: round triptesting
+       音标: /round-trip-tes/
+       难度: ★★
+       例句: round trip testing is critical for energy storage systems.
+
+[ 421] round trip validation
+       释义: round tripvalidation
+       音标: /round-trip-val/
+       难度: ★★
+       例句: round trip validation is critical for energy storage systems.
+
+[ 422] round trip optimization
+       释义: round tripoptimization
+       音标: /round-trip-opt/
+       难度: ★★
+       例句: round trip optimization is critical for energy storage systems.
+
+[ 423] round trip management
+       释义: round tripmanagement
+       音标: /round-trip-man/
+       难度: ★★
+       例句: round trip management is critical for energy storage systems.
+
+[ 424] round trip monitoring
+       释义: round tripmonitoring
+       音标: /round-trip-mon/
+       难度: ★★
+       例句: round trip monitoring is critical for energy storage systems.
+
+[ 425] round trip algorithm
+       释义: round tripalgorithm
+       音标: /round-trip-alg/
+       难度: ★★
+       例句: round trip algorithm is critical for energy storage systems.
+
+[ 426] round trip method
+       释义: round tripmethod
+       音标: /round-trip-met/
+       难度: ★★
+       例句: round trip method is critical for energy storage systems.
+
+[ 427] round trip approach
+       释义: round tripapproach
+       音标: /round-trip-app/
+       难度: ★★
+       例句: round trip approach is critical for energy storage systems.
+
+[ 428] C rate system
+       释义: C ratesystem
+       音标: /c-rate-system/
+       难度: ★★
+       例句: C rate system is critical for energy storage systems.
+
+[ 429] C rate design
+       释义: C ratedesign
+       音标: /c-rate-design/
+       难度: ★★
+       例句: C rate design is critical for energy storage systems.
+
+[ 430] C rate modeling
+       释义: C ratemodeling
+       音标: /c-rate-modelin/
+       难度: ★★
+       例句: C rate modeling is critical for energy storage systems.
+
+[ 431] C rate simulation
+       释义: C ratesimulation
+       音标: /c-rate-simulat/
+       难度: ★★
+       例句: C rate simulation is critical for energy storage systems.
+
+[ 432] C rate testing
+       释义: C ratetesting
+       音标: /c-rate-testing/
+       难度: ★★
+       例句: C rate testing is critical for energy storage systems.
+
+[ 433] C rate validation
+       释义: C ratevalidation
+       音标: /c-rate-validat/
+       难度: ★★
+       例句: C rate validation is critical for energy storage systems.
+
+[ 434] C rate optimization
+       释义: C rateoptimization
+       音标: /c-rate-optimiz/
+       难度: ★★
+       例句: C rate optimization is critical for energy storage systems.
+
+[ 435] C rate management
+       释义: C ratemanagement
+       音标: /c-rate-managem/
+       难度: ★★
+       例句: C rate management is critical for energy storage systems.
+
+[ 436] C rate strategy
+       释义: C ratestrategy
+       音标: /c-rate-strateg/
+       难度: ★★
+       例句: C rate strategy is critical for energy storage systems.
+
+[ 437] C rate method
+       释义: C ratemethod
+       音标: /c-rate-method/
+       难度: ★★
+       例句: C rate method is critical for energy storage systems.
+
+[ 438] C rate approach
+       释义: C rateapproach
+       音标: /c-rate-approac/
+       难度: ★★
+       例句: C rate approach is critical for energy storage systems.
+
+[ 439] DOD system
+       释义: DODsystem
+       音标: /dod-system/
+       难度: ★★
+       例句: DOD system is critical for energy storage systems.
+
+[ 440] DOD design
+       释义: DODdesign
+       音标: /dod-design/
+       难度: ★★
+       例句: DOD design is critical for energy storage systems.
+
+[ 441] DOD testing
+       释义: DODtesting
+       音标: /dod-testing/
+       难度: ★★
+       例句: DOD testing is critical for energy storage systems.
+
+[ 442] DOD validation
+       释义: DODvalidation
+       音标: /dod-validation/
+       难度: ★★
+       例句: DOD validation is critical for energy storage systems.
+
+[ 443] DOD optimization
+       释义: DODoptimization
+       音标: /dod-optimizati/
+       难度: ★★
+       例句: DOD optimization is critical for energy storage systems.
+
+[ 444] DOD management
+       释义: DODmanagement
+       音标: /dod-management/
+       难度: ★★
+       例句: DOD management is critical for energy storage systems.
+
+[ 445] DOD control
+       释义: DODcontrol
+       音标: /dod-control/
+       难度: ★★
+       例句: DOD control is critical for energy storage systems.
+
+[ 446] DOD monitoring
+       释义: DODmonitoring
+       音标: /dod-monitoring/
+       难度: ★★
+       例句: DOD monitoring is critical for energy storage systems.
+
+[ 447] DOD method
+       释义: DODmethod
+       音标: /dod-method/
+       难度: ★★
+       例句: DOD method is critical for energy storage systems.
+
+[ 448] SOC system
+       释义: SOCsystem
+       音标: /soc-system/
+       难度: ★★
+       例句: SOC system is critical for energy storage systems.
+
+[ 449] SOC simulation
+       释义: SOCsimulation
+       音标: /soc-simulation/
+       难度: ★★
+       例句: SOC simulation is critical for energy storage systems.
+
+[ 450] SOC testing
+       释义: SOCtesting
+       音标: /soc-testing/
+       难度: ★★
+       例句: SOC testing is critical for energy storage systems.
+
+[ 451] SOC validation
+       释义: SOCvalidation
+       音标: /soc-validation/
+       难度: ★★
+       例句: SOC validation is critical for energy storage systems.
+
+[ 452] SOC optimization
+       释义: SOCoptimization
+       音标: /soc-optimizati/
+       难度: ★★
+       例句: SOC optimization is critical for energy storage systems.
+
+[ 453] SOC control
+       释义: SOCcontrol
+       音标: /soc-control/
+       难度: ★★
+       例句: SOC control is critical for energy storage systems.
+
+[ 454] SOC monitoring
+       释义: SOCmonitoring
+       音标: /soc-monitoring/
+       难度: ★★
+       例句: SOC monitoring is critical for energy storage systems.
+
+[ 455] SOC strategy
+       释义: SOCstrategy
+       音标: /soc-strategy/
+       难度: ★★
+       例句: SOC strategy is critical for energy storage systems.
+
+[ 456] SOC method
+       释义: SOCmethod
+       音标: /soc-method/
+       难度: ★★
+       例句: SOC method is critical for energy storage systems.
+
+[ 457] SOC approach
+       释义: SOCapproach
+       音标: /soc-approach/
+       难度: ★★
+       例句: SOC approach is critical for energy storage systems.
+
+[ 458] SOH system
+       释义: SOHsystem
+       音标: /soh-system/
+       难度: ★★
+       例句: SOH system is critical for energy storage systems.
+
+[ 459] SOH design
+       释义: SOHdesign
+       音标: /soh-design/
+       难度: ★★
+       例句: SOH design is critical for energy storage systems.
+
+[ 460] SOH modeling
+       释义: SOHmodeling
+       音标: /soh-modeling/
+       难度: ★★
+       例句: SOH modeling is critical for energy storage systems.
+
+[ 461] SOH simulation
+       释义: SOHsimulation
+       音标: /soh-simulation/
+       难度: ★★
+       例句: SOH simulation is critical for energy storage systems.
+
+[ 462] SOH testing
+       释义: SOHtesting
+       音标: /soh-testing/
+       难度: ★★
+       例句: SOH testing is critical for energy storage systems.
+
+[ 463] SOH optimization
+       释义: SOHoptimization
+       音标: /soh-optimizati/
+       难度: ★★
+       例句: SOH optimization is critical for energy storage systems.
+
+[ 464] SOH management
+       释义: SOHmanagement
+       音标: /soh-management/
+       难度: ★★
+       例句: SOH management is critical for energy storage systems.
+
+[ 465] SOH control
+       释义: SOHcontrol
+       音标: /soh-control/
+       难度: ★★
+       例句: SOH control is critical for energy storage systems.
+
+[ 466] SOH monitoring
+       释义: SOHmonitoring
+       音标: /soh-monitoring/
+       难度: ★★
+       例句: SOH monitoring is critical for energy storage systems.
+
+[ 467] SOH strategy
+       释义: SOHstrategy
+       音标: /soh-strategy/
+       难度: ★★
+       例句: SOH strategy is critical for energy storage systems.
+
+[ 468] SOH algorithm
+       释义: SOHalgorithm
+       音标: /soh-algorithm/
+       难度: ★★
+       例句: SOH algorithm is critical for energy storage systems.
+
+[ 469] SOH method
+       释义: SOHmethod
+       音标: /soh-method/
+       难度: ★★
+       例句: SOH method is critical for energy storage systems.
+
+[ 470] SOH approach
+       释义: SOHapproach
+       音标: /soh-approach/
+       难度: ★★
+       例句: SOH approach is critical for energy storage systems.
+
+[ 471] degradation system
+       释义: degradationsystem
+       音标: /degradation-sy/
+       难度: ★★
+       例句: degradation system is critical for energy storage systems.
+
+[ 472] degradation design
+       释义: degradationdesign
+       音标: /degradation-de/
+       难度: ★★
+       例句: degradation design is critical for energy storage systems.
+
+[ 473] degradation modeling
+       释义: degradationmodeling
+       音标: /degradation-mo/
+       难度: ★★
+       例句: degradation modeling is critical for energy storage systems.
+
+[ 474] degradation testing
+       释义: degradationtesting
+       音标: /degradation-te/
+       难度: ★★
+       例句: degradation testing is critical for energy storage systems.
+
+[ 475] degradation validation
+       释义: degradationvalidation
+       音标: /degradation-va/
+       难度: ★★
+       例句: degradation validation is critical for energy storage systems.
+
+[ 476] degradation optimization
+       释义: degradationoptimization
+       音标: /degradation-op/
+       难度: ★★
+       例句: degradation optimization is critical for energy storage systems.
+
+[ 477] degradation management
+       释义: degradationmanagement
+       音标: /degradation-ma/
+       难度: ★★
+       例句: degradation management is critical for energy storage systems.
+
+[ 478] degradation control
+       释义: degradationcontrol
+       音标: /degradation-co/
+       难度: ★★
+       例句: degradation control is critical for energy storage systems.
+
+[ 479] degradation monitoring
+       释义: degradationmonitoring
+       音标: /degradation-mo/
+       难度: ★★
+       例句: degradation monitoring is critical for energy storage systems.
+
+[ 480] degradation strategy
+       释义: degradationstrategy
+       音标: /degradation-st/
+       难度: ★★
+       例句: degradation strategy is critical for energy storage systems.
+
+[ 481] degradation algorithm
+       释义: degradationalgorithm
+       音标: /degradation-al/
+       难度: ★★
+       例句: degradation algorithm is critical for energy storage systems.
+
+[ 482] degradation method
+       释义: degradationmethod
+       音标: /degradation-me/
+       难度: ★★
+       例句: degradation method is critical for energy storage systems.
+
+[ 483] degradation approach
+       释义: degradationapproach
+       音标: /degradation-ap/
+       难度: ★★
+       例句: degradation approach is critical for energy storage systems.
+
+[ 484] aging system
+       释义: agingsystem
+       音标: /aging-system/
+       难度: ★★
+       例句: aging system is critical for energy storage systems.
+
+[ 485] aging design
+       释义: agingdesign
+       音标: /aging-design/
+       难度: ★★
+       例句: aging design is critical for energy storage systems.
+
+[ 486] aging modeling
+       释义: agingmodeling
+       音标: /aging-modeling/
+       难度: ★★
+       例句: aging modeling is critical for energy storage systems.
+
+[ 487] aging validation
+       释义: agingvalidation
+       音标: /aging-validati/
+       难度: ★★
+       例句: aging validation is critical for energy storage systems.
+
+[ 488] aging optimization
+       释义: agingoptimization
+       音标: /aging-optimiza/
+       难度: ★★
+       例句: aging optimization is critical for energy storage systems.
+
+[ 489] aging management
+       释义: agingmanagement
+       音标: /aging-manageme/
+       难度: ★★
+       例句: aging management is critical for energy storage systems.
+
+[ 490] aging control
+       释义: agingcontrol
+       音标: /aging-control/
+       难度: ★★
+       例句: aging control is critical for energy storage systems.
+
+[ 491] aging monitoring
+       释义: agingmonitoring
+       音标: /aging-monitori/
+       难度: ★★
+       例句: aging monitoring is critical for energy storage systems.
+
+[ 492] aging strategy
+       释义: agingstrategy
+       音标: /aging-strategy/
+       难度: ★★
+       例句: aging strategy is critical for energy storage systems.
+
+[ 493] aging algorithm
+       释义: agingalgorithm
+       音标: /aging-algorith/
+       难度: ★★
+       例句: aging algorithm is critical for energy storage systems.
+
+[ 494] aging method
+       释义: agingmethod
+       音标: /aging-method/
+       难度: ★★
+       例句: aging method is critical for energy storage systems.
+
+[ 495] aging approach
+       释义: agingapproach
+       音标: /aging-approach/
+       难度: ★★
+       例句: aging approach is critical for energy storage systems.
+
+[ 496] calendar aging system
+       释义: calendar agingsystem
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging system is critical for energy storage systems.
+
+[ 497] calendar aging design
+       释义: calendar agingdesign
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging design is critical for energy storage systems.
+
+[ 498] calendar aging modeling
+       释义: calendar agingmodeling
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging modeling is critical for energy storage systems.
+
+[ 499] calendar aging simulation
+       释义: calendar agingsimulation
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging simulation is critical for energy storage systems.
+
+[ 500] calendar aging testing
+       释义: calendar agingtesting
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging testing is critical for energy storage systems.
+
+[ 501] calendar aging validation
+       释义: calendar agingvalidation
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging validation is critical for energy storage systems.
+
+[ 502] calendar aging optimization
+       释义: calendar agingoptimization
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging optimization is critical for energy storage systems.
+
+[ 503] calendar aging management
+       释义: calendar agingmanagement
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging management is critical for energy storage systems.
+
+[ 504] calendar aging monitoring
+       释义: calendar agingmonitoring
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging monitoring is critical for energy storage systems.
+
+[ 505] calendar aging strategy
+       释义: calendar agingstrategy
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging strategy is critical for energy storage systems.
+
+[ 506] calendar aging approach
+       释义: calendar agingapproach
+       音标: /calendar-aging/
+       难度: ★★
+       例句: calendar aging approach is critical for energy storage systems.
+
+[ 507] cycle aging system
+       释义: cycle agingsystem
+       音标: /cycle-aging-sy/
+       难度: ★★
+       例句: cycle aging system is critical for energy storage systems.
+
+[ 508] cycle aging simulation
+       释义: cycle agingsimulation
+       音标: /cycle-aging-si/
+       难度: ★★
+       例句: cycle aging simulation is critical for energy storage systems.
+
+[ 509] cycle aging testing
+       释义: cycle agingtesting
+       音标: /cycle-aging-te/
+       难度: ★★
+       例句: cycle aging testing is critical for energy storage systems.
+
+[ 510] cycle aging validation
+       释义: cycle agingvalidation
+       音标: /cycle-aging-va/
+       难度: ★★
+       例句: cycle aging validation is critical for energy storage systems.
+
+[ 511] cycle aging optimization
+       释义: cycle agingoptimization
+       音标: /cycle-aging-op/
+       难度: ★★
+       例句: cycle aging optimization is critical for energy storage systems.
+
+[ 512] cycle aging management
+       释义: cycle agingmanagement
+       音标: /cycle-aging-ma/
+       难度: ★★
+       例句: cycle aging management is critical for energy storage systems.
+
+[ 513] cycle aging control
+       释义: cycle agingcontrol
+       音标: /cycle-aging-co/
+       难度: ★★
+       例句: cycle aging control is critical for energy storage systems.
+
+[ 514] cycle aging monitoring
+       释义: cycle agingmonitoring
+       音标: /cycle-aging-mo/
+       难度: ★★
+       例句: cycle aging monitoring is critical for energy storage systems.
+
+[ 515] cycle aging strategy
+       释义: cycle agingstrategy
+       音标: /cycle-aging-st/
+       难度: ★★
+       例句: cycle aging strategy is critical for energy storage systems.
+
+[ 516] cycle aging algorithm
+       释义: cycle agingalgorithm
+       音标: /cycle-aging-al/
+       难度: ★★
+       例句: cycle aging algorithm is critical for energy storage systems.
+
+[ 517] cycle aging method
+       释义: cycle agingmethod
+       音标: /cycle-aging-me/
+       难度: ★★
+       例句: cycle aging method is critical for energy storage systems.
+
+[ 518] impedance design
+       释义: impedancedesign
+       音标: /impedance-desi/
+       难度: ★★
+       例句: impedance design is critical for energy storage systems.
+
+[ 519] impedance modeling
+       释义: impedancemodeling
+       音标: /impedance-mode/
+       难度: ★★
+       例句: impedance modeling is critical for energy storage systems.
+
+[ 520] impedance testing
+       释义: impedancetesting
+       音标: /impedance-test/
+       难度: ★★
+       例句: impedance testing is critical for energy storage systems.
+
+[ 521] impedance validation
+       释义: impedancevalidation
+       音标: /impedance-vali/
+       难度: ★★
+       例句: impedance validation is critical for energy storage systems.
+
+[ 522] impedance optimization
+       释义: impedanceoptimization
+       音标: /impedance-opti/
+       难度: ★★
+       例句: impedance optimization is critical for energy storage systems.
+
+[ 523] impedance management
+       释义: impedancemanagement
+       音标: /impedance-mana/
+       难度: ★★
+       例句: impedance management is critical for energy storage systems.
+
+[ 524] impedance control
+       释义: impedancecontrol
+       音标: /impedance-cont/
+       难度: ★★
+       例句: impedance control is critical for energy storage systems.
+
+[ 525] impedance monitoring
+       释义: impedancemonitoring
+       音标: /impedance-moni/
+       难度: ★★
+       例句: impedance monitoring is critical for energy storage systems.
+
+[ 526] impedance strategy
+       释义: impedancestrategy
+       音标: /impedance-stra/
+       难度: ★★
+       例句: impedance strategy is critical for energy storage systems.
+
+[ 527] impedance method
+       释义: impedancemethod
+       音标: /impedance-meth/
+       难度: ★★
+       例句: impedance method is critical for energy storage systems.
+
+[ 528] impedance approach
+       释义: impedanceapproach
+       音标: /impedance-appr/
+       难度: ★★
+       例句: impedance approach is critical for energy storage systems.
+
+[ 529] resistance system
+       释义: resistancesystem
+       音标: /resistance-sys/
+       难度: ★★
+       例句: resistance system is critical for energy storage systems.
+
+[ 530] resistance design
+       释义: resistancedesign
+       音标: /resistance-des/
+       难度: ★★
+       例句: resistance design is critical for energy storage systems.
+
+[ 531] resistance simulation
+       释义: resistancesimulation
+       音标: /resistance-sim/
+       难度: ★★
+       例句: resistance simulation is critical for energy storage systems.
+
+[ 532] resistance testing
+       释义: resistancetesting
+       音标: /resistance-tes/
+       难度: ★★
+       例句: resistance testing is critical for energy storage systems.
+
+[ 533] resistance validation
+       释义: resistancevalidation
+       音标: /resistance-val/
+       难度: ★★
+       例句: resistance validation is critical for energy storage systems.
+
+[ 534] resistance optimization
+       释义: resistanceoptimization
+       音标: /resistance-opt/
+       难度: ★★
+       例句: resistance optimization is critical for energy storage systems.
+
+[ 535] resistance control
+       释义: resistancecontrol
+       音标: /resistance-con/
+       难度: ★★
+       例句: resistance control is critical for energy storage systems.
+
+[ 536] resistance strategy
+       释义: resistancestrategy
+       音标: /resistance-str/
+       难度: ★★
+       例句: resistance strategy is critical for energy storage systems.
+
+[ 537] resistance algorithm
+       释义: resistancealgorithm
+       音标: /resistance-alg/
+       难度: ★★
+       例句: resistance algorithm is critical for energy storage systems.
+
+[ 538] resistance approach
+       释义: resistanceapproach
+       音标: /resistance-app/
+       难度: ★★
+       例句: resistance approach is critical for energy storage systems.
+
+[ 539] conductivity system
+       释义: conductivitysystem
+       音标: /conductivity-s/
+       难度: ★★
+       例句: conductivity system is critical for energy storage systems.
+
+[ 540] conductivity design
+       释义: conductivitydesign
+       音标: /conductivity-d/
+       难度: ★★
+       例句: conductivity design is critical for energy storage systems.
+
+[ 541] conductivity modeling
+       释义: conductivitymodeling
+       音标: /conductivity-m/
+       难度: ★★
+       例句: conductivity modeling is critical for energy storage systems.
+
+[ 542] conductivity simulation
+       释义: conductivitysimulation
+       音标: /conductivity-s/
+       难度: ★★
+       例句: conductivity simulation is critical for energy storage systems.
+
+[ 543] conductivity testing
+       释义: conductivitytesting
+       音标: /conductivity-t/
+       难度: ★★
+       例句: conductivity testing is critical for energy storage systems.
+
+[ 544] conductivity validation
+       释义: conductivityvalidation
+       音标: /conductivity-v/
+       难度: ★★
+       例句: conductivity validation is critical for energy storage systems.
+
+[ 545] conductivity monitoring
+       释义: conductivitymonitoring
+       音标: /conductivity-m/
+       难度: ★★
+       例句: conductivity monitoring is critical for energy storage systems.
+
+[ 546] conductivity strategy
+       释义: conductivitystrategy
+       音标: /conductivity-s/
+       难度: ★★
+       例句: conductivity strategy is critical for energy storage systems.
+
+[ 547] conductivity algorithm
+       释义: conductivityalgorithm
+       音标: /conductivity-a/
+       难度: ★★
+       例句: conductivity algorithm is critical for energy storage systems.
+
+[ 548] conductivity method
+       释义: conductivitymethod
+       音标: /conductivity-m/
+       难度: ★★
+       例句: conductivity method is critical for energy storage systems.
+
+[ 549] conductivity approach
+       释义: conductivityapproach
+       音标: /conductivity-a/
+       难度: ★★
+       例句: conductivity approach is critical for energy storage systems.
+
+[ 550] lithium system
+       释义: lithiumsystem
+       音标: /lithium-system/
+       难度: ★★
+       例句: lithium system is critical for energy storage systems.
+
+[ 551] lithium design
+       释义: lithiumdesign
+       音标: /lithium-design/
+       难度: ★★
+       例句: lithium design is critical for energy storage systems.
+
+[ 552] lithium simulation
+       释义: lithiumsimulation
+       音标: /lithium-simula/
+       难度: ★★
+       例句: lithium simulation is critical for energy storage systems.
+
+[ 553] lithium testing
+       释义: lithiumtesting
+       音标: /lithium-testin/
+       难度: ★★
+       例句: lithium testing is critical for energy storage systems.
+
+[ 554] lithium validation
+       释义: lithiumvalidation
+       音标: /lithium-valida/
+       难度: ★★
+       例句: lithium validation is critical for energy storage systems.
+
+[ 555] lithium optimization
+       释义: lithiumoptimization
+       音标: /lithium-optimi/
+       难度: ★★
+       例句: lithium optimization is critical for energy storage systems.
+
+[ 556] lithium management
+       释义: lithiummanagement
+       音标: /lithium-manage/
+       难度: ★★
+       例句: lithium management is critical for energy storage systems.
+
+[ 557] lithium control
+       释义: lithiumcontrol
+       音标: /lithium-contro/
+       难度: ★★
+       例句: lithium control is critical for energy storage systems.
+
+[ 558] lithium strategy
+       释义: lithiumstrategy
+       音标: /lithium-strate/
+       难度: ★★
+       例句: lithium strategy is critical for energy storage systems.
+
+[ 559] lithium method
+       释义: lithiummethod
+       音标: /lithium-method/
+       难度: ★★
+       例句: lithium method is critical for energy storage systems.
+
+[ 560] lithium approach
+       释义: lithiumapproach
+       音标: /lithium-approa/
+       难度: ★★
+       例句: lithium approach is critical for energy storage systems.
+
+[ 561] sodium design
+       释义: sodiumdesign
+       音标: /sodium-design/
+       难度: ★★
+       例句: sodium design is critical for energy storage systems.
+
+[ 562] sodium modeling
+       释义: sodiummodeling
+       音标: /sodium-modelin/
+       难度: ★★
+       例句: sodium modeling is critical for energy storage systems.
+
+[ 563] sodium simulation
+       释义: sodiumsimulation
+       音标: /sodium-simulat/
+       难度: ★★
+       例句: sodium simulation is critical for energy storage systems.
+
+[ 564] sodium validation
+       释义: sodiumvalidation
+       音标: /sodium-validat/
+       难度: ★★
+       例句: sodium validation is critical for energy storage systems.
+
+[ 565] sodium optimization
+       释义: sodiumoptimization
+       音标: /sodium-optimiz/
+       难度: ★★
+       例句: sodium optimization is critical for energy storage systems.
+
+[ 566] sodium management
+       释义: sodiummanagement
+       音标: /sodium-managem/
+       难度: ★★
+       例句: sodium management is critical for energy storage systems.
+
+[ 567] sodium control
+       释义: sodiumcontrol
+       音标: /sodium-control/
+       难度: ★★
+       例句: sodium control is critical for energy storage systems.
+
+[ 568] sodium monitoring
+       释义: sodiummonitoring
+       音标: /sodium-monitor/
+       难度: ★★
+       例句: sodium monitoring is critical for energy storage systems.
+
+[ 569] sodium strategy
+       释义: sodiumstrategy
+       音标: /sodium-strateg/
+       难度: ★★
+       例句: sodium strategy is critical for energy storage systems.
+
+[ 570] sodium algorithm
+       释义: sodiumalgorithm
+       音标: /sodium-algorit/
+       难度: ★★
+       例句: sodium algorithm is critical for energy storage systems.
+
+[ 571] sodium method
+       释义: sodiummethod
+       音标: /sodium-method/
+       难度: ★★
+       例句: sodium method is critical for energy storage systems.
+
+[ 572] sodium approach
+       释义: sodiumapproach
+       音标: /sodium-approac/
+       难度: ★★
+       例句: sodium approach is critical for energy storage systems.
+
+[ 573] vanadium system
+       释义: vanadiumsystem
+       音标: /vanadium-syste/
+       难度: ★★
+       例句: vanadium system is critical for energy storage systems.
+
+[ 574] vanadium design
+       释义: vanadiumdesign
+       音标: /vanadium-desig/
+       难度: ★★
+       例句: vanadium design is critical for energy storage systems.
+
+[ 575] vanadium modeling
+       释义: vanadiummodeling
+       音标: /vanadium-model/
+       难度: ★★
+       例句: vanadium modeling is critical for energy storage systems.
+
+[ 576] vanadium testing
+       释义: vanadiumtesting
+       音标: /vanadium-testi/
+       难度: ★★
+       例句: vanadium testing is critical for energy storage systems.
+
+[ 577] vanadium management
+       释义: vanadiummanagement
+       音标: /vanadium-manag/
+       难度: ★★
+       例句: vanadium management is critical for energy storage systems.
+
+[ 578] vanadium control
+       释义: vanadiumcontrol
+       音标: /vanadium-contr/
+       难度: ★★
+       例句: vanadium control is critical for energy storage systems.
+
+[ 579] vanadium monitoring
+       释义: vanadiummonitoring
+       音标: /vanadium-monit/
+       难度: ★★
+       例句: vanadium monitoring is critical for energy storage systems.
+
+[ 580] vanadium strategy
+       释义: vanadiumstrategy
+       音标: /vanadium-strat/
+       难度: ★★
+       例句: vanadium strategy is critical for energy storage systems.
+
+[ 581] vanadium method
+       释义: vanadiummethod
+       音标: /vanadium-metho/
+       难度: ★★
+       例句: vanadium method is critical for energy storage systems.
+
+[ 582] vanadium approach
+       释义: vanadiumapproach
+       音标: /vanadium-appro/
+       难度: ★★
+       例句: vanadium approach is critical for energy storage systems.
+
+[ 583] zinc design
+       释义: zincdesign
+       音标: /zinc-design/
+       难度: ★★
+       例句: zinc design is critical for energy storage systems.
+
+[ 584] zinc modeling
+       释义: zincmodeling
+       音标: /zinc-modeling/
+       难度: ★★
+       例句: zinc modeling is critical for energy storage systems.
+
+[ 585] zinc simulation
+       释义: zincsimulation
+       音标: /zinc-simulatio/
+       难度: ★★
+       例句: zinc simulation is critical for energy storage systems.
+
+[ 586] zinc optimization
+       释义: zincoptimization
+       音标: /zinc-optimizat/
+       难度: ★★
+       例句: zinc optimization is critical for energy storage systems.
+
+[ 587] zinc management
+       释义: zincmanagement
+       音标: /zinc-managemen/
+       难度: ★★
+       例句: zinc management is critical for energy storage systems.
+
+[ 588] zinc control
+       释义: zinccontrol
+       音标: /zinc-control/
+       难度: ★★
+       例句: zinc control is critical for energy storage systems.
+
+[ 589] zinc monitoring
+       释义: zincmonitoring
+       音标: /zinc-monitorin/
+       难度: ★★
+       例句: zinc monitoring is critical for energy storage systems.
+
+[ 590] zinc strategy
+       释义: zincstrategy
+       音标: /zinc-strategy/
+       难度: ★★
+       例句: zinc strategy is critical for energy storage systems.
+
+[ 591] zinc approach
+       释义: zincapproach
+       音标: /zinc-approach/
+       难度: ★★
+       例句: zinc approach is critical for energy storage systems.
+
+[ 592] lead system
+       释义: leadsystem
+       音标: /lead-system/
+       难度: ★★
+       例句: lead system is critical for energy storage systems.
+
+[ 593] lead modeling
+       释义: leadmodeling
+       音标: /lead-modeling/
+       难度: ★★
+       例句: lead modeling is critical for energy storage systems.
+
+[ 594] lead simulation
+       释义: leadsimulation
+       音标: /lead-simulatio/
+       难度: ★★
+       例句: lead simulation is critical for energy storage systems.
+
+[ 595] lead optimization
+       释义: leadoptimization
+       音标: /lead-optimizat/
+       难度: ★★
+       例句: lead optimization is critical for energy storage systems.
+
+[ 596] lead control
+       释义: leadcontrol
+       音标: /lead-control/
+       难度: ★★
+       例句: lead control is critical for energy storage systems.
+
+[ 597] lead monitoring
+       释义: leadmonitoring
+       音标: /lead-monitorin/
+       难度: ★★
+       例句: lead monitoring is critical for energy storage systems.
+
+[ 598] lead strategy
+       释义: leadstrategy
+       音标: /lead-strategy/
+       难度: ★★
+       例句: lead strategy is critical for energy storage systems.
+
+[ 599] lead algorithm
+       释义: leadalgorithm
+       音标: /lead-algorithm/
+       难度: ★★
+       例句: lead algorithm is critical for energy storage systems.
+
+[ 600] flow battery system
+       释义: flow batterysystem
+       音标: /flow-battery-s/
+       难度: ★★
+       例句: flow battery system is critical for energy storage systems.
+
+[ 601] flow battery design
+       释义: flow batterydesign
+       音标: /flow-battery-d/
+       难度: ★★
+       例句: flow battery design is critical for energy storage systems.
+
+[ 602] flow battery modeling
+       释义: flow batterymodeling
+       音标: /flow-battery-m/
+       难度: ★★
+       例句: flow battery modeling is critical for energy storage systems.
+
+[ 603] flow battery simulation
+       释义: flow batterysimulation
+       音标: /flow-battery-s/
+       难度: ★★
+       例句: flow battery simulation is critical for energy storage systems.
+
+[ 604] flow battery testing
+       释义: flow batterytesting
+       音标: /flow-battery-t/
+       难度: ★★
+       例句: flow battery testing is critical for energy storage systems.
+
+[ 605] flow battery validation
+       释义: flow batteryvalidation
+       音标: /flow-battery-v/
+       难度: ★★
+       例句: flow battery validation is critical for energy storage systems.
+
+[ 606] flow battery optimization
+       释义: flow batteryoptimization
+       音标: /flow-battery-o/
+       难度: ★★
+       例句: flow battery optimization is critical for energy storage systems.
+
+[ 607] flow battery management
+       释义: flow batterymanagement
+       音标: /flow-battery-m/
+       难度: ★★
+       例句: flow battery management is critical for energy storage systems.
+
+[ 608] flow battery control
+       释义: flow batterycontrol
+       音标: /flow-battery-c/
+       难度: ★★
+       例句: flow battery control is critical for energy storage systems.
+
+[ 609] flow battery monitoring
+       释义: flow batterymonitoring
+       音标: /flow-battery-m/
+       难度: ★★
+       例句: flow battery monitoring is critical for energy storage systems.
+
+[ 610] flow battery algorithm
+       释义: flow batteryalgorithm
+       音标: /flow-battery-a/
+       难度: ★★
+       例句: flow battery algorithm is critical for energy storage systems.
+
+[ 611] flow battery method
+       释义: flow batterymethod
+       音标: /flow-battery-m/
+       难度: ★★
+       例句: flow battery method is critical for energy storage systems.
+
+[ 612] solid state design
+       释义: solid statedesign
+       音标: /solid-state-de/
+       难度: ★★
+       例句: solid state design is critical for energy storage systems.
+
+[ 613] solid state testing
+       释义: solid statetesting
+       音标: /solid-state-te/
+       难度: ★★
+       例句: solid state testing is critical for energy storage systems.
+
+[ 614] solid state validation
+       释义: solid statevalidation
+       音标: /solid-state-va/
+       难度: ★★
+       例句: solid state validation is critical for energy storage systems.
+
+[ 615] solid state optimization
+       释义: solid stateoptimization
+       音标: /solid-state-op/
+       难度: ★★
+       例句: solid state optimization is critical for energy storage systems.
+
+[ 616] solid state management
+       释义: solid statemanagement
+       音标: /solid-state-ma/
+       难度: ★★
+       例句: solid state management is critical for energy storage systems.
+
+[ 617] solid state control
+       释义: solid statecontrol
+       音标: /solid-state-co/
+       难度: ★★
+       例句: solid state control is critical for energy storage systems.
+
+[ 618] solid state algorithm
+       释义: solid statealgorithm
+       音标: /solid-state-al/
+       难度: ★★
+       例句: solid state algorithm is critical for energy storage systems.
+
+[ 619] solid state method
+       释义: solid statemethod
+       音标: /solid-state-me/
+       难度: ★★
+       例句: solid state method is critical for energy storage systems.
+
+[ 620] solid state approach
+       释义: solid stateapproach
+       音标: /solid-state-ap/
+       难度: ★★
+       例句: solid state approach is critical for energy storage systems.
+
+[ 621] sodium sulfur system
+       释义: sodium sulfursystem
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur system is critical for energy storage systems.
+
+[ 622] sodium sulfur testing
+       释义: sodium sulfurtesting
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur testing is critical for energy storage systems.
+
+[ 623] sodium sulfur validation
+       释义: sodium sulfurvalidation
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur validation is critical for energy storage systems.
+
+[ 624] sodium sulfur management
+       释义: sodium sulfurmanagement
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur management is critical for energy storage systems.
+
+[ 625] sodium sulfur control
+       释义: sodium sulfurcontrol
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur control is critical for energy storage systems.
+
+[ 626] sodium sulfur monitoring
+       释义: sodium sulfurmonitoring
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur monitoring is critical for energy storage systems.
+
+[ 627] sodium sulfur algorithm
+       释义: sodium sulfuralgorithm
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur algorithm is critical for energy storage systems.
+
+[ 628] sodium sulfur method
+       释义: sodium sulfurmethod
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur method is critical for energy storage systems.
+
+[ 629] sodium sulfur approach
+       释义: sodium sulfurapproach
+       音标: /sodium-sulfur-/
+       难度: ★★
+       例句: sodium sulfur approach is critical for energy storage systems.
+
+[ 630] energy density modeling
+       释义: energy densitymodeling
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density modeling is critical for energy storage systems.
+
+[ 631] energy density simulation
+       释义: energy densitysimulation
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density simulation is critical for energy storage systems.
+
+[ 632] energy density prediction
+       释义: energy densityprediction
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density prediction is critical for energy storage systems.
+
+[ 633] energy density control
+       释义: energy densitycontrol
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density control is critical for energy storage systems.
+
+[ 634] energy density monitoring
+       释义: energy densitymonitoring
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density monitoring is critical for energy storage systems.
+
+[ 635] energy density prognosis
+       释义: energy densityprognosis
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density prognosis is critical for energy storage systems.
+
+[ 636] energy density design
+       释义: energy densitydesign
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density design is critical for energy storage systems.
+
+[ 637] energy density testing
+       释义: energy densitytesting
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density testing is critical for energy storage systems.
+
+[ 638] energy density verification
+       释义: energy densityverification
+       音标: /energy-density/
+       难度: ★★
+       例句: energy density verification is critical for energy storage systems.
+
+[ 639] power density modeling
+       释义: power densitymodeling
+       音标: /power-density-/
+       难度: ★★
+       例句: power density modeling is critical for energy storage systems.
+
+[ 640] power density estimation
+       释义: power densityestimation
+       音标: /power-density-/
+       难度: ★★
+       例句: power density estimation is critical for energy storage systems.
+
+[ 641] power density prediction
+       释义: power densityprediction
+       音标: /power-density-/
+       难度: ★★
+       例句: power density prediction is critical for energy storage systems.
+
+[ 642] power density optimization
+       释义: power densityoptimization
+       音标: /power-density-/
+       难度: ★★
+       例句: power density optimization is critical for energy storage systems.
+
+[ 643] power density control
+       释义: power densitycontrol
+       音标: /power-density-/
+       难度: ★★
+       例句: power density control is critical for energy storage systems.
+
+[ 644] power density monitoring
+       释义: power densitymonitoring
+       音标: /power-density-/
+       难度: ★★
+       例句: power density monitoring is critical for energy storage systems.
+
+[ 645] power density diagnosis
+       释义: power densitydiagnosis
+       音标: /power-density-/
+       难度: ★★
+       例句: power density diagnosis is critical for energy storage systems.
+
+[ 646] power density prognosis
+       释义: power densityprognosis
+       音标: /power-density-/
+       难度: ★★
+       例句: power density prognosis is critical for energy storage systems.
+
+[ 647] power density development
+       释义: power densitydevelopment
+       音标: /power-density-/
+       难度: ★★
+       例句: power density development is critical for energy storage systems.
+
+[ 648] specific energy simulation
+       释义: specific energysimulation
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy simulation is critical for energy storage systems.
+
+[ 649] specific energy estimation
+       释义: specific energyestimation
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy estimation is critical for energy storage systems.
+
+[ 650] specific energy prediction
+       释义: specific energyprediction
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy prediction is critical for energy storage systems.
+
+[ 651] specific energy control
+       释义: specific energycontrol
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy control is critical for energy storage systems.
+
+[ 652] specific energy monitoring
+       释义: specific energymonitoring
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy monitoring is critical for energy storage systems.
+
+[ 653] specific energy diagnosis
+       释义: specific energydiagnosis
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy diagnosis is critical for energy storage systems.
+
+[ 654] specific energy prognosis
+       释义: specific energyprognosis
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy prognosis is critical for energy storage systems.
+
+[ 655] specific energy design
+       释义: specific energydesign
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy design is critical for energy storage systems.
+
+[ 656] specific energy development
+       释义: specific energydevelopment
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy development is critical for energy storage systems.
+
+[ 657] specific energy testing
+       释义: specific energytesting
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy testing is critical for energy storage systems.
+
+[ 658] specific energy validation
+       释义: specific energyvalidation
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy validation is critical for energy storage systems.
+
+[ 659] specific energy verification
+       释义: specific energyverification
+       音标: /specific-energ/
+       难度: ★★
+       例句: specific energy verification is critical for energy storage systems.
+
+[ 660] specific power modeling
+       释义: specific powermodeling
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power modeling is critical for energy storage systems.
+
+[ 661] specific power estimation
+       释义: specific powerestimation
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power estimation is critical for energy storage systems.
+
+[ 662] specific power analysis
+       释义: specific poweranalysis
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power analysis is critical for energy storage systems.
+
+[ 663] specific power optimization
+       释义: specific poweroptimization
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power optimization is critical for energy storage systems.
+
+[ 664] specific power monitoring
+       释义: specific powermonitoring
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power monitoring is critical for energy storage systems.
+
+[ 665] specific power diagnosis
+       释义: specific powerdiagnosis
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power diagnosis is critical for energy storage systems.
+
+[ 666] specific power prognosis
+       释义: specific powerprognosis
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power prognosis is critical for energy storage systems.
+
+[ 667] specific power design
+       释义: specific powerdesign
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power design is critical for energy storage systems.
+
+[ 668] specific power development
+       释义: specific powerdevelopment
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power development is critical for energy storage systems.
+
+[ 669] specific power testing
+       释义: specific powertesting
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power testing is critical for energy storage systems.
+
+[ 670] specific power validation
+       释义: specific powervalidation
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power validation is critical for energy storage systems.
+
+[ 671] specific power verification
+       释义: specific powerverification
+       音标: /specific-power/
+       难度: ★★
+       例句: specific power verification is critical for energy storage systems.
+
+[ 672] volumetric energy density modeling
+       释义: volumetric energy densitymodeling
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density modeling is critical for energy storage systems.
+
+[ 673] volumetric energy density simulation
+       释义: volumetric energy densitysimulation
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density simulation is critical for energy storage systems.
+
+[ 674] volumetric energy density prediction
+       释义: volumetric energy densityprediction
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density prediction is critical for energy storage systems.
+
+[ 675] volumetric energy density analysis
+       释义: volumetric energy densityanalysis
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density analysis is critical for energy storage systems.
+
+[ 676] volumetric energy density diagnosis
+       释义: volumetric energy densitydiagnosis
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density diagnosis is critical for energy storage systems.
+
+[ 677] volumetric energy density prognosis
+       释义: volumetric energy densityprognosis
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density prognosis is critical for energy storage systems.
+
+[ 678] volumetric energy density design
+       释义: volumetric energy densitydesign
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density design is critical for energy storage systems.
+
+[ 679] volumetric energy density development
+       释义: volumetric energy densitydevelopment
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density development is critical for energy storage systems.
+
+[ 680] volumetric energy density testing
+       释义: volumetric energy densitytesting
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density testing is critical for energy storage systems.
+
+[ 681] volumetric energy density validation
+       释义: volumetric energy densityvalidation
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density validation is critical for energy storage systems.
+
+[ 682] volumetric energy density verification
+       释义: volumetric energy densityverification
+       音标: /volumetric-ene/
+       难度: ★★
+       例句: volumetric energy density verification is critical for energy storage systems.
+
+[ 683] gravimetric energy density modeling
+       释义: gravimetric energy densitymodeling
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density modeling is critical for energy storage systems.
+
+[ 684] gravimetric energy density estimation
+       释义: gravimetric energy densityestimation
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density estimation is critical for energy storage systems.
+
+[ 685] gravimetric energy density prediction
+       释义: gravimetric energy densityprediction
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density prediction is critical for energy storage systems.
+
+[ 686] gravimetric energy density analysis
+       释义: gravimetric energy densityanalysis
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density analysis is critical for energy storage systems.
+
+[ 687] gravimetric energy density control
+       释义: gravimetric energy densitycontrol
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density control is critical for energy storage systems.
+
+[ 688] gravimetric energy density monitoring
+       释义: gravimetric energy densitymonitoring
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density monitoring is critical for energy storage systems.
+
+[ 689] gravimetric energy density diagnosis
+       释义: gravimetric energy densitydiagnosis
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density diagnosis is critical for energy storage systems.
+
+[ 690] gravimetric energy density prognosis
+       释义: gravimetric energy densityprognosis
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density prognosis is critical for energy storage systems.
+
+[ 691] gravimetric energy density design
+       释义: gravimetric energy densitydesign
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density design is critical for energy storage systems.
+
+[ 692] gravimetric energy density development
+       释义: gravimetric energy densitydevelopment
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density development is critical for energy storage systems.
+
+[ 693] gravimetric energy density testing
+       释义: gravimetric energy densitytesting
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density testing is critical for energy storage systems.
+
+[ 694] gravimetric energy density verification
+       释义: gravimetric energy densityverification
+       音标: /gravimetric-en/
+       难度: ★★
+       例句: gravimetric energy density verification is critical for energy storage systems.
+
+[ 695] charging rate modeling
+       释义: charging ratemodeling
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate modeling is critical for energy storage systems.
+
+[ 696] charging rate simulation
+       释义: charging ratesimulation
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate simulation is critical for energy storage systems.
+
+[ 697] charging rate estimation
+       释义: charging rateestimation
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate estimation is critical for energy storage systems.
+
+[ 698] charging rate prediction
+       释义: charging rateprediction
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate prediction is critical for energy storage systems.
+
+[ 699] charging rate optimization
+       释义: charging rateoptimization
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate optimization is critical for energy storage systems.
+
+[ 700] charging rate control
+       释义: charging ratecontrol
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate control is critical for energy storage systems.
+
+[ 701] charging rate diagnosis
+       释义: charging ratediagnosis
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate diagnosis is critical for energy storage systems.
+
+[ 702] charging rate design
+       释义: charging ratedesign
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate design is critical for energy storage systems.
+
+[ 703] charging rate development
+       释义: charging ratedevelopment
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate development is critical for energy storage systems.
+
+[ 704] charging rate testing
+       释义: charging ratetesting
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate testing is critical for energy storage systems.
+
+[ 705] charging rate verification
+       释义: charging rateverification
+       音标: /charging-rate-/
+       难度: ★★
+       例句: charging rate verification is critical for energy storage systems.
+
+[ 706] discharging rate modeling
+       释义: discharging ratemodeling
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate modeling is critical for energy storage systems.
+
+[ 707] discharging rate simulation
+       释义: discharging ratesimulation
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate simulation is critical for energy storage systems.
+
+[ 708] discharging rate estimation
+       释义: discharging rateestimation
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate estimation is critical for energy storage systems.
+
+[ 709] discharging rate prediction
+       释义: discharging rateprediction
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate prediction is critical for energy storage systems.
+
+[ 710] discharging rate analysis
+       释义: discharging rateanalysis
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate analysis is critical for energy storage systems.
+
+[ 711] discharging rate optimization
+       释义: discharging rateoptimization
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate optimization is critical for energy storage systems.
+
+[ 712] discharging rate control
+       释义: discharging ratecontrol
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate control is critical for energy storage systems.
+
+[ 713] discharging rate monitoring
+       释义: discharging ratemonitoring
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate monitoring is critical for energy storage systems.
+
+[ 714] discharging rate diagnosis
+       释义: discharging ratediagnosis
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate diagnosis is critical for energy storage systems.
+
+[ 715] discharging rate prognosis
+       释义: discharging rateprognosis
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate prognosis is critical for energy storage systems.
+
+[ 716] discharging rate design
+       释义: discharging ratedesign
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate design is critical for energy storage systems.
+
+[ 717] discharging rate development
+       释义: discharging ratedevelopment
+       音标: /discharging-ra/
+       难度: ★★
+       例句: discharging rate development is critical for energy storage systems.
+
+[ 718] peak power simulation
+       释义: peak powersimulation
+       音标: /peak-power-sim/
+       难度: ★★
+       例句: peak power simulation is critical for energy storage systems.
+
+[ 719] peak power estimation
+       释义: peak powerestimation
+       音标: /peak-power-est/
+       难度: ★★
+       例句: peak power estimation is critical for energy storage systems.
+
+[ 720] peak power analysis
+       释义: peak poweranalysis
+       音标: /peak-power-ana/
+       难度: ★★
+       例句: peak power analysis is critical for energy storage systems.
+
+[ 721] peak power optimization
+       释义: peak poweroptimization
+       音标: /peak-power-opt/
+       难度: ★★
+       例句: peak power optimization is critical for energy storage systems.
+
+[ 722] peak power control
+       释义: peak powercontrol
+       音标: /peak-power-con/
+       难度: ★★
+       例句: peak power control is critical for energy storage systems.
+
+[ 723] peak power monitoring
+       释义: peak powermonitoring
+       音标: /peak-power-mon/
+       难度: ★★
+       例句: peak power monitoring is critical for energy storage systems.
+
+[ 724] peak power diagnosis
+       释义: peak powerdiagnosis
+       音标: /peak-power-dia/
+       难度: ★★
+       例句: peak power diagnosis is critical for energy storage systems.
+
+[ 725] peak power prognosis
+       释义: peak powerprognosis
+       音标: /peak-power-pro/
+       难度: ★★
+       例句: peak power prognosis is critical for energy storage systems.
+
+[ 726] peak power development
+       释义: peak powerdevelopment
+       音标: /peak-power-dev/
+       难度: ★★
+       例句: peak power development is critical for energy storage systems.
+
+[ 727] peak power testing
+       释义: peak powertesting
+       音标: /peak-power-tes/
+       难度: ★★
+       例句: peak power testing is critical for energy storage systems.
+
+[ 728] peak power validation
+       释义: peak powervalidation
+       音标: /peak-power-val/
+       难度: ★★
+       例句: peak power validation is critical for energy storage systems.
+
+[ 729] peak power verification
+       释义: peak powerverification
+       音标: /peak-power-ver/
+       难度: ★★
+       例句: peak power verification is critical for energy storage systems.
+
+[ 730] continuous power modeling
+       释义: continuous powermodeling
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power modeling is critical for energy storage systems.
+
+[ 731] continuous power simulation
+       释义: continuous powersimulation
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power simulation is critical for energy storage systems.
+
+[ 732] continuous power estimation
+       释义: continuous powerestimation
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power estimation is critical for energy storage systems.
+
+[ 733] continuous power optimization
+       释义: continuous poweroptimization
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power optimization is critical for energy storage systems.
+
+[ 734] continuous power control
+       释义: continuous powercontrol
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power control is critical for energy storage systems.
+
+[ 735] continuous power diagnosis
+       释义: continuous powerdiagnosis
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power diagnosis is critical for energy storage systems.
+
+[ 736] continuous power prognosis
+       释义: continuous powerprognosis
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power prognosis is critical for energy storage systems.
+
+[ 737] continuous power design
+       释义: continuous powerdesign
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power design is critical for energy storage systems.
+
+[ 738] continuous power development
+       释义: continuous powerdevelopment
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power development is critical for energy storage systems.
+
+[ 739] continuous power testing
+       释义: continuous powertesting
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power testing is critical for energy storage systems.
+
+[ 740] continuous power validation
+       释义: continuous powervalidation
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power validation is critical for energy storage systems.
+
+[ 741] continuous power verification
+       释义: continuous powerverification
+       音标: /continuous-pow/
+       难度: ★★
+       例句: continuous power verification is critical for energy storage systems.
+
+[ 742] nominal voltage modeling
+       释义: nominal voltagemodeling
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage modeling is critical for energy storage systems.
+
+[ 743] nominal voltage simulation
+       释义: nominal voltagesimulation
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage simulation is critical for energy storage systems.
+
+[ 744] nominal voltage estimation
+       释义: nominal voltageestimation
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage estimation is critical for energy storage systems.
+
+[ 745] nominal voltage prediction
+       释义: nominal voltageprediction
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage prediction is critical for energy storage systems.
+
+[ 746] nominal voltage analysis
+       释义: nominal voltageanalysis
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage analysis is critical for energy storage systems.
+
+[ 747] nominal voltage optimization
+       释义: nominal voltageoptimization
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage optimization is critical for energy storage systems.
+
+[ 748] nominal voltage control
+       释义: nominal voltagecontrol
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage control is critical for energy storage systems.
+
+[ 749] nominal voltage monitoring
+       释义: nominal voltagemonitoring
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage monitoring is critical for energy storage systems.
+
+[ 750] nominal voltage prognosis
+       释义: nominal voltageprognosis
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage prognosis is critical for energy storage systems.
+
+[ 751] nominal voltage design
+       释义: nominal voltagedesign
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage design is critical for energy storage systems.
+
+[ 752] nominal voltage testing
+       释义: nominal voltagetesting
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage testing is critical for energy storage systems.
+
+[ 753] nominal voltage validation
+       释义: nominal voltagevalidation
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage validation is critical for energy storage systems.
+
+[ 754] nominal voltage verification
+       释义: nominal voltageverification
+       音标: /nominal-voltag/
+       难度: ★★
+       例句: nominal voltage verification is critical for energy storage systems.
+
+[ 755] operating voltage simulation
+       释义: operating voltagesimulation
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage simulation is critical for energy storage systems.
+
+[ 756] operating voltage estimation
+       释义: operating voltageestimation
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage estimation is critical for energy storage systems.
+
+[ 757] operating voltage prediction
+       释义: operating voltageprediction
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage prediction is critical for energy storage systems.
+
+[ 758] operating voltage optimization
+       释义: operating voltageoptimization
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage optimization is critical for energy storage systems.
+
+[ 759] operating voltage control
+       释义: operating voltagecontrol
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage control is critical for energy storage systems.
+
+[ 760] operating voltage monitoring
+       释义: operating voltagemonitoring
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage monitoring is critical for energy storage systems.
+
+[ 761] operating voltage diagnosis
+       释义: operating voltagediagnosis
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage diagnosis is critical for energy storage systems.
+
+[ 762] operating voltage design
+       释义: operating voltagedesign
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage design is critical for energy storage systems.
+
+[ 763] operating voltage development
+       释义: operating voltagedevelopment
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage development is critical for energy storage systems.
+
+[ 764] operating voltage testing
+       释义: operating voltagetesting
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage testing is critical for energy storage systems.
+
+[ 765] operating voltage verification
+       释义: operating voltageverification
+       音标: /operating-volt/
+       难度: ★★
+       例句: operating voltage verification is critical for energy storage systems.
+
+[ 766] cutoff voltage modeling
+       释义: cutoff voltagemodeling
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage modeling is critical for energy storage systems.
+
+[ 767] cutoff voltage simulation
+       释义: cutoff voltagesimulation
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage simulation is critical for energy storage systems.
+
+[ 768] cutoff voltage prediction
+       释义: cutoff voltageprediction
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage prediction is critical for energy storage systems.
+
+[ 769] cutoff voltage analysis
+       释义: cutoff voltageanalysis
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage analysis is critical for energy storage systems.
+
+[ 770] cutoff voltage optimization
+       释义: cutoff voltageoptimization
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage optimization is critical for energy storage systems.
+
+[ 771] cutoff voltage control
+       释义: cutoff voltagecontrol
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage control is critical for energy storage systems.
+
+[ 772] cutoff voltage monitoring
+       释义: cutoff voltagemonitoring
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage monitoring is critical for energy storage systems.
+
+[ 773] cutoff voltage testing
+       释义: cutoff voltagetesting
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage testing is critical for energy storage systems.
+
+[ 774] cutoff voltage validation
+       释义: cutoff voltagevalidation
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage validation is critical for energy storage systems.
+
+[ 775] cutoff voltage verification
+       释义: cutoff voltageverification
+       音标: /cutoff-voltage/
+       难度: ★★
+       例句: cutoff voltage verification is critical for energy storage systems.
+
+[ 776] open circuit voltage modeling
+       释义: open circuit voltagemodeling
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage modeling is critical for energy storage systems.
+
+[ 777] open circuit voltage simulation
+       释义: open circuit voltagesimulation
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage simulation is critical for energy storage systems.
+
+[ 778] open circuit voltage estimation
+       释义: open circuit voltageestimation
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage estimation is critical for energy storage systems.
+
+[ 779] open circuit voltage prediction
+       释义: open circuit voltageprediction
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage prediction is critical for energy storage systems.
+
+[ 780] open circuit voltage analysis
+       释义: open circuit voltageanalysis
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage analysis is critical for energy storage systems.
+
+[ 781] open circuit voltage optimization
+       释义: open circuit voltageoptimization
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage optimization is critical for energy storage systems.
+
+[ 782] open circuit voltage control
+       释义: open circuit voltagecontrol
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage control is critical for energy storage systems.
+
+[ 783] open circuit voltage design
+       释义: open circuit voltagedesign
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage design is critical for energy storage systems.
+
+[ 784] open circuit voltage development
+       释义: open circuit voltagedevelopment
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage development is critical for energy storage systems.
+
+[ 785] open circuit voltage validation
+       释义: open circuit voltagevalidation
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage validation is critical for energy storage systems.
+
+[ 786] open circuit voltage verification
+       释义: open circuit voltageverification
+       音标: /open-circuit-v/
+       难度: ★★
+       例句: open circuit voltage verification is critical for energy storage systems.
+
+[ 787] internal resistance simulation
+       释义: internal resistancesimulation
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance simulation is critical for energy storage systems.
+
+[ 788] internal resistance estimation
+       释义: internal resistanceestimation
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance estimation is critical for energy storage systems.
+
+[ 789] internal resistance prediction
+       释义: internal resistanceprediction
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance prediction is critical for energy storage systems.
+
+[ 790] internal resistance control
+       释义: internal resistancecontrol
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance control is critical for energy storage systems.
+
+[ 791] internal resistance diagnosis
+       释义: internal resistancediagnosis
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance diagnosis is critical for energy storage systems.
+
+[ 792] internal resistance prognosis
+       释义: internal resistanceprognosis
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance prognosis is critical for energy storage systems.
+
+[ 793] internal resistance design
+       释义: internal resistancedesign
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance design is critical for energy storage systems.
+
+[ 794] internal resistance development
+       释义: internal resistancedevelopment
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance development is critical for energy storage systems.
+
+[ 795] internal resistance testing
+       释义: internal resistancetesting
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance testing is critical for energy storage systems.
+
+[ 796] internal resistance validation
+       释义: internal resistancevalidation
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance validation is critical for energy storage systems.
+
+[ 797] internal resistance verification
+       释义: internal resistanceverification
+       音标: /internal-resis/
+       难度: ★★
+       例句: internal resistance verification is critical for energy storage systems.
+
+[ 798] DC resistance modeling
+       释义: DC resistancemodeling
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance modeling is critical for energy storage systems.
+
+[ 799] DC resistance simulation
+       释义: DC resistancesimulation
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance simulation is critical for energy storage systems.
+
+[ 800] DC resistance estimation
+       释义: DC resistanceestimation
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance estimation is critical for energy storage systems.
+
+[ 801] DC resistance prediction
+       释义: DC resistanceprediction
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance prediction is critical for energy storage systems.
+
+[ 802] DC resistance optimization
+       释义: DC resistanceoptimization
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance optimization is critical for energy storage systems.
+
+[ 803] DC resistance prognosis
+       释义: DC resistanceprognosis
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance prognosis is critical for energy storage systems.
+
+[ 804] DC resistance development
+       释义: DC resistancedevelopment
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance development is critical for energy storage systems.
+
+[ 805] DC resistance testing
+       释义: DC resistancetesting
+       音标: /dc-resistance-/
+       难度: ★★
+       例句: DC resistance testing is critical for energy storage systems.
+
+[ 806] AC impedance modeling
+       释义: AC impedancemodeling
+       音标: /ac-impedance-m/
+       难度: ★★
+       例句: AC impedance modeling is critical for energy storage systems.
+
+[ 807] AC impedance simulation
+       释义: AC impedancesimulation
+       音标: /ac-impedance-s/
+       难度: ★★
+       例句: AC impedance simulation is critical for energy storage systems.
+
+[ 808] AC impedance estimation
+       释义: AC impedanceestimation
+       音标: /ac-impedance-e/
+       难度: ★★
+       例句: AC impedance estimation is critical for energy storage systems.
+
+[ 809] AC impedance prediction
+       释义: AC impedanceprediction
+       音标: /ac-impedance-p/
+       难度: ★★
+       例句: AC impedance prediction is critical for energy storage systems.
+
+[ 810] AC impedance control
+       释义: AC impedancecontrol
+       音标: /ac-impedance-c/
+       难度: ★★
+       例句: AC impedance control is critical for energy storage systems.
+
+[ 811] AC impedance monitoring
+       释义: AC impedancemonitoring
+       音标: /ac-impedance-m/
+       难度: ★★
+       例句: AC impedance monitoring is critical for energy storage systems.
+
+[ 812] AC impedance design
+       释义: AC impedancedesign
+       音标: /ac-impedance-d/
+       难度: ★★
+       例句: AC impedance design is critical for energy storage systems.
+
+[ 813] AC impedance validation
+       释义: AC impedancevalidation
+       音标: /ac-impedance-v/
+       难度: ★★
+       例句: AC impedance validation is critical for energy storage systems.
+
+[ 814] AC impedance verification
+       释义: AC impedanceverification
+       音标: /ac-impedance-v/
+       难度: ★★
+       例句: AC impedance verification is critical for energy storage systems.
+
+[ 815] ohmic resistance simulation
+       释义: ohmic resistancesimulation
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance simulation is critical for energy storage systems.
+
+[ 816] ohmic resistance analysis
+       释义: ohmic resistanceanalysis
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance analysis is critical for energy storage systems.
+
+[ 817] ohmic resistance monitoring
+       释义: ohmic resistancemonitoring
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance monitoring is critical for energy storage systems.
+
+[ 818] ohmic resistance diagnosis
+       释义: ohmic resistancediagnosis
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance diagnosis is critical for energy storage systems.
+
+[ 819] ohmic resistance design
+       释义: ohmic resistancedesign
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance design is critical for energy storage systems.
+
+[ 820] ohmic resistance development
+       释义: ohmic resistancedevelopment
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance development is critical for energy storage systems.
+
+[ 821] ohmic resistance testing
+       释义: ohmic resistancetesting
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance testing is critical for energy storage systems.
+
+[ 822] ohmic resistance validation
+       释义: ohmic resistancevalidation
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance validation is critical for energy storage systems.
+
+[ 823] ohmic resistance verification
+       释义: ohmic resistanceverification
+       音标: /ohmic-resistan/
+       难度: ★★
+       例句: ohmic resistance verification is critical for energy storage systems.
+
+[ 824] self-discharge rate simulation
+       释义: self-discharge ratesimulation
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate simulation is critical for energy storage systems.
+
+[ 825] self-discharge rate estimation
+       释义: self-discharge rateestimation
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate estimation is critical for energy storage systems.
+
+[ 826] self-discharge rate prediction
+       释义: self-discharge rateprediction
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate prediction is critical for energy storage systems.
+
+[ 827] self-discharge rate optimization
+       释义: self-discharge rateoptimization
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate optimization is critical for energy storage systems.
+
+[ 828] self-discharge rate control
+       释义: self-discharge ratecontrol
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate control is critical for energy storage systems.
+
+[ 829] self-discharge rate monitoring
+       释义: self-discharge ratemonitoring
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate monitoring is critical for energy storage systems.
+
+[ 830] self-discharge rate diagnosis
+       释义: self-discharge ratediagnosis
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate diagnosis is critical for energy storage systems.
+
+[ 831] self-discharge rate prognosis
+       释义: self-discharge rateprognosis
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate prognosis is critical for energy storage systems.
+
+[ 832] self-discharge rate design
+       释义: self-discharge ratedesign
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate design is critical for energy storage systems.
+
+[ 833] self-discharge rate development
+       释义: self-discharge ratedevelopment
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate development is critical for energy storage systems.
+
+[ 834] self-discharge rate validation
+       释义: self-discharge ratevalidation
+       音标: /self-discharge/
+       难度: ★★
+       例句: self-discharge rate validation is critical for energy storage systems.
+
+[ 835] coulombic efficiency modeling
+       释义: coulombic efficiencymodeling
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency modeling is critical for energy storage systems.
+
+[ 836] coulombic efficiency simulation
+       释义: coulombic efficiencysimulation
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency simulation is critical for energy storage systems.
+
+[ 837] coulombic efficiency estimation
+       释义: coulombic efficiencyestimation
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency estimation is critical for energy storage systems.
+
+[ 838] coulombic efficiency prediction
+       释义: coulombic efficiencyprediction
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency prediction is critical for energy storage systems.
+
+[ 839] coulombic efficiency analysis
+       释义: coulombic efficiencyanalysis
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency analysis is critical for energy storage systems.
+
+[ 840] coulombic efficiency optimization
+       释义: coulombic efficiencyoptimization
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency optimization is critical for energy storage systems.
+
+[ 841] coulombic efficiency control
+       释义: coulombic efficiencycontrol
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency control is critical for energy storage systems.
+
+[ 842] coulombic efficiency monitoring
+       释义: coulombic efficiencymonitoring
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency monitoring is critical for energy storage systems.
+
+[ 843] coulombic efficiency diagnosis
+       释义: coulombic efficiencydiagnosis
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency diagnosis is critical for energy storage systems.
+
+[ 844] coulombic efficiency prognosis
+       释义: coulombic efficiencyprognosis
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency prognosis is critical for energy storage systems.
+
+[ 845] coulombic efficiency design
+       释义: coulombic efficiencydesign
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency design is critical for energy storage systems.
+
+[ 846] coulombic efficiency development
+       释义: coulombic efficiencydevelopment
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency development is critical for energy storage systems.
+
+[ 847] coulombic efficiency validation
+       释义: coulombic efficiencyvalidation
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency validation is critical for energy storage systems.
+
+[ 848] coulombic efficiency verification
+       释义: coulombic efficiencyverification
+       音标: /coulombic-effi/
+       难度: ★★
+       例句: coulombic efficiency verification is critical for energy storage systems.
+
+[ 849] voltaic efficiency modeling
+       释义: voltaic efficiencymodeling
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency modeling is critical for energy storage systems.
+
+[ 850] voltaic efficiency simulation
+       释义: voltaic efficiencysimulation
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency simulation is critical for energy storage systems.
+
+[ 851] voltaic efficiency estimation
+       释义: voltaic efficiencyestimation
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency estimation is critical for energy storage systems.
+
+[ 852] voltaic efficiency prediction
+       释义: voltaic efficiencyprediction
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency prediction is critical for energy storage systems.
+
+[ 853] voltaic efficiency optimization
+       释义: voltaic efficiencyoptimization
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency optimization is critical for energy storage systems.
+
+[ 854] voltaic efficiency monitoring
+       释义: voltaic efficiencymonitoring
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency monitoring is critical for energy storage systems.
+
+[ 855] voltaic efficiency diagnosis
+       释义: voltaic efficiencydiagnosis
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency diagnosis is critical for energy storage systems.
+
+[ 856] voltaic efficiency prognosis
+       释义: voltaic efficiencyprognosis
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency prognosis is critical for energy storage systems.
+
+[ 857] voltaic efficiency design
+       释义: voltaic efficiencydesign
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency design is critical for energy storage systems.
+
+[ 858] voltaic efficiency development
+       释义: voltaic efficiencydevelopment
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency development is critical for energy storage systems.
+
+[ 859] voltaic efficiency testing
+       释义: voltaic efficiencytesting
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency testing is critical for energy storage systems.
+
+[ 860] voltaic efficiency validation
+       释义: voltaic efficiencyvalidation
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency validation is critical for energy storage systems.
+
+[ 861] voltaic efficiency verification
+       释义: voltaic efficiencyverification
+       音标: /voltaic-effici/
+       难度: ★★
+       例句: voltaic efficiency verification is critical for energy storage systems.
+
+[ 862] temperature coefficient modeling
+       释义: temperature coefficientmodeling
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient modeling is critical for energy storage systems.
+
+[ 863] temperature coefficient simulation
+       释义: temperature coefficientsimulation
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient simulation is critical for energy storage systems.
+
+[ 864] temperature coefficient estimation
+       释义: temperature coefficientestimation
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient estimation is critical for energy storage systems.
+
+[ 865] temperature coefficient prediction
+       释义: temperature coefficientprediction
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient prediction is critical for energy storage systems.
+
+[ 866] temperature coefficient analysis
+       释义: temperature coefficientanalysis
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient analysis is critical for energy storage systems.
+
+[ 867] temperature coefficient optimization
+       释义: temperature coefficientoptimization
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient optimization is critical for energy storage systems.
+
+[ 868] temperature coefficient monitoring
+       释义: temperature coefficientmonitoring
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient monitoring is critical for energy storage systems.
+
+[ 869] temperature coefficient diagnosis
+       释义: temperature coefficientdiagnosis
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient diagnosis is critical for energy storage systems.
+
+[ 870] temperature coefficient design
+       释义: temperature coefficientdesign
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient design is critical for energy storage systems.
+
+[ 871] temperature coefficient testing
+       释义: temperature coefficienttesting
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient testing is critical for energy storage systems.
+
+[ 872] temperature coefficient verification
+       释义: temperature coefficientverification
+       音标: /temperature-co/
+       难度: ★★
+       例句: temperature coefficient verification is critical for energy storage systems.
+
+[ 873] thermal runaway modeling
+       释义: thermal runawaymodeling
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway modeling is critical for energy storage systems.
+
+[ 874] thermal runaway estimation
+       释义: thermal runawayestimation
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway estimation is critical for energy storage systems.
+
+[ 875] thermal runaway prediction
+       释义: thermal runawayprediction
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway prediction is critical for energy storage systems.
+
+[ 876] thermal runaway optimization
+       释义: thermal runawayoptimization
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway optimization is critical for energy storage systems.
+
+[ 877] thermal runaway monitoring
+       释义: thermal runawaymonitoring
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway monitoring is critical for energy storage systems.
+
+[ 878] thermal runaway diagnosis
+       释义: thermal runawaydiagnosis
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway diagnosis is critical for energy storage systems.
+
+[ 879] thermal runaway prognosis
+       释义: thermal runawayprognosis
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway prognosis is critical for energy storage systems.
+
+[ 880] thermal runaway design
+       释义: thermal runawaydesign
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway design is critical for energy storage systems.
+
+[ 881] thermal runaway validation
+       释义: thermal runawayvalidation
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway validation is critical for energy storage systems.
+
+[ 882] thermal runaway verification
+       释义: thermal runawayverification
+       音标: /thermal-runawa/
+       难度: ★★
+       例句: thermal runaway verification is critical for energy storage systems.
+
+[ 883] thermal propagation modeling
+       释义: thermal propagationmodeling
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation modeling is critical for energy storage systems.
+
+[ 884] thermal propagation simulation
+       释义: thermal propagationsimulation
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation simulation is critical for energy storage systems.
+
+[ 885] thermal propagation optimization
+       释义: thermal propagationoptimization
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation optimization is critical for energy storage systems.
+
+[ 886] thermal propagation control
+       释义: thermal propagationcontrol
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation control is critical for energy storage systems.
+
+[ 887] thermal propagation monitoring
+       释义: thermal propagationmonitoring
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation monitoring is critical for energy storage systems.
+
+[ 888] thermal propagation diagnosis
+       释义: thermal propagationdiagnosis
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation diagnosis is critical for energy storage systems.
+
+[ 889] thermal propagation development
+       释义: thermal propagationdevelopment
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation development is critical for energy storage systems.
+
+[ 890] thermal propagation testing
+       释义: thermal propagationtesting
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation testing is critical for energy storage systems.
+
+[ 891] thermal propagation validation
+       释义: thermal propagationvalidation
+       音标: /thermal-propag/
+       难度: ★★
+       例句: thermal propagation validation is critical for energy storage systems.
+
+[ 892] cell balancing modeling
+       释义: cell balancingmodeling
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing modeling is critical for energy storage systems.
+
+[ 893] cell balancing simulation
+       释义: cell balancingsimulation
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing simulation is critical for energy storage systems.
+
+[ 894] cell balancing estimation
+       释义: cell balancingestimation
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing estimation is critical for energy storage systems.
+
+[ 895] cell balancing analysis
+       释义: cell balancinganalysis
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing analysis is critical for energy storage systems.
+
+[ 896] cell balancing optimization
+       释义: cell balancingoptimization
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing optimization is critical for energy storage systems.
+
+[ 897] cell balancing control
+       释义: cell balancingcontrol
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing control is critical for energy storage systems.
+
+[ 898] cell balancing monitoring
+       释义: cell balancingmonitoring
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing monitoring is critical for energy storage systems.
+
+[ 899] cell balancing prognosis
+       释义: cell balancingprognosis
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing prognosis is critical for energy storage systems.
+
+[ 900] cell balancing design
+       释义: cell balancingdesign
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing design is critical for energy storage systems.
+
+[ 901] cell balancing development
+       释义: cell balancingdevelopment
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing development is critical for energy storage systems.
+
+[ 902] cell balancing testing
+       释义: cell balancingtesting
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing testing is critical for energy storage systems.
+
+[ 903] cell balancing validation
+       释义: cell balancingvalidation
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing validation is critical for energy storage systems.
+
+[ 904] cell balancing verification
+       释义: cell balancingverification
+       音标: /cell-balancing/
+       难度: ★★
+       例句: cell balancing verification is critical for energy storage systems.
+
+[ 905] passive balancing modeling
+       释义: passive balancingmodeling
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing modeling is critical for energy storage systems.
+
+[ 906] passive balancing simulation
+       释义: passive balancingsimulation
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing simulation is critical for energy storage systems.
+
+[ 907] passive balancing estimation
+       释义: passive balancingestimation
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing estimation is critical for energy storage systems.
+
+[ 908] passive balancing prediction
+       释义: passive balancingprediction
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing prediction is critical for energy storage systems.
+
+[ 909] passive balancing analysis
+       释义: passive balancinganalysis
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing analysis is critical for energy storage systems.
+
+[ 910] passive balancing optimization
+       释义: passive balancingoptimization
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing optimization is critical for energy storage systems.
+
+[ 911] passive balancing prognosis
+       释义: passive balancingprognosis
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing prognosis is critical for energy storage systems.
+
+[ 912] passive balancing design
+       释义: passive balancingdesign
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing design is critical for energy storage systems.
+
+[ 913] passive balancing development
+       释义: passive balancingdevelopment
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing development is critical for energy storage systems.
+
+[ 914] passive balancing testing
+       释义: passive balancingtesting
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing testing is critical for energy storage systems.
+
+[ 915] passive balancing validation
+       释义: passive balancingvalidation
+       音标: /passive-balanc/
+       难度: ★★
+       例句: passive balancing validation is critical for energy storage systems.
+
+[ 916] active balancing modeling
+       释义: active balancingmodeling
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing modeling is critical for energy storage systems.
+
+[ 917] active balancing simulation
+       释义: active balancingsimulation
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing simulation is critical for energy storage systems.
+
+[ 918] active balancing optimization
+       释义: active balancingoptimization
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing optimization is critical for energy storage systems.
+
+[ 919] active balancing monitoring
+       释义: active balancingmonitoring
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing monitoring is critical for energy storage systems.
+
+[ 920] active balancing diagnosis
+       释义: active balancingdiagnosis
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing diagnosis is critical for energy storage systems.
+
+[ 921] active balancing prognosis
+       释义: active balancingprognosis
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing prognosis is critical for energy storage systems.
+
+[ 922] active balancing testing
+       释义: active balancingtesting
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing testing is critical for energy storage systems.
+
+[ 923] active balancing verification
+       释义: active balancingverification
+       音标: /active-balanci/
+       难度: ★★
+       例句: active balancing verification is critical for energy storage systems.
+
+[ 924] top balancing modeling
+       释义: top balancingmodeling
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing modeling is critical for energy storage systems.
+
+[ 925] top balancing simulation
+       释义: top balancingsimulation
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing simulation is critical for energy storage systems.
+
+[ 926] top balancing estimation
+       释义: top balancingestimation
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing estimation is critical for energy storage systems.
+
+[ 927] top balancing prediction
+       释义: top balancingprediction
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing prediction is critical for energy storage systems.
+
+[ 928] top balancing analysis
+       释义: top balancinganalysis
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing analysis is critical for energy storage systems.
+
+[ 929] top balancing optimization
+       释义: top balancingoptimization
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing optimization is critical for energy storage systems.
+
+[ 930] top balancing diagnosis
+       释义: top balancingdiagnosis
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing diagnosis is critical for energy storage systems.
+
+[ 931] top balancing prognosis
+       释义: top balancingprognosis
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing prognosis is critical for energy storage systems.
+
+[ 932] top balancing design
+       释义: top balancingdesign
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing design is critical for energy storage systems.
+
+[ 933] top balancing development
+       释义: top balancingdevelopment
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing development is critical for energy storage systems.
+
+[ 934] top balancing validation
+       释义: top balancingvalidation
+       音标: /top-balancing-/
+       难度: ★★
+       例句: top balancing validation is critical for energy storage systems.
+
+[ 935] state of charge estimation modeling
+       释义: state of charge estimationmodeling
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation modeling is critical for energy storage systems.
+
+[ 936] state of charge estimation simulation
+       释义: state of charge estimationsimulation
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation simulation is critical for energy storage systems.
+
+[ 937] state of charge estimation prediction
+       释义: state of charge estimationprediction
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation prediction is critical for energy storage systems.
+
+[ 938] state of charge estimation analysis
+       释义: state of charge estimationanalysis
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation analysis is critical for energy storage systems.
+
+[ 939] state of charge estimation optimization
+       释义: state of charge estimationoptimization
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation optimization is critical for energy storage systems.
+
+[ 940] state of charge estimation control
+       释义: state of charge estimationcontrol
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation control is critical for energy storage systems.
+
+[ 941] state of charge estimation monitoring
+       释义: state of charge estimationmonitoring
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation monitoring is critical for energy storage systems.
+
+[ 942] state of charge estimation diagnosis
+       释义: state of charge estimationdiagnosis
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation diagnosis is critical for energy storage systems.
+
+[ 943] state of charge estimation prognosis
+       释义: state of charge estimationprognosis
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation prognosis is critical for energy storage systems.
+
+[ 944] state of charge estimation design
+       释义: state of charge estimationdesign
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation design is critical for energy storage systems.
+
+[ 945] state of charge estimation development
+       释义: state of charge estimationdevelopment
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation development is critical for energy storage systems.
+
+[ 946] state of charge estimation testing
+       释义: state of charge estimationtesting
+       音标: /state-of-charg/
+       难度: ★★
+       例句: state of charge estimation testing is critical for energy storage systems.
+
+[ 947] state of health estimation modeling
+       释义: state of health estimationmodeling
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation modeling is critical for energy storage systems.
+
+[ 948] state of health estimation simulation
+       释义: state of health estimationsimulation
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation simulation is critical for energy storage systems.
+
+[ 949] state of health estimation estimation
+       释义: state of health estimationestimation
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation estimation is critical for energy storage systems.
+
+[ 950] state of health estimation control
+       释义: state of health estimationcontrol
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation control is critical for energy storage systems.
+
+[ 951] state of health estimation monitoring
+       释义: state of health estimationmonitoring
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation monitoring is critical for energy storage systems.
+
+[ 952] state of health estimation diagnosis
+       释义: state of health estimationdiagnosis
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation diagnosis is critical for energy storage systems.
+
+[ 953] state of health estimation prognosis
+       释义: state of health estimationprognosis
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation prognosis is critical for energy storage systems.
+
+[ 954] state of health estimation design
+       释义: state of health estimationdesign
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation design is critical for energy storage systems.
+
+[ 955] state of health estimation testing
+       释义: state of health estimationtesting
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation testing is critical for energy storage systems.
+
+[ 956] state of health estimation validation
+       释义: state of health estimationvalidation
+       音标: /state-of-healt/
+       难度: ★★
+       例句: state of health estimation validation is critical for energy storage systems.
+
+[ 957] remaining useful life simulation
+       释义: remaining useful lifesimulation
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life simulation is critical for energy storage systems.
+
+[ 958] remaining useful life prediction
+       释义: remaining useful lifeprediction
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life prediction is critical for energy storage systems.
+
+[ 959] remaining useful life analysis
+       释义: remaining useful lifeanalysis
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life analysis is critical for energy storage systems.
+
+[ 960] remaining useful life optimization
+       释义: remaining useful lifeoptimization
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life optimization is critical for energy storage systems.
+
+[ 961] remaining useful life prognosis
+       释义: remaining useful lifeprognosis
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life prognosis is critical for energy storage systems.
+
+[ 962] remaining useful life design
+       释义: remaining useful lifedesign
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life design is critical for energy storage systems.
+
+[ 963] remaining useful life development
+       释义: remaining useful lifedevelopment
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life development is critical for energy storage systems.
+
+[ 964] remaining useful life testing
+       释义: remaining useful lifetesting
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life testing is critical for energy storage systems.
+
+[ 965] remaining useful life validation
+       释义: remaining useful lifevalidation
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life validation is critical for energy storage systems.
+
+[ 966] remaining useful life verification
+       释义: remaining useful lifeverification
+       音标: /remaining-usef/
+       难度: ★★
+       例句: remaining useful life verification is critical for energy storage systems.
+
+[ 967] end of life criteria modeling
+       释义: end of life criteriamodeling
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria modeling is critical for energy storage systems.
+
+[ 968] end of life criteria simulation
+       释义: end of life criteriasimulation
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria simulation is critical for energy storage systems.
+
+[ 969] end of life criteria estimation
+       释义: end of life criteriaestimation
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria estimation is critical for energy storage systems.
+
+[ 970] end of life criteria prediction
+       释义: end of life criteriaprediction
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria prediction is critical for energy storage systems.
+
+[ 971] end of life criteria optimization
+       释义: end of life criteriaoptimization
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria optimization is critical for energy storage systems.
+
+[ 972] end of life criteria monitoring
+       释义: end of life criteriamonitoring
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria monitoring is critical for energy storage systems.
+
+[ 973] end of life criteria diagnosis
+       释义: end of life criteriadiagnosis
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria diagnosis is critical for energy storage systems.
+
+[ 974] end of life criteria prognosis
+       释义: end of life criteriaprognosis
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria prognosis is critical for energy storage systems.
+
+[ 975] end of life criteria development
+       释义: end of life criteriadevelopment
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria development is critical for energy storage systems.
+
+[ 976] end of life criteria validation
+       释义: end of life criteriavalidation
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria validation is critical for energy storage systems.
+
+[ 977] end of life criteria verification
+       释义: end of life criteriaverification
+       音标: /end-of-life-cr/
+       难度: ★★
+       例句: end of life criteria verification is critical for energy storage systems.
+
+[ 978] battery management simulation
+       释义: battery managementsimulation
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management simulation is critical for energy storage systems.
+
+[ 979] battery management prediction
+       释义: battery managementprediction
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management prediction is critical for energy storage systems.
+
+[ 980] battery management analysis
+       释义: battery managementanalysis
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management analysis is critical for energy storage systems.
+
+[ 981] battery management control
+       释义: battery managementcontrol
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management control is critical for energy storage systems.
+
+[ 982] battery management monitoring
+       释义: battery managementmonitoring
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management monitoring is critical for energy storage systems.
+
+[ 983] battery management development
+       释义: battery managementdevelopment
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management development is critical for energy storage systems.
+
+[ 984] battery management testing
+       释义: battery managementtesting
+       音标: /battery-manage/
+       难度: ★★
+       例句: battery management testing is critical for energy storage systems.
+
+[ 985] thermal management estimation
+       释义: thermal managementestimation
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management estimation is critical for energy storage systems.
+
+[ 986] thermal management prediction
+       释义: thermal managementprediction
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management prediction is critical for energy storage systems.
+
+[ 987] thermal management analysis
+       释义: thermal managementanalysis
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management analysis is critical for energy storage systems.
+
+[ 988] thermal management diagnosis
+       释义: thermal managementdiagnosis
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management diagnosis is critical for energy storage systems.
+
+[ 989] thermal management development
+       释义: thermal managementdevelopment
+       音标: /thermal-manage/
+       难度: ★★
+       例句: thermal management development is critical for energy storage systems.
+
+[ 990] safety management modeling
+       释义: safety managementmodeling
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management modeling is critical for energy storage systems.
+
+[ 991] safety management simulation
+       释义: safety managementsimulation
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management simulation is critical for energy storage systems.
+
+[ 992] safety management estimation
+       释义: safety managementestimation
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management estimation is critical for energy storage systems.
+
+[ 993] safety management prediction
+       释义: safety managementprediction
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management prediction is critical for energy storage systems.
+
+[ 994] safety management analysis
+       释义: safety managementanalysis
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management analysis is critical for energy storage systems.
+
+[ 995] safety management optimization
+       释义: safety managementoptimization
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management optimization is critical for energy storage systems.
+
+[ 996] safety management monitoring
+       释义: safety managementmonitoring
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management monitoring is critical for energy storage systems.
+
+[ 997] safety management prognosis
+       释义: safety managementprognosis
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management prognosis is critical for energy storage systems.
+
+[ 998] safety management design
+       释义: safety managementdesign
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management design is critical for energy storage systems.
+
+[ 999] safety management validation
+       释义: safety managementvalidation
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management validation is critical for energy storage systems.
+
+[1000] safety management verification
+       释义: safety managementverification
+       音标: /safety-managem/
+       难度: ★★
+       例句: safety management verification is critical for energy storage systems.
+
