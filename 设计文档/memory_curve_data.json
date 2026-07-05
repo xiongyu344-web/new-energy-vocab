@@ -1,0 +1,4169 @@
+{
+  "metadata": {
+    "total_words": 6000,
+    "categories": 6,
+    "review_nodes": 11,
+    "standard_daily_new_words": 30,
+    "estimated_completion_days": 320,
+    "data_version": "1.0"
+  },
+  "ebbinghaus_curve": [
+    {
+      "time": 0,
+      "time_label": "0d",
+      "retention": 100.0
+    },
+    {
+      "time": 0.003472222222222222,
+      "time_label": "5min",
+      "retention": 60.1
+    },
+    {
+      "time": 0.020833333333333332,
+      "time_label": "30min",
+      "retention": 55.6
+    },
+    {
+      "time": 0.5,
+      "time_label": "12h",
+      "retention": 46.3
+    },
+    {
+      "time": 1,
+      "time_label": "1d",
+      "retention": 44.0
+    },
+    {
+      "time": 2,
+      "time_label": "2d",
+      "retention": 41.6
+    },
+    {
+      "time": 4,
+      "time_label": "4d",
+      "retention": 39.1
+    },
+    {
+      "time": 7,
+      "time_label": "7d",
+      "retention": 37.1
+    },
+    {
+      "time": 15,
+      "time_label": "15d",
+      "retention": 34.1
+    },
+    {
+      "time": 30,
+      "time_label": "30d",
+      "retention": 31.3
+    },
+    {
+      "time": 60,
+      "time_label": "60d",
+      "retention": 28.4
+    },
+    {
+      "time": 120,
+      "time_label": "120d",
+      "retention": 25.4
+    }
+  ],
+  "review_curves": {
+    "review_0": [
+      {
+        "day": 0.1,
+        "retention": 51.2
+      },
+      {
+        "day": 0.5,
+        "retention": 46.3
+      },
+      {
+        "day": 1,
+        "retention": 44.0
+      },
+      {
+        "day": 2,
+        "retention": 41.6
+      },
+      {
+        "day": 4,
+        "retention": 39.1
+      },
+      {
+        "day": 7,
+        "retention": 37.1
+      },
+      {
+        "day": 15,
+        "retention": 34.1
+      },
+      {
+        "day": 30,
+        "retention": 31.3
+      },
+      {
+        "day": 60,
+        "retention": 28.4
+      },
+      {
+        "day": 90,
+        "retention": 26.6
+      },
+      {
+        "day": 120,
+        "retention": 25.4
+      },
+      {
+        "day": 180,
+        "retention": 23.5
+      },
+      {
+        "day": 240,
+        "retention": 22.2
+      },
+      {
+        "day": 300,
+        "retention": 21.1
+      },
+      {
+        "day": 365,
+        "retention": 20.2
+      }
+    ],
+    "review_1": [
+      {
+        "day": 0.1,
+        "retention": 70.7
+      },
+      {
+        "day": 0.5,
+        "retention": 67.8
+      },
+      {
+        "day": 1,
+        "retention": 66.4
+      },
+      {
+        "day": 2,
+        "retention": 65.0
+      },
+      {
+        "day": 4,
+        "retention": 63.5
+      },
+      {
+        "day": 7,
+        "retention": 62.2
+      },
+      {
+        "day": 15,
+        "retention": 60.5
+      },
+      {
+        "day": 30,
+        "retention": 58.8
+      },
+      {
+        "day": 60,
+        "retention": 57.0
+      },
+      {
+        "day": 90,
+        "retention": 56.0
+      },
+      {
+        "day": 120,
+        "retention": 55.2
+      },
+      {
+        "day": 180,
+        "retention": 54.1
+      },
+      {
+        "day": 240,
+        "retention": 53.3
+      },
+      {
+        "day": 300,
+        "retention": 52.7
+      },
+      {
+        "day": 365,
+        "retention": 52.1
+      }
+    ],
+    "review_2": [
+      {
+        "day": 0.1,
+        "retention": 82.4
+      },
+      {
+        "day": 0.5,
+        "retention": 80.7
+      },
+      {
+        "day": 1,
+        "retention": 79.8
+      },
+      {
+        "day": 2,
+        "retention": 79.0
+      },
+      {
+        "day": 4,
+        "retention": 78.1
+      },
+      {
+        "day": 7,
+        "retention": 77.3
+      },
+      {
+        "day": 15,
+        "retention": 76.3
+      },
+      {
+        "day": 30,
+        "retention": 75.3
+      },
+      {
+        "day": 60,
+        "retention": 74.2
+      },
+      {
+        "day": 90,
+        "retention": 73.6
+      },
+      {
+        "day": 120,
+        "retention": 73.1
+      },
+      {
+        "day": 180,
+        "retention": 72.5
+      },
+      {
+        "day": 240,
+        "retention": 72.0
+      },
+      {
+        "day": 300,
+        "retention": 71.6
+      },
+      {
+        "day": 365,
+        "retention": 71.3
+      }
+    ],
+    "review_3": [
+      {
+        "day": 0.1,
+        "retention": 89.5
+      },
+      {
+        "day": 0.5,
+        "retention": 88.4
+      },
+      {
+        "day": 1,
+        "retention": 87.9
+      },
+      {
+        "day": 2,
+        "retention": 87.4
+      },
+      {
+        "day": 4,
+        "retention": 86.9
+      },
+      {
+        "day": 7,
+        "retention": 86.4
+      },
+      {
+        "day": 15,
+        "retention": 85.8
+      },
+      {
+        "day": 30,
+        "retention": 85.2
+      },
+      {
+        "day": 60,
+        "retention": 84.5
+      },
+      {
+        "day": 90,
+        "retention": 84.2
+      },
+      {
+        "day": 120,
+        "retention": 83.9
+      },
+      {
+        "day": 180,
+        "retention": 83.5
+      },
+      {
+        "day": 240,
+        "retention": 83.2
+      },
+      {
+        "day": 300,
+        "retention": 83.0
+      },
+      {
+        "day": 365,
+        "retention": 82.8
+      }
+    ],
+    "review_4": [
+      {
+        "day": 0.1,
+        "retention": 93.7
+      },
+      {
+        "day": 0.5,
+        "retention": 93.0
+      },
+      {
+        "day": 1,
+        "retention": 92.7
+      },
+      {
+        "day": 2,
+        "retention": 92.4
+      },
+      {
+        "day": 4,
+        "retention": 92.1
+      },
+      {
+        "day": 7,
+        "retention": 91.8
+      },
+      {
+        "day": 15,
+        "retention": 91.5
+      },
+      {
+        "day": 30,
+        "retention": 91.1
+      },
+      {
+        "day": 60,
+        "retention": 90.7
+      },
+      {
+        "day": 90,
+        "retention": 90.5
+      },
+      {
+        "day": 120,
+        "retention": 90.3
+      },
+      {
+        "day": 180,
+        "retention": 90.1
+      },
+      {
+        "day": 240,
+        "retention": 89.9
+      },
+      {
+        "day": 300,
+        "retention": 89.8
+      },
+      {
+        "day": 365,
+        "retention": 89.7
+      }
+    ],
+    "review_5": [
+      {
+        "day": 0.1,
+        "retention": 96.2
+      },
+      {
+        "day": 0.5,
+        "retention": 95.8
+      },
+      {
+        "day": 1,
+        "retention": 95.6
+      },
+      {
+        "day": 2,
+        "retention": 95.5
+      },
+      {
+        "day": 4,
+        "retention": 95.3
+      },
+      {
+        "day": 7,
+        "retention": 95.1
+      },
+      {
+        "day": 15,
+        "retention": 94.9
+      },
+      {
+        "day": 30,
+        "retention": 94.7
+      },
+      {
+        "day": 60,
+        "retention": 94.4
+      },
+      {
+        "day": 90,
+        "retention": 94.3
+      },
+      {
+        "day": 120,
+        "retention": 94.2
+      },
+      {
+        "day": 180,
+        "retention": 94.1
+      },
+      {
+        "day": 240,
+        "retention": 93.9
+      },
+      {
+        "day": 300,
+        "retention": 93.9
+      },
+      {
+        "day": 365,
+        "retention": 93.8
+      }
+    ],
+    "review_6": [
+      {
+        "day": 0.1,
+        "retention": 97.7
+      },
+      {
+        "day": 0.5,
+        "retention": 97.5
+      },
+      {
+        "day": 1,
+        "retention": 97.4
+      },
+      {
+        "day": 2,
+        "retention": 97.3
+      },
+      {
+        "day": 4,
+        "retention": 97.2
+      },
+      {
+        "day": 7,
+        "retention": 97.1
+      },
+      {
+        "day": 15,
+        "retention": 96.9
+      },
+      {
+        "day": 30,
+        "retention": 96.8
+      },
+      {
+        "day": 60,
+        "retention": 96.7
+      },
+      {
+        "day": 90,
+        "retention": 96.6
+      },
+      {
+        "day": 120,
+        "retention": 96.5
+      },
+      {
+        "day": 180,
+        "retention": 96.4
+      },
+      {
+        "day": 240,
+        "retention": 96.4
+      },
+      {
+        "day": 300,
+        "retention": 96.3
+      },
+      {
+        "day": 365,
+        "retention": 96.3
+      }
+    ],
+    "review_7": [
+      {
+        "day": 0.1,
+        "retention": 98.6
+      },
+      {
+        "day": 0.5,
+        "retention": 98.5
+      },
+      {
+        "day": 1,
+        "retention": 98.4
+      },
+      {
+        "day": 2,
+        "retention": 98.4
+      },
+      {
+        "day": 4,
+        "retention": 98.3
+      },
+      {
+        "day": 7,
+        "retention": 98.2
+      },
+      {
+        "day": 15,
+        "retention": 98.2
+      },
+      {
+        "day": 30,
+        "retention": 98.1
+      },
+      {
+        "day": 60,
+        "retention": 98.0
+      },
+      {
+        "day": 90,
+        "retention": 97.9
+      },
+      {
+        "day": 120,
+        "retention": 97.9
+      },
+      {
+        "day": 180,
+        "retention": 97.9
+      },
+      {
+        "day": 240,
+        "retention": 97.8
+      },
+      {
+        "day": 300,
+        "retention": 97.8
+      },
+      {
+        "day": 365,
+        "retention": 97.8
+      }
+    ],
+    "review_8": [
+      {
+        "day": 0.1,
+        "retention": 99.2
+      },
+      {
+        "day": 0.5,
+        "retention": 99.1
+      },
+      {
+        "day": 1,
+        "retention": 99.1
+      },
+      {
+        "day": 2,
+        "retention": 99.0
+      },
+      {
+        "day": 4,
+        "retention": 99.0
+      },
+      {
+        "day": 7,
+        "retention": 98.9
+      },
+      {
+        "day": 15,
+        "retention": 98.9
+      },
+      {
+        "day": 30,
+        "retention": 98.8
+      },
+      {
+        "day": 60,
+        "retention": 98.8
+      },
+      {
+        "day": 90,
+        "retention": 98.8
+      },
+      {
+        "day": 120,
+        "retention": 98.7
+      },
+      {
+        "day": 180,
+        "retention": 98.7
+      },
+      {
+        "day": 240,
+        "retention": 98.7
+      },
+      {
+        "day": 300,
+        "retention": 98.7
+      },
+      {
+        "day": 365,
+        "retention": 98.7
+      }
+    ],
+    "review_9": [
+      {
+        "day": 0.1,
+        "retention": 99.5
+      },
+      {
+        "day": 0.5,
+        "retention": 99.5
+      },
+      {
+        "day": 1,
+        "retention": 99.4
+      },
+      {
+        "day": 2,
+        "retention": 99.4
+      },
+      {
+        "day": 4,
+        "retention": 99.4
+      },
+      {
+        "day": 7,
+        "retention": 99.4
+      },
+      {
+        "day": 15,
+        "retention": 99.3
+      },
+      {
+        "day": 30,
+        "retention": 99.3
+      },
+      {
+        "day": 60,
+        "retention": 99.3
+      },
+      {
+        "day": 90,
+        "retention": 99.3
+      },
+      {
+        "day": 120,
+        "retention": 99.2
+      },
+      {
+        "day": 180,
+        "retention": 99.2
+      },
+      {
+        "day": 240,
+        "retention": 99.2
+      },
+      {
+        "day": 300,
+        "retention": 99.2
+      },
+      {
+        "day": 365,
+        "retention": 99.2
+      }
+    ],
+    "review_10": [
+      {
+        "day": 0.1,
+        "retention": 99.7
+      },
+      {
+        "day": 0.5,
+        "retention": 99.7
+      },
+      {
+        "day": 1,
+        "retention": 99.7
+      },
+      {
+        "day": 2,
+        "retention": 99.6
+      },
+      {
+        "day": 4,
+        "retention": 99.6
+      },
+      {
+        "day": 7,
+        "retention": 99.6
+      },
+      {
+        "day": 15,
+        "retention": 99.6
+      },
+      {
+        "day": 30,
+        "retention": 99.6
+      },
+      {
+        "day": 60,
+        "retention": 99.6
+      },
+      {
+        "day": 90,
+        "retention": 99.6
+      },
+      {
+        "day": 120,
+        "retention": 99.5
+      },
+      {
+        "day": 180,
+        "retention": 99.5
+      },
+      {
+        "day": 240,
+        "retention": 99.5
+      },
+      {
+        "day": 300,
+        "retention": 99.5
+      },
+      {
+        "day": 365,
+        "retention": 99.5
+      }
+    ]
+  },
+  "daily_plan_365": [
+    {
+      "day": 1,
+      "new_words": 30,
+      "words_to_review": 60,
+      "cumulative_learned": 30,
+      "cumulative_reviewed": 60,
+      "estimated_minutes": 50,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 2,
+      "new_words": 30,
+      "words_to_review": 90,
+      "cumulative_learned": 60,
+      "cumulative_reviewed": 150,
+      "estimated_minutes": 60,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 3,
+      "new_words": 30,
+      "words_to_review": 120,
+      "cumulative_learned": 90,
+      "cumulative_reviewed": 270,
+      "estimated_minutes": 70,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 4,
+      "new_words": 30,
+      "words_to_review": 120,
+      "cumulative_learned": 120,
+      "cumulative_reviewed": 390,
+      "estimated_minutes": 70,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 5,
+      "new_words": 30,
+      "words_to_review": 150,
+      "cumulative_learned": 150,
+      "cumulative_reviewed": 540,
+      "estimated_minutes": 80,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 6,
+      "new_words": 30,
+      "words_to_review": 150,
+      "cumulative_learned": 180,
+      "cumulative_reviewed": 690,
+      "estimated_minutes": 80,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 7,
+      "new_words": 30,
+      "words_to_review": 150,
+      "cumulative_learned": 210,
+      "cumulative_reviewed": 840,
+      "estimated_minutes": 80,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 8,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 240,
+      "cumulative_reviewed": 1020,
+      "estimated_minutes": 89,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 9,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 270,
+      "cumulative_reviewed": 1200,
+      "estimated_minutes": 89,
+      "retention_rate": 31.3
+    },
+    {
+      "day": 10,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 300,
+      "cumulative_reviewed": 1380,
+      "estimated_minutes": 89,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 11,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 330,
+      "cumulative_reviewed": 1560,
+      "estimated_minutes": 89,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 12,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 360,
+      "cumulative_reviewed": 1740,
+      "estimated_minutes": 89,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 13,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 390,
+      "cumulative_reviewed": 1920,
+      "estimated_minutes": 89,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 14,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 420,
+      "cumulative_reviewed": 2100,
+      "estimated_minutes": 89,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 15,
+      "new_words": 30,
+      "words_to_review": 180,
+      "cumulative_learned": 450,
+      "cumulative_reviewed": 2280,
+      "estimated_minutes": 89,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 16,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 480,
+      "cumulative_reviewed": 2490,
+      "estimated_minutes": 99,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 17,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 510,
+      "cumulative_reviewed": 2700,
+      "estimated_minutes": 99,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 18,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 540,
+      "cumulative_reviewed": 2910,
+      "estimated_minutes": 99,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 19,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 570,
+      "cumulative_reviewed": 3120,
+      "estimated_minutes": 99,
+      "retention_rate": 58.8
+    },
+    {
+      "day": 20,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 600,
+      "cumulative_reviewed": 3330,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 21,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 630,
+      "cumulative_reviewed": 3540,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 22,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 660,
+      "cumulative_reviewed": 3750,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 23,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 690,
+      "cumulative_reviewed": 3960,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 24,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 720,
+      "cumulative_reviewed": 4170,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 25,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 750,
+      "cumulative_reviewed": 4380,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 26,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 780,
+      "cumulative_reviewed": 4590,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 27,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 810,
+      "cumulative_reviewed": 4800,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 28,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 840,
+      "cumulative_reviewed": 5010,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 29,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 870,
+      "cumulative_reviewed": 5220,
+      "estimated_minutes": 99,
+      "retention_rate": 75.3
+    },
+    {
+      "day": 30,
+      "new_words": 30,
+      "words_to_review": 210,
+      "cumulative_learned": 900,
+      "cumulative_reviewed": 5430,
+      "estimated_minutes": 99,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 31,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 930,
+      "cumulative_reviewed": 5670,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 32,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 960,
+      "cumulative_reviewed": 5910,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 33,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 990,
+      "cumulative_reviewed": 6150,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 34,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1020,
+      "cumulative_reviewed": 6390,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 35,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1050,
+      "cumulative_reviewed": 6630,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 36,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1080,
+      "cumulative_reviewed": 6870,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 37,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1110,
+      "cumulative_reviewed": 7110,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 38,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1140,
+      "cumulative_reviewed": 7350,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 39,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1170,
+      "cumulative_reviewed": 7590,
+      "estimated_minutes": 109,
+      "retention_rate": 85.2
+    },
+    {
+      "day": 40,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1200,
+      "cumulative_reviewed": 7830,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 41,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1230,
+      "cumulative_reviewed": 8070,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 42,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1260,
+      "cumulative_reviewed": 8310,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 43,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1290,
+      "cumulative_reviewed": 8550,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 44,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1320,
+      "cumulative_reviewed": 8790,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 45,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1350,
+      "cumulative_reviewed": 9030,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 46,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1380,
+      "cumulative_reviewed": 9270,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 47,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1410,
+      "cumulative_reviewed": 9510,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 48,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1440,
+      "cumulative_reviewed": 9750,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 49,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1470,
+      "cumulative_reviewed": 9990,
+      "estimated_minutes": 109,
+      "retention_rate": 91.1
+    },
+    {
+      "day": 50,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1500,
+      "cumulative_reviewed": 10230,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 51,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1530,
+      "cumulative_reviewed": 10470,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 52,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1560,
+      "cumulative_reviewed": 10710,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 53,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1590,
+      "cumulative_reviewed": 10950,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 54,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1620,
+      "cumulative_reviewed": 11190,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 55,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1650,
+      "cumulative_reviewed": 11430,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 56,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1680,
+      "cumulative_reviewed": 11670,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 57,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1710,
+      "cumulative_reviewed": 11910,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 58,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1740,
+      "cumulative_reviewed": 12150,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 59,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1770,
+      "cumulative_reviewed": 12390,
+      "estimated_minutes": 109,
+      "retention_rate": 94.7
+    },
+    {
+      "day": 60,
+      "new_words": 30,
+      "words_to_review": 240,
+      "cumulative_learned": 1800,
+      "cumulative_reviewed": 12630,
+      "estimated_minutes": 109,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 61,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 1830,
+      "cumulative_reviewed": 12900,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 62,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 1860,
+      "cumulative_reviewed": 13170,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 63,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 1890,
+      "cumulative_reviewed": 13440,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 64,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 1920,
+      "cumulative_reviewed": 13710,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 65,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 1950,
+      "cumulative_reviewed": 13980,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 66,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 1980,
+      "cumulative_reviewed": 14250,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 67,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2010,
+      "cumulative_reviewed": 14520,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 68,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2040,
+      "cumulative_reviewed": 14790,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 69,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2070,
+      "cumulative_reviewed": 15060,
+      "estimated_minutes": 119,
+      "retention_rate": 96.8
+    },
+    {
+      "day": 70,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2100,
+      "cumulative_reviewed": 15330,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 71,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2130,
+      "cumulative_reviewed": 15600,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 72,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2160,
+      "cumulative_reviewed": 15870,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 73,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2190,
+      "cumulative_reviewed": 16140,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 74,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2220,
+      "cumulative_reviewed": 16410,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 75,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2250,
+      "cumulative_reviewed": 16680,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 76,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2280,
+      "cumulative_reviewed": 16950,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 77,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2310,
+      "cumulative_reviewed": 17220,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 78,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2340,
+      "cumulative_reviewed": 17490,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 79,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2370,
+      "cumulative_reviewed": 17760,
+      "estimated_minutes": 119,
+      "retention_rate": 98.1
+    },
+    {
+      "day": 80,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2400,
+      "cumulative_reviewed": 18030,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 81,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2430,
+      "cumulative_reviewed": 18300,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 82,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2460,
+      "cumulative_reviewed": 18570,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 83,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2490,
+      "cumulative_reviewed": 18840,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 84,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2520,
+      "cumulative_reviewed": 19110,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 85,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2550,
+      "cumulative_reviewed": 19380,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 86,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2580,
+      "cumulative_reviewed": 19650,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 87,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2610,
+      "cumulative_reviewed": 19920,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 88,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2640,
+      "cumulative_reviewed": 20190,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 89,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2670,
+      "cumulative_reviewed": 20460,
+      "estimated_minutes": 119,
+      "retention_rate": 98.8
+    },
+    {
+      "day": 90,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2700,
+      "cumulative_reviewed": 20730,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 91,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2730,
+      "cumulative_reviewed": 21000,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 92,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2760,
+      "cumulative_reviewed": 21270,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 93,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2790,
+      "cumulative_reviewed": 21540,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 94,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2820,
+      "cumulative_reviewed": 21810,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 95,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2850,
+      "cumulative_reviewed": 22080,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 96,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2880,
+      "cumulative_reviewed": 22350,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 97,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2910,
+      "cumulative_reviewed": 22620,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 98,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2940,
+      "cumulative_reviewed": 22890,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 99,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 2970,
+      "cumulative_reviewed": 23160,
+      "estimated_minutes": 119,
+      "retention_rate": 99.3
+    },
+    {
+      "day": 100,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3000,
+      "cumulative_reviewed": 23430,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 101,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3030,
+      "cumulative_reviewed": 23700,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 102,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3060,
+      "cumulative_reviewed": 23970,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 103,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3090,
+      "cumulative_reviewed": 24240,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 104,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3120,
+      "cumulative_reviewed": 24510,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 105,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3150,
+      "cumulative_reviewed": 24780,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 106,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3180,
+      "cumulative_reviewed": 25050,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 107,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3210,
+      "cumulative_reviewed": 25320,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 108,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3240,
+      "cumulative_reviewed": 25590,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 109,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3270,
+      "cumulative_reviewed": 25860,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 110,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3300,
+      "cumulative_reviewed": 26130,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 111,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3330,
+      "cumulative_reviewed": 26400,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 112,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3360,
+      "cumulative_reviewed": 26670,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 113,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3390,
+      "cumulative_reviewed": 26940,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 114,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3420,
+      "cumulative_reviewed": 27210,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 115,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3450,
+      "cumulative_reviewed": 27480,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 116,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3480,
+      "cumulative_reviewed": 27750,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 117,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3510,
+      "cumulative_reviewed": 28020,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 118,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3540,
+      "cumulative_reviewed": 28290,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 119,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3570,
+      "cumulative_reviewed": 28560,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 120,
+      "new_words": 30,
+      "words_to_review": 270,
+      "cumulative_learned": 3600,
+      "cumulative_reviewed": 28830,
+      "estimated_minutes": 119,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 121,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3630,
+      "cumulative_reviewed": 29130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 122,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3660,
+      "cumulative_reviewed": 29430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 123,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3690,
+      "cumulative_reviewed": 29730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 124,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3720,
+      "cumulative_reviewed": 30030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 125,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3750,
+      "cumulative_reviewed": 30330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 126,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3780,
+      "cumulative_reviewed": 30630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 127,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3810,
+      "cumulative_reviewed": 30930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 128,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3840,
+      "cumulative_reviewed": 31230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 129,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3870,
+      "cumulative_reviewed": 31530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 130,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3900,
+      "cumulative_reviewed": 31830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 131,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3930,
+      "cumulative_reviewed": 32130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 132,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3960,
+      "cumulative_reviewed": 32430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 133,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 3990,
+      "cumulative_reviewed": 32730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 134,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4020,
+      "cumulative_reviewed": 33030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 135,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4050,
+      "cumulative_reviewed": 33330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 136,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4080,
+      "cumulative_reviewed": 33630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 137,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4110,
+      "cumulative_reviewed": 33930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 138,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4140,
+      "cumulative_reviewed": 34230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 139,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4170,
+      "cumulative_reviewed": 34530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 140,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4200,
+      "cumulative_reviewed": 34830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 141,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4230,
+      "cumulative_reviewed": 35130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 142,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4260,
+      "cumulative_reviewed": 35430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 143,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4290,
+      "cumulative_reviewed": 35730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 144,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4320,
+      "cumulative_reviewed": 36030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 145,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4350,
+      "cumulative_reviewed": 36330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 146,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4380,
+      "cumulative_reviewed": 36630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 147,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4410,
+      "cumulative_reviewed": 36930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 148,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4440,
+      "cumulative_reviewed": 37230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 149,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4470,
+      "cumulative_reviewed": 37530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 150,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4500,
+      "cumulative_reviewed": 37830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 151,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4530,
+      "cumulative_reviewed": 38130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 152,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4560,
+      "cumulative_reviewed": 38430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 153,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4590,
+      "cumulative_reviewed": 38730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 154,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4620,
+      "cumulative_reviewed": 39030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 155,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4650,
+      "cumulative_reviewed": 39330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 156,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4680,
+      "cumulative_reviewed": 39630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 157,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4710,
+      "cumulative_reviewed": 39930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 158,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4740,
+      "cumulative_reviewed": 40230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 159,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4770,
+      "cumulative_reviewed": 40530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 160,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4800,
+      "cumulative_reviewed": 40830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 161,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4830,
+      "cumulative_reviewed": 41130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 162,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4860,
+      "cumulative_reviewed": 41430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 163,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4890,
+      "cumulative_reviewed": 41730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 164,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4920,
+      "cumulative_reviewed": 42030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 165,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4950,
+      "cumulative_reviewed": 42330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 166,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 4980,
+      "cumulative_reviewed": 42630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 167,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5010,
+      "cumulative_reviewed": 42930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 168,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5040,
+      "cumulative_reviewed": 43230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 169,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5070,
+      "cumulative_reviewed": 43530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 170,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5100,
+      "cumulative_reviewed": 43830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 171,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5130,
+      "cumulative_reviewed": 44130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 172,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5160,
+      "cumulative_reviewed": 44430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 173,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5190,
+      "cumulative_reviewed": 44730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 174,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5220,
+      "cumulative_reviewed": 45030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 175,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5250,
+      "cumulative_reviewed": 45330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 176,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5280,
+      "cumulative_reviewed": 45630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 177,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5310,
+      "cumulative_reviewed": 45930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 178,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5340,
+      "cumulative_reviewed": 46230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 179,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5370,
+      "cumulative_reviewed": 46530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 180,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5400,
+      "cumulative_reviewed": 46830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 181,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5430,
+      "cumulative_reviewed": 47130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 182,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5460,
+      "cumulative_reviewed": 47430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 183,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5490,
+      "cumulative_reviewed": 47730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 184,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5520,
+      "cumulative_reviewed": 48030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 185,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5550,
+      "cumulative_reviewed": 48330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 186,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5580,
+      "cumulative_reviewed": 48630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 187,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5610,
+      "cumulative_reviewed": 48930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 188,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5640,
+      "cumulative_reviewed": 49230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 189,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5670,
+      "cumulative_reviewed": 49530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 190,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5700,
+      "cumulative_reviewed": 49830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 191,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5730,
+      "cumulative_reviewed": 50130,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 192,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5760,
+      "cumulative_reviewed": 50430,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 193,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5790,
+      "cumulative_reviewed": 50730,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 194,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5820,
+      "cumulative_reviewed": 51030,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 195,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5850,
+      "cumulative_reviewed": 51330,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 196,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5880,
+      "cumulative_reviewed": 51630,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 197,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5910,
+      "cumulative_reviewed": 51930,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 198,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5940,
+      "cumulative_reviewed": 52230,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 199,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 5970,
+      "cumulative_reviewed": 52530,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 200,
+      "new_words": 30,
+      "words_to_review": 300,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 52830,
+      "estimated_minutes": 129,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 201,
+      "new_words": 0,
+      "words_to_review": 240,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 53070,
+      "estimated_minutes": 79,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 202,
+      "new_words": 0,
+      "words_to_review": 210,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 53280,
+      "estimated_minutes": 69,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 203,
+      "new_words": 0,
+      "words_to_review": 180,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 53460,
+      "estimated_minutes": 59,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 204,
+      "new_words": 0,
+      "words_to_review": 180,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 53640,
+      "estimated_minutes": 59,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 205,
+      "new_words": 0,
+      "words_to_review": 150,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 53790,
+      "estimated_minutes": 50,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 206,
+      "new_words": 0,
+      "words_to_review": 150,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 53940,
+      "estimated_minutes": 50,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 207,
+      "new_words": 0,
+      "words_to_review": 150,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54090,
+      "estimated_minutes": 50,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 208,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54210,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 209,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54330,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 210,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54450,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 211,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54570,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 212,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54690,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 213,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54810,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 214,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 54930,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 215,
+      "new_words": 0,
+      "words_to_review": 120,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55050,
+      "estimated_minutes": 40,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 216,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55140,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 217,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55230,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 218,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55320,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 219,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55410,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 220,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55500,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 221,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55590,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 222,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55680,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 223,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55770,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 224,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55860,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 225,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 55950,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 226,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56040,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 227,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56130,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 228,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56220,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 229,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56310,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 230,
+      "new_words": 0,
+      "words_to_review": 90,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56400,
+      "estimated_minutes": 30,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 231,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56460,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 232,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56520,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 233,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56580,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 234,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56640,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 235,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56700,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 236,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56760,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 237,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56820,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 238,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56880,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 239,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 56940,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 240,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57000,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 241,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57060,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 242,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57120,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 243,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57180,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 244,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57240,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 245,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57300,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 246,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57360,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 247,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57420,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 248,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57480,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 249,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57540,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 250,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57600,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 251,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57660,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 252,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57720,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 253,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57780,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 254,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57840,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 255,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57900,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 256,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 57960,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 257,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58020,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 258,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58080,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 259,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58140,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 260,
+      "new_words": 0,
+      "words_to_review": 60,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58200,
+      "estimated_minutes": 20,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 261,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58230,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 262,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58260,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 263,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58290,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 264,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58320,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 265,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58350,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 266,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58380,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 267,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58410,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 268,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58440,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 269,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58470,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 270,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58500,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 271,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58530,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 272,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58560,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 273,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58590,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 274,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58620,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 275,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58650,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 276,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58680,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 277,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58710,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 278,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58740,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 279,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58770,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 280,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58800,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 281,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58830,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 282,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58860,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 283,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58890,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 284,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58920,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 285,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58950,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 286,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 58980,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 287,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59010,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 288,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59040,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 289,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59070,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 290,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59100,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 291,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59130,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 292,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59160,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 293,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59190,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 294,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59220,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 295,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59250,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 296,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59280,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 297,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59310,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 298,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59340,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 299,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59370,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 300,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59400,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 301,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59430,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 302,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59460,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 303,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59490,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 304,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59520,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 305,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59550,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 306,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59580,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 307,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59610,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 308,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59640,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 309,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59670,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 310,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59700,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 311,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59730,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 312,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59760,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 313,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59790,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 314,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59820,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 315,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59850,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 316,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59880,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 317,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59910,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 318,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59940,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 319,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 59970,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 320,
+      "new_words": 0,
+      "words_to_review": 30,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 10,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 321,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 322,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 323,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 324,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 325,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 326,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 327,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 328,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 329,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 330,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 331,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 332,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 333,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 334,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 335,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 336,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 337,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 338,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 339,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 340,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 341,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 342,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 343,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 344,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 345,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 346,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 347,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 348,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 349,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 350,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 351,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 352,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 353,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 354,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 355,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 356,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 357,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 358,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 359,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 360,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 361,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 362,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 363,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 364,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    },
+    {
+      "day": 365,
+      "new_words": 0,
+      "words_to_review": 0,
+      "cumulative_learned": 6000,
+      "cumulative_reviewed": 60000,
+      "estimated_minutes": 0,
+      "retention_rate": 99.6
+    }
+  ],
+  "category_distribution": [
+    {
+      "name": "新能源",
+      "count": 1500,
+      "percentage": 25.0,
+      "color": "#4CAF50"
+    },
+    {
+      "name": "风电",
+      "count": 1200,
+      "percentage": 20.0,
+      "color": "#2196F3"
+    },
+    {
+      "name": "储能",
+      "count": 1000,
+      "percentage": 16.7,
+      "color": "#FF9800"
+    },
+    {
+      "name": "销售经理口语",
+      "count": 800,
+      "percentage": 13.3,
+      "color": "#9C27B0"
+    },
+    {
+      "name": "产品经理用语",
+      "count": 800,
+      "percentage": 13.3,
+      "color": "#F44336"
+    },
+    {
+      "name": "商务会议用语",
+      "count": 700,
+      "percentage": 11.7,
+      "color": "#00BCD4"
+    }
+  ],
+  "milestones": [
+    {
+      "day": 30,
+      "label": "1个月",
+      "words_learned": 900,
+      "estimated_retention": 85.2
+    },
+    {
+      "day": 60,
+      "label": "2个月",
+      "words_learned": 1800,
+      "estimated_retention": 96.8
+    },
+    {
+      "day": 90,
+      "label": "3个月",
+      "words_learned": 2700,
+      "estimated_retention": 99.3
+    },
+    {
+      "day": 120,
+      "label": "4个月",
+      "words_learned": 3600,
+      "estimated_retention": 99.6
+    },
+    {
+      "day": 150,
+      "label": "5个月",
+      "words_learned": 4500,
+      "estimated_retention": 99.6
+    },
+    {
+      "day": 180,
+      "label": "6个月",
+      "words_learned": 5400,
+      "estimated_retention": 99.6
+    },
+    {
+      "day": 200,
+      "label": "新学完成",
+      "words_learned": 6000,
+      "estimated_retention": 99.6
+    },
+    {
+      "day": 260,
+      "label": "9个月",
+      "words_learned": 6000,
+      "estimated_retention": 99.6
+    },
+    {
+      "day": 320,
+      "label": "全部长期记忆",
+      "words_learned": 6000,
+      "estimated_retention": 99.6
+    }
+  ],
+  "difficulty_distribution": [
+    {
+      "level": 1,
+      "label": "基础",
+      "count": 800,
+      "color": "#66BB6A"
+    },
+    {
+      "level": 2,
+      "label": "进阶",
+      "count": 2500,
+      "color": "#42A5F5"
+    },
+    {
+      "level": 3,
+      "label": "专业",
+      "count": 1800,
+      "color": "#FFA726"
+    },
+    {
+      "level": 4,
+      "label": "高级",
+      "count": 700,
+      "color": "#EF5350"
+    },
+    {
+      "level": 5,
+      "label": "专家",
+      "count": 200,
+      "color": "#AB47BC"
+    }
+  ]
+}
