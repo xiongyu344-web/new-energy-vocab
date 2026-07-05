@@ -1,0 +1,4804 @@
+============================================================
+  销售经理口语 单词列表 (800 词)
+============================================================
+
+[   1] competitive advantage
+       释义: 竞争优势
+       音标: /competitive-ad/
+       难度: ★★
+       例句: Our competitive advantage comes from patented technology.
+
+[   2] target audience
+       释义: 目标客户群
+       音标: /target-audienc/
+       难度: ★★
+       例句: Our target audience includes utility-scale project developers.
+
+[   3] buyer persona
+       释义: 买家画像
+       音标: /buyer-persona/
+       难度: ★★★
+       例句: Buyer persona helps tailor the sales approach.
+
+[   4] tender evaluation
+       释义: 评标
+       音标: /tender-evaluat/
+       难度: ★★★
+       例句: Tender evaluation scores technical and commercial proposals.
+
+[   5] hurdle rate
+       释义: 最低期望回报率
+       音标: /hurdle-rate/
+       难度: ★★★
+       例句: Hurdle rate is the minimum acceptable return for the project.
+
+[   6] weighted average cost of capital
+       释义: 加权平均资本成本
+       音标: /weighted-avera/
+       难度: ★★★
+       例句: WACC reflects the blended cost of debt and equity.
+
+[   7] discounted cash flow
+       释义: 贴现现金流
+       音标: /discounted-cas/
+       难度: ★★★
+       例句: DCF analysis values the project based on future cash flows.
+
+[   8] scenario analysis
+       释义: 情景分析
+       音标: /scenario-analy/
+       难度: ★★★
+       例句: Scenario analysis evaluates best, base, and worst case outcomes.
+
+[   9] margin analysis
+       释义: 利润分析
+       音标: /margin-analysi/
+       难度: ★★
+       例句: Margin analysis reviews gross, operating, and net margins.
+
+[  10] operating margin
+       释义: 营业利润率
+       音标: /operating-marg/
+       难度: ★★
+       例句: Operating margin includes operating expenses.
+
+[  11] contribution margin
+       释义: 边际贡献
+       音标: /contribution-m/
+       难度: ★★★
+       例句: Contribution margin covers fixed costs and profit.
+
+[  12] volume discount
+       释义: 批量折扣
+       音标: /volume-discoun/
+       难度: ★★
+       例句: Volume discount applies to orders above the threshold quantity.
+
+[  13] pricing strategy
+       释义: 定价策略
+       音标: /pricing-strate/
+       难度: ★★
+       例句: Pricing strategy balances competitiveness with profitability.
+
+[  14] value-based pricing
+       释义: 价值定价
+       音标: /value-based-pr/
+       难度: ★★★
+       例句: Value-based pricing reflects the value delivered to the customer.
+
+[  15] penetration pricing
+       释义: 渗透定价
+       音标: /penetration-pr/
+       难度: ★★★
+       例句: Penetration pricing sets low initial prices to gain market share.
+
+[  16] skimming pricing
+       释义: 撇脂定价
+       音标: /skimming-prici/
+       难度: ★★★
+       例句: Skimming pricing sets high initial prices for early adopters.
+
+[  17] dynamic pricing
+       释义: 动态定价
+       音标: /dynamic-pricin/
+       难度: ★★★
+       例句: Dynamic pricing adjusts prices based on real-time demand.
+
+[  18] price anchoring
+       释义: 价格锚定
+       音标: /price-anchorin/
+       难度: ★★★
+       例句: Price anchoring presents a higher reference price first.
+
+[  19] upselling
+       释义: 向上销售
+       音标: /upselling/
+       难度: ★★
+       例句: Upselling encourages the customer to buy a higher-end product.
+
+[  20] closing technique
+       释义: 成交技巧
+       音标: /closing-techni/
+       难度: ★★
+       例句: Closing technique guides the customer toward a decision.
+
+[  21] trial close
+       释义: 试探性成交
+       音标: /trial-close/
+       难度: ★★★
+       例句: Trial close checks the customer's readiness to decide.
+
+[  22] assumptive close
+       释义: 假定成交
+       音标: /assumptive-clo/
+       难度: ★★★
+       例句: Assumptive close proceeds as if the customer has already agreed.
+
+[  23] alternative close
+       释义: 选择成交
+       音标: /alternative-cl/
+       难度: ★★★
+       例句: Alternative close offers a choice between two favorable options.
+
+[  24] urgency close
+       释义: 紧迫成交
+       音标: /urgency-close/
+       难度: ★★★
+       例句: Urgency close creates a reason to decide now rather than later.
+
+[  25] summary close
+       释义: 总结成交
+       音标: /summary-close/
+       难度: ★★★
+       例句: Summary close recaps all agreed benefits before asking for the order.
+
+[  26] advance payment guarantee
+       释义: 预付款保函
+       音标: /advance-paymen/
+       难度: ★★★
+       例句: Advance payment guarantee protects the buyer's upfront payment.
+
+[  27] retention money
+       释义: 质保金
+       音标: /retention-mone/
+       难度: ★★★
+       例句: Retention money is held back until final acceptance.
+
+[  28] sales order
+       释义: 销售订单
+       音标: /sales-order/
+       难度: ★
+       例句: Sales order confirms the commercial agreement with the customer.
+
+[  29] air waybill
+       释义: 空运单
+       音标: /air-waybill/
+       难度: ★★★
+       例句: AWB is the transport document for air freight.
+
+[  30] certificate of origin
+       释义: 原产地证书
+       音标: /certificate-of/
+       难度: ★★★
+       例句: Certificate of origin proves where the goods were manufactured.
+
+[  31] FOB
+       释义: 离岸价
+       音标: /fob/
+       难度: ★★
+       例句: FOB means the seller delivers goods on board the vessel.
+
+[  32] CIF
+       释义: 到岸价
+       音标: /cif/
+       难度: ★★
+       例句: CIF includes cost, insurance, and freight to destination port.
+
+[  33] EXW
+       释义: 工厂交货
+       音标: /exw/
+       难度: ★★★
+       例句: EXW means the buyer collects from the seller's premises.
+
+[  34] DDP
+       释义: 完税后交货
+       音标: /ddp/
+       难度: ★★★
+       例句: DDP means the seller delivers goods cleared for import.
+
+[  35] indemnification
+       释义: 赔偿条款
+       音标: /indemnificatio/
+       难度: ★★★
+       例句: Indemnification clause allocates liability between parties.
+
+[  36] jurisdiction
+       释义: 管辖权
+       音标: /jurisdiction/
+       难度: ★★★
+       例句: Jurisdiction determines which court hears the dispute.
+
+[  37] SPIN selling
+       释义: SPIN销售法
+       音标: /spin-selling/
+       难度: ★★★
+       例句: SPIN stands for Situation, Problem, Implication, Need-payoff.
+
+[  38] account-based selling
+       释义: 基于客户销售
+       音标: /account-based-/
+       难度: ★★★
+       例句: Account-based selling targets key accounts with personalized approach.
+
+[  39] customer relationship management
+       释义: 客户关系管理
+       音标: /customer-relat/
+       难度: ★
+       例句: CRM software tracks all interactions with prospects and customers.
+
+[  40] sales engagement platform
+       释义: 销售互动平台
+       音标: /sales-engageme/
+       难度: ★★★
+       例句: Sales engagement platform automates multi-channel outreach.
+
+[  41] cold calling
+       释义: 冷不防电话
+       音标: /cold-calling/
+       难度: ★★
+       例句: Cold calling still has a place in B2B sales prospecting.
+
+[  42] warm calling
+       释义: 暖线电话
+       音标: /warm-calling/
+       难度: ★★★
+       例句: Warm calling follows up on a prior interaction or referral.
+
+[  43] probing question
+       释义: 探索性问题
+       音标: /probing-questi/
+       难度: ★★★
+       例句: Probing questions dig deeper into the customer's situation.
+
+[  44] mirroring technique
+       释义: 镜像技巧
+       音标: /mirroring-tech/
+       难度: ★★★
+       例句: Mirroring technique repeats the last few words to encourage elaboration.
+
+[  45] power-interest grid
+       释义: 权力利益矩阵
+       音标: /power-interest/
+       难度: ★★★★
+       例句: Power-interest grid categorizes stakeholders for engagement planning.
+
+[  46] weighted pipeline
+       释义: 加权销售漏斗
+       音标: /weighted-pipel/
+       难度: ★★★
+       例句: Weighted pipeline multiplies deal value by probability.
+
+[  47] follow-up
+       释义: 跟进
+       音标: /follow-up/
+       难度: ★★
+       例句: Timely follow-up is critical to maintaining momentum.
+
+[  48] lost deal analysis
+       释义: 输单分析
+       音标: /lost-deal-anal/
+       难度: ★★★
+       例句: Lost deal analysis identifies patterns to improve win rate.
+
+[  49] upsell rate
+       释义: 向上销售率
+       音标: /upsell-rate/
+       难度: ★★★
+       例句: Upsell rate tracks the percentage of customers upgrading.
+
+[  50] renewal rate
+       释义: 续约率
+       音标: /renewal-rate/
+       难度: ★★
+       例句: Renewal rate is critical for subscription-based business models.
+
+[  51] account evaluation
+       释义: accountevaluation
+       音标: /account-evalua/
+       难度: ★★
+       例句: Effective account evaluation is key to sales performance.
+
+[  52] account assessment
+       释义: accountassessment
+       音标: /account-assess/
+       难度: ★★
+       例句: Effective account assessment is key to sales performance.
+
+[  53] account generation
+       释义: accountgeneration
+       音标: /account-genera/
+       难度: ★★
+       例句: Effective account generation is key to sales performance.
+
+[  54] account qualification
+       释义: accountqualification
+       音标: /account-qualif/
+       难度: ★★
+       例句: Effective account qualification is key to sales performance.
+
+[  55] account conversion
+       释义: accountconversion
+       音标: /account-conver/
+       难度: ★★
+       例句: Effective account conversion is key to sales performance.
+
+[  56] account closure
+       释义: accountclosure
+       音标: /account-closur/
+       难度: ★★
+       例句: Effective account closure is key to sales performance.
+
+[  57] account communication
+       释义: accountcommunication
+       音标: /account-commun/
+       难度: ★★
+       例句: Effective account communication is key to sales performance.
+
+[  58] account clarification
+       释义: accountclarification
+       音标: /account-clarif/
+       难度: ★★
+       例句: Effective account clarification is key to sales performance.
+
+[  59] account guidance
+       释义: accountguidance
+       音标: /account-guidan/
+       难度: ★★
+       例句: Effective account guidance is key to sales performance.
+
+[  60] client development
+       释义: clientdevelopment
+       音标: /client-develop/
+       难度: ★★
+       例句: Effective client development is key to sales performance.
+
+[  61] client planning
+       释义: clientplanning
+       音标: /client-plannin/
+       难度: ★★
+       例句: Effective client planning is key to sales performance.
+
+[  62] client evaluation
+       释义: clientevaluation
+       音标: /client-evaluat/
+       难度: ★★
+       例句: Effective client evaluation is key to sales performance.
+
+[  63] client explanation
+       释义: clientexplanation
+       音标: /client-explana/
+       难度: ★★
+       例句: Effective client explanation is key to sales performance.
+
+[  64] client engagement
+       释义: clientengagement
+       音标: /client-engagem/
+       难度: ★★
+       例句: Effective client engagement is key to sales performance.
+
+[  65] client interaction
+       释义: clientinteraction
+       音标: /client-interac/
+       难度: ★★
+       例句: Effective client interaction is key to sales performance.
+
+[  66] client collaboration
+       释义: clientcollaboration
+       音标: /client-collabo/
+       难度: ★★
+       例句: Effective client collaboration is key to sales performance.
+
+[  67] customer planning
+       释义: customerplanning
+       音标: /customer-plann/
+       难度: ★★
+       例句: Effective customer planning is key to sales performance.
+
+[  68] customer execution
+       释义: customerexecution
+       音标: /customer-execu/
+       难度: ★★
+       例句: Effective customer execution is key to sales performance.
+
+[  69] customer monitoring
+       释义: customermonitoring
+       音标: /customer-monit/
+       难度: ★★
+       例句: Effective customer monitoring is key to sales performance.
+
+[  70] customer improvement
+       释义: customerimprovement
+       音标: /customer-impro/
+       难度: ★★
+       例句: Effective customer improvement is key to sales performance.
+
+[  71] customer negotiation
+       释义: customernegotiation
+       音标: /customer-negot/
+       难度: ★★
+       例句: Effective customer negotiation is key to sales performance.
+
+[  72] customer facilitation
+       释义: customerfacilitation
+       音标: /customer-facil/
+       难度: ★★
+       例句: Effective customer facilitation is key to sales performance.
+
+[  73] customer demonstration
+       释义: customerdemonstration
+       音标: /customer-demon/
+       难度: ★★
+       例句: Effective customer demonstration is key to sales performance.
+
+[  74] customer clarification
+       释义: customerclarification
+       音标: /customer-clari/
+       难度: ★★
+       例句: Effective customer clarification is key to sales performance.
+
+[  75] customer forecasting
+       释义: customerforecasting
+       音标: /customer-forec/
+       难度: ★★
+       例句: Effective customer forecasting is key to sales performance.
+
+[  76] customer engagement
+       释义: customerengagement
+       音标: /customer-engag/
+       难度: ★★
+       例句: Effective customer engagement is key to sales performance.
+
+[  77] customer mentoring
+       释义: customermentoring
+       音标: /customer-mento/
+       难度: ★★
+       例句: Effective customer mentoring is key to sales performance.
+
+[  78] prospect development
+       释义: prospectdevelopment
+       音标: /prospect-devel/
+       难度: ★★
+       例句: Effective prospect development is key to sales performance.
+
+[  79] prospect planning
+       释义: prospectplanning
+       音标: /prospect-plann/
+       难度: ★★
+       例句: Effective prospect planning is key to sales performance.
+
+[  80] prospect monitoring
+       释义: prospectmonitoring
+       音标: /prospect-monit/
+       难度: ★★
+       例句: Effective prospect monitoring is key to sales performance.
+
+[  81] prospect optimization
+       释义: prospectoptimization
+       音标: /prospect-optim/
+       难度: ★★
+       例句: Effective prospect optimization is key to sales performance.
+
+[  82] prospect qualification
+       释义: prospectqualification
+       音标: /prospect-quali/
+       难度: ★★
+       例句: Effective prospect qualification is key to sales performance.
+
+[  83] prospect nurturing
+       释义: prospectnurturing
+       音标: /prospect-nurtu/
+       难度: ★★
+       例句: Effective prospect nurturing is key to sales performance.
+
+[  84] prospect facilitation
+       释义: prospectfacilitation
+       音标: /prospect-facil/
+       难度: ★★
+       例句: Effective prospect facilitation is key to sales performance.
+
+[  85] prospect presentation
+       释义: prospectpresentation
+       音标: /prospect-prese/
+       难度: ★★
+       例句: Effective prospect presentation is key to sales performance.
+
+[  86] prospect demonstration
+       释义: prospectdemonstration
+       音标: /prospect-demon/
+       难度: ★★
+       例句: Effective prospect demonstration is key to sales performance.
+
+[  87] prospect training
+       释义: prospecttraining
+       音标: /prospect-train/
+       难度: ★★
+       例句: Effective prospect training is key to sales performance.
+
+[  88] prospect mentoring
+       释义: prospectmentoring
+       音标: /prospect-mento/
+       难度: ★★
+       例句: Effective prospect mentoring is key to sales performance.
+
+[  89] prospect support
+       释义: prospectsupport
+       音标: /prospect-suppo/
+       难度: ★★
+       例句: Effective prospect support is key to sales performance.
+
+[  90] lead negotiation
+       释义: leadnegotiation
+       音标: /lead-negotiati/
+       难度: ★★
+       例句: Effective lead negotiation is key to sales performance.
+
+[  91] lead demonstration
+       释义: leaddemonstration
+       音标: /lead-demonstra/
+       难度: ★★
+       例句: Effective lead demonstration is key to sales performance.
+
+[  92] lead reporting
+       释义: leadreporting
+       音标: /lead-reporting/
+       难度: ★★
+       例句: Effective lead reporting is key to sales performance.
+
+[  93] lead mentoring
+       释义: leadmentoring
+       音标: /lead-mentoring/
+       难度: ★★
+       例句: Effective lead mentoring is key to sales performance.
+
+[  94] lead support
+       释义: leadsupport
+       音标: /lead-support/
+       难度: ★★
+       例句: Effective lead support is key to sales performance.
+
+[  95] opportunity execution
+       释义: opportunityexecution
+       音标: /opportunity-ex/
+       难度: ★★
+       例句: Effective opportunity execution is key to sales performance.
+
+[  96] opportunity generation
+       释义: opportunitygeneration
+       音标: /opportunity-ge/
+       难度: ★★
+       例句: Effective opportunity generation is key to sales performance.
+
+[  97] opportunity conversion
+       释义: opportunityconversion
+       音标: /opportunity-co/
+       难度: ★★
+       例句: Effective opportunity conversion is key to sales performance.
+
+[  98] opportunity analysis
+       释义: opportunityanalysis
+       音标: /opportunity-an/
+       难度: ★★
+       例句: Effective opportunity analysis is key to sales performance.
+
+[  99] opportunity reporting
+       释义: opportunityreporting
+       音标: /opportunity-re/
+       难度: ★★
+       例句: Effective opportunity reporting is key to sales performance.
+
+[ 100] opportunity forecasting
+       释义: opportunityforecasting
+       音标: /opportunity-fo/
+       难度: ★★
+       例句: Effective opportunity forecasting is key to sales performance.
+
+[ 101] opportunity interaction
+       释义: opportunityinteraction
+       音标: /opportunity-in/
+       难度: ★★
+       例句: Effective opportunity interaction is key to sales performance.
+
+[ 102] opportunity guidance
+       释义: opportunityguidance
+       音标: /opportunity-gu/
+       难度: ★★
+       例句: Effective opportunity guidance is key to sales performance.
+
+[ 103] deal development
+       释义: dealdevelopment
+       音标: /deal-developme/
+       难度: ★★
+       例句: Effective deal development is key to sales performance.
+
+[ 104] deal generation
+       释义: dealgeneration
+       音标: /deal-generatio/
+       难度: ★★
+       例句: Effective deal generation is key to sales performance.
+
+[ 105] deal coordination
+       释义: dealcoordination
+       音标: /deal-coordinat/
+       难度: ★★
+       例句: Effective deal coordination is key to sales performance.
+
+[ 106] deal clarification
+       释义: dealclarification
+       音标: /deal-clarifica/
+       难度: ★★
+       例句: Effective deal clarification is key to sales performance.
+
+[ 107] deal analysis
+       释义: dealanalysis
+       音标: /deal-analysis/
+       难度: ★★
+       例句: Effective deal analysis is key to sales performance.
+
+[ 108] deal projection
+       释义: dealprojection
+       音标: /deal-projectio/
+       难度: ★★
+       例句: Effective deal projection is key to sales performance.
+
+[ 109] deal collaboration
+       释义: dealcollaboration
+       音标: /deal-collabora/
+       难度: ★★
+       例句: Effective deal collaboration is key to sales performance.
+
+[ 110] deal coaching
+       释义: dealcoaching
+       音标: /deal-coaching/
+       难度: ★★
+       例句: Effective deal coaching is key to sales performance.
+
+[ 111] bid development
+       释义: biddevelopment
+       音标: /bid-developmen/
+       难度: ★★
+       例句: Effective bid development is key to sales performance.
+
+[ 112] bid qualification
+       释义: bidqualification
+       音标: /bid-qualificat/
+       难度: ★★
+       例句: Effective bid qualification is key to sales performance.
+
+[ 113] bid coordination
+       释义: bidcoordination
+       音标: /bid-coordinati/
+       难度: ★★
+       例句: Effective bid coordination is key to sales performance.
+
+[ 114] bid analysis
+       释义: bidanalysis
+       音标: /bid-analysis/
+       难度: ★★
+       例句: Effective bid analysis is key to sales performance.
+
+[ 115] bid engagement
+       释义: bidengagement
+       音标: /bid-engagement/
+       难度: ★★
+       例句: Effective bid engagement is key to sales performance.
+
+[ 116] bid training
+       释义: bidtraining
+       音标: /bid-training/
+       难度: ★★
+       例句: Effective bid training is key to sales performance.
+
+[ 117] bid coaching
+       释义: bidcoaching
+       音标: /bid-coaching/
+       难度: ★★
+       例句: Effective bid coaching is key to sales performance.
+
+[ 118] bid support
+       释义: bidsupport
+       音标: /bid-support/
+       难度: ★★
+       例句: Effective bid support is key to sales performance.
+
+[ 119] tender improvement
+       释义: tenderimprovement
+       音标: /tender-improve/
+       难度: ★★
+       例句: Effective tender improvement is key to sales performance.
+
+[ 120] tender negotiation
+       释义: tendernegotiation
+       音标: /tender-negotia/
+       难度: ★★
+       例句: Effective tender negotiation is key to sales performance.
+
+[ 121] tender analysis
+       释义: tenderanalysis
+       音标: /tender-analysi/
+       难度: ★★
+       例句: Effective tender analysis is key to sales performance.
+
+[ 122] tender reporting
+       释义: tenderreporting
+       音标: /tender-reporti/
+       难度: ★★
+       例句: Effective tender reporting is key to sales performance.
+
+[ 123] tender forecasting
+       释义: tenderforecasting
+       音标: /tender-forecas/
+       难度: ★★
+       例句: Effective tender forecasting is key to sales performance.
+
+[ 124] proposal management
+       释义: proposalmanagement
+       音标: /proposal-manag/
+       难度: ★★
+       例句: Effective proposal management is key to sales performance.
+
+[ 125] proposal execution
+       释义: proposalexecution
+       音标: /proposal-execu/
+       难度: ★★
+       例句: Effective proposal execution is key to sales performance.
+
+[ 126] proposal monitoring
+       释义: proposalmonitoring
+       音标: /proposal-monit/
+       难度: ★★
+       例句: Effective proposal monitoring is key to sales performance.
+
+[ 127] proposal assessment
+       释义: proposalassessment
+       音标: /proposal-asses/
+       难度: ★★
+       例句: Effective proposal assessment is key to sales performance.
+
+[ 128] proposal improvement
+       释义: proposalimprovement
+       音标: /proposal-impro/
+       难度: ★★
+       例句: Effective proposal improvement is key to sales performance.
+
+[ 129] proposal qualification
+       释义: proposalqualification
+       音标: /proposal-quali/
+       难度: ★★
+       例句: Effective proposal qualification is key to sales performance.
+
+[ 130] proposal closure
+       释义: proposalclosure
+       音标: /proposal-closu/
+       难度: ★★
+       例句: Effective proposal closure is key to sales performance.
+
+[ 131] proposal demonstration
+       释义: proposaldemonstration
+       音标: /proposal-demon/
+       难度: ★★
+       例句: Effective proposal demonstration is key to sales performance.
+
+[ 132] proposal explanation
+       释义: proposalexplanation
+       音标: /proposal-expla/
+       难度: ★★
+       例句: Effective proposal explanation is key to sales performance.
+
+[ 133] proposal analysis
+       释义: proposalanalysis
+       音标: /proposal-analy/
+       难度: ★★
+       例句: Effective proposal analysis is key to sales performance.
+
+[ 134] proposal coaching
+       释义: proposalcoaching
+       音标: /proposal-coach/
+       难度: ★★
+       例句: Effective proposal coaching is key to sales performance.
+
+[ 135] contract execution
+       释义: contractexecution
+       音标: /contract-execu/
+       难度: ★★
+       例句: Effective contract execution is key to sales performance.
+
+[ 136] contract negotiation
+       释义: contractnegotiation
+       音标: /contract-negot/
+       难度: ★★
+       例句: Effective contract negotiation is key to sales performance.
+
+[ 137] contract communication
+       释义: contractcommunication
+       音标: /contract-commu/
+       难度: ★★
+       例句: Effective contract communication is key to sales performance.
+
+[ 138] contract explanation
+       释义: contractexplanation
+       音标: /contract-expla/
+       难度: ★★
+       例句: Effective contract explanation is key to sales performance.
+
+[ 139] contract clarification
+       释义: contractclarification
+       音标: /contract-clari/
+       难度: ★★
+       例句: Effective contract clarification is key to sales performance.
+
+[ 140] contract forecasting
+       释义: contractforecasting
+       音标: /contract-forec/
+       难度: ★★
+       例句: Effective contract forecasting is key to sales performance.
+
+[ 141] contract engagement
+       释义: contractengagement
+       音标: /contract-engag/
+       难度: ★★
+       例句: Effective contract engagement is key to sales performance.
+
+[ 142] contract collaboration
+       释义: contractcollaboration
+       音标: /contract-colla/
+       难度: ★★
+       例句: Effective contract collaboration is key to sales performance.
+
+[ 143] contract partnership
+       释义: contractpartnership
+       音标: /contract-partn/
+       难度: ★★
+       例句: Effective contract partnership is key to sales performance.
+
+[ 144] contract coaching
+       释义: contractcoaching
+       音标: /contract-coach/
+       难度: ★★
+       例句: Effective contract coaching is key to sales performance.
+
+[ 145] contract guidance
+       释义: contractguidance
+       音标: /contract-guida/
+       难度: ★★
+       例句: Effective contract guidance is key to sales performance.
+
+[ 146] agreement execution
+       释义: agreementexecution
+       音标: /agreement-exec/
+       难度: ★★
+       例句: Effective agreement execution is key to sales performance.
+
+[ 147] agreement monitoring
+       释义: agreementmonitoring
+       音标: /agreement-moni/
+       难度: ★★
+       例句: Effective agreement monitoring is key to sales performance.
+
+[ 148] agreement evaluation
+       释义: agreementevaluation
+       音标: /agreement-eval/
+       难度: ★★
+       例句: Effective agreement evaluation is key to sales performance.
+
+[ 149] agreement closure
+       释义: agreementclosure
+       音标: /agreement-clos/
+       难度: ★★
+       例句: Effective agreement closure is key to sales performance.
+
+[ 150] agreement facilitation
+       释义: agreementfacilitation
+       音标: /agreement-faci/
+       难度: ★★
+       例句: Effective agreement facilitation is key to sales performance.
+
+[ 151] agreement communication
+       释义: agreementcommunication
+       音标: /agreement-comm/
+       难度: ★★
+       例句: Effective agreement communication is key to sales performance.
+
+[ 152] agreement clarification
+       释义: agreementclarification
+       音标: /agreement-clar/
+       难度: ★★
+       例句: Effective agreement clarification is key to sales performance.
+
+[ 153] agreement analysis
+       释义: agreementanalysis
+       音标: /agreement-anal/
+       难度: ★★
+       例句: Effective agreement analysis is key to sales performance.
+
+[ 154] agreement engagement
+       释义: agreementengagement
+       音标: /agreement-enga/
+       难度: ★★
+       例句: Effective agreement engagement is key to sales performance.
+
+[ 155] agreement collaboration
+       释义: agreementcollaboration
+       音标: /agreement-coll/
+       难度: ★★
+       例句: Effective agreement collaboration is key to sales performance.
+
+[ 156] agreement partnership
+       释义: agreementpartnership
+       音标: /agreement-part/
+       难度: ★★
+       例句: Effective agreement partnership is key to sales performance.
+
+[ 157] agreement training
+       释义: agreementtraining
+       音标: /agreement-trai/
+       难度: ★★
+       例句: Effective agreement training is key to sales performance.
+
+[ 158] order development
+       释义: orderdevelopment
+       音标: /order-developm/
+       难度: ★★
+       例句: Effective order development is key to sales performance.
+
+[ 159] order tracking
+       释义: ordertracking
+       音标: /order-tracking/
+       难度: ★★
+       例句: Effective order tracking is key to sales performance.
+
+[ 160] order monitoring
+       释义: ordermonitoring
+       音标: /order-monitori/
+       难度: ★★
+       例句: Effective order monitoring is key to sales performance.
+
+[ 161] order assessment
+       释义: orderassessment
+       音标: /order-assessme/
+       难度: ★★
+       例句: Effective order assessment is key to sales performance.
+
+[ 162] order conversion
+       释义: orderconversion
+       音标: /order-conversi/
+       难度: ★★
+       例句: Effective order conversion is key to sales performance.
+
+[ 163] order coordination
+       释义: ordercoordination
+       音标: /order-coordina/
+       难度: ★★
+       例句: Effective order coordination is key to sales performance.
+
+[ 164] order presentation
+       释义: orderpresentation
+       音标: /order-presenta/
+       难度: ★★
+       例句: Effective order presentation is key to sales performance.
+
+[ 165] order demonstration
+       释义: orderdemonstration
+       音标: /order-demonstr/
+       难度: ★★
+       例句: Effective order demonstration is key to sales performance.
+
+[ 166] order clarification
+       释义: orderclarification
+       音标: /order-clarific/
+       难度: ★★
+       例句: Effective order clarification is key to sales performance.
+
+[ 167] order analysis
+       释义: orderanalysis
+       音标: /order-analysis/
+       难度: ★★
+       例句: Effective order analysis is key to sales performance.
+
+[ 168] order review
+       释义: orderreview
+       音标: /order-review/
+       难度: ★★
+       例句: Effective order review is key to sales performance.
+
+[ 169] order interaction
+       释义: orderinteraction
+       音标: /order-interact/
+       难度: ★★
+       例句: Effective order interaction is key to sales performance.
+
+[ 170] order training
+       释义: ordertraining
+       音标: /order-training/
+       难度: ★★
+       例句: Effective order training is key to sales performance.
+
+[ 171] order guidance
+       释义: orderguidance
+       音标: /order-guidance/
+       难度: ★★
+       例句: Effective order guidance is key to sales performance.
+
+[ 172] quotation generation
+       释义: quotationgeneration
+       音标: /quotation-gene/
+       难度: ★★
+       例句: Effective quotation generation is key to sales performance.
+
+[ 173] quotation nurturing
+       释义: quotationnurturing
+       音标: /quotation-nurt/
+       难度: ★★
+       例句: Effective quotation nurturing is key to sales performance.
+
+[ 174] quotation facilitation
+       释义: quotationfacilitation
+       音标: /quotation-faci/
+       难度: ★★
+       例句: Effective quotation facilitation is key to sales performance.
+
+[ 175] quotation coordination
+       释义: quotationcoordination
+       音标: /quotation-coor/
+       难度: ★★
+       例句: Effective quotation coordination is key to sales performance.
+
+[ 176] quotation review
+       释义: quotationreview
+       音标: /quotation-revi/
+       难度: ★★
+       例句: Effective quotation review is key to sales performance.
+
+[ 177] quotation coaching
+       释义: quotationcoaching
+       音标: /quotation-coac/
+       难度: ★★
+       例句: Effective quotation coaching is key to sales performance.
+
+[ 178] estimate communication
+       释义: estimatecommunication
+       音标: /estimate-commu/
+       难度: ★★
+       例句: Effective estimate communication is key to sales performance.
+
+[ 179] estimate demonstration
+       释义: estimatedemonstration
+       音标: /estimate-demon/
+       难度: ★★
+       例句: Effective estimate demonstration is key to sales performance.
+
+[ 180] estimate review
+       释义: estimatereview
+       音标: /estimate-revie/
+       难度: ★★
+       例句: Effective estimate review is key to sales performance.
+
+[ 181] estimate projection
+       释义: estimateprojection
+       音标: /estimate-proje/
+       难度: ★★
+       例句: Effective estimate projection is key to sales performance.
+
+[ 182] estimate collaboration
+       释义: estimatecollaboration
+       音标: /estimate-colla/
+       难度: ★★
+       例句: Effective estimate collaboration is key to sales performance.
+
+[ 183] estimate support
+       释义: estimatesupport
+       音标: /estimate-suppo/
+       难度: ★★
+       例句: Effective estimate support is key to sales performance.
+
+[ 184] invoice planning
+       释义: invoiceplanning
+       音标: /invoice-planni/
+       难度: ★★
+       例句: Effective invoice planning is key to sales performance.
+
+[ 185] invoice evaluation
+       释义: invoiceevaluation
+       音标: /invoice-evalua/
+       难度: ★★
+       例句: Effective invoice evaluation is key to sales performance.
+
+[ 186] invoice presentation
+       释义: invoicepresentation
+       音标: /invoice-presen/
+       难度: ★★
+       例句: Effective invoice presentation is key to sales performance.
+
+[ 187] invoice reporting
+       释义: invoicereporting
+       音标: /invoice-report/
+       难度: ★★
+       例句: Effective invoice reporting is key to sales performance.
+
+[ 188] invoice engagement
+       释义: invoiceengagement
+       音标: /invoice-engage/
+       难度: ★★
+       例句: Effective invoice engagement is key to sales performance.
+
+[ 189] invoice coaching
+       释义: invoicecoaching
+       音标: /invoice-coachi/
+       难度: ★★
+       例句: Effective invoice coaching is key to sales performance.
+
+[ 190] invoice guidance
+       释义: invoiceguidance
+       音标: /invoice-guidan/
+       难度: ★★
+       例句: Effective invoice guidance is key to sales performance.
+
+[ 191] invoice support
+       释义: invoicesupport
+       音标: /invoice-suppor/
+       难度: ★★
+       例句: Effective invoice support is key to sales performance.
+
+[ 192] payment development
+       释义: paymentdevelopment
+       音标: /payment-develo/
+       难度: ★★
+       例句: Effective payment development is key to sales performance.
+
+[ 193] payment tracking
+       释义: paymenttracking
+       音标: /payment-tracki/
+       难度: ★★
+       例句: Effective payment tracking is key to sales performance.
+
+[ 194] payment assessment
+       释义: paymentassessment
+       音标: /payment-assess/
+       难度: ★★
+       例句: Effective payment assessment is key to sales performance.
+
+[ 195] payment coordination
+       释义: paymentcoordination
+       音标: /payment-coordi/
+       难度: ★★
+       例句: Effective payment coordination is key to sales performance.
+
+[ 196] payment projection
+       释义: paymentprojection
+       音标: /payment-projec/
+       难度: ★★
+       例句: Effective payment projection is key to sales performance.
+
+[ 197] payment coaching
+       释义: paymentcoaching
+       音标: /payment-coachi/
+       难度: ★★
+       例句: Effective payment coaching is key to sales performance.
+
+[ 198] payment guidance
+       释义: paymentguidance
+       音标: /payment-guidan/
+       难度: ★★
+       例句: Effective payment guidance is key to sales performance.
+
+[ 199] discount management
+       释义: discountmanagement
+       音标: /discount-manag/
+       难度: ★★
+       例句: Effective discount management is key to sales performance.
+
+[ 200] discount planning
+       释义: discountplanning
+       音标: /discount-plann/
+       难度: ★★
+       例句: Effective discount planning is key to sales performance.
+
+[ 201] discount evaluation
+       释义: discountevaluation
+       音标: /discount-evalu/
+       难度: ★★
+       例句: Effective discount evaluation is key to sales performance.
+
+[ 202] discount nurturing
+       释义: discountnurturing
+       音标: /discount-nurtu/
+       难度: ★★
+       例句: Effective discount nurturing is key to sales performance.
+
+[ 203] discount closure
+       释义: discountclosure
+       音标: /discount-closu/
+       难度: ★★
+       例句: Effective discount closure is key to sales performance.
+
+[ 204] discount clarification
+       释义: discountclarification
+       音标: /discount-clari/
+       难度: ★★
+       例句: Effective discount clarification is key to sales performance.
+
+[ 205] discount engagement
+       释义: discountengagement
+       音标: /discount-engag/
+       难度: ★★
+       例句: Effective discount engagement is key to sales performance.
+
+[ 206] discount interaction
+       释义: discountinteraction
+       音标: /discount-inter/
+       难度: ★★
+       例句: Effective discount interaction is key to sales performance.
+
+[ 207] discount guidance
+       释义: discountguidance
+       音标: /discount-guida/
+       难度: ★★
+       例句: Effective discount guidance is key to sales performance.
+
+[ 208] commission negotiation
+       释义: commissionnegotiation
+       音标: /commission-neg/
+       难度: ★★
+       例句: Effective commission negotiation is key to sales performance.
+
+[ 209] commission coordination
+       释义: commissioncoordination
+       音标: /commission-coo/
+       难度: ★★
+       例句: Effective commission coordination is key to sales performance.
+
+[ 210] commission communication
+       释义: commissioncommunication
+       音标: /commission-com/
+       难度: ★★
+       例句: Effective commission communication is key to sales performance.
+
+[ 211] commission presentation
+       释义: commissionpresentation
+       音标: /commission-pre/
+       难度: ★★
+       例句: Effective commission presentation is key to sales performance.
+
+[ 212] commission demonstration
+       释义: commissiondemonstration
+       音标: /commission-dem/
+       难度: ★★
+       例句: Effective commission demonstration is key to sales performance.
+
+[ 213] commission analysis
+       释义: commissionanalysis
+       音标: /commission-ana/
+       难度: ★★
+       例句: Effective commission analysis is key to sales performance.
+
+[ 214] commission reporting
+       释义: commissionreporting
+       音标: /commission-rep/
+       难度: ★★
+       例句: Effective commission reporting is key to sales performance.
+
+[ 215] commission forecasting
+       释义: commissionforecasting
+       音标: /commission-for/
+       难度: ★★
+       例句: Effective commission forecasting is key to sales performance.
+
+[ 216] commission mentoring
+       释义: commissionmentoring
+       音标: /commission-men/
+       难度: ★★
+       例句: Effective commission mentoring is key to sales performance.
+
+[ 217] commission guidance
+       释义: commissionguidance
+       音标: /commission-gui/
+       难度: ★★
+       例句: Effective commission guidance is key to sales performance.
+
+[ 218] commission support
+       释义: commissionsupport
+       音标: /commission-sup/
+       难度: ★★
+       例句: Effective commission support is key to sales performance.
+
+[ 219] bonus management
+       释义: bonusmanagement
+       音标: /bonus-manageme/
+       难度: ★★
+       例句: Effective bonus management is key to sales performance.
+
+[ 220] bonus monitoring
+       释义: bonusmonitoring
+       音标: /bonus-monitori/
+       难度: ★★
+       例句: Effective bonus monitoring is key to sales performance.
+
+[ 221] bonus evaluation
+       释义: bonusevaluation
+       音标: /bonus-evaluati/
+       难度: ★★
+       例句: Effective bonus evaluation is key to sales performance.
+
+[ 222] bonus generation
+       释义: bonusgeneration
+       音标: /bonus-generati/
+       难度: ★★
+       例句: Effective bonus generation is key to sales performance.
+
+[ 223] bonus facilitation
+       释义: bonusfacilitation
+       音标: /bonus-facilita/
+       难度: ★★
+       例句: Effective bonus facilitation is key to sales performance.
+
+[ 224] bonus partnership
+       释义: bonuspartnership
+       音标: /bonus-partners/
+       难度: ★★
+       例句: Effective bonus partnership is key to sales performance.
+
+[ 225] bonus mentoring
+       释义: bonusmentoring
+       音标: /bonus-mentorin/
+       难度: ★★
+       例句: Effective bonus mentoring is key to sales performance.
+
+[ 226] incentive management
+       释义: incentivemanagement
+       音标: /incentive-mana/
+       难度: ★★
+       例句: Effective incentive management is key to sales performance.
+
+[ 227] incentive execution
+       释义: incentiveexecution
+       音标: /incentive-exec/
+       难度: ★★
+       例句: Effective incentive execution is key to sales performance.
+
+[ 228] incentive communication
+       释义: incentivecommunication
+       音标: /incentive-comm/
+       难度: ★★
+       例句: Effective incentive communication is key to sales performance.
+
+[ 229] incentive presentation
+       释义: incentivepresentation
+       音标: /incentive-pres/
+       难度: ★★
+       例句: Effective incentive presentation is key to sales performance.
+
+[ 230] incentive clarification
+       释义: incentiveclarification
+       音标: /incentive-clar/
+       难度: ★★
+       例句: Effective incentive clarification is key to sales performance.
+
+[ 231] incentive analysis
+       释义: incentiveanalysis
+       音标: /incentive-anal/
+       难度: ★★
+       例句: Effective incentive analysis is key to sales performance.
+
+[ 232] incentive projection
+       释义: incentiveprojection
+       音标: /incentive-proj/
+       难度: ★★
+       例句: Effective incentive projection is key to sales performance.
+
+[ 233] reward development
+       释义: rewarddevelopment
+       音标: /reward-develop/
+       难度: ★★
+       例句: Effective reward development is key to sales performance.
+
+[ 234] reward assessment
+       释义: rewardassessment
+       音标: /reward-assessm/
+       难度: ★★
+       例句: Effective reward assessment is key to sales performance.
+
+[ 235] reward improvement
+       释义: rewardimprovement
+       音标: /reward-improve/
+       难度: ★★
+       例句: Effective reward improvement is key to sales performance.
+
+[ 236] reward conversion
+       释义: rewardconversion
+       音标: /reward-convers/
+       难度: ★★
+       例句: Effective reward conversion is key to sales performance.
+
+[ 237] reward negotiation
+       释义: rewardnegotiation
+       音标: /reward-negotia/
+       难度: ★★
+       例句: Effective reward negotiation is key to sales performance.
+
+[ 238] reward communication
+       释义: rewardcommunication
+       音标: /reward-communi/
+       难度: ★★
+       例句: Effective reward communication is key to sales performance.
+
+[ 239] reward presentation
+       释义: rewardpresentation
+       音标: /reward-present/
+       难度: ★★
+       例句: Effective reward presentation is key to sales performance.
+
+[ 240] reward projection
+       释义: rewardprojection
+       音标: /reward-project/
+       难度: ★★
+       例句: Effective reward projection is key to sales performance.
+
+[ 241] reward coaching
+       释义: rewardcoaching
+       音标: /reward-coachin/
+       难度: ★★
+       例句: Effective reward coaching is key to sales performance.
+
+[ 242] quota execution
+       释义: quotaexecution
+       音标: /quota-executio/
+       难度: ★★
+       例句: Effective quota execution is key to sales performance.
+
+[ 243] quota qualification
+       释义: quotaqualification
+       音标: /quota-qualific/
+       难度: ★★
+       例句: Effective quota qualification is key to sales performance.
+
+[ 244] quota conversion
+       释义: quotaconversion
+       音标: /quota-conversi/
+       难度: ★★
+       例句: Effective quota conversion is key to sales performance.
+
+[ 245] quota coordination
+       释义: quotacoordination
+       音标: /quota-coordina/
+       难度: ★★
+       例句: Effective quota coordination is key to sales performance.
+
+[ 246] quota demonstration
+       释义: quotademonstration
+       音标: /quota-demonstr/
+       难度: ★★
+       例句: Effective quota demonstration is key to sales performance.
+
+[ 247] quota analysis
+       释义: quotaanalysis
+       音标: /quota-analysis/
+       难度: ★★
+       例句: Effective quota analysis is key to sales performance.
+
+[ 248] quota engagement
+       释义: quotaengagement
+       音标: /quota-engageme/
+       难度: ★★
+       例句: Effective quota engagement is key to sales performance.
+
+[ 249] quota interaction
+       释义: quotainteraction
+       音标: /quota-interact/
+       难度: ★★
+       例句: Effective quota interaction is key to sales performance.
+
+[ 250] quota partnership
+       释义: quotapartnership
+       音标: /quota-partners/
+       难度: ★★
+       例句: Effective quota partnership is key to sales performance.
+
+[ 251] target management
+       释义: targetmanagement
+       音标: /target-managem/
+       难度: ★★
+       例句: Effective target management is key to sales performance.
+
+[ 252] target execution
+       释义: targetexecution
+       音标: /target-executi/
+       难度: ★★
+       例句: Effective target execution is key to sales performance.
+
+[ 253] target tracking
+       释义: targettracking
+       音标: /target-trackin/
+       难度: ★★
+       例句: Effective target tracking is key to sales performance.
+
+[ 254] target qualification
+       释义: targetqualification
+       音标: /target-qualifi/
+       难度: ★★
+       例句: Effective target qualification is key to sales performance.
+
+[ 255] target communication
+       释义: targetcommunication
+       音标: /target-communi/
+       难度: ★★
+       例句: Effective target communication is key to sales performance.
+
+[ 256] target explanation
+       释义: targetexplanation
+       音标: /target-explana/
+       难度: ★★
+       例句: Effective target explanation is key to sales performance.
+
+[ 257] target forecasting
+       释义: targetforecasting
+       音标: /target-forecas/
+       难度: ★★
+       例句: Effective target forecasting is key to sales performance.
+
+[ 258] target engagement
+       释义: targetengagement
+       音标: /target-engagem/
+       难度: ★★
+       例句: Effective target engagement is key to sales performance.
+
+[ 259] target partnership
+       释义: targetpartnership
+       音标: /target-partner/
+       难度: ★★
+       例句: Effective target partnership is key to sales performance.
+
+[ 260] revenue planning
+       释义: revenueplanning
+       音标: /revenue-planni/
+       难度: ★★
+       例句: Effective revenue planning is key to sales performance.
+
+[ 261] revenue tracking
+       释义: revenuetracking
+       音标: /revenue-tracki/
+       难度: ★★
+       例句: Effective revenue tracking is key to sales performance.
+
+[ 262] revenue nurturing
+       释义: revenuenurturing
+       音标: /revenue-nurtur/
+       难度: ★★
+       例句: Effective revenue nurturing is key to sales performance.
+
+[ 263] revenue facilitation
+       释义: revenuefacilitation
+       音标: /revenue-facili/
+       难度: ★★
+       例句: Effective revenue facilitation is key to sales performance.
+
+[ 264] revenue coordination
+       释义: revenuecoordination
+       音标: /revenue-coordi/
+       难度: ★★
+       例句: Effective revenue coordination is key to sales performance.
+
+[ 265] revenue communication
+       释义: revenuecommunication
+       音标: /revenue-commun/
+       难度: ★★
+       例句: Effective revenue communication is key to sales performance.
+
+[ 266] revenue review
+       释义: revenuereview
+       音标: /revenue-review/
+       难度: ★★
+       例句: Effective revenue review is key to sales performance.
+
+[ 267] revenue partnership
+       释义: revenuepartnership
+       音标: /revenue-partne/
+       难度: ★★
+       例句: Effective revenue partnership is key to sales performance.
+
+[ 268] revenue coaching
+       释义: revenuecoaching
+       音标: /revenue-coachi/
+       难度: ★★
+       例句: Effective revenue coaching is key to sales performance.
+
+[ 269] profit development
+       释义: profitdevelopment
+       音标: /profit-develop/
+       难度: ★★
+       例句: Effective profit development is key to sales performance.
+
+[ 270] profit planning
+       释义: profitplanning
+       音标: /profit-plannin/
+       难度: ★★
+       例句: Effective profit planning is key to sales performance.
+
+[ 271] profit nurturing
+       释义: profitnurturing
+       音标: /profit-nurturi/
+       难度: ★★
+       例句: Effective profit nurturing is key to sales performance.
+
+[ 272] profit closure
+       释义: profitclosure
+       音标: /profit-closure/
+       难度: ★★
+       例句: Effective profit closure is key to sales performance.
+
+[ 273] profit communication
+       释义: profitcommunication
+       音标: /profit-communi/
+       难度: ★★
+       例句: Effective profit communication is key to sales performance.
+
+[ 274] profit explanation
+       释义: profitexplanation
+       音标: /profit-explana/
+       难度: ★★
+       例句: Effective profit explanation is key to sales performance.
+
+[ 275] profit forecasting
+       释义: profitforecasting
+       音标: /profit-forecas/
+       难度: ★★
+       例句: Effective profit forecasting is key to sales performance.
+
+[ 276] profit partnership
+       释义: profitpartnership
+       音标: /profit-partner/
+       难度: ★★
+       例句: Effective profit partnership is key to sales performance.
+
+[ 277] profit coaching
+       释义: profitcoaching
+       音标: /profit-coachin/
+       难度: ★★
+       例句: Effective profit coaching is key to sales performance.
+
+[ 278] profit support
+       释义: profitsupport
+       音标: /profit-support/
+       难度: ★★
+       例句: Effective profit support is key to sales performance.
+
+[ 279] margin qualification
+       释义: marginqualification
+       音标: /margin-qualifi/
+       难度: ★★
+       例句: Effective margin qualification is key to sales performance.
+
+[ 280] margin facilitation
+       释义: marginfacilitation
+       音标: /margin-facilit/
+       难度: ★★
+       例句: Effective margin facilitation is key to sales performance.
+
+[ 281] margin projection
+       释义: marginprojection
+       音标: /margin-project/
+       难度: ★★
+       例句: Effective margin projection is key to sales performance.
+
+[ 282] margin interaction
+       释义: margininteraction
+       音标: /margin-interac/
+       难度: ★★
+       例句: Effective margin interaction is key to sales performance.
+
+[ 283] margin support
+       释义: marginsupport
+       音标: /margin-support/
+       难度: ★★
+       例句: Effective margin support is key to sales performance.
+
+[ 284] cost planning
+       释义: costplanning
+       音标: /cost-planning/
+       难度: ★★
+       例句: Effective cost planning is key to sales performance.
+
+[ 285] cost execution
+       释义: costexecution
+       音标: /cost-execution/
+       难度: ★★
+       例句: Effective cost execution is key to sales performance.
+
+[ 286] cost monitoring
+       释义: costmonitoring
+       音标: /cost-monitorin/
+       难度: ★★
+       例句: Effective cost monitoring is key to sales performance.
+
+[ 287] cost evaluation
+       释义: costevaluation
+       音标: /cost-evaluatio/
+       难度: ★★
+       例句: Effective cost evaluation is key to sales performance.
+
+[ 288] cost improvement
+       释义: costimprovement
+       音标: /cost-improveme/
+       难度: ★★
+       例句: Effective cost improvement is key to sales performance.
+
+[ 289] cost presentation
+       释义: costpresentation
+       音标: /cost-presentat/
+       难度: ★★
+       例句: Effective cost presentation is key to sales performance.
+
+[ 290] cost guidance
+       释义: costguidance
+       音标: /cost-guidance/
+       难度: ★★
+       例句: Effective cost guidance is key to sales performance.
+
+[ 291] price tracking
+       释义: pricetracking
+       音标: /price-tracking/
+       难度: ★★
+       例句: Effective price tracking is key to sales performance.
+
+[ 292] price monitoring
+       释义: pricemonitoring
+       音标: /price-monitori/
+       难度: ★★
+       例句: Effective price monitoring is key to sales performance.
+
+[ 293] price assessment
+       释义: priceassessment
+       音标: /price-assessme/
+       难度: ★★
+       例句: Effective price assessment is key to sales performance.
+
+[ 294] price improvement
+       释义: priceimprovement
+       音标: /price-improvem/
+       难度: ★★
+       例句: Effective price improvement is key to sales performance.
+
+[ 295] price generation
+       释义: pricegeneration
+       音标: /price-generati/
+       难度: ★★
+       例句: Effective price generation is key to sales performance.
+
+[ 296] price negotiation
+       释义: pricenegotiation
+       音标: /price-negotiat/
+       难度: ★★
+       例句: Effective price negotiation is key to sales performance.
+
+[ 297] price facilitation
+       释义: pricefacilitation
+       音标: /price-facilita/
+       难度: ★★
+       例句: Effective price facilitation is key to sales performance.
+
+[ 298] price communication
+       释义: pricecommunication
+       音标: /price-communic/
+       难度: ★★
+       例句: Effective price communication is key to sales performance.
+
+[ 299] price review
+       释义: pricereview
+       音标: /price-review/
+       难度: ★★
+       例句: Effective price review is key to sales performance.
+
+[ 300] price engagement
+       释义: priceengagement
+       音标: /price-engageme/
+       难度: ★★
+       例句: Effective price engagement is key to sales performance.
+
+[ 301] price interaction
+       释义: priceinteraction
+       音标: /price-interact/
+       难度: ★★
+       例句: Effective price interaction is key to sales performance.
+
+[ 302] price partnership
+       释义: pricepartnership
+       音标: /price-partners/
+       难度: ★★
+       例句: Effective price partnership is key to sales performance.
+
+[ 303] fee development
+       释义: feedevelopment
+       音标: /fee-developmen/
+       难度: ★★
+       例句: Effective fee development is key to sales performance.
+
+[ 304] fee monitoring
+       释义: feemonitoring
+       音标: /fee-monitoring/
+       难度: ★★
+       例句: Effective fee monitoring is key to sales performance.
+
+[ 305] fee evaluation
+       释义: feeevaluation
+       音标: /fee-evaluation/
+       难度: ★★
+       例句: Effective fee evaluation is key to sales performance.
+
+[ 306] fee nurturing
+       释义: feenurturing
+       音标: /fee-nurturing/
+       难度: ★★
+       例句: Effective fee nurturing is key to sales performance.
+
+[ 307] fee demonstration
+       释义: feedemonstration
+       音标: /fee-demonstrat/
+       难度: ★★
+       例句: Effective fee demonstration is key to sales performance.
+
+[ 308] fee forecasting
+       释义: feeforecasting
+       音标: /fee-forecastin/
+       难度: ★★
+       例句: Effective fee forecasting is key to sales performance.
+
+[ 309] fee partnership
+       释义: feepartnership
+       音标: /fee-partnershi/
+       难度: ★★
+       例句: Effective fee partnership is key to sales performance.
+
+[ 310] product generation
+       释义: productgeneration
+       音标: /product-genera/
+       难度: ★★
+       例句: Effective product generation is key to sales performance.
+
+[ 311] product closure
+       释义: productclosure
+       音标: /product-closur/
+       难度: ★★
+       例句: Effective product closure is key to sales performance.
+
+[ 312] product engagement
+       释义: productengagement
+       音标: /product-engage/
+       难度: ★★
+       例句: Effective product engagement is key to sales performance.
+
+[ 313] product collaboration
+       释义: productcollaboration
+       音标: /product-collab/
+       难度: ★★
+       例句: Effective product collaboration is key to sales performance.
+
+[ 314] product coaching
+       释义: productcoaching
+       音标: /product-coachi/
+       难度: ★★
+       例句: Effective product coaching is key to sales performance.
+
+[ 315] service development
+       释义: servicedevelopment
+       音标: /service-develo/
+       难度: ★★
+       例句: Effective service development is key to sales performance.
+
+[ 316] service planning
+       释义: serviceplanning
+       音标: /service-planni/
+       难度: ★★
+       例句: Effective service planning is key to sales performance.
+
+[ 317] service tracking
+       释义: servicetracking
+       音标: /service-tracki/
+       难度: ★★
+       例句: Effective service tracking is key to sales performance.
+
+[ 318] service monitoring
+       释义: servicemonitoring
+       音标: /service-monito/
+       难度: ★★
+       例句: Effective service monitoring is key to sales performance.
+
+[ 319] service evaluation
+       释义: serviceevaluation
+       音标: /service-evalua/
+       难度: ★★
+       例句: Effective service evaluation is key to sales performance.
+
+[ 320] service negotiation
+       释义: servicenegotiation
+       音标: /service-negoti/
+       难度: ★★
+       例句: Effective service negotiation is key to sales performance.
+
+[ 321] service coordination
+       释义: servicecoordination
+       音标: /service-coordi/
+       难度: ★★
+       例句: Effective service coordination is key to sales performance.
+
+[ 322] service projection
+       释义: serviceprojection
+       音标: /service-projec/
+       难度: ★★
+       例句: Effective service projection is key to sales performance.
+
+[ 323] service training
+       释义: servicetraining
+       音标: /service-traini/
+       难度: ★★
+       例句: Effective service training is key to sales performance.
+
+[ 324] solution management
+       释义: solutionmanagement
+       音标: /solution-manag/
+       难度: ★★
+       例句: Effective solution management is key to sales performance.
+
+[ 325] solution development
+       释义: solutiondevelopment
+       音标: /solution-devel/
+       难度: ★★
+       例句: Effective solution development is key to sales performance.
+
+[ 326] solution generation
+       释义: solutiongeneration
+       音标: /solution-gener/
+       难度: ★★
+       例句: Effective solution generation is key to sales performance.
+
+[ 327] solution nurturing
+       释义: solutionnurturing
+       音标: /solution-nurtu/
+       难度: ★★
+       例句: Effective solution nurturing is key to sales performance.
+
+[ 328] solution negotiation
+       释义: solutionnegotiation
+       音标: /solution-negot/
+       难度: ★★
+       例句: Effective solution negotiation is key to sales performance.
+
+[ 329] solution demonstration
+       释义: solutiondemonstration
+       音标: /solution-demon/
+       难度: ★★
+       例句: Effective solution demonstration is key to sales performance.
+
+[ 330] solution forecasting
+       释义: solutionforecasting
+       音标: /solution-forec/
+       难度: ★★
+       例句: Effective solution forecasting is key to sales performance.
+
+[ 331] solution projection
+       释义: solutionprojection
+       音标: /solution-proje/
+       难度: ★★
+       例句: Effective solution projection is key to sales performance.
+
+[ 332] solution training
+       释义: solutiontraining
+       音标: /solution-train/
+       难度: ★★
+       例句: Effective solution training is key to sales performance.
+
+[ 333] solution guidance
+       释义: solutionguidance
+       音标: /solution-guida/
+       难度: ★★
+       例句: Effective solution guidance is key to sales performance.
+
+[ 334] package development
+       释义: packagedevelopment
+       音标: /package-develo/
+       难度: ★★
+       例句: Effective package development is key to sales performance.
+
+[ 335] package monitoring
+       释义: packagemonitoring
+       音标: /package-monito/
+       难度: ★★
+       例句: Effective package monitoring is key to sales performance.
+
+[ 336] package optimization
+       释义: packageoptimization
+       音标: /package-optimi/
+       难度: ★★
+       例句: Effective package optimization is key to sales performance.
+
+[ 337] package presentation
+       释义: packagepresentation
+       音标: /package-presen/
+       难度: ★★
+       例句: Effective package presentation is key to sales performance.
+
+[ 338] package demonstration
+       释义: packagedemonstration
+       音标: /package-demons/
+       难度: ★★
+       例句: Effective package demonstration is key to sales performance.
+
+[ 339] package forecasting
+       释义: packageforecasting
+       音标: /package-foreca/
+       难度: ★★
+       例句: Effective package forecasting is key to sales performance.
+
+[ 340] package engagement
+       释义: packageengagement
+       音标: /package-engage/
+       难度: ★★
+       例句: Effective package engagement is key to sales performance.
+
+[ 341] package collaboration
+       释义: packagecollaboration
+       音标: /package-collab/
+       难度: ★★
+       例句: Effective package collaboration is key to sales performance.
+
+[ 342] package mentoring
+       释义: packagementoring
+       音标: /package-mentor/
+       难度: ★★
+       例句: Effective package mentoring is key to sales performance.
+
+[ 343] package guidance
+       释义: packageguidance
+       音标: /package-guidan/
+       难度: ★★
+       例句: Effective package guidance is key to sales performance.
+
+[ 344] package support
+       释义: packagesupport
+       音标: /package-suppor/
+       难度: ★★
+       例句: Effective package support is key to sales performance.
+
+[ 345] bundle planning
+       释义: bundleplanning
+       音标: /bundle-plannin/
+       难度: ★★
+       例句: Effective bundle planning is key to sales performance.
+
+[ 346] bundle tracking
+       释义: bundletracking
+       音标: /bundle-trackin/
+       难度: ★★
+       例句: Effective bundle tracking is key to sales performance.
+
+[ 347] bundle conversion
+       释义: bundleconversion
+       音标: /bundle-convers/
+       难度: ★★
+       例句: Effective bundle conversion is key to sales performance.
+
+[ 348] bundle facilitation
+       释义: bundlefacilitation
+       音标: /bundle-facilit/
+       难度: ★★
+       例句: Effective bundle facilitation is key to sales performance.
+
+[ 349] bundle presentation
+       释义: bundlepresentation
+       音标: /bundle-present/
+       难度: ★★
+       例句: Effective bundle presentation is key to sales performance.
+
+[ 350] bundle review
+       释义: bundlereview
+       音标: /bundle-review/
+       难度: ★★
+       例句: Effective bundle review is key to sales performance.
+
+[ 351] bundle projection
+       释义: bundleprojection
+       音标: /bundle-project/
+       难度: ★★
+       例句: Effective bundle projection is key to sales performance.
+
+[ 352] bundle engagement
+       释义: bundleengagement
+       音标: /bundle-engagem/
+       难度: ★★
+       例句: Effective bundle engagement is key to sales performance.
+
+[ 353] bundle coaching
+       释义: bundlecoaching
+       音标: /bundle-coachin/
+       难度: ★★
+       例句: Effective bundle coaching is key to sales performance.
+
+[ 354] bundle mentoring
+       释义: bundlementoring
+       音标: /bundle-mentori/
+       难度: ★★
+       例句: Effective bundle mentoring is key to sales performance.
+
+[ 355] meeting evaluation
+       释义: meetingevaluation
+       音标: /meeting-evalua/
+       难度: ★★
+       例句: Effective meeting evaluation is key to sales performance.
+
+[ 356] meeting nurturing
+       释义: meetingnurturing
+       音标: /meeting-nurtur/
+       难度: ★★
+       例句: Effective meeting nurturing is key to sales performance.
+
+[ 357] meeting closure
+       释义: meetingclosure
+       音标: /meeting-closur/
+       难度: ★★
+       例句: Effective meeting closure is key to sales performance.
+
+[ 358] meeting negotiation
+       释义: meetingnegotiation
+       音标: /meeting-negoti/
+       难度: ★★
+       例句: Effective meeting negotiation is key to sales performance.
+
+[ 359] meeting coordination
+       释义: meetingcoordination
+       音标: /meeting-coordi/
+       难度: ★★
+       例句: Effective meeting coordination is key to sales performance.
+
+[ 360] meeting forecasting
+       释义: meetingforecasting
+       音标: /meeting-foreca/
+       难度: ★★
+       例句: Effective meeting forecasting is key to sales performance.
+
+[ 361] meeting training
+       释义: meetingtraining
+       音标: /meeting-traini/
+       难度: ★★
+       例句: Effective meeting training is key to sales performance.
+
+[ 362] meeting mentoring
+       释义: meetingmentoring
+       音标: /meeting-mentor/
+       难度: ★★
+       例句: Effective meeting mentoring is key to sales performance.
+
+[ 363] meeting support
+       释义: meetingsupport
+       音标: /meeting-suppor/
+       难度: ★★
+       例句: Effective meeting support is key to sales performance.
+
+[ 364] call assessment
+       释义: callassessment
+       音标: /call-assessmen/
+       难度: ★★
+       例句: Effective call assessment is key to sales performance.
+
+[ 365] call improvement
+       释义: callimprovement
+       音标: /call-improveme/
+       难度: ★★
+       例句: Effective call improvement is key to sales performance.
+
+[ 366] call qualification
+       释义: callqualification
+       音标: /call-qualifica/
+       难度: ★★
+       例句: Effective call qualification is key to sales performance.
+
+[ 367] call negotiation
+       释义: callnegotiation
+       音标: /call-negotiati/
+       难度: ★★
+       例句: Effective call negotiation is key to sales performance.
+
+[ 368] call presentation
+       释义: callpresentation
+       音标: /call-presentat/
+       难度: ★★
+       例句: Effective call presentation is key to sales performance.
+
+[ 369] call explanation
+       释义: callexplanation
+       音标: /call-explanati/
+       难度: ★★
+       例句: Effective call explanation is key to sales performance.
+
+[ 370] call review
+       释义: callreview
+       音标: /call-review/
+       难度: ★★
+       例句: Effective call review is key to sales performance.
+
+[ 371] call projection
+       释义: callprojection
+       音标: /call-projectio/
+       难度: ★★
+       例句: Effective call projection is key to sales performance.
+
+[ 372] call interaction
+       释义: callinteraction
+       音标: /call-interacti/
+       难度: ★★
+       例句: Effective call interaction is key to sales performance.
+
+[ 373] call partnership
+       释义: callpartnership
+       音标: /call-partnersh/
+       难度: ★★
+       例句: Effective call partnership is key to sales performance.
+
+[ 374] visit assessment
+       释义: visitassessment
+       音标: /visit-assessme/
+       难度: ★★
+       例句: Effective visit assessment is key to sales performance.
+
+[ 375] visit qualification
+       释义: visitqualification
+       音标: /visit-qualific/
+       难度: ★★
+       例句: Effective visit qualification is key to sales performance.
+
+[ 376] visit negotiation
+       释义: visitnegotiation
+       音标: /visit-negotiat/
+       难度: ★★
+       例句: Effective visit negotiation is key to sales performance.
+
+[ 377] visit facilitation
+       释义: visitfacilitation
+       音标: /visit-facilita/
+       难度: ★★
+       例句: Effective visit facilitation is key to sales performance.
+
+[ 378] visit clarification
+       释义: visitclarification
+       音标: /visit-clarific/
+       难度: ★★
+       例句: Effective visit clarification is key to sales performance.
+
+[ 379] visit analysis
+       释义: visitanalysis
+       音标: /visit-analysis/
+       难度: ★★
+       例句: Effective visit analysis is key to sales performance.
+
+[ 380] visit reporting
+       释义: visitreporting
+       音标: /visit-reportin/
+       难度: ★★
+       例句: Effective visit reporting is key to sales performance.
+
+[ 381] visit forecasting
+       释义: visitforecasting
+       音标: /visit-forecast/
+       难度: ★★
+       例句: Effective visit forecasting is key to sales performance.
+
+[ 382] visit projection
+       释义: visitprojection
+       音标: /visit-projecti/
+       难度: ★★
+       例句: Effective visit projection is key to sales performance.
+
+[ 383] visit partnership
+       释义: visitpartnership
+       音标: /visit-partners/
+       难度: ★★
+       例句: Effective visit partnership is key to sales performance.
+
+[ 384] demo tracking
+       释义: demotracking
+       音标: /demo-tracking/
+       难度: ★★
+       例句: Effective demo tracking is key to sales performance.
+
+[ 385] demo monitoring
+       释义: demomonitoring
+       音标: /demo-monitorin/
+       难度: ★★
+       例句: Effective demo monitoring is key to sales performance.
+
+[ 386] demo nurturing
+       释义: demonurturing
+       音标: /demo-nurturing/
+       难度: ★★
+       例句: Effective demo nurturing is key to sales performance.
+
+[ 387] demo negotiation
+       释义: demonegotiation
+       音标: /demo-negotiati/
+       难度: ★★
+       例句: Effective demo negotiation is key to sales performance.
+
+[ 388] presentation development
+       释义: presentationdevelopment
+       音标: /presentation-d/
+       难度: ★★
+       例句: Effective presentation development is key to sales performance.
+
+[ 389] presentation tracking
+       释义: presentationtracking
+       音标: /presentation-t/
+       难度: ★★
+       例句: Effective presentation tracking is key to sales performance.
+
+[ 390] presentation evaluation
+       释义: presentationevaluation
+       音标: /presentation-e/
+       难度: ★★
+       例句: Effective presentation evaluation is key to sales performance.
+
+[ 391] presentation qualification
+       释义: presentationqualification
+       音标: /presentation-q/
+       难度: ★★
+       例句: Effective presentation qualification is key to sales performance.
+
+[ 392] presentation coordination
+       释义: presentationcoordination
+       音标: /presentation-c/
+       难度: ★★
+       例句: Effective presentation coordination is key to sales performance.
+
+[ 393] presentation review
+       释义: presentationreview
+       音标: /presentation-r/
+       难度: ★★
+       例句: Effective presentation review is key to sales performance.
+
+[ 394] presentation projection
+       释义: presentationprojection
+       音标: /presentation-p/
+       难度: ★★
+       例句: Effective presentation projection is key to sales performance.
+
+[ 395] presentation training
+       释义: presentationtraining
+       音标: /presentation-t/
+       难度: ★★
+       例句: Effective presentation training is key to sales performance.
+
+[ 396] presentation coaching
+       释义: presentationcoaching
+       音标: /presentation-c/
+       难度: ★★
+       例句: Effective presentation coaching is key to sales performance.
+
+[ 397] presentation guidance
+       释义: presentationguidance
+       音标: /presentation-g/
+       难度: ★★
+       例句: Effective presentation guidance is key to sales performance.
+
+[ 398] presentation support
+       释义: presentationsupport
+       音标: /presentation-s/
+       难度: ★★
+       例句: Effective presentation support is key to sales performance.
+
+[ 399] pitch monitoring
+       释义: pitchmonitoring
+       音标: /pitch-monitori/
+       难度: ★★
+       例句: Effective pitch monitoring is key to sales performance.
+
+[ 400] pitch closure
+       释义: pitchclosure
+       音标: /pitch-closure/
+       难度: ★★
+       例句: Effective pitch closure is key to sales performance.
+
+[ 401] pitch communication
+       释义: pitchcommunication
+       音标: /pitch-communic/
+       难度: ★★
+       例句: Effective pitch communication is key to sales performance.
+
+[ 402] pitch clarification
+       释义: pitchclarification
+       音标: /pitch-clarific/
+       难度: ★★
+       例句: Effective pitch clarification is key to sales performance.
+
+[ 403] pitch engagement
+       释义: pitchengagement
+       音标: /pitch-engageme/
+       难度: ★★
+       例句: Effective pitch engagement is key to sales performance.
+
+[ 404] pitch collaboration
+       释义: pitchcollaboration
+       音标: /pitch-collabor/
+       难度: ★★
+       例句: Effective pitch collaboration is key to sales performance.
+
+[ 405] pitch partnership
+       释义: pitchpartnership
+       音标: /pitch-partners/
+       难度: ★★
+       例句: Effective pitch partnership is key to sales performance.
+
+[ 406] negotiation execution
+       释义: negotiationexecution
+       音标: /negotiation-ex/
+       难度: ★★
+       例句: Effective negotiation execution is key to sales performance.
+
+[ 407] negotiation improvement
+       释义: negotiationimprovement
+       音标: /negotiation-im/
+       难度: ★★
+       例句: Effective negotiation improvement is key to sales performance.
+
+[ 408] negotiation optimization
+       释义: negotiationoptimization
+       音标: /negotiation-op/
+       难度: ★★
+       例句: Effective negotiation optimization is key to sales performance.
+
+[ 409] negotiation generation
+       释义: negotiationgeneration
+       音标: /negotiation-ge/
+       难度: ★★
+       例句: Effective negotiation generation is key to sales performance.
+
+[ 410] negotiation facilitation
+       释义: negotiationfacilitation
+       音标: /negotiation-fa/
+       难度: ★★
+       例句: Effective negotiation facilitation is key to sales performance.
+
+[ 411] negotiation demonstration
+       释义: negotiationdemonstration
+       音标: /negotiation-de/
+       难度: ★★
+       例句: Effective negotiation demonstration is key to sales performance.
+
+[ 412] negotiation explanation
+       释义: negotiationexplanation
+       音标: /negotiation-ex/
+       难度: ★★
+       例句: Effective negotiation explanation is key to sales performance.
+
+[ 413] negotiation clarification
+       释义: negotiationclarification
+       音标: /negotiation-cl/
+       难度: ★★
+       例句: Effective negotiation clarification is key to sales performance.
+
+[ 414] negotiation review
+       释义: negotiationreview
+       音标: /negotiation-re/
+       难度: ★★
+       例句: Effective negotiation review is key to sales performance.
+
+[ 415] negotiation reporting
+       释义: negotiationreporting
+       音标: /negotiation-re/
+       难度: ★★
+       例句: Effective negotiation reporting is key to sales performance.
+
+[ 416] negotiation engagement
+       释义: negotiationengagement
+       音标: /negotiation-en/
+       难度: ★★
+       例句: Effective negotiation engagement is key to sales performance.
+
+[ 417] negotiation training
+       释义: negotiationtraining
+       音标: /negotiation-tr/
+       难度: ★★
+       例句: Effective negotiation training is key to sales performance.
+
+[ 418] discussion execution
+       释义: discussionexecution
+       音标: /discussion-exe/
+       难度: ★★
+       例句: Effective discussion execution is key to sales performance.
+
+[ 419] discussion improvement
+       释义: discussionimprovement
+       音标: /discussion-imp/
+       难度: ★★
+       例句: Effective discussion improvement is key to sales performance.
+
+[ 420] discussion generation
+       释义: discussiongeneration
+       音标: /discussion-gen/
+       难度: ★★
+       例句: Effective discussion generation is key to sales performance.
+
+[ 421] discussion closure
+       释义: discussionclosure
+       音标: /discussion-clo/
+       难度: ★★
+       例句: Effective discussion closure is key to sales performance.
+
+[ 422] discussion negotiation
+       释义: discussionnegotiation
+       音标: /discussion-neg/
+       难度: ★★
+       例句: Effective discussion negotiation is key to sales performance.
+
+[ 423] discussion engagement
+       释义: discussionengagement
+       音标: /discussion-eng/
+       难度: ★★
+       例句: Effective discussion engagement is key to sales performance.
+
+[ 424] discussion collaboration
+       释义: discussioncollaboration
+       音标: /discussion-col/
+       难度: ★★
+       例句: Effective discussion collaboration is key to sales performance.
+
+[ 425] discussion guidance
+       释义: discussionguidance
+       音标: /discussion-gui/
+       难度: ★★
+       例句: Effective discussion guidance is key to sales performance.
+
+[ 426] dialogue tracking
+       释义: dialoguetracking
+       音标: /dialogue-track/
+       难度: ★★
+       例句: Effective dialogue tracking is key to sales performance.
+
+[ 427] dialogue monitoring
+       释义: dialoguemonitoring
+       音标: /dialogue-monit/
+       难度: ★★
+       例句: Effective dialogue monitoring is key to sales performance.
+
+[ 428] dialogue evaluation
+       释义: dialogueevaluation
+       音标: /dialogue-evalu/
+       难度: ★★
+       例句: Effective dialogue evaluation is key to sales performance.
+
+[ 429] dialogue generation
+       释义: dialoguegeneration
+       音标: /dialogue-gener/
+       难度: ★★
+       例句: Effective dialogue generation is key to sales performance.
+
+[ 430] dialogue facilitation
+       释义: dialoguefacilitation
+       音标: /dialogue-facil/
+       难度: ★★
+       例句: Effective dialogue facilitation is key to sales performance.
+
+[ 431] dialogue coordination
+       释义: dialoguecoordination
+       音标: /dialogue-coord/
+       难度: ★★
+       例句: Effective dialogue coordination is key to sales performance.
+
+[ 432] dialogue analysis
+       释义: dialogueanalysis
+       音标: /dialogue-analy/
+       难度: ★★
+       例句: Effective dialogue analysis is key to sales performance.
+
+[ 433] dialogue review
+       释义: dialoguereview
+       音标: /dialogue-revie/
+       难度: ★★
+       例句: Effective dialogue review is key to sales performance.
+
+[ 434] dialogue forecasting
+       释义: dialogueforecasting
+       音标: /dialogue-forec/
+       难度: ★★
+       例句: Effective dialogue forecasting is key to sales performance.
+
+[ 435] dialogue support
+       释义: dialoguesupport
+       音标: /dialogue-suppo/
+       难度: ★★
+       例句: Effective dialogue support is key to sales performance.
+
+[ 436] conversation development
+       释义: conversationdevelopment
+       音标: /conversation-d/
+       难度: ★★
+       例句: Effective conversation development is key to sales performance.
+
+[ 437] conversation planning
+       释义: conversationplanning
+       音标: /conversation-p/
+       难度: ★★
+       例句: Effective conversation planning is key to sales performance.
+
+[ 438] conversation tracking
+       释义: conversationtracking
+       音标: /conversation-t/
+       难度: ★★
+       例句: Effective conversation tracking is key to sales performance.
+
+[ 439] conversation monitoring
+       释义: conversationmonitoring
+       音标: /conversation-m/
+       难度: ★★
+       例句: Effective conversation monitoring is key to sales performance.
+
+[ 440] conversation nurturing
+       释义: conversationnurturing
+       音标: /conversation-n/
+       难度: ★★
+       例句: Effective conversation nurturing is key to sales performance.
+
+[ 441] conversation conversion
+       释义: conversationconversion
+       音标: /conversation-c/
+       难度: ★★
+       例句: Effective conversation conversion is key to sales performance.
+
+[ 442] conversation coordination
+       释义: conversationcoordination
+       音标: /conversation-c/
+       难度: ★★
+       例句: Effective conversation coordination is key to sales performance.
+
+[ 443] conversation coaching
+       释义: conversationcoaching
+       音标: /conversation-c/
+       难度: ★★
+       例句: Effective conversation coaching is key to sales performance.
+
+[ 444] relationship monitoring
+       释义: relationshipmonitoring
+       音标: /relationship-m/
+       难度: ★★
+       例句: Effective relationship monitoring is key to sales performance.
+
+[ 445] relationship conversion
+       释义: relationshipconversion
+       音标: /relationship-c/
+       难度: ★★
+       例句: Effective relationship conversion is key to sales performance.
+
+[ 446] relationship facilitation
+       释义: relationshipfacilitation
+       音标: /relationship-f/
+       难度: ★★
+       例句: Effective relationship facilitation is key to sales performance.
+
+[ 447] relationship analysis
+       释义: relationshipanalysis
+       音标: /relationship-a/
+       难度: ★★
+       例句: Effective relationship analysis is key to sales performance.
+
+[ 448] relationship reporting
+       释义: relationshipreporting
+       音标: /relationship-r/
+       难度: ★★
+       例句: Effective relationship reporting is key to sales performance.
+
+[ 449] relationship engagement
+       释义: relationshipengagement
+       音标: /relationship-e/
+       难度: ★★
+       例句: Effective relationship engagement is key to sales performance.
+
+[ 450] relationship coaching
+       释义: relationshipcoaching
+       音标: /relationship-c/
+       难度: ★★
+       例句: Effective relationship coaching is key to sales performance.
+
+[ 451] relationship mentoring
+       释义: relationshipmentoring
+       音标: /relationship-m/
+       难度: ★★
+       例句: Effective relationship mentoring is key to sales performance.
+
+[ 452] relationship support
+       释义: relationshipsupport
+       音标: /relationship-s/
+       难度: ★★
+       例句: Effective relationship support is key to sales performance.
+
+[ 453] partnership monitoring
+       释义: partnershipmonitoring
+       音标: /partnership-mo/
+       难度: ★★
+       例句: Effective partnership monitoring is key to sales performance.
+
+[ 454] partnership evaluation
+       释义: partnershipevaluation
+       音标: /partnership-ev/
+       难度: ★★
+       例句: Effective partnership evaluation is key to sales performance.
+
+[ 455] partnership qualification
+       释义: partnershipqualification
+       音标: /partnership-qu/
+       难度: ★★
+       例句: Effective partnership qualification is key to sales performance.
+
+[ 456] partnership facilitation
+       释义: partnershipfacilitation
+       音标: /partnership-fa/
+       难度: ★★
+       例句: Effective partnership facilitation is key to sales performance.
+
+[ 457] partnership coordination
+       释义: partnershipcoordination
+       音标: /partnership-co/
+       难度: ★★
+       例句: Effective partnership coordination is key to sales performance.
+
+[ 458] partnership analysis
+       释义: partnershipanalysis
+       音标: /partnership-an/
+       难度: ★★
+       例句: Effective partnership analysis is key to sales performance.
+
+[ 459] partnership projection
+       释义: partnershipprojection
+       音标: /partnership-pr/
+       难度: ★★
+       例句: Effective partnership projection is key to sales performance.
+
+[ 460] alliance improvement
+       释义: allianceimprovement
+       音标: /alliance-impro/
+       难度: ★★
+       例句: Effective alliance improvement is key to sales performance.
+
+[ 461] alliance optimization
+       释义: allianceoptimization
+       音标: /alliance-optim/
+       难度: ★★
+       例句: Effective alliance optimization is key to sales performance.
+
+[ 462] alliance analysis
+       释义: allianceanalysis
+       音标: /alliance-analy/
+       难度: ★★
+       例句: Effective alliance analysis is key to sales performance.
+
+[ 463] alliance review
+       释义: alliancereview
+       音标: /alliance-revie/
+       难度: ★★
+       例句: Effective alliance review is key to sales performance.
+
+[ 464] alliance collaboration
+       释义: alliancecollaboration
+       音标: /alliance-colla/
+       难度: ★★
+       例句: Effective alliance collaboration is key to sales performance.
+
+[ 465] network development
+       释义: networkdevelopment
+       音标: /network-develo/
+       难度: ★★
+       例句: Effective network development is key to sales performance.
+
+[ 466] network planning
+       释义: networkplanning
+       音标: /network-planni/
+       难度: ★★
+       例句: Effective network planning is key to sales performance.
+
+[ 467] network tracking
+       释义: networktracking
+       音标: /network-tracki/
+       难度: ★★
+       例句: Effective network tracking is key to sales performance.
+
+[ 468] network assessment
+       释义: networkassessment
+       音标: /network-assess/
+       难度: ★★
+       例句: Effective network assessment is key to sales performance.
+
+[ 469] network qualification
+       释义: networkqualification
+       音标: /network-qualif/
+       难度: ★★
+       例句: Effective network qualification is key to sales performance.
+
+[ 470] network closure
+       释义: networkclosure
+       音标: /network-closur/
+       难度: ★★
+       例句: Effective network closure is key to sales performance.
+
+[ 471] network coordination
+       释义: networkcoordination
+       音标: /network-coordi/
+       难度: ★★
+       例句: Effective network coordination is key to sales performance.
+
+[ 472] network demonstration
+       释义: networkdemonstration
+       音标: /network-demons/
+       难度: ★★
+       例句: Effective network demonstration is key to sales performance.
+
+[ 473] network explanation
+       释义: networkexplanation
+       音标: /network-explan/
+       难度: ★★
+       例句: Effective network explanation is key to sales performance.
+
+[ 474] network analysis
+       释义: networkanalysis
+       音标: /network-analys/
+       难度: ★★
+       例句: Effective network analysis is key to sales performance.
+
+[ 475] network review
+       释义: networkreview
+       音标: /network-review/
+       难度: ★★
+       例句: Effective network review is key to sales performance.
+
+[ 476] network support
+       释义: networksupport
+       音标: /network-suppor/
+       难度: ★★
+       例句: Effective network support is key to sales performance.
+
+[ 477] market management
+       释义: marketmanagement
+       音标: /market-managem/
+       难度: ★★
+       例句: Effective market management is key to sales performance.
+
+[ 478] market monitoring
+       释义: marketmonitoring
+       音标: /market-monitor/
+       难度: ★★
+       例句: Effective market monitoring is key to sales performance.
+
+[ 479] market evaluation
+       释义: marketevaluation
+       音标: /market-evaluat/
+       难度: ★★
+       例句: Effective market evaluation is key to sales performance.
+
+[ 480] market improvement
+       释义: marketimprovement
+       音标: /market-improve/
+       难度: ★★
+       例句: Effective market improvement is key to sales performance.
+
+[ 481] market conversion
+       释义: marketconversion
+       音标: /market-convers/
+       难度: ★★
+       例句: Effective market conversion is key to sales performance.
+
+[ 482] market facilitation
+       释义: marketfacilitation
+       音标: /market-facilit/
+       难度: ★★
+       例句: Effective market facilitation is key to sales performance.
+
+[ 483] market communication
+       释义: marketcommunication
+       音标: /market-communi/
+       难度: ★★
+       例句: Effective market communication is key to sales performance.
+
+[ 484] market explanation
+       释义: marketexplanation
+       音标: /market-explana/
+       难度: ★★
+       例句: Effective market explanation is key to sales performance.
+
+[ 485] market clarification
+       释义: marketclarification
+       音标: /market-clarifi/
+       难度: ★★
+       例句: Effective market clarification is key to sales performance.
+
+[ 486] market engagement
+       释义: marketengagement
+       音标: /market-engagem/
+       难度: ★★
+       例句: Effective market engagement is key to sales performance.
+
+[ 487] market interaction
+       释义: marketinteraction
+       音标: /market-interac/
+       难度: ★★
+       例句: Effective market interaction is key to sales performance.
+
+[ 488] market partnership
+       释义: marketpartnership
+       音标: /market-partner/
+       难度: ★★
+       例句: Effective market partnership is key to sales performance.
+
+[ 489] market mentoring
+       释义: marketmentoring
+       音标: /market-mentori/
+       难度: ★★
+       例句: Effective market mentoring is key to sales performance.
+
+[ 490] segment planning
+       释义: segmentplanning
+       音标: /segment-planni/
+       难度: ★★
+       例句: Effective segment planning is key to sales performance.
+
+[ 491] segment assessment
+       释义: segmentassessment
+       音标: /segment-assess/
+       难度: ★★
+       例句: Effective segment assessment is key to sales performance.
+
+[ 492] segment closure
+       释义: segmentclosure
+       音标: /segment-closur/
+       难度: ★★
+       例句: Effective segment closure is key to sales performance.
+
+[ 493] segment negotiation
+       释义: segmentnegotiation
+       音标: /segment-negoti/
+       难度: ★★
+       例句: Effective segment negotiation is key to sales performance.
+
+[ 494] segment coordination
+       释义: segmentcoordination
+       音标: /segment-coordi/
+       难度: ★★
+       例句: Effective segment coordination is key to sales performance.
+
+[ 495] segment demonstration
+       释义: segmentdemonstration
+       音标: /segment-demons/
+       难度: ★★
+       例句: Effective segment demonstration is key to sales performance.
+
+[ 496] segment review
+       释义: segmentreview
+       音标: /segment-review/
+       难度: ★★
+       例句: Effective segment review is key to sales performance.
+
+[ 497] segment interaction
+       释义: segmentinteraction
+       音标: /segment-intera/
+       难度: ★★
+       例句: Effective segment interaction is key to sales performance.
+
+[ 498] niche planning
+       释义: nicheplanning
+       音标: /niche-planning/
+       难度: ★★
+       例句: Effective niche planning is key to sales performance.
+
+[ 499] niche execution
+       释义: nicheexecution
+       音标: /niche-executio/
+       难度: ★★
+       例句: Effective niche execution is key to sales performance.
+
+[ 500] niche conversion
+       释义: nicheconversion
+       音标: /niche-conversi/
+       难度: ★★
+       例句: Effective niche conversion is key to sales performance.
+
+[ 501] niche facilitation
+       释义: nichefacilitation
+       音标: /niche-facilita/
+       难度: ★★
+       例句: Effective niche facilitation is key to sales performance.
+
+[ 502] niche partnership
+       释义: nichepartnership
+       音标: /niche-partners/
+       难度: ★★
+       例句: Effective niche partnership is key to sales performance.
+
+[ 503] niche mentoring
+       释义: nichementoring
+       音标: /niche-mentorin/
+       难度: ★★
+       例句: Effective niche mentoring is key to sales performance.
+
+[ 504] vertical monitoring
+       释义: verticalmonitoring
+       音标: /vertical-monit/
+       难度: ★★
+       例句: Effective vertical monitoring is key to sales performance.
+
+[ 505] vertical qualification
+       释义: verticalqualification
+       音标: /vertical-quali/
+       难度: ★★
+       例句: Effective vertical qualification is key to sales performance.
+
+[ 506] vertical nurturing
+       释义: verticalnurturing
+       音标: /vertical-nurtu/
+       难度: ★★
+       例句: Effective vertical nurturing is key to sales performance.
+
+[ 507] vertical conversion
+       释义: verticalconversion
+       音标: /vertical-conve/
+       难度: ★★
+       例句: Effective vertical conversion is key to sales performance.
+
+[ 508] vertical explanation
+       释义: verticalexplanation
+       音标: /vertical-expla/
+       难度: ★★
+       例句: Effective vertical explanation is key to sales performance.
+
+[ 509] vertical collaboration
+       释义: verticalcollaboration
+       音标: /vertical-colla/
+       难度: ★★
+       例句: Effective vertical collaboration is key to sales performance.
+
+[ 510] vertical coaching
+       释义: verticalcoaching
+       音标: /vertical-coach/
+       难度: ★★
+       例句: Effective vertical coaching is key to sales performance.
+
+[ 511] vertical guidance
+       释义: verticalguidance
+       音标: /vertical-guida/
+       难度: ★★
+       例句: Effective vertical guidance is key to sales performance.
+
+[ 512] vertical support
+       释义: verticalsupport
+       音标: /vertical-suppo/
+       难度: ★★
+       例句: Effective vertical support is key to sales performance.
+
+[ 513] territory optimization
+       释义: territoryoptimization
+       音标: /territory-opti/
+       难度: ★★
+       例句: Effective territory optimization is key to sales performance.
+
+[ 514] territory generation
+       释义: territorygeneration
+       音标: /territory-gene/
+       难度: ★★
+       例句: Effective territory generation is key to sales performance.
+
+[ 515] territory demonstration
+       释义: territorydemonstration
+       音标: /territory-demo/
+       难度: ★★
+       例句: Effective territory demonstration is key to sales performance.
+
+[ 516] territory explanation
+       释义: territoryexplanation
+       音标: /territory-expl/
+       难度: ★★
+       例句: Effective territory explanation is key to sales performance.
+
+[ 517] territory mentoring
+       释义: territorymentoring
+       音标: /territory-ment/
+       难度: ★★
+       例句: Effective territory mentoring is key to sales performance.
+
+[ 518] region development
+       释义: regiondevelopment
+       音标: /region-develop/
+       难度: ★★
+       例句: Effective region development is key to sales performance.
+
+[ 519] region assessment
+       释义: regionassessment
+       音标: /region-assessm/
+       难度: ★★
+       例句: Effective region assessment is key to sales performance.
+
+[ 520] region demonstration
+       释义: regiondemonstration
+       音标: /region-demonst/
+       难度: ★★
+       例句: Effective region demonstration is key to sales performance.
+
+[ 521] region review
+       释义: regionreview
+       音标: /region-review/
+       难度: ★★
+       例句: Effective region review is key to sales performance.
+
+[ 522] region forecasting
+       释义: regionforecasting
+       音标: /region-forecas/
+       难度: ★★
+       例句: Effective region forecasting is key to sales performance.
+
+[ 523] region projection
+       释义: regionprojection
+       音标: /region-project/
+       难度: ★★
+       例句: Effective region projection is key to sales performance.
+
+[ 524] region engagement
+       释义: regionengagement
+       音标: /region-engagem/
+       难度: ★★
+       例句: Effective region engagement is key to sales performance.
+
+[ 525] region training
+       释义: regiontraining
+       音标: /region-trainin/
+       难度: ★★
+       例句: Effective region training is key to sales performance.
+
+[ 526] channel planning
+       释义: channelplanning
+       音标: /channel-planni/
+       难度: ★★
+       例句: Effective channel planning is key to sales performance.
+
+[ 527] channel improvement
+       释义: channelimprovement
+       音标: /channel-improv/
+       难度: ★★
+       例句: Effective channel improvement is key to sales performance.
+
+[ 528] channel optimization
+       释义: channeloptimization
+       音标: /channel-optimi/
+       难度: ★★
+       例句: Effective channel optimization is key to sales performance.
+
+[ 529] channel generation
+       释义: channelgeneration
+       音标: /channel-genera/
+       难度: ★★
+       例句: Effective channel generation is key to sales performance.
+
+[ 530] channel clarification
+       释义: channelclarification
+       音标: /channel-clarif/
+       难度: ★★
+       例句: Effective channel clarification is key to sales performance.
+
+[ 531] channel forecasting
+       释义: channelforecasting
+       音标: /channel-foreca/
+       难度: ★★
+       例句: Effective channel forecasting is key to sales performance.
+
+[ 532] channel mentoring
+       释义: channelmentoring
+       音标: /channel-mentor/
+       难度: ★★
+       例句: Effective channel mentoring is key to sales performance.
+
+[ 533] channel guidance
+       释义: channelguidance
+       音标: /channel-guidan/
+       难度: ★★
+       例句: Effective channel guidance is key to sales performance.
+
+[ 534] distributor development
+       释义: distributordevelopment
+       音标: /distributor-de/
+       难度: ★★
+       例句: Effective distributor development is key to sales performance.
+
+[ 535] distributor evaluation
+       释义: distributorevaluation
+       音标: /distributor-ev/
+       难度: ★★
+       例句: Effective distributor evaluation is key to sales performance.
+
+[ 536] distributor conversion
+       释义: distributorconversion
+       音标: /distributor-co/
+       难度: ★★
+       例句: Effective distributor conversion is key to sales performance.
+
+[ 537] distributor closure
+       释义: distributorclosure
+       音标: /distributor-cl/
+       难度: ★★
+       例句: Effective distributor closure is key to sales performance.
+
+[ 538] distributor analysis
+       释义: distributoranalysis
+       音标: /distributor-an/
+       难度: ★★
+       例句: Effective distributor analysis is key to sales performance.
+
+[ 539] distributor review
+       释义: distributorreview
+       音标: /distributor-re/
+       难度: ★★
+       例句: Effective distributor review is key to sales performance.
+
+[ 540] distributor interaction
+       释义: distributorinteraction
+       音标: /distributor-in/
+       难度: ★★
+       例句: Effective distributor interaction is key to sales performance.
+
+[ 541] distributor collaboration
+       释义: distributorcollaboration
+       音标: /distributor-co/
+       难度: ★★
+       例句: Effective distributor collaboration is key to sales performance.
+
+[ 542] reseller monitoring
+       释义: resellermonitoring
+       音标: /reseller-monit/
+       难度: ★★
+       例句: Effective reseller monitoring is key to sales performance.
+
+[ 543] reseller improvement
+       释义: resellerimprovement
+       音标: /reseller-impro/
+       难度: ★★
+       例句: Effective reseller improvement is key to sales performance.
+
+[ 544] reseller optimization
+       释义: reselleroptimization
+       音标: /reseller-optim/
+       难度: ★★
+       例句: Effective reseller optimization is key to sales performance.
+
+[ 545] reseller generation
+       释义: resellergeneration
+       音标: /reseller-gener/
+       难度: ★★
+       例句: Effective reseller generation is key to sales performance.
+
+[ 546] reseller conversion
+       释义: resellerconversion
+       音标: /reseller-conve/
+       难度: ★★
+       例句: Effective reseller conversion is key to sales performance.
+
+[ 547] reseller coordination
+       释义: resellercoordination
+       音标: /reseller-coord/
+       难度: ★★
+       例句: Effective reseller coordination is key to sales performance.
+
+[ 548] reseller presentation
+       释义: resellerpresentation
+       音标: /reseller-prese/
+       难度: ★★
+       例句: Effective reseller presentation is key to sales performance.
+
+[ 549] reseller demonstration
+       释义: resellerdemonstration
+       音标: /reseller-demon/
+       难度: ★★
+       例句: Effective reseller demonstration is key to sales performance.
+
+[ 550] partner development
+       释义: partnerdevelopment
+       音标: /partner-develo/
+       难度: ★★
+       例句: Effective partner development is key to sales performance.
+
+[ 551] partner improvement
+       释义: partnerimprovement
+       音标: /partner-improv/
+       难度: ★★
+       例句: Effective partner improvement is key to sales performance.
+
+[ 552] partner reporting
+       释义: partnerreporting
+       音标: /partner-report/
+       难度: ★★
+       例句: Effective partner reporting is key to sales performance.
+
+[ 553] partner collaboration
+       释义: partnercollaboration
+       音标: /partner-collab/
+       难度: ★★
+       例句: Effective partner collaboration is key to sales performance.
+
+[ 554] partner mentoring
+       释义: partnermentoring
+       音标: /partner-mentor/
+       难度: ★★
+       例句: Effective partner mentoring is key to sales performance.
+
+[ 555] agent improvement
+       释义: agentimprovement
+       音标: /agent-improvem/
+       难度: ★★
+       例句: Effective agent improvement is key to sales performance.
+
+[ 556] agent optimization
+       释义: agentoptimization
+       音标: /agent-optimiza/
+       难度: ★★
+       例句: Effective agent optimization is key to sales performance.
+
+[ 557] agent generation
+       释义: agentgeneration
+       音标: /agent-generati/
+       难度: ★★
+       例句: Effective agent generation is key to sales performance.
+
+[ 558] agent qualification
+       释义: agentqualification
+       音标: /agent-qualific/
+       难度: ★★
+       例句: Effective agent qualification is key to sales performance.
+
+[ 559] agent nurturing
+       释义: agentnurturing
+       音标: /agent-nurturin/
+       难度: ★★
+       例句: Effective agent nurturing is key to sales performance.
+
+[ 560] agent closure
+       释义: agentclosure
+       音标: /agent-closure/
+       难度: ★★
+       例句: Effective agent closure is key to sales performance.
+
+[ 561] agent explanation
+       释义: agentexplanation
+       音标: /agent-explanat/
+       难度: ★★
+       例句: Effective agent explanation is key to sales performance.
+
+[ 562] agent review
+       释义: agentreview
+       音标: /agent-review/
+       难度: ★★
+       例句: Effective agent review is key to sales performance.
+
+[ 563] agent forecasting
+       释义: agentforecasting
+       音标: /agent-forecast/
+       难度: ★★
+       例句: Effective agent forecasting is key to sales performance.
+
+[ 564] agent engagement
+       释义: agentengagement
+       音标: /agent-engageme/
+       难度: ★★
+       例句: Effective agent engagement is key to sales performance.
+
+[ 565] forecast negotiation
+       释义: forecastnegotiation
+       音标: /forecast-negot/
+       难度: ★★
+       例句: Effective forecast negotiation is key to sales performance.
+
+[ 566] forecast clarification
+       释义: forecastclarification
+       音标: /forecast-clari/
+       难度: ★★
+       例句: Effective forecast clarification is key to sales performance.
+
+[ 567] forecast forecasting
+       释义: forecastforecasting
+       音标: /forecast-forec/
+       难度: ★★
+       例句: Effective forecast forecasting is key to sales performance.
+
+[ 568] forecast projection
+       释义: forecastprojection
+       音标: /forecast-proje/
+       难度: ★★
+       例句: Effective forecast projection is key to sales performance.
+
+[ 569] forecast training
+       释义: forecasttraining
+       音标: /forecast-train/
+       难度: ★★
+       例句: Effective forecast training is key to sales performance.
+
+[ 570] forecast mentoring
+       释义: forecastmentoring
+       音标: /forecast-mento/
+       难度: ★★
+       例句: Effective forecast mentoring is key to sales performance.
+
+[ 571] forecast guidance
+       释义: forecastguidance
+       音标: /forecast-guida/
+       难度: ★★
+       例句: Effective forecast guidance is key to sales performance.
+
+[ 572] report execution
+       释义: reportexecution
+       音标: /report-executi/
+       难度: ★★
+       例句: Effective report execution is key to sales performance.
+
+[ 573] report evaluation
+       释义: reportevaluation
+       音标: /report-evaluat/
+       难度: ★★
+       例句: Effective report evaluation is key to sales performance.
+
+[ 574] report assessment
+       释义: reportassessment
+       音标: /report-assessm/
+       难度: ★★
+       例句: Effective report assessment is key to sales performance.
+
+[ 575] report improvement
+       释义: reportimprovement
+       音标: /report-improve/
+       难度: ★★
+       例句: Effective report improvement is key to sales performance.
+
+[ 576] report generation
+       释义: reportgeneration
+       音标: /report-generat/
+       难度: ★★
+       例句: Effective report generation is key to sales performance.
+
+[ 577] report nurturing
+       释义: reportnurturing
+       音标: /report-nurturi/
+       难度: ★★
+       例句: Effective report nurturing is key to sales performance.
+
+[ 578] report collaboration
+       释义: reportcollaboration
+       音标: /report-collabo/
+       难度: ★★
+       例句: Effective report collaboration is key to sales performance.
+
+[ 579] report guidance
+       释义: reportguidance
+       音标: /report-guidanc/
+       难度: ★★
+       例句: Effective report guidance is key to sales performance.
+
+[ 580] analysis nurturing
+       释义: analysisnurturing
+       音标: /analysis-nurtu/
+       难度: ★★
+       例句: Effective analysis nurturing is key to sales performance.
+
+[ 581] analysis coordination
+       释义: analysiscoordination
+       音标: /analysis-coord/
+       难度: ★★
+       例句: Effective analysis coordination is key to sales performance.
+
+[ 582] analysis demonstration
+       释义: analysisdemonstration
+       音标: /analysis-demon/
+       难度: ★★
+       例句: Effective analysis demonstration is key to sales performance.
+
+[ 583] analysis analysis
+       释义: analysisanalysis
+       音标: /analysis-analy/
+       难度: ★★
+       例句: Effective analysis analysis is key to sales performance.
+
+[ 584] analysis interaction
+       释义: analysisinteraction
+       音标: /analysis-inter/
+       难度: ★★
+       例句: Effective analysis interaction is key to sales performance.
+
+[ 585] review management
+       释义: reviewmanagement
+       音标: /review-managem/
+       难度: ★★
+       例句: Effective review management is key to sales performance.
+
+[ 586] review monitoring
+       释义: reviewmonitoring
+       音标: /review-monitor/
+       难度: ★★
+       例句: Effective review monitoring is key to sales performance.
+
+[ 587] review coordination
+       释义: reviewcoordination
+       音标: /review-coordin/
+       难度: ★★
+       例句: Effective review coordination is key to sales performance.
+
+[ 588] review communication
+       释义: reviewcommunication
+       音标: /review-communi/
+       难度: ★★
+       例句: Effective review communication is key to sales performance.
+
+[ 589] review partnership
+       释义: reviewpartnership
+       音标: /review-partner/
+       难度: ★★
+       例句: Effective review partnership is key to sales performance.
+
+[ 590] audit development
+       释义: auditdevelopment
+       音标: /audit-developm/
+       难度: ★★
+       例句: Effective audit development is key to sales performance.
+
+[ 591] audit nurturing
+       释义: auditnurturing
+       音标: /audit-nurturin/
+       难度: ★★
+       例句: Effective audit nurturing is key to sales performance.
+
+[ 592] audit facilitation
+       释义: auditfacilitation
+       音标: /audit-facilita/
+       难度: ★★
+       例句: Effective audit facilitation is key to sales performance.
+
+[ 593] audit presentation
+       释义: auditpresentation
+       音标: /audit-presenta/
+       难度: ★★
+       例句: Effective audit presentation is key to sales performance.
+
+[ 594] audit forecasting
+       释义: auditforecasting
+       音标: /audit-forecast/
+       难度: ★★
+       例句: Effective audit forecasting is key to sales performance.
+
+[ 595] audit engagement
+       释义: auditengagement
+       音标: /audit-engageme/
+       难度: ★★
+       例句: Effective audit engagement is key to sales performance.
+
+[ 596] audit collaboration
+       释义: auditcollaboration
+       音标: /audit-collabor/
+       难度: ★★
+       例句: Effective audit collaboration is key to sales performance.
+
+[ 597] audit coaching
+       释义: auditcoaching
+       音标: /audit-coaching/
+       难度: ★★
+       例句: Effective audit coaching is key to sales performance.
+
+[ 598] strategy development
+       释义: strategydevelopment
+       音标: /strategy-devel/
+       难度: ★★
+       例句: Effective strategy development is key to sales performance.
+
+[ 599] strategy execution
+       释义: strategyexecution
+       音标: /strategy-execu/
+       难度: ★★
+       例句: Effective strategy execution is key to sales performance.
+
+[ 600] strategy tracking
+       释义: strategytracking
+       音标: /strategy-track/
+       难度: ★★
+       例句: Effective strategy tracking is key to sales performance.
+
+[ 601] strategy generation
+       释义: strategygeneration
+       音标: /strategy-gener/
+       难度: ★★
+       例句: Effective strategy generation is key to sales performance.
+
+[ 602] strategy conversion
+       释义: strategyconversion
+       音标: /strategy-conve/
+       难度: ★★
+       例句: Effective strategy conversion is key to sales performance.
+
+[ 603] strategy coordination
+       释义: strategycoordination
+       音标: /strategy-coord/
+       难度: ★★
+       例句: Effective strategy coordination is key to sales performance.
+
+[ 604] strategy explanation
+       释义: strategyexplanation
+       音标: /strategy-expla/
+       难度: ★★
+       例句: Effective strategy explanation is key to sales performance.
+
+[ 605] strategy review
+       释义: strategyreview
+       音标: /strategy-revie/
+       难度: ★★
+       例句: Effective strategy review is key to sales performance.
+
+[ 606] strategy reporting
+       释义: strategyreporting
+       音标: /strategy-repor/
+       难度: ★★
+       例句: Effective strategy reporting is key to sales performance.
+
+[ 607] strategy guidance
+       释义: strategyguidance
+       音标: /strategy-guida/
+       难度: ★★
+       例句: Effective strategy guidance is key to sales performance.
+
+[ 608] strategy support
+       释义: strategysupport
+       音标: /strategy-suppo/
+       难度: ★★
+       例句: Effective strategy support is key to sales performance.
+
+[ 609] tactic qualification
+       释义: tacticqualification
+       音标: /tactic-qualifi/
+       难度: ★★
+       例句: Effective tactic qualification is key to sales performance.
+
+[ 610] tactic conversion
+       释义: tacticconversion
+       音标: /tactic-convers/
+       难度: ★★
+       例句: Effective tactic conversion is key to sales performance.
+
+[ 611] tactic facilitation
+       释义: tacticfacilitation
+       音标: /tactic-facilit/
+       难度: ★★
+       例句: Effective tactic facilitation is key to sales performance.
+
+[ 612] tactic communication
+       释义: tacticcommunication
+       音标: /tactic-communi/
+       难度: ★★
+       例句: Effective tactic communication is key to sales performance.
+
+[ 613] tactic explanation
+       释义: tacticexplanation
+       音标: /tactic-explana/
+       难度: ★★
+       例句: Effective tactic explanation is key to sales performance.
+
+[ 614] tactic review
+       释义: tacticreview
+       音标: /tactic-review/
+       难度: ★★
+       例句: Effective tactic review is key to sales performance.
+
+[ 615] tactic forecasting
+       释义: tacticforecasting
+       音标: /tactic-forecas/
+       难度: ★★
+       例句: Effective tactic forecasting is key to sales performance.
+
+[ 616] tactic collaboration
+       释义: tacticcollaboration
+       音标: /tactic-collabo/
+       难度: ★★
+       例句: Effective tactic collaboration is key to sales performance.
+
+[ 617] approach optimization
+       释义: approachoptimization
+       音标: /approach-optim/
+       难度: ★★
+       例句: Effective approach optimization is key to sales performance.
+
+[ 618] approach negotiation
+       释义: approachnegotiation
+       音标: /approach-negot/
+       难度: ★★
+       例句: Effective approach negotiation is key to sales performance.
+
+[ 619] approach facilitation
+       释义: approachfacilitation
+       音标: /approach-facil/
+       难度: ★★
+       例句: Effective approach facilitation is key to sales performance.
+
+[ 620] approach engagement
+       释义: approachengagement
+       音标: /approach-engag/
+       难度: ★★
+       例句: Effective approach engagement is key to sales performance.
+
+[ 621] approach collaboration
+       释义: approachcollaboration
+       音标: /approach-colla/
+       难度: ★★
+       例句: Effective approach collaboration is key to sales performance.
+
+[ 622] approach partnership
+       释义: approachpartnership
+       音标: /approach-partn/
+       难度: ★★
+       例句: Effective approach partnership is key to sales performance.
+
+[ 623] approach coaching
+       释义: approachcoaching
+       音标: /approach-coach/
+       难度: ★★
+       例句: Effective approach coaching is key to sales performance.
+
+[ 624] method management
+       释义: methodmanagement
+       音标: /method-managem/
+       难度: ★★
+       例句: Effective method management is key to sales performance.
+
+[ 625] method development
+       释义: methoddevelopment
+       音标: /method-develop/
+       难度: ★★
+       例句: Effective method development is key to sales performance.
+
+[ 626] method planning
+       释义: methodplanning
+       音标: /method-plannin/
+       难度: ★★
+       例句: Effective method planning is key to sales performance.
+
+[ 627] method execution
+       释义: methodexecution
+       音标: /method-executi/
+       难度: ★★
+       例句: Effective method execution is key to sales performance.
+
+[ 628] method qualification
+       释义: methodqualification
+       音标: /method-qualifi/
+       难度: ★★
+       例句: Effective method qualification is key to sales performance.
+
+[ 629] method closure
+       释义: methodclosure
+       音标: /method-closure/
+       难度: ★★
+       例句: Effective method closure is key to sales performance.
+
+[ 630] method negotiation
+       释义: methodnegotiation
+       音标: /method-negotia/
+       难度: ★★
+       例句: Effective method negotiation is key to sales performance.
+
+[ 631] method demonstration
+       释义: methoddemonstration
+       音标: /method-demonst/
+       难度: ★★
+       例句: Effective method demonstration is key to sales performance.
+
+[ 632] method training
+       释义: methodtraining
+       音标: /method-trainin/
+       难度: ★★
+       例句: Effective method training is key to sales performance.
+
+[ 633] method coaching
+       释义: methodcoaching
+       音标: /method-coachin/
+       难度: ★★
+       例句: Effective method coaching is key to sales performance.
+
+[ 634] method mentoring
+       释义: methodmentoring
+       音标: /method-mentori/
+       难度: ★★
+       例句: Effective method mentoring is key to sales performance.
+
+[ 635] technique tracking
+       释义: techniquetracking
+       音标: /technique-trac/
+       难度: ★★
+       例句: Effective technique tracking is key to sales performance.
+
+[ 636] technique generation
+       释义: techniquegeneration
+       音标: /technique-gene/
+       难度: ★★
+       例句: Effective technique generation is key to sales performance.
+
+[ 637] technique facilitation
+       释义: techniquefacilitation
+       音标: /technique-faci/
+       难度: ★★
+       例句: Effective technique facilitation is key to sales performance.
+
+[ 638] technique presentation
+       释义: techniquepresentation
+       音标: /technique-pres/
+       难度: ★★
+       例句: Effective technique presentation is key to sales performance.
+
+[ 639] technique collaboration
+       释义: techniquecollaboration
+       音标: /technique-coll/
+       难度: ★★
+       例句: Effective technique collaboration is key to sales performance.
+
+[ 640] technique support
+       释义: techniquesupport
+       音标: /technique-supp/
+       难度: ★★
+       例句: Effective technique support is key to sales performance.
+
+[ 641] process execution
+       释义: processexecution
+       音标: /process-execut/
+       难度: ★★
+       例句: Effective process execution is key to sales performance.
+
+[ 642] process monitoring
+       释义: processmonitoring
+       音标: /process-monito/
+       难度: ★★
+       例句: Effective process monitoring is key to sales performance.
+
+[ 643] process analysis
+       释义: processanalysis
+       音标: /process-analys/
+       难度: ★★
+       例句: Effective process analysis is key to sales performance.
+
+[ 644] workflow management
+       释义: workflowmanagement
+       音标: /workflow-manag/
+       难度: ★★
+       例句: Effective workflow management is key to sales performance.
+
+[ 645] workflow development
+       释义: workflowdevelopment
+       音标: /workflow-devel/
+       难度: ★★
+       例句: Effective workflow development is key to sales performance.
+
+[ 646] workflow nurturing
+       释义: workflownurturing
+       音标: /workflow-nurtu/
+       难度: ★★
+       例句: Effective workflow nurturing is key to sales performance.
+
+[ 647] workflow closure
+       释义: workflowclosure
+       音标: /workflow-closu/
+       难度: ★★
+       例句: Effective workflow closure is key to sales performance.
+
+[ 648] workflow negotiation
+       释义: workflownegotiation
+       音标: /workflow-negot/
+       难度: ★★
+       例句: Effective workflow negotiation is key to sales performance.
+
+[ 649] workflow coordination
+       释义: workflowcoordination
+       音标: /workflow-coord/
+       难度: ★★
+       例句: Effective workflow coordination is key to sales performance.
+
+[ 650] workflow demonstration
+       释义: workflowdemonstration
+       音标: /workflow-demon/
+       难度: ★★
+       例句: Effective workflow demonstration is key to sales performance.
+
+[ 651] workflow analysis
+       释义: workflowanalysis
+       音标: /workflow-analy/
+       难度: ★★
+       例句: Effective workflow analysis is key to sales performance.
+
+[ 652] workflow forecasting
+       释义: workflowforecasting
+       音标: /workflow-forec/
+       难度: ★★
+       例句: Effective workflow forecasting is key to sales performance.
+
+[ 653] workflow partnership
+       释义: workflowpartnership
+       音标: /workflow-partn/
+       难度: ★★
+       例句: Effective workflow partnership is key to sales performance.
+
+[ 654] workflow training
+       释义: workflowtraining
+       音标: /workflow-train/
+       难度: ★★
+       例句: Effective workflow training is key to sales performance.
+
+[ 655] procedure management
+       释义: proceduremanagement
+       音标: /procedure-mana/
+       难度: ★★
+       例句: Effective procedure management is key to sales performance.
+
+[ 656] procedure execution
+       释义: procedureexecution
+       音标: /procedure-exec/
+       难度: ★★
+       例句: Effective procedure execution is key to sales performance.
+
+[ 657] procedure monitoring
+       释义: proceduremonitoring
+       音标: /procedure-moni/
+       难度: ★★
+       例句: Effective procedure monitoring is key to sales performance.
+
+[ 658] procedure qualification
+       释义: procedurequalification
+       音标: /procedure-qual/
+       难度: ★★
+       例句: Effective procedure qualification is key to sales performance.
+
+[ 659] procedure conversion
+       释义: procedureconversion
+       音标: /procedure-conv/
+       难度: ★★
+       例句: Effective procedure conversion is key to sales performance.
+
+[ 660] procedure negotiation
+       释义: procedurenegotiation
+       音标: /procedure-nego/
+       难度: ★★
+       例句: Effective procedure negotiation is key to sales performance.
+
+[ 661] procedure communication
+       释义: procedurecommunication
+       音标: /procedure-comm/
+       难度: ★★
+       例句: Effective procedure communication is key to sales performance.
+
+[ 662] procedure analysis
+       释义: procedureanalysis
+       音标: /procedure-anal/
+       难度: ★★
+       例句: Effective procedure analysis is key to sales performance.
+
+[ 663] procedure review
+       释义: procedurereview
+       音标: /procedure-revi/
+       难度: ★★
+       例句: Effective procedure review is key to sales performance.
+
+[ 664] procedure reporting
+       释义: procedurereporting
+       音标: /procedure-repo/
+       难度: ★★
+       例句: Effective procedure reporting is key to sales performance.
+
+[ 665] procedure projection
+       释义: procedureprojection
+       音标: /procedure-proj/
+       难度: ★★
+       例句: Effective procedure projection is key to sales performance.
+
+[ 666] procedure engagement
+       释义: procedureengagement
+       音标: /procedure-enga/
+       难度: ★★
+       例句: Effective procedure engagement is key to sales performance.
+
+[ 667] procedure partnership
+       释义: procedurepartnership
+       音标: /procedure-part/
+       难度: ★★
+       例句: Effective procedure partnership is key to sales performance.
+
+[ 668] protocol evaluation
+       释义: protocolevaluation
+       音标: /protocol-evalu/
+       难度: ★★
+       例句: Effective protocol evaluation is key to sales performance.
+
+[ 669] protocol assessment
+       释义: protocolassessment
+       音标: /protocol-asses/
+       难度: ★★
+       例句: Effective protocol assessment is key to sales performance.
+
+[ 670] protocol generation
+       释义: protocolgeneration
+       音标: /protocol-gener/
+       难度: ★★
+       例句: Effective protocol generation is key to sales performance.
+
+[ 671] protocol nurturing
+       释义: protocolnurturing
+       音标: /protocol-nurtu/
+       难度: ★★
+       例句: Effective protocol nurturing is key to sales performance.
+
+[ 672] protocol communication
+       释义: protocolcommunication
+       音标: /protocol-commu/
+       难度: ★★
+       例句: Effective protocol communication is key to sales performance.
+
+[ 673] protocol presentation
+       释义: protocolpresentation
+       音标: /protocol-prese/
+       难度: ★★
+       例句: Effective protocol presentation is key to sales performance.
+
+[ 674] protocol reporting
+       释义: protocolreporting
+       音标: /protocol-repor/
+       难度: ★★
+       例句: Effective protocol reporting is key to sales performance.
+
+[ 675] protocol engagement
+       释义: protocolengagement
+       音标: /protocol-engag/
+       难度: ★★
+       例句: Effective protocol engagement is key to sales performance.
+
+[ 676] protocol interaction
+       释义: protocolinteraction
+       音标: /protocol-inter/
+       难度: ★★
+       例句: Effective protocol interaction is key to sales performance.
+
+[ 677] protocol coaching
+       释义: protocolcoaching
+       音标: /protocol-coach/
+       难度: ★★
+       例句: Effective protocol coaching is key to sales performance.
+
+[ 678] protocol guidance
+       释义: protocolguidance
+       音标: /protocol-guida/
+       难度: ★★
+       例句: Effective protocol guidance is key to sales performance.
+
+[ 679] standard qualification
+       释义: standardqualification
+       音标: /standard-quali/
+       难度: ★★
+       例句: Effective standard qualification is key to sales performance.
+
+[ 680] standard facilitation
+       释义: standardfacilitation
+       音标: /standard-facil/
+       难度: ★★
+       例句: Effective standard facilitation is key to sales performance.
+
+[ 681] standard coordination
+       释义: standardcoordination
+       音标: /standard-coord/
+       难度: ★★
+       例句: Effective standard coordination is key to sales performance.
+
+[ 682] standard explanation
+       释义: standardexplanation
+       音标: /standard-expla/
+       难度: ★★
+       例句: Effective standard explanation is key to sales performance.
+
+[ 683] standard analysis
+       释义: standardanalysis
+       音标: /standard-analy/
+       难度: ★★
+       例句: Effective standard analysis is key to sales performance.
+
+[ 684] standard reporting
+       释义: standardreporting
+       音标: /standard-repor/
+       难度: ★★
+       例句: Effective standard reporting is key to sales performance.
+
+[ 685] standard forecasting
+       释义: standardforecasting
+       音标: /standard-forec/
+       难度: ★★
+       例句: Effective standard forecasting is key to sales performance.
+
+[ 686] standard engagement
+       释义: standardengagement
+       音标: /standard-engag/
+       难度: ★★
+       例句: Effective standard engagement is key to sales performance.
+
+[ 687] standard mentoring
+       释义: standardmentoring
+       音标: /standard-mento/
+       难度: ★★
+       例句: Effective standard mentoring is key to sales performance.
+
+[ 688] communication planning
+       释义: communicationplanning
+       音标: /communication-/
+       难度: ★★
+       例句: Effective communication planning is key to sales performance.
+
+[ 689] communication evaluation
+       释义: communicationevaluation
+       音标: /communication-/
+       难度: ★★
+       例句: Effective communication evaluation is key to sales performance.
+
+[ 690] communication assessment
+       释义: communicationassessment
+       音标: /communication-/
+       难度: ★★
+       例句: Effective communication assessment is key to sales performance.
+
+[ 691] communication improvement
+       释义: communicationimprovement
+       音标: /communication-/
+       难度: ★★
+       例句: Effective communication improvement is key to sales performance.
+
+[ 692] communication presentation
+       释义: communicationpresentation
+       音标: /communication-/
+       难度: ★★
+       例句: Effective communication presentation is key to sales performance.
+
+[ 693] correspondence generation
+       释义: correspondencegeneration
+       音标: /correspondence/
+       难度: ★★
+       例句: Effective correspondence generation is key to sales performance.
+
+[ 694] correspondence analysis
+       释义: correspondenceanalysis
+       音标: /correspondence/
+       难度: ★★
+       例句: Effective correspondence analysis is key to sales performance.
+
+[ 695] correspondence coaching
+       释义: correspondencecoaching
+       音标: /correspondence/
+       难度: ★★
+       例句: Effective correspondence coaching is key to sales performance.
+
+[ 696] feedback planning
+       释义: feedbackplanning
+       音标: /feedback-plann/
+       难度: ★★
+       例句: Effective feedback planning is key to sales performance.
+
+[ 697] feedback execution
+       释义: feedbackexecution
+       音标: /feedback-execu/
+       难度: ★★
+       例句: Effective feedback execution is key to sales performance.
+
+[ 698] feedback tracking
+       释义: feedbacktracking
+       音标: /feedback-track/
+       难度: ★★
+       例句: Effective feedback tracking is key to sales performance.
+
+[ 699] feedback optimization
+       释义: feedbackoptimization
+       音标: /feedback-optim/
+       难度: ★★
+       例句: Effective feedback optimization is key to sales performance.
+
+[ 700] feedback generation
+       释义: feedbackgeneration
+       音标: /feedback-gener/
+       难度: ★★
+       例句: Effective feedback generation is key to sales performance.
+
+[ 701] feedback nurturing
+       释义: feedbacknurturing
+       音标: /feedback-nurtu/
+       难度: ★★
+       例句: Effective feedback nurturing is key to sales performance.
+
+[ 702] feedback conversion
+       释义: feedbackconversion
+       音标: /feedback-conve/
+       难度: ★★
+       例句: Effective feedback conversion is key to sales performance.
+
+[ 703] feedback closure
+       释义: feedbackclosure
+       音标: /feedback-closu/
+       难度: ★★
+       例句: Effective feedback closure is key to sales performance.
+
+[ 704] feedback facilitation
+       释义: feedbackfacilitation
+       音标: /feedback-facil/
+       难度: ★★
+       例句: Effective feedback facilitation is key to sales performance.
+
+[ 705] feedback communication
+       释义: feedbackcommunication
+       音标: /feedback-commu/
+       难度: ★★
+       例句: Effective feedback communication is key to sales performance.
+
+[ 706] feedback forecasting
+       释义: feedbackforecasting
+       音标: /feedback-forec/
+       难度: ★★
+       例句: Effective feedback forecasting is key to sales performance.
+
+[ 707] feedback collaboration
+       释义: feedbackcollaboration
+       音标: /feedback-colla/
+       难度: ★★
+       例句: Effective feedback collaboration is key to sales performance.
+
+[ 708] feedback guidance
+       释义: feedbackguidance
+       音标: /feedback-guida/
+       难度: ★★
+       例句: Effective feedback guidance is key to sales performance.
+
+[ 709] follow-up execution
+       释义: follow-upexecution
+       音标: /follow-up-exec/
+       难度: ★★
+       例句: Effective follow-up execution is key to sales performance.
+
+[ 710] follow-up tracking
+       释义: follow-uptracking
+       音标: /follow-up-trac/
+       难度: ★★
+       例句: Effective follow-up tracking is key to sales performance.
+
+[ 711] follow-up evaluation
+       释义: follow-upevaluation
+       音标: /follow-up-eval/
+       难度: ★★
+       例句: Effective follow-up evaluation is key to sales performance.
+
+[ 712] follow-up qualification
+       释义: follow-upqualification
+       音标: /follow-up-qual/
+       难度: ★★
+       例句: Effective follow-up qualification is key to sales performance.
+
+[ 713] follow-up negotiation
+       释义: follow-upnegotiation
+       音标: /follow-up-nego/
+       难度: ★★
+       例句: Effective follow-up negotiation is key to sales performance.
+
+[ 714] follow-up facilitation
+       释义: follow-upfacilitation
+       音标: /follow-up-faci/
+       难度: ★★
+       例句: Effective follow-up facilitation is key to sales performance.
+
+[ 715] follow-up demonstration
+       释义: follow-updemonstration
+       音标: /follow-up-demo/
+       难度: ★★
+       例句: Effective follow-up demonstration is key to sales performance.
+
+[ 716] follow-up projection
+       释义: follow-upprojection
+       音标: /follow-up-proj/
+       难度: ★★
+       例句: Effective follow-up projection is key to sales performance.
+
+[ 717] objection development
+       释义: objectiondevelopment
+       音标: /objection-deve/
+       难度: ★★
+       例句: Effective objection development is key to sales performance.
+
+[ 718] objection planning
+       释义: objectionplanning
+       音标: /objection-plan/
+       难度: ★★
+       例句: Effective objection planning is key to sales performance.
+
+[ 719] objection evaluation
+       释义: objectionevaluation
+       音标: /objection-eval/
+       难度: ★★
+       例句: Effective objection evaluation is key to sales performance.
+
+[ 720] objection conversion
+       释义: objectionconversion
+       音标: /objection-conv/
+       难度: ★★
+       例句: Effective objection conversion is key to sales performance.
+
+[ 721] objection projection
+       释义: objectionprojection
+       音标: /objection-proj/
+       难度: ★★
+       例句: Effective objection projection is key to sales performance.
+
+[ 722] objection collaboration
+       释义: objectioncollaboration
+       音标: /objection-coll/
+       难度: ★★
+       例句: Effective objection collaboration is key to sales performance.
+
+[ 723] objection partnership
+       释义: objectionpartnership
+       音标: /objection-part/
+       难度: ★★
+       例句: Effective objection partnership is key to sales performance.
+
+[ 724] concern assessment
+       释义: concernassessment
+       音标: /concern-assess/
+       难度: ★★
+       例句: Effective concern assessment is key to sales performance.
+
+[ 725] concern closure
+       释义: concernclosure
+       音标: /concern-closur/
+       难度: ★★
+       例句: Effective concern closure is key to sales performance.
+
+[ 726] concern communication
+       释义: concerncommunication
+       音标: /concern-commun/
+       难度: ★★
+       例句: Effective concern communication is key to sales performance.
+
+[ 727] concern coaching
+       释义: concerncoaching
+       音标: /concern-coachi/
+       难度: ★★
+       例句: Effective concern coaching is key to sales performance.
+
+[ 728] question execution
+       释义: questionexecution
+       音标: /question-execu/
+       难度: ★★
+       例句: Effective question execution is key to sales performance.
+
+[ 729] question generation
+       释义: questiongeneration
+       音标: /question-gener/
+       难度: ★★
+       例句: Effective question generation is key to sales performance.
+
+[ 730] question qualification
+       释义: questionqualification
+       音标: /question-quali/
+       难度: ★★
+       例句: Effective question qualification is key to sales performance.
+
+[ 731] question conversion
+       释义: questionconversion
+       音标: /question-conve/
+       难度: ★★
+       例句: Effective question conversion is key to sales performance.
+
+[ 732] question negotiation
+       释义: questionnegotiation
+       音标: /question-negot/
+       难度: ★★
+       例句: Effective question negotiation is key to sales performance.
+
+[ 733] question presentation
+       释义: questionpresentation
+       音标: /question-prese/
+       难度: ★★
+       例句: Effective question presentation is key to sales performance.
+
+[ 734] question explanation
+       释义: questionexplanation
+       音标: /question-expla/
+       难度: ★★
+       例句: Effective question explanation is key to sales performance.
+
+[ 735] question partnership
+       释义: questionpartnership
+       音标: /question-partn/
+       难度: ★★
+       例句: Effective question partnership is key to sales performance.
+
+[ 736] issue planning
+       释义: issueplanning
+       音标: /issue-planning/
+       难度: ★★
+       例句: Effective issue planning is key to sales performance.
+
+[ 737] issue assessment
+       释义: issueassessment
+       音标: /issue-assessme/
+       难度: ★★
+       例句: Effective issue assessment is key to sales performance.
+
+[ 738] issue qualification
+       释义: issuequalification
+       音标: /issue-qualific/
+       难度: ★★
+       例句: Effective issue qualification is key to sales performance.
+
+[ 739] issue negotiation
+       释义: issuenegotiation
+       音标: /issue-negotiat/
+       难度: ★★
+       例句: Effective issue negotiation is key to sales performance.
+
+[ 740] issue coordination
+       释义: issuecoordination
+       音标: /issue-coordina/
+       难度: ★★
+       例句: Effective issue coordination is key to sales performance.
+
+[ 741] issue presentation
+       释义: issuepresentation
+       音标: /issue-presenta/
+       难度: ★★
+       例句: Effective issue presentation is key to sales performance.
+
+[ 742] issue projection
+       释义: issueprojection
+       音标: /issue-projecti/
+       难度: ★★
+       例句: Effective issue projection is key to sales performance.
+
+[ 743] issue engagement
+       释义: issueengagement
+       音标: /issue-engageme/
+       难度: ★★
+       例句: Effective issue engagement is key to sales performance.
+
+[ 744] issue collaboration
+       释义: issuecollaboration
+       音标: /issue-collabor/
+       难度: ★★
+       例句: Effective issue collaboration is key to sales performance.
+
+[ 745] issue mentoring
+       释义: issuementoring
+       音标: /issue-mentorin/
+       难度: ★★
+       例句: Effective issue mentoring is key to sales performance.
+
+[ 746] issue guidance
+       释义: issueguidance
+       音标: /issue-guidance/
+       难度: ★★
+       例句: Effective issue guidance is key to sales performance.
+
+[ 747] problem planning
+       释义: problemplanning
+       音标: /problem-planni/
+       难度: ★★
+       例句: Effective problem planning is key to sales performance.
+
+[ 748] problem execution
+       释义: problemexecution
+       音标: /problem-execut/
+       难度: ★★
+       例句: Effective problem execution is key to sales performance.
+
+[ 749] problem improvement
+       释义: problemimprovement
+       音标: /problem-improv/
+       难度: ★★
+       例句: Effective problem improvement is key to sales performance.
+
+[ 750] problem generation
+       释义: problemgeneration
+       音标: /problem-genera/
+       难度: ★★
+       例句: Effective problem generation is key to sales performance.
+
+[ 751] problem qualification
+       释义: problemqualification
+       音标: /problem-qualif/
+       难度: ★★
+       例句: Effective problem qualification is key to sales performance.
+
+[ 752] problem negotiation
+       释义: problemnegotiation
+       音标: /problem-negoti/
+       难度: ★★
+       例句: Effective problem negotiation is key to sales performance.
+
+[ 753] problem explanation
+       释义: problemexplanation
+       音标: /problem-explan/
+       难度: ★★
+       例句: Effective problem explanation is key to sales performance.
+
+[ 754] problem clarification
+       释义: problemclarification
+       音标: /problem-clarif/
+       难度: ★★
+       例句: Effective problem clarification is key to sales performance.
+
+[ 755] problem interaction
+       释义: probleminteraction
+       音标: /problem-intera/
+       难度: ★★
+       例句: Effective problem interaction is key to sales performance.
+
+[ 756] problem training
+       释义: problemtraining
+       音标: /problem-traini/
+       难度: ★★
+       例句: Effective problem training is key to sales performance.
+
+[ 757] success planning
+       释义: successplanning
+       音标: /success-planni/
+       难度: ★★
+       例句: Effective success planning is key to sales performance.
+
+[ 758] success evaluation
+       释义: successevaluation
+       音标: /success-evalua/
+       难度: ★★
+       例句: Effective success evaluation is key to sales performance.
+
+[ 759] success closure
+       释义: successclosure
+       音标: /success-closur/
+       难度: ★★
+       例句: Effective success closure is key to sales performance.
+
+[ 760] success negotiation
+       释义: successnegotiation
+       音标: /success-negoti/
+       难度: ★★
+       例句: Effective success negotiation is key to sales performance.
+
+[ 761] success facilitation
+       释义: successfacilitation
+       音标: /success-facili/
+       难度: ★★
+       例句: Effective success facilitation is key to sales performance.
+
+[ 762] success presentation
+       释义: successpresentation
+       音标: /success-presen/
+       难度: ★★
+       例句: Effective success presentation is key to sales performance.
+
+[ 763] success forecasting
+       释义: successforecasting
+       音标: /success-foreca/
+       难度: ★★
+       例句: Effective success forecasting is key to sales performance.
+
+[ 764] success projection
+       释义: successprojection
+       音标: /success-projec/
+       难度: ★★
+       例句: Effective success projection is key to sales performance.
+
+[ 765] success interaction
+       释义: successinteraction
+       音标: /success-intera/
+       难度: ★★
+       例句: Effective success interaction is key to sales performance.
+
+[ 766] success training
+       释义: successtraining
+       音标: /success-traini/
+       难度: ★★
+       例句: Effective success training is key to sales performance.
+
+[ 767] failure planning
+       释义: failureplanning
+       音标: /failure-planni/
+       难度: ★★
+       例句: Effective failure planning is key to sales performance.
+
+[ 768] failure execution
+       释义: failureexecution
+       音标: /failure-execut/
+       难度: ★★
+       例句: Effective failure execution is key to sales performance.
+
+[ 769] failure tracking
+       释义: failuretracking
+       音标: /failure-tracki/
+       难度: ★★
+       例句: Effective failure tracking is key to sales performance.
+
+[ 770] failure monitoring
+       释义: failuremonitoring
+       音标: /failure-monito/
+       难度: ★★
+       例句: Effective failure monitoring is key to sales performance.
+
+[ 771] failure optimization
+       释义: failureoptimization
+       音标: /failure-optimi/
+       难度: ★★
+       例句: Effective failure optimization is key to sales performance.
+
+[ 772] failure closure
+       释义: failureclosure
+       音标: /failure-closur/
+       难度: ★★
+       例句: Effective failure closure is key to sales performance.
+
+[ 773] failure communication
+       释义: failurecommunication
+       音标: /failure-commun/
+       难度: ★★
+       例句: Effective failure communication is key to sales performance.
+
+[ 774] failure demonstration
+       释义: failuredemonstration
+       音标: /failure-demons/
+       难度: ★★
+       例句: Effective failure demonstration is key to sales performance.
+
+[ 775] failure explanation
+       释义: failureexplanation
+       音标: /failure-explan/
+       难度: ★★
+       例句: Effective failure explanation is key to sales performance.
+
+[ 776] failure review
+       释义: failurereview
+       音标: /failure-review/
+       难度: ★★
+       例句: Effective failure review is key to sales performance.
+
+[ 777] failure projection
+       释义: failureprojection
+       音标: /failure-projec/
+       难度: ★★
+       例句: Effective failure projection is key to sales performance.
+
+[ 778] failure collaboration
+       释义: failurecollaboration
+       音标: /failure-collab/
+       难度: ★★
+       例句: Effective failure collaboration is key to sales performance.
+
+[ 779] loss evaluation
+       释义: lossevaluation
+       音标: /loss-evaluatio/
+       难度: ★★
+       例句: Effective loss evaluation is key to sales performance.
+
+[ 780] loss optimization
+       释义: lossoptimization
+       音标: /loss-optimizat/
+       难度: ★★
+       例句: Effective loss optimization is key to sales performance.
+
+[ 781] loss facilitation
+       释义: lossfacilitation
+       音标: /loss-facilitat/
+       难度: ★★
+       例句: Effective loss facilitation is key to sales performance.
+
+[ 782] loss review
+       释义: lossreview
+       音标: /loss-review/
+       难度: ★★
+       例句: Effective loss review is key to sales performance.
+
+[ 783] loss projection
+       释义: lossprojection
+       音标: /loss-projectio/
+       难度: ★★
+       例句: Effective loss projection is key to sales performance.
+
+[ 784] loss interaction
+       释义: lossinteraction
+       音标: /loss-interacti/
+       难度: ★★
+       例句: Effective loss interaction is key to sales performance.
+
+[ 785] win optimization
+       释义: winoptimization
+       音标: /win-optimizati/
+       难度: ★★
+       例句: Effective win optimization is key to sales performance.
+
+[ 786] win nurturing
+       释义: winnurturing
+       音标: /win-nurturing/
+       难度: ★★
+       例句: Effective win nurturing is key to sales performance.
+
+[ 787] win negotiation
+       释义: winnegotiation
+       音标: /win-negotiatio/
+       难度: ★★
+       例句: Effective win negotiation is key to sales performance.
+
+[ 788] win explanation
+       释义: winexplanation
+       音标: /win-explanatio/
+       难度: ★★
+       例句: Effective win explanation is key to sales performance.
+
+[ 789] win interaction
+       释义: wininteraction
+       音标: /win-interactio/
+       难度: ★★
+       例句: Effective win interaction is key to sales performance.
+
+[ 790] win partnership
+       释义: winpartnership
+       音标: /win-partnershi/
+       难度: ★★
+       例句: Effective win partnership is key to sales performance.
+
+[ 791] win coaching
+       释义: wincoaching
+       音标: /win-coaching/
+       难度: ★★
+       例句: Effective win coaching is key to sales performance.
+
+[ 792] win guidance
+       释义: winguidance
+       音标: /win-guidance/
+       难度: ★★
+       例句: Effective win guidance is key to sales performance.
+
+[ 793] achievement planning
+       释义: achievementplanning
+       音标: /achievement-pl/
+       难度: ★★
+       例句: Effective achievement planning is key to sales performance.
+
+[ 794] achievement optimization
+       释义: achievementoptimization
+       音标: /achievement-op/
+       难度: ★★
+       例句: Effective achievement optimization is key to sales performance.
+
+[ 795] achievement generation
+       释义: achievementgeneration
+       音标: /achievement-ge/
+       难度: ★★
+       例句: Effective achievement generation is key to sales performance.
+
+[ 796] achievement facilitation
+       释义: achievementfacilitation
+       音标: /achievement-fa/
+       难度: ★★
+       例句: Effective achievement facilitation is key to sales performance.
+
+[ 797] achievement analysis
+       释义: achievementanalysis
+       音标: /achievement-an/
+       难度: ★★
+       例句: Effective achievement analysis is key to sales performance.
+
+[ 798] achievement projection
+       释义: achievementprojection
+       音标: /achievement-pr/
+       难度: ★★
+       例句: Effective achievement projection is key to sales performance.
+
+[ 799] achievement collaboration
+       释义: achievementcollaboration
+       音标: /achievement-co/
+       难度: ★★
+       例句: Effective achievement collaboration is key to sales performance.
+
+[ 800] achievement training
+       释义: achievementtraining
+       音标: /achievement-tr/
+       难度: ★★
+       例句: Effective achievement training is key to sales performance.
+
