@@ -425,6 +425,42 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
 .profile-switch-btn { padding:8px 16px; border:1px solid var(--border); border-radius:8px; background:var(--bg-card); color:var(--text-secondary); cursor:pointer; font-size:13px; transition:all .2s; }
 .profile-switch-btn:hover { border-color:var(--accent); color:var(--accent); }
 
+/* ====== Server Connection ====== */
+.server-status {
+  display:inline-flex; align-items:center; gap:6px; padding:4px 12px;
+  border-radius:14px; font-size:11px; font-weight:600; cursor:pointer;
+  transition:all .2s; margin-right:8px;
+}
+.server-status.online { background:#e8f5e9; color:#2d8a56; }
+.server-status.offline { background:#fce4e4; color:#c0392b; }
+.server-status.syncing { background:#fff8e1; color:#d4a017; }
+.server-status .dot {
+  width:8px; height:8px; border-radius:50%; display:inline-block;
+}
+.server-status.online .dot { background:#2d8a56; }
+.server-status.offline .dot { background:#c0392b; }
+.server-status.syncing .dot { background:#d4a017; animation:pulse 1s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+/* Server auth mode switch */
+.auth-server-toggle {
+  display:flex; align-items:center; justify-content:center; gap:8px;
+  margin-bottom:20px; font-size:13px; color:var(--text-secondary);
+}
+.auth-server-toggle label { cursor:pointer; display:flex; align-items:center; gap:6px; }
+.auth-server-toggle input[type="checkbox"] {
+  width:36px; height:20px; appearance:none; -webkit-appearance:none;
+  background:var(--border); border-radius:10px; position:relative;
+  cursor:pointer; transition:background .2s; outline:none;
+}
+.auth-server-toggle input[type="checkbox"]::after {
+  content:''; position:absolute; top:2px; left:2px;
+  width:16px; height:16px; border-radius:50%; background:var(--white);
+  transition:transform .2s; box-shadow:0 1px 3px rgba(0,0,0,0.2);
+}
+.auth-server-toggle input[type="checkbox"]:checked { background:var(--gold); }
+.auth-server-toggle input[type="checkbox"]:checked::after { transform:translateX(16px); }
+
 </style>
 </head>
 <body>
@@ -434,9 +470,13 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
       <button class="auth-tab active" data-mode="login">Sign In</button>
       <button class="auth-tab" data-mode="register">Register</button>
     </div>
+    <div class="auth-server-toggle">
+      <label><input type="checkbox" id="authServerMode" onchange="toggleServerMode()"> Cloud Sync (multi-device)</label>
+    </div>
     <form class="auth-form" id="authForm" onsubmit="return false">
       <div class="auth-field">
         <input type="email" id="authEmail" placeholder="Email address" required autocomplete="email">
+        <input type="text" id="authUsername" placeholder="Username" required autocomplete="username" style="display:none" minlength="3">
       </div>
       <div class="auth-field auth-pw-field">
         <input type="password" id="authPassword" placeholder="Password" required autocomplete="current-password" minlength="6">
@@ -485,6 +525,7 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
   <div class="topbar">
     <div class="topbar-title" id="topbarTitle">Dashboard</div>
     <div class="topbar-actions">
+      <span id="serverStatus" class="server-status offline" title="Server not connected" style="display:none"><span class="dot"></span> Offline</span>
       <button onclick="speakCurrentWord()" title="Pronounce" id="topbarSpeak" style="display:none">&#9834;</button>
     </div>
   </div>
@@ -7898,6 +7939,420 @@ function updateSidebarUser() {
       sidebarAvatar.textContent = 'V';
     }
   } catch(e) {}
+}
+
+// ====== SERVER INTEGRATION ======
+var SERVER_CONFIG = {
+  baseUrl: localStorage.getItem('server_base_url') || 'http://localhost:5000',
+  syncIntervalMs: 30000,
+  autoSyncEnabled: true,
+  lastSyncTime: null,
+  token: localStorage.getItem('server_token') || null,
+  serverUser: null
+};
+
+// Load token on init
+(function() {
+  try {
+    var stored = localStorage.getItem('server_token');
+    var storedUser = localStorage.getItem('server_user');
+    if (stored) SERVER_CONFIG.token = stored;
+    if (storedUser) SERVER_CONFIG.serverUser = JSON.parse(storedUser);
+  } catch(e) {}
+})();
+
+function toggleServerMode() {
+  var cb = document.getElementById('authServerMode');
+  var emailEl = document.getElementById('authEmail');
+  var usernameEl = document.getElementById('authUsername');
+  var confirmEl = document.getElementById('authConfirmField');
+  var submitBtn = document.getElementById('authSubmit');
+  var mode = document.querySelector('.auth-tab.active').getAttribute('data-mode');
+  document.getElementById('authError').textContent = '';
+
+  if (cb.checked) {
+    emailEl.style.display = 'none';
+    usernameEl.style.display = 'block';
+    if (mode === 'register') {
+      confirmEl.style.display = 'block';
+      submitBtn.textContent = 'Register (Cloud)';
+    } else {
+      confirmEl.style.display = 'none';
+      submitBtn.textContent = 'Sign In (Cloud)';
+    }
+  } else {
+    emailEl.style.display = 'block';
+    usernameEl.style.display = 'none';
+    if (mode === 'register') {
+      confirmEl.style.display = 'block';
+      submitBtn.textContent = 'Register';
+    } else {
+      confirmEl.style.display = 'none';
+      submitBtn.textContent = 'Sign In';
+    }
+  }
+}
+
+// Override switchAuthMode to respect server mode
+var _origSwitchAuthMode = switchAuthMode;
+switchAuthMode = function(mode) {
+  _origSwitchAuthMode(mode);
+  toggleServerMode();
+};
+
+// ====== Server API Helpers ======
+function serverRequest(path, options) {
+  return fetch(SERVER_CONFIG.baseUrl + path, options).then(function(res) {
+    return res.json().then(function(data) {
+      if (!res.ok) throw new Error(data.error || ('HTTP ' + res.status));
+      return data;
+    });
+  });
+}
+
+function serverRegister(username, password, deviceName) {
+  return serverRequest('/api/register', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ username: username, password: password, device_name: deviceName })
+  });
+}
+
+function serverLogin(username, password, deviceName) {
+  return serverRequest('/api/login', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ username: username, password: password, device_name: deviceName })
+  });
+}
+
+function serverGetData() {
+  if (!SERVER_CONFIG.token) return Promise.reject(new Error('Not authenticated'));
+  return serverRequest('/api/user/data', {
+    headers: { 'Authorization': 'Bearer ' + SERVER_CONFIG.token }
+  });
+}
+
+function serverSaveData(data) {
+  if (!SERVER_CONFIG.token) return Promise.reject(new Error('Not authenticated'));
+  return serverRequest('/api/user/data', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer ' + SERVER_CONFIG.token
+    },
+    body: JSON.stringify({ data: data })
+  });
+}
+
+function serverGetSessions() {
+  if (!SERVER_CONFIG.token) return Promise.reject(new Error('Not authenticated'));
+  return serverRequest('/api/user/sessions', {
+    headers: { 'Authorization': 'Bearer ' + SERVER_CONFIG.token }
+  });
+}
+
+function serverLogout() {
+  if (!SERVER_CONFIG.token) return Promise.resolve();
+  return serverRequest('/api/user/logout', {
+    method: 'POST',
+    headers: { 'Authorization': 'Bearer ' + SERVER_CONFIG.token }
+  }).catch(function() {}).then(function() {
+    SERVER_CONFIG.token = null;
+    SERVER_CONFIG.serverUser = null;
+    localStorage.removeItem('server_token');
+    localStorage.removeItem('server_user');
+    updateServerStatus('offline');
+  });
+}
+
+// ====== Server Status ======
+function updateServerStatus(status) {
+  var el = document.getElementById('serverStatus');
+  if (!el) return;
+  el.style.display = 'inline-flex';
+  el.className = 'server-status ' + status;
+  if (status === 'online') {
+    var username = SERVER_CONFIG.serverUser ? SERVER_CONFIG.serverUser.username : '';
+    el.title = 'Connected as ' + username;
+    el.innerHTML = '<span class="dot"></span> ' + username;
+  } else if (status === 'syncing') {
+    el.innerHTML = '<span class="dot"></span> Syncing...';
+  } else {
+    el.innerHTML = '<span class="dot"></span> Offline';
+    el.title = 'Server not connected';
+  }
+}
+
+function checkServerHealth() {
+  return fetch(SERVER_CONFIG.baseUrl + '/api/health', { method: 'GET' })
+    .then(function(res) { return res.json(); })
+    .then(function(d) { return d.status === 'ok'; })
+    .catch(function() { return false; });
+}
+
+// ====== Server Auth Handler ======
+function handleServerAuth(mode) {
+  var username = document.getElementById('authUsername').value.trim();
+  var password = document.getElementById('authPassword').value;
+  var authError = document.getElementById('authError');
+  authError.textContent = '';
+
+  if (!username || username.length < 3) {
+    authError.textContent = 'Username must be at least 3 characters.'; return;
+  }
+  if (!password || password.length < 6) {
+    authError.textContent = 'Password must be at least 6 characters.'; return;
+  }
+
+  if (mode === 'register') {
+    var confirm = document.getElementById('authConfirm').value;
+    if (password !== confirm) {
+      authError.textContent = 'Passwords do not match.'; return;
+    }
+  }
+
+  var deviceName = getDeviceName();
+  var fn = mode === 'register' ? serverRegister : serverLogin;
+
+  document.getElementById('authSubmit').disabled = true;
+  document.getElementById('authSubmit').textContent = 'Connecting...';
+
+  fn(username, password, deviceName).then(function(result) {
+    SERVER_CONFIG.token = result.token;
+    SERVER_CONFIG.serverUser = result.user;
+    localStorage.setItem('server_token', result.token);
+    localStorage.setItem('server_user', JSON.stringify(result.user));
+    updateServerStatus('online');
+    document.getElementById('authSubmit').disabled = false;
+
+    // Also create a local session
+    authState.user = { email: username + '@cloud.local', name: username, createdAt: new Date().toISOString() };
+    authState.isLoggedIn = true;
+    localStorage.setItem('spaced_repetition_current_user', username + '@cloud.local');
+    var session = createSession(username + '@cloud.local', deviceName + ' (Cloud)');
+    authState.sessions.push(session);
+    localStorage.setItem('spaced_repetition_sessions', JSON.stringify(authState.sessions));
+    localStorage.setItem('spaced_repetition_current_session', session.id);
+
+    // Pull cloud data
+    updateServerStatus('syncing');
+    return serverGetData();
+  }).then(function(cloudData) {
+    if (cloudData && cloudData.data && Object.keys(cloudData.data).length > 0) {
+      mergeServerData(cloudData.data);
+    }
+    SERVER_CONFIG.lastSyncTime = Date.now();
+    updateServerStatus('online');
+    startAutoSync();
+    hideAuthOverlay();
+    updateSidebarUser();
+    updateProfilePanel();
+    loadSessions();
+    showToast('Cloud sync connected');
+  }).catch(function(err) {
+    document.getElementById('authSubmit').disabled = false;
+    toggleServerMode();
+    if (SERVER_CONFIG.token) {
+      // auth succeeded but data pull failed
+      updateServerStatus('online');
+      startAutoSync();
+      hideAuthOverlay();
+      updateSidebarUser();
+      updateProfilePanel();
+      loadSessions();
+      authError.textContent = '';
+    } else {
+      authError.textContent = err.message || 'Connection failed. Is the server running?';
+    }
+  });
+}
+
+// ====== Data Merge ======
+function mergeServerData(serverData) {
+  if (!state) return;
+  var localData = {
+    dailyGoal: state.dailyGoal,
+    catFilters: state.catFilters || {},
+    studiedIds: state.studiedIds || [],
+    wordState: state.wordState || {},
+    dailyLog: state.dailyLog || {},
+    learnPointer: state.learnPointer || 0,
+    todayCompleted: state.todayCompleted || false,
+    todayLearned: state.todayLearned || 0,
+    todayReviewed: state.todayReviewed || 0,
+    lastActiveDate: state.lastActiveDate || '',
+    totalLearned: state.totalLearned || 0,
+    streak: state.streak || 0
+  };
+
+  // Take the more progressed version for each word
+  var mergedWordState = {};
+  var localKeys = Object.keys(localData.wordState);
+  var serverKeys = Object.keys(serverData.wordState || {});
+  var allKeys = localKeys.concat(serverKeys.filter(function(k) { return localKeys.indexOf(k) === -1; }));
+  for (var i = 0; i < allKeys.length; i++) {
+    var k = allKeys[i];
+    var localWs = localData.wordState[k];
+    var serverWs = (serverData.wordState || {})[k];
+    if (!localWs) { mergedWordState[k] = serverWs; continue; }
+    if (!serverWs) { mergedWordState[k] = localWs; continue; }
+    // Take the higher stage
+    mergedWordState[k] = (localWs.stage >= serverWs.stage) ? localWs : serverWs;
+  }
+
+  // Merge daily log - keep entries from both
+  var mergedDailyLog = {};
+  var logKeys1 = Object.keys(localData.dailyLog);
+  var logKeys2 = Object.keys(serverData.dailyLog || {});
+  var allLogKeys = logKeys1.concat(logKeys2.filter(function(k) { return logKeys1.indexOf(k) === -1; }));
+  for (var j = 0; j < allLogKeys.length; j++) {
+    var dk = allLogKeys[j];
+    var localLog = localData.dailyLog[dk];
+    var serverLog = (serverData.dailyLog || {})[dk];
+    if (!localLog) { mergedDailyLog[dk] = serverLog; continue; }
+    if (!serverLog) { mergedDailyLog[dk] = localLog; continue; }
+    mergedDailyLog[dk] = {
+      newCount: Math.max(localLog.newCount || 0, serverLog.newCount || 0),
+      reviewCount: Math.max(localLog.reviewCount || 0, serverLog.reviewCount || 0)
+    };
+  }
+
+  state.wordState = mergedWordState;
+  state.dailyLog = mergedDailyLog;
+  state.totalLearned = Math.max(localData.totalLearned || 0, serverData.totalLearned || 0);
+  state.streak = Math.max(localData.streak || 0, serverData.streak || 0);
+  state.studiedIds = localData.studiedIds.concat(
+    (serverData.studiedIds || []).filter(function(id) { return localData.studiedIds.indexOf(id) === -1; })
+  );
+  saveState();
+}
+
+function getSyncPayload() {
+  return {
+    dailyGoal: state.dailyGoal,
+    catFilters: state.catFilters || {},
+    studiedIds: state.studiedIds || [],
+    wordState: state.wordState || {},
+    dailyLog: state.dailyLog || {},
+    learnPointer: state.learnPointer || 0,
+    todayCompleted: state.todayCompleted || false,
+    todayLearned: state.todayLearned || 0,
+    todayReviewed: state.todayReviewed || 0,
+    lastActiveDate: state.lastActiveDate || '',
+    totalLearned: state.totalLearned || 0,
+    streak: state.streak || 0
+  };
+}
+
+// ====== Auto Sync ======
+var _syncTimer = null;
+
+function startAutoSync() {
+  stopAutoSync();
+  if (!SERVER_CONFIG.token || !SERVER_CONFIG.autoSyncEnabled) return;
+  _syncTimer = setInterval(syncToServer, SERVER_CONFIG.syncIntervalMs);
+}
+
+function stopAutoSync() {
+  if (_syncTimer) { clearInterval(_syncTimer); _syncTimer = null; }
+}
+
+function syncToServer() {
+  if (!SERVER_CONFIG.token) return;
+  if (!state) return;
+  updateServerStatus('syncing');
+  serverSaveData(getSyncPayload()).then(function() {
+    SERVER_CONFIG.lastSyncTime = Date.now();
+    updateServerStatus('online');
+  }).catch(function() {
+    updateServerStatus('offline');
+  });
+}
+
+// Hook into saveState to trigger sync after completing a word batch
+var _origSaveState = saveState;
+saveState = function() {
+  _origSaveState();
+  // Trigger sync on word completion (debounced)
+  if (SERVER_CONFIG.token) {
+    clearTimeout(saveState._syncDebounce);
+    saveState._syncDebounce = setTimeout(function() {
+      syncToServer();
+    }, 2000);
+  }
+};
+
+// ====== Server-aware auth handler ======
+var _origHandleAuth = handleAuth;
+handleAuth = function() {
+  var isServerMode = document.getElementById('authServerMode').checked;
+  if (isServerMode) {
+    var mode = document.querySelector('.auth-tab.active').getAttribute('data-mode');
+    handleServerAuth(mode);
+    return;
+  }
+  _origHandleAuth();
+};
+
+// ====== Server-aware logout ======
+var _origHandleLogout = handleLogout;
+handleLogout = function() {
+  stopAutoSync();
+  if (SERVER_CONFIG.token) {
+    serverLogout().then(function() {
+      updateServerStatus('offline');
+    });
+  }
+  _origHandleLogout();
+};
+
+// ====== Init server on startup ======
+var _origInitAuth = initAuth;
+initAuth = function() {
+  _origInitAuth();
+  // If server token exists, verify and connect
+  if (SERVER_CONFIG.token) {
+    updateServerStatus('syncing');
+    serverGetData().then(function(cloudData) {
+      if (cloudData && cloudData.data && Object.keys(cloudData.data).length > 0) {
+        mergeServerData(cloudData.data);
+      }
+      SERVER_CONFIG.lastSyncTime = Date.now();
+      updateServerStatus('online');
+      startAutoSync();
+    }).catch(function(err) {
+      // Token expired or server unreachable
+      if (err.message && err.message.indexOf('401') === -1) {
+        updateServerStatus('offline');
+        // Still try to reconnect later
+        setTimeout(function() {
+          if (SERVER_CONFIG.token) startAutoSync();
+        }, 60000);
+      } else {
+        serverLogout();
+      }
+    });
+  }
+};
+
+// Expose sync for manual trigger
+function manualSync() {
+  if (!SERVER_CONFIG.token) {
+    showToast('Not connected to server. Sign in with Cloud Sync.');
+    return;
+  }
+  updateServerStatus('syncing');
+  syncToServer();
+  showToast('Sync initiated');
+}
+
+function disconnectServer() {
+  stopAutoSync();
+  serverLogout().then(function() {
+    updateServerStatus('offline');
+    showToast('Cloud sync disconnected');
+  });
 }
 
 </script>
