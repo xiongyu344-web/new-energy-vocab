@@ -8,7 +8,7 @@ import sqlite3
 import datetime
 from functools import wraps
 
-from flask import Flask, request, jsonify, g
+from flask import Flask, request, jsonify, g, send_file
 from flask_cors import CORS
 import jwt
 import bcrypt
@@ -128,6 +128,11 @@ def require_auth(f):
     return decorated
 
 # ---------- Routes ----------
+
+@app.route("/", methods=["GET"])
+def serve_app():
+    app_path = os.path.join(os.path.dirname(BASE_DIR), "spaced_repetition_app.html")
+    return send_file(app_path, mimetype="text/html")
 
 @app.route("/api/health", methods=["GET"])
 def health():
