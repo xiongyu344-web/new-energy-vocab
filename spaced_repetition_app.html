@@ -7220,6 +7220,10 @@ function showCongrats() {
 
 // ====== KEYBOARD ======
 function handleKey(e) {
+  // Skip all keyboard shortcuts when focus is on an input/textarea/select or contenteditable element
+  var ae = document.activeElement;
+  if (ae && (ae.tagName === 'INPUT' || ae.tagName === 'TEXTAREA' || ae.tagName === 'SELECT' || ae.isContentEditable)) return;
+
   var panel = document.querySelector('.panel.active');
   if (!panel) return;
   var pid = panel.id;
