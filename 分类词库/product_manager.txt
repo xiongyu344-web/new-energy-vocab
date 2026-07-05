@@ -1,0 +1,4804 @@
+============================================================
+  产品经理用语 单词列表 (800 词)
+============================================================
+
+[   1] outcome-based roadmap
+       释义: 结果导向路线图
+       音标: /outcome-ba/
+       难度: ★★★★
+       例句: Outcome-based roadmaps focus on business results, not features.
+
+[   2] now-next-later roadmap
+       释义: 现在-下一步-未来路线图
+       音标: /now-next-l/
+       难度: ★★★
+       例句: Now-next-later format communicates relative priority without dates.
+
+[   3] theme-based roadmap
+       释义: 主题导向路线图
+       音标: /theme-base/
+       难度: ★★★
+       例句: Theme-based roadmaps group initiatives around strategic themes.
+
+[   4] total addressable market
+       释义: 市场总容量
+       音标: /total-addr/
+       难度: ★★★
+       例句: TAM estimates the total revenue opportunity if you had 100% market share.
+
+[   5] serviceable addressable market
+       释义: 可服务市场
+       音标: /serviceabl/
+       难度: ★★★
+       例句: SAM is the portion of TAM you can reach with your business model.
+
+[   6] serviceable obtainable market
+       释义: 可获得市场
+       音标: /serviceabl/
+       难度: ★★★
+       例句: SOM is your realistic near-term market share target.
+
+[   7] market sizing
+       释义: 市场估算
+       音标: /market-siz/
+       难度: ★★
+       例句: Market sizing uses top-down and bottom-up approaches.
+
+[   8] Porter's five forces
+       释义: 波特五力分析
+       音标: /porter's-f/
+       难度: ★★★★
+       例句: Porter's five forces assess industry competitiveness.
+
+[   9] feature factory
+       释义: 功能工厂
+       音标: /feature-fa/
+       难度: ★★★
+       例句: A feature factory ships features without measuring impact.
+
+[  10] output vs outcome
+       释义: 产出vs结果
+       音标: /output-vs-/
+       难度: ★★★
+       例句: Output is what we build; outcome is the value it creates.
+
+[  11] key performance indicator
+       释义: 关键绩效指标
+       音标: /key-perfor/
+       难度: ★
+       例句: KPIs measure progress toward business objectives.
+
+[  12] North Star metric
+       释义: 北极星指标
+       音标: /north-star/
+       难度: ★★★
+       例句: The North Star metric is the single metric that best captures core value.
+
+[  13] leading indicator
+       释义: 先导指标
+       音标: /leading-in/
+       难度: ★★★
+       例句: Leading indicators predict future outcomes.
+
+[  14] lagging indicator
+       释义: 滞后指标
+       音标: /lagging-in/
+       难度: ★★★
+       例句: Lagging indicators measure outcomes that have already occurred.
+
+[  15] product-led growth
+       释义: 产品驱动增长
+       音标: /product-le/
+       难度: ★★★
+       例句: PLG relies on the product itself for acquisition and expansion.
+
+[  16] hybrid go-to-market
+       释义: 混合进入市场
+       音标: /hybrid-go-/
+       难度: ★★★
+       例句: Hybrid GTM combines PLG with sales for enterprise customers.
+
+[  17] product-qualified lead
+       释义: 产品合格线索
+       音标: /product-qu/
+       难度: ★★★
+       例句: PQLs have demonstrated intent through product usage.
+
+[  18] time to value
+       释义: 价值实现时间
+       音标: /time-to-va/
+       难度: ★★★
+       例句: TTV measures how fast a user reaches the aha moment.
+
+[  19] aha moment
+       释义: 顿悟时刻
+       音标: /aha-moment/
+       难度: ★★★
+       例句: The aha moment is when users experience the product's core value.
+
+[  20] activation
+       释义: 激活
+       音标: /activation/
+       难度: ★★
+       例句: Activation is the step from sign-up to first meaningful use.
+
+[  21] onboarding flow
+       释义: 引导流程
+       音标: /onboarding/
+       难度: ★★
+       例句: The onboarding flow guides new users to their first success.
+
+[  22] jobs to be done
+       释义: 待完成工作
+       音标: /jobs-to-be/
+       难度: ★★★
+       例句: JTBD focuses on the progress a customer seeks in a given circumstance.
+
+[  23] empathy map
+       释义: 共情地图
+       音标: /empathy-ma/
+       难度: ★★★
+       例句: An empathy map captures what users think, feel, say, and do.
+
+[  24] experience map
+       释义: 体验地图
+       音标: /experience/
+       难度: ★★★
+       例句: Experience maps show touchpoints across channels and over time.
+
+[  25] service blueprint
+       释义: 服务蓝图
+       音标: /service-bl/
+       难度: ★★★★
+       例句: Service blueprints show frontstage and backstage operations.
+
+[  26] customer development
+       释义: 客户开发
+       音标: /customer-d/
+       难度: ★★★
+       例句: Customer development validates problems before building solutions.
+
+[  27] problem interview
+       释义: 问题访谈
+       音标: /problem-in/
+       难度: ★★★
+       例句: Problem interviews validate the customer's pain before discussing solutions.
+
+[  28] solution interview
+       释义: 解决方案访谈
+       音标: /solution-i/
+       难度: ★★★
+       例句: Solution interviews test whether your solution resonates.
+
+[  29] customer validation
+       释义: 客户验证
+       音标: /customer-v/
+       难度: ★★★
+       例句: Customer validation confirms that customers will pay for the solution.
+
+[  30] minimum viable product
+       释义: 最小可行产品
+       音标: /minimum-vi/
+       难度: ★★
+       例句: MVP is the smallest thing you can build to test your hypothesis.
+
+[  31] minimum lovable product
+       释义: 最小受欢迎产品
+       音标: /minimum-lo/
+       难度: ★★★
+       例句: MLP goes beyond viability to create an emotional connection.
+
+[  32] minimum marketable product
+       释义: 最小可营销产品
+       音标: /minimum-ma/
+       难度: ★★★
+       例句: MMP is the smallest feature set that can be sold.
+
+[  33] concierge MVP
+       释义: 管家式MVP
+       音标: /concierge-/
+       难度: ★★★★
+       例句: A concierge MVP manually delivers the service before automating.
+
+[  34] wizard of Oz MVP
+       释义: 绿野仙踪MVP
+       音标: /wizard-of-/
+       难度: ★★★★
+       例句: Wizard of Oz MVP appears automated but is manually operated behind the scenes.
+
+[  35] piecemeal MVP
+       释义: 拼凑式MVP
+       音标: /piecemeal-/
+       难度: ★★★
+       例句: Piecemeal MVP uses existing tools cobbled together.
+
+[  36] prototype
+       释义: 原型
+       音标: /prototype/
+       难度: ★
+       例句: A prototype tests specific aspects of the design before full development.
+
+[  37] high-fidelity prototype
+       释义: 高保真原型
+       音标: /high-fidel/
+       难度: ★★★
+       例句: Hi-fi prototypes look and feel like the real product.
+
+[  38] design system
+       释义: 设计系统
+       音标: /design-sys/
+       难度: ★★★
+       例句: A design system standardizes components and patterns.
+
+[  39] design token
+       释义: 设计令牌
+       音标: /design-tok/
+       难度: ★★★★
+       例句: Design tokens define colors, spacing, and typography as variables.
+
+[  40] atomic design
+       释义: 原子化设计
+       音标: /atomic-des/
+       难度: ★★★★
+       例句: Atomic design builds interfaces from atoms to molecules to organisms.
+
+[  41] mobile-first design
+       释义: 移动优先设计
+       音标: /mobile-fir/
+       难度: ★★★
+       例句: Mobile-first design starts with the smallest screen.
+
+[  42] WCAG
+       释义: 网页内容无障碍指南
+       音标: /wcag/
+       难度: ★★★★
+       例句: WCAG 2.1 AA is the standard accessibility compliance level.
+
+[  43] moderated testing
+       释义: 主持式测试
+       音标: /moderated-/
+       难度: ★★★
+       例句: Moderated testing allows the facilitator to probe user behavior.
+
+[  44] unmoderated testing
+       释义: 非主持式测试
+       音标: /unmoderate/
+       难度: ★★★
+       例句: Unmoderated testing lets users complete tasks independently.
+
+[  45] guerrilla testing
+       释义: 游击测试
+       音标: /guerrilla-/
+       难度: ★★★
+       例句: Guerrilla testing gets quick feedback from random people in public.
+
+[  46] multivariate testing
+       释义: 多变量测试
+       音标: /multivaria/
+       难度: ★★★★
+       例句: MVT tests multiple element variations simultaneously.
+
+[  47] feature flag
+       释义: 功能开关
+       音标: /feature-fl/
+       难度: ★★★
+       例句: Feature flags enable gradual rollouts and A/B tests.
+
+[  48] canary release
+       释义: 金丝雀发布
+       音标: /canary-rel/
+       难度: ★★★★
+       例句: Canary releases roll out to a small percentage before full deployment.
+
+[  49] dark launch
+       释义: 暗发布
+       音标: /dark-launc/
+       难度: ★★★★
+       例句: Dark launch releases backend functionality hidden from users.
+
+[  50] progressive rollout
+       释义: 逐步发布
+       音标: /progressiv/
+       难度: ★★★
+       例句: Progressive rollout increases the user percentage over time.
+
+[  51] staged rollout
+       释义: 阶段发布
+       音标: /staged-rol/
+       难度: ★★★
+       例句: Staged rollout releases to one environment or region at a time.
+
+[  52] kill switch
+       释义: 紧急关闭开关
+       音标: /kill-switc/
+       难度: ★★★
+       例句: A kill switch instantly disables a problematic feature.
+
+[  53] bug
+       释义: 缺陷
+       音标: /bug/
+       难度: ★
+       例句: A bug is an unintended behavior that deviates from specifications.
+
+[  54] incident response
+       释义: 事件响应
+       音标: /incident-r/
+       难度: ★★★
+       例句: Incident response follows detection, mitigation, and postmortem steps.
+
+[  55] postmortem
+       释义: 事后复盘
+       音标: /postmortem/
+       难度: ★★★
+       例句: A blameless postmortem identifies process improvements, not individual fault.
+
+[  56] root cause analysis
+       释义: 根因分析
+       音标: /root-cause/
+       难度: ★★★
+       例句: RCA digs beneath symptoms to find the fundamental cause.
+
+[  57] five whys
+       释义: 五个为什么
+       音标: /five-whys/
+       难度: ★★★
+       例句: Five whys repeatedly asks why to trace a problem to its root.
+
+[  58] fishbone diagram
+       释义: 鱼骨图
+       音标: /fishbone-d/
+       难度: ★★★★
+       例句: The fishbone diagram categorizes potential causes of a problem.
+
+[  59] RACI matrix
+       释义: RACI矩阵
+       音标: /raci-matri/
+       难度: ★★★
+       例句: RACI defines who is Responsible, Accountable, Consulted, and Informed.
+
+[  60] decision log
+       释义: 决策日志
+       音标: /decision-l/
+       难度: ★★★
+       例句: A decision log documents key decisions and their rationale.
+
+[  61] change management
+       释义: 变更管理
+       音标: /change-man/
+       难度: ★★
+       例句: Change management helps users adopt new processes and tools.
+
+[  62] alpha testing
+       释义: 内部测试
+       音标: /alpha-test/
+       难度: ★★★
+       例句: Alpha testing is done internally before external beta.
+
+[  63] smoke test
+       释义: 冒烟测试
+       音标: /smoke-test/
+       难度: ★★★
+       例句: Smoke test verifies basic functionality before detailed testing.
+
+[  64] regression test
+       释义: 回归测试
+       音标: /regression/
+       难度: ★★★
+       例句: Regression tests ensure new changes don't break existing features.
+
+[  65] sprint
+       释义: 冲刺迭代
+       音标: /sprint/
+       难度: ★
+       例句: Each sprint delivers a potentially shippable increment.
+
+[  66] daily standup
+       释义: 每日站会
+       音标: /daily-stan/
+       难度: ★
+       例句: Daily standups share progress, plans, and blockers.
+
+[  67] sprint retrospective
+       释义: 冲刺回顾
+       音标: /sprint-ret/
+       难度: ★★
+       例句: The retrospective identifies improvements for the next sprint.
+
+[  68] story points
+       释义: 故事点
+       音标: /story-poin/
+       难度: ★★
+       例句: Story points estimate relative effort, not time.
+
+[  69] burnup chart
+       释义: 燃起图
+       音标: /burnup-cha/
+       难度: ★★★
+       例句: The burnup chart shows completed work and scope changes.
+
+[  70] cumulative flow diagram
+       释义: 累积流量图
+       音标: /cumulative/
+       难度: ★★★★
+       例句: CFD visualizes work in progress by stage over time.
+
+[  71] cycle time
+       释义: 周期时间
+       音标: /cycle-time/
+       难度: ★★★
+       例句: Cycle time measures from work start to delivery.
+
+[  72] lead time
+       释义: 交付时间
+       音标: /lead-time/
+       难度: ★★★
+       例句: Lead time measures from request to delivery.
+
+[  73] Scrum
+       释义: Scrum框架
+       音标: /scrum/
+       难度: ★
+       例句: Scrum is the most widely used agile framework.
+
+[  74] task
+       释义: 任务
+       音标: /task/
+       难度: ★
+       例句: Tasks are the smallest unit of work on the board.
+
+[  75] subtask
+       释义: 子任务
+       音标: /subtask/
+       难度: ★
+       例句: Subtasks break a task into specific implementation steps.
+
+[  76] blocker
+       释义: 阻碍项
+       音标: /blocker/
+       难度: ★
+       例句: A blocker prevents progress on a task or story.
+
+[  77] done
+       释义: 完成
+       音标: /done/
+       难度: ★
+       例句: Done means potentially shippable, not just code complete.
+
+[  78] opportunity solution tree
+       释义: 机会解决方案树
+       音标: /opportunity-/
+       难度: ★★★★
+       例句: OST maps opportunities to solutions in a visual framework.
+
+[  79] assumption mapping
+       释义: 假设映射
+       音标: /assumption-m/
+       难度: ★★★
+       例句: Assumption mapping identifies the riskiest assumptions to test.
+
+[  80] hypothesis driven development
+       释义: 假设驱动开发
+       音标: /hypothesis-d/
+       难度: ★★★
+       例句: Hypothesis-driven development tests ideas before building.
+
+[  81] riskiest assumption
+       释义: 最风险假设
+       音标: /riskiest-ass/
+       难度: ★★★
+       例句: Test the riskiest assumption before investing in the solution.
+
+[  82] pretotype
+       释义: 预原型
+       音标: /pretotype/
+       难度: ★★★★
+       例句: A pretotype tests if people would use the product before it exists.
+
+[  83] fake door test
+       释义: 假门测试
+       音标: /fake-door-te/
+       难度: ★★★★
+       例句: A fake door test measures intent by offering a feature that doesn't exist yet.
+
+[  84] painted door test
+       释义: 彩绘门测试
+       音标: /painted-door/
+       难度: ★★★★
+       例句: Painted door test gauges interest before building.
+
+[  85] explainer video test
+       释义: 解说视频测试
+       音标: /explainer-vi/
+       难度: ★★★
+       例句: An explainer video test validates demand before building.
+
+[  86] Wizard of Oz test
+       释义: 绿野仙踪测试
+       音标: /wizard-of-oz/
+       难度: ★★★★
+       例句: Wizard of Oz test simulates automation with manual backend.
+
+[  87] concierge test
+       释义: 管家测试
+       音标: /concierge-te/
+       难度: ★★★★
+       例句: Concierge test manually serves early customers to learn.
+
+[  88] beta test
+       释义: 测试测试
+       音标: /beta-test/
+       难度: ★★
+       例句: Beta test gets real user feedback before public launch.
+
+[  89] beta
+       释义: 外部Beta版本
+       音标: /beta/
+       难度: ★★
+       例句: Beta is a pre-release version for selected external users.
+
+[  90] limited availability
+       释义: 有限发布
+       音标: /limited-avai/
+       难度: ★★★
+       例句: Limited availability restricts access during early rollout.
+
+[  91] open beta
+       释义: 公开测试
+       音标: /open-beta/
+       难度: ★★
+       例句: Open beta is available to anyone who wants to try it.
+
+[  92] launch checklist
+       释义: 发布清单
+       音标: /launch-check/
+       难度: ★★
+       例句: The launch checklist ensures nothing is missed before GA.
+
+[  93] time to adopt
+       释义: 采用时间
+       音标: /time-to-adop/
+       难度: ★★★
+       例句: Time to adopt measures how long before users try a new feature.
+
+[  94] feature retention
+       释义: 功能留存
+       音标: /feature-rete/
+       难度: ★★★
+       例句: Feature retention measures continued usage after adoption.
+
+[  95] daily active users
+       释义: 日活用户
+       音标: /daily-active/
+       难度: ★
+       例句: DAU counts unique users who engage with the product daily.
+
+[  96] monthly active users
+       释义: 月活用户
+       音标: /monthly-acti/
+       难度: ★
+       例句: MAU counts unique users who engage monthly.
+
+[  97] retention rate
+       释义: 留存率
+       音标: /retention-ra/
+       难度: ★
+       例句: Retention rate is the percentage of users who return after a period.
+
+[  98] day 7 retention
+       释义: 7日留存
+       音标: /day-7-retent/
+       难度: ★★
+       例句: Day 7 retention is a strong indicator of long-term engagement.
+
+[  99] cohort analysis
+       释义: 同期群分析
+       音标: /cohort-analy/
+       难度: ★★★
+       例句: Cohort analysis groups users by signup period to track behavior.
+
+[ 100] cohort retention curve
+       释义: 同期群留存曲线
+       音标: /cohort-reten/
+       难度: ★★★
+       例句: The cohort retention curve shows how retention decays over time.
+
+[ 101] churn analysis
+       释义: 流失分析
+       音标: /churn-analys/
+       难度: ★★
+       例句: Churn analysis identifies why users stop using the product.
+
+[ 102] behavioral cohort
+       释义: 行为同期群
+       音标: /behavioral-c/
+       难度: ★★★
+       例句: Behavioral cohorts group users by actions they took.
+
+[ 103] demographic segment
+       释义: 人口统计细分
+       音标: /demographic-/
+       难度: ★★
+       例句: Demographic segments group by age, location, or role.
+
+[ 104] firmographic segment
+       释义: 企业统计细分
+       音标: /firmographic/
+       难度: ★★★
+       例句: Firmographics segment B2B customers by company attributes.
+
+[ 105] technographic segment
+       释义: 技术画像细分
+       音标: /technographi/
+       难度: ★★★★
+       例句: Technographics segment by technology stack used.
+
+[ 106] psychographic segment
+       释义: 心理画像细分
+       音标: /psychographi/
+       难度: ★★★
+       例句: Psychographics segment by attitudes, values, and lifestyle.
+
+[ 107] jobs to be done interview
+       释义: JTBD访谈
+       音标: /jobs-to-be-d/
+       难度: ★★★
+       例句: JTBD interviews uncover the progress a customer seeks.
+
+[ 108] contextual inquiry
+       释义: 情境调查
+       音标: /contextual-i/
+       难度: ★★★
+       例句: Contextual inquiry observes users in their natural environment.
+
+[ 109] diary study
+       释义: 日记研究
+       音标: /diary-study/
+       难度: ★★★
+       例句: Diary studies capture user experiences over time.
+
+[ 110] card sorting
+       释义: 卡片分类
+       音标: /card-sorting/
+       难度: ★★★
+       例句: Card sorting helps design information architecture.
+
+[ 111] tree testing
+       释义: 树测试
+       音标: /tree-testing/
+       难度: ★★★★
+       例句: Tree testing validates information architecture without visual design.
+
+[ 112] first click testing
+       释义: 首次点击测试
+       音标: /first-click-/
+       难度: ★★★
+       例句: First click testing validates navigation decisions.
+
+[ 113] five second test
+       释义: 五秒测试
+       音标: /five-second-/
+       难度: ★★★
+       例句: Five second test captures first impressions of a design.
+
+[ 114] conversion rate
+       释义: 转化率
+       音标: /conversion-r/
+       难度: ★
+       例句: Conversion rate measures the percentage who complete a desired action.
+
+[ 115] path analysis
+       释义: 路径分析
+       音标: /path-analysi/
+       难度: ★★★
+       例句: Path analysis tracks the sequences users take through the product.
+
+[ 116] event tracking
+       释义: 事件追踪
+       音标: /event-tracki/
+       难度: ★★
+       例句: Event tracking captures specific user actions for analysis.
+
+[ 117] event property
+       释义: 事件属性
+       音标: /event-proper/
+       难度: ★★
+       例句: Event properties describe the context of an action.
+
+[ 118] data layer
+       释义: 数据层
+       音标: /data-layer/
+       难度: ★★★
+       例句: The data layer standardizes event data for analytics tools.
+
+[ 119] analytics implementation
+       释义: 分析工具实施
+       音标: /analytics-im/
+       难度: ★★★
+       例句: Analytics implementation ensures accurate and complete data.
+
+[ 120] data governance
+       释义: 数据治理
+       音标: /data-governa/
+       难度: ★★★
+       例句: Data governance defines who can access and modify data.
+
+[ 121] experiment design
+       释义: 实验设计
+       音标: /experiment-d/
+       难度: ★★★
+       例句: Experiment design defines the hypothesis, variants, and success metrics.
+
+[ 122] randomization
+       释义: 随机分配
+       音标: /randomizatio/
+       难度: ★★★
+       例句: Randomization ensures groups are comparable at baseline.
+
+[ 123] sample size
+       释义: 样本量
+       音标: /sample-size/
+       难度: ★★★
+       例句: Sample size must be large enough for statistical significance.
+
+[ 124] minimum detectable effect
+       释义: 最小可检测效应
+       音标: /minimum-dete/
+       难度: ★★★★
+       例句: MDE is the smallest improvement worth detecting.
+
+[ 125] statistical significance
+       释义: 统计显著性
+       音标: /statistical-/
+       难度: ★★★
+       例句: Statistical significance measures confidence that the result is real.
+
+[ 126] p-value
+       释义: P值
+       音标: /p-value/
+       难度: ★★★
+       例句: A p-value below 0.05 is commonly considered significant.
+
+[ 127] confidence interval
+       释义: 置信区间
+       音标: /confidence-i/
+       难度: ★★★
+       例句: Confidence intervals show the range of likely true values.
+
+[ 128] practical significance
+       释义: 实际显著性
+       音标: /practical-si/
+       难度: ★★★
+       例句: Practical significance considers whether the effect matters for the business.
+
+[ 129] novelty effect
+       释义: 新奇效应
+       音标: /novelty-effe/
+       难度: ★★★
+       例句: Novelty effect inflates early metrics when a feature is new.
+
+[ 130] primacy effect
+       释义: 首因效应
+       音标: /primacy-effe/
+       难度: ★★★★
+       例句: Primacy effect gives disproportionate weight to first information.
+
+[ 131] recency effect
+       释义: 近因效应
+       音标: /recency-effe/
+       难度: ★★★★
+       例句: Recency effect gives disproportionate weight to recent information.
+
+[ 132] Hawthorne effect
+       释义: 霍桑效应
+       音标: /hawthorne-ef/
+       难度: ★★★★
+       例句: Hawthorne effect changes behavior when people know they're observed.
+
+[ 133] selection bias
+       释义: 选择偏差
+       音标: /selection-bi/
+       难度: ★★★
+       例句: Selection bias occurs when groups are not truly random.
+
+[ 134] survivorship bias
+       释义: 幸存者偏差
+       音标: /survivorship/
+       难度: ★★★
+       例句: Survivorship bias focuses on winners while ignoring failures.
+
+[ 135] confirmation bias
+       释义: 确认偏差
+       音标: /confirmation/
+       难度: ★★★
+       例句: Confirmation bias seeks evidence that supports existing beliefs.
+
+[ 136] anchoring bias
+       释义: 锚定偏差
+       音标: /anchoring-bi/
+       难度: ★★★
+       例句: Anchoring bias over-relies on the first piece of information.
+
+[ 137] loss aversion
+       释义: 损失厌恶
+       音标: /loss-aversio/
+       难度: ★★★
+       例句: Loss aversion makes losses feel more painful than equivalent gains.
+
+[ 138] framing effect
+       释义: 框架效应
+       音标: /framing-effe/
+       难度: ★★★
+       例句: Framing effect changes decisions based on how options are presented.
+
+[ 139] default effect
+       释义: 默认效应
+       音标: /default-effe/
+       难度: ★★★
+       例句: Default effect makes people stick with the pre-selected option.
+
+[ 140] scarcity principle
+       释义: 稀缺原理
+       音标: /scarcity-pri/
+       难度: ★★★
+       例句: Scarcity principle increases perceived value of limited items.
+
+[ 141] endowment effect
+       释义: 禀赋效应
+       音标: /endowment-ef/
+       难度: ★★★★
+       例句: Endowment effect makes people value what they already own more.
+
+[ 142] status quo bias
+       释义: 现状偏差
+       音标: /status-quo-b/
+       难度: ★★★
+       例句: Status quo bias favors maintaining the current state.
+
+[ 143] Hick's law
+       释义: 希克法则
+       音标: /hick's-law/
+       难度: ★★★★
+       例句: Hick's law states that decision time increases with more choices.
+
+[ 144] paradox of choice
+       释义: 选择悖论
+       音标: /paradox-of-c/
+       难度: ★★★
+       例句: Too many choices can lead to decision paralysis.
+
+[ 145] Miller's law
+       释义: 米勒法则
+       音标: /miller's-law/
+       难度: ★★★★
+       例句: Miller's law states we can hold 7 plus or minus 2 items in working memory.
+
+[ 146] Jakob's law
+       释义: 雅各布法则
+       音标: /jakob's-law/
+       难度: ★★★★
+       例句: Users spend most of their time on other sites, so they expect familiarity.
+
+[ 147] Fitts's law
+       释义: 费茨法则
+       音标: /fitts's-law/
+       难度: ★★★★
+       例句: Fitts's law predicts time to reach a target based on size and distance.
+
+[ 148] Tesler's law
+       释义: 特斯勒定律
+       音标: /tesler's-law/
+       难度: ★★★★
+       例句: Tesler's law states that every application has an inherent complexity.
+
+[ 149] Parkinson's law
+       释义: 帕金森定律
+       音标: /parkinson's-/
+       难度: ★★★
+       例句: Parkinson's law states that work expands to fill the time available.
+
+[ 150] velocity tracking
+       释义: 速率跟踪
+       音标: /velocity-tra/
+       难度: ★★
+       例句: Velocity tracking monitors team throughput over sprints.
+
+[ 151] bus factor
+       释义: 巴士因子
+       音标: /bus-factor/
+       难度: ★★★
+       例句: Bus factor is the number of people whose absence would halt the project.
+
+[ 152] knowledge sharing
+       释义: 知识分享
+       音标: /knowledge-sh/
+       难度: ★★
+       例句: Knowledge sharing prevents silos and reduces bus factor risk.
+
+[ 153] tribal knowledge
+       释义: 口口相传知识
+       音标: /tribal-knowl/
+       难度: ★★★
+       例句: Tribal knowledge exists only in people's heads, not in documents.
+
+[ 154] decision record
+       释义: 决策记录
+       音标: /decision-rec/
+       难度: ★★★
+       例句: Decision records capture context and rationale for future reference.
+
+[ 155] architecture decision record
+       释义: 架构决策记录
+       音标: /architecture/
+       难度: ★★★★
+       例句: ADR documents significant architecture decisions and tradeoffs.
+
+[ 156] request for comments
+       释义: 意见征求
+       音标: /request-for-/
+       难度: ★★★
+       例句: RFC proposes a significant change for team review.
+
+[ 157] one-pager
+       释义: 一页纸文档
+       音标: /one-pager/
+       难度: ★★
+       例句: A one-pager summarizes the proposal on a single page.
+
+[ 158] press release FAQ
+       释义: 新闻稿问答文件
+       音标: /press-releas/
+       难度: ★★★★
+       例句: PR-FAQ is an Amazon practice to start with the customer announcement.
+
+[ 159] working backwards
+       释义: 逆向工作法
+       音标: /working-back/
+       难度: ★★★★
+       例句: Working backwards starts from the customer and works backward to the solution.
+
+[ 160] six-pager
+       释义: 六页纸
+       音标: /six-pager/
+       难度: ★★★★
+       例句: Six-pager replaces PowerPoint presentations with narrative documents.
+
+[ 161] one metric that matters
+       释义: 唯一关键指标
+       音标: /one-metric-tha/
+       难度: ★★★
+       例句: OMTM focuses the team on a single priority metric.
+
+[ 162] vanity metric
+       释义: 虚荣指标
+       音标: /vanity-metric/
+       难度: ★★★
+       例句: Vanity metrics look good but don't drive decisions.
+
+[ 163] pirate metrics
+       释义: 海盗指标
+       音标: /pirate-metrics/
+       难度: ★★★
+       例句: AARRR pirate metrics cover Acquisition, Activation, Retention, Revenue, Referral.
+
+[ 164] revenue
+       释义: 收入
+       音标: /revenue/
+       难度: ★
+       例句: Revenue metric tracks the money generated by the product.
+
+[ 165] stickiness ratio
+       释义: 粘性比率
+       音标: /stickiness-rat/
+       难度: ★★★
+       例句: Stickiness ratio is DAU divided by MAU.
+
+[ 166] feature adoption rate
+       释义: 功能采用率
+       音标: /feature-adopti/
+       难度: ★★
+       例句: Feature adoption rate measures the percentage of users using a feature.
+
+[ 167] friction log
+       释义: 摩擦日志
+       音标: /friction-log/
+       难度: ★★★
+       例句: Friction log documents every point of confusion in the user journey.
+
+[ 168] user story
+       释义: 用户故事
+       音标: /user-story/
+       难度: ★
+       例句: User story describes a feature from the end-user's perspective.
+
+[ 169] planning poker
+       释义: 计划扑克
+       音标: /planning-poker/
+       难度: ★★★
+       例句: Planning poker uses consensus-based estimation with cards.
+
+[ 170] product backlog
+       释义: 产品待办事项
+       音标: /product-backlo/
+       难度: ★
+       例句: Product backlog is the prioritized list of all desired work.
+
+[ 171] icebox
+       释义: 冷冻区
+       音标: /icebox/
+       难度: ★★★
+       例句: Icebox stores low-priority ideas that are not yet ready for the backlog.
+
+[ 172] work in progress limit
+       释义: 在制品限制
+       音标: /work-in-progre/
+       难度: ★★★
+       例句: WIP limit constrains the number of concurrent tasks.
+
+[ 173] throughput
+       释义: 吞吐量
+       音标: /throughput/
+       难度: ★★★
+       例句: Throughput is the number of items completed per unit time.
+
+[ 174] theory of constraints
+       释义: 约束理论
+       音标: /theory-of-cons/
+       难度: ★★★
+       例句: TOC identifies and manages the primary constraint in a system.
+
+[ 175] dual-track agile
+       释义: 双轨敏捷
+       音标: /dual-track-agi/
+       难度: ★★★
+       例句: Dual-track agile separates discovery and delivery into parallel tracks.
+
+[ 176] continuous discovery
+       释义: 持续探索
+       音标: /continuous-dis/
+       难度: ★★★
+       例句: Continuous discovery integrates discovery work into the delivery flow.
+
+[ 177] hypothesis-driven development
+       释义: 假设驱动开发
+       音标: /hypothesis-dri/
+       难度: ★★★
+       例句: Hypothesis-driven development tests assumptions before building.
+
+[ 178] brainstorming
+       释义: 头脑风暴
+       音标: /brainstorming/
+       难度: ★
+       例句: Brainstorming encourages free-flowing idea generation.
+
+[ 179] affinity mapping
+       释义: 亲和图
+       音标: /affinity-mappi/
+       难度: ★★★
+       例句: Affinity mapping groups related ideas into themes.
+
+[ 180] impact effort matrix
+       释义: 影响力-努力矩阵
+       音标: /impact-effort-/
+       难度: ★★★
+       例句: Impact-effort matrix prioritizes ideas by value versus cost.
+
+[ 181] RICE framework
+       释义: RICE框架
+       音标: /rice-framework/
+       难度: ★★★
+       例句: RICE scores initiatives by Reach, Impact, Confidence, and Effort.
+
+[ 182] MOSCOW method
+       释义: MoSCoW方法
+       音标: /moscow-method/
+       难度: ★★★
+       例句: MoSCoW prioritizes as Must, Should, Could, or Won't have.
+
+[ 183] Kano model
+       释义: 卡诺模型
+       音标: /kano-model/
+       难度: ★★★
+       例句: Kano model classifies features by customer satisfaction impact.
+
+[ 184] performance feature
+       释义: 性能型需求
+       音标: /performance-fe/
+       难度: ★★★
+       例句: Performance feature satisfaction increases linearly with investment.
+
+[ 185] basic feature
+       释义: 基本型需求
+       音标: /basic-feature/
+       难度: ★★★
+       例句: Basic features cause dissatisfaction when absent but no delight when present.
+
+[ 186] indifferent feature
+       释义: 无差异型需求
+       音标: /indifferent-fe/
+       难度: ★★★★
+       例句: Indifferent features do not significantly affect satisfaction.
+
+[ 187] reverse feature
+       释义: 逆向型需求
+       音标: /reverse-featur/
+       难度: ★★★★
+       例句: Reverse features cause dissatisfaction when present.
+
+[ 188] functional job
+       释义: 功能性工作
+       音标: /functional-job/
+       难度: ★★★
+       例句: Functional job is the practical task the customer needs to complete.
+
+[ 189] emotional job
+       释义: 情感性工作
+       音标: /emotional-job/
+       难度: ★★★
+       例句: Emotional job is how the customer wants to feel while doing the task.
+
+[ 190] social job
+       释义: 社会性工作
+       音标: /social-job/
+       难度: ★★★
+       例句: Social job is how the customer wants to be perceived by others.
+
+[ 191] job map
+       释义: 工作地图
+       音标: /job-map/
+       难度: ★★★★
+       例句: Job map breaks down the JTBD into sequential steps.
+
+[ 192] outcome-driven innovation
+       释义: 成果驱动创新
+       音标: /outcome-driven/
+       难度: ★★★★
+       例句: ODI is a strategy framework based on the jobs customers need done.
+
+[ 193] desired outcome
+       释义: 期望成果
+       音标: /desired-outcom/
+       难度: ★★★
+       例句: Desired outcome is a metric customers use to measure success in a job.
+
+[ 194] opportunity score
+       释义: 机会分数
+       音标: /opportunity-sc/
+       难度: ★★★★
+       例句: Opportunity score is importance plus the gap between importance and satisfaction.
+
+[ 195] behavioral persona
+       释义: 行为画像
+       音标: /behavioral-per/
+       难度: ★★★
+       例句: Behavioral persona is based on observed user behaviors, not demographics.
+
+[ 196] proto-persona
+       释义: 假设画像
+       音标: /proto-persona/
+       难度: ★★★
+       例句: Proto-persona is a preliminary persona based on assumptions to be validated.
+
+[ 197] jobs to be done persona
+       释义: JTBD画像
+       音标: /jobs-to-be-don/
+       难度: ★★★★
+       例句: JTBD persona focuses on the jobs and outcomes the persona seeks.
+
+[ 198] retention cohort
+       释义: 留存同期群
+       音标: /retention-coho/
+       难度: ★★★
+       例句: Retention cohort tracks how long users stay after signing up.
+
+[ 199] session replay
+       释义: 会话回放
+       音标: /session-replay/
+       难度: ★★★
+       例句: Session replay records user interactions for qualitative analysis.
+
+[ 200] click map
+       释义: 点击地图
+       音标: /click-map/
+       难度: ★★★
+       例句: Click map shows the distribution of clicks across a page.
+
+[ 201] scroll map
+       释义: 滚动地图
+       音标: /scroll-map/
+       难度: ★★★
+       例句: Scroll map shows how far users scroll down a page.
+
+[ 202] attention map
+       释义: 注意力地图
+       音标: /attention-map/
+       难度: ★★★★
+       例句: Attention map predicts where users are likely to look first.
+
+[ 203] Type I error
+       释义: 第一类错误
+       音标: /type-i-error/
+       难度: ★★★
+       例句: Type I error is a false positive, rejecting a true null hypothesis.
+
+[ 204] Type II error
+       释义: 第二类错误
+       音标: /type-ii-error/
+       难度: ★★★
+       例句: Type II error is a false negative, failing to reject a false null hypothesis.
+
+[ 205] statistical power
+       释义: 统计功效
+       音标: /statistical-po/
+       难度: ★★★
+       例句: Statistical power is the probability of detecting a real effect.
+
+[ 206] release train
+       释义: 发布列车
+       音标: /release-train/
+       难度: ★★★
+       例句: Release train schedules regular releases at a fixed cadence.
+
+[ 207] sunsetting
+       释义: 产品退役
+       音标: /sunsetting/
+       难度: ★★★
+       例句: Sunsetting is the process of retiring a product or feature.
+
+[ 208] migration path
+       释义: 迁移路径
+       音标: /migration-path/
+       难度: ★★★
+       例句: Migration path helps users transition from a deprecated feature.
+
+[ 209] architecture modernization
+       释义: 架构现代化
+       音标: /architecture-m/
+       难度: ★★★
+       例句: Architecture modernization updates the system to current best practices.
+
+[ 210] platform consolidation
+       释义: 平台整合
+       音标: /platform-conso/
+       难度: ★★★
+       例句: Platform consolidation merges multiple platforms into a unified system.
+
+[ 211] API versioning
+       释义: API版本管理
+       音标: /api-versioning/
+       难度: ★★
+       例句: API versioning allows backward compatibility while introducing changes.
+
+[ 212] strangler fig pattern
+       释义: 绞杀者模式
+       音标: /strangler-fig-/
+       难度: ★★★★
+       例句: Strangler fig gradually replaces legacy components with new services.
+
+[ 213] event-driven architecture
+       释义: 事件驱动架构
+       音标: /event-driven-a/
+       难度: ★★★
+       例句: EDA uses events to trigger and communicate between services.
+
+[ 214] CQRS
+       释义: 命令查询职责分离
+       音标: /cqrs/
+       难度: ★★★★
+       例句: CQRS separates read and write operations into different models.
+
+[ 215] event sourcing
+       释义: 事件溯源
+       音标: /event-sourcing/
+       难度: ★★★★
+       例句: Event sourcing stores all changes as a sequence of events.
+
+[ 216] requirement prioritization
+       释义: requirementprioritization
+       音标: /requirement-pr/
+       难度: ★★
+       例句: requirement prioritization is a core product management activity.
+
+[ 217] requirement approval
+       释义: requirementapproval
+       音标: /requirement-ap/
+       难度: ★★
+       例句: requirement approval is a core product management activity.
+
+[ 218] requirement design
+       释义: requirementdesign
+       音标: /requirement-de/
+       难度: ★★
+       例句: requirement design is a core product management activity.
+
+[ 219] requirement enhancement
+       释义: requirementenhancement
+       音标: /requirement-en/
+       难度: ★★
+       例句: requirement enhancement is a core product management activity.
+
+[ 220] requirement measurement
+       释义: requirementmeasurement
+       音标: /requirement-me/
+       难度: ★★
+       例句: requirement measurement is a core product management activity.
+
+[ 221] requirement execution
+       释义: requirementexecution
+       音标: /requirement-ex/
+       难度: ★★
+       例句: requirement execution is a core product management activity.
+
+[ 222] requirement showcase
+       释义: requirementshowcase
+       音标: /requirement-sh/
+       难度: ★★
+       例句: requirement showcase is a core product management activity.
+
+[ 223] specification definition
+       释义: specificationdefinition
+       音标: /specification-/
+       难度: ★★
+       例句: specification definition is a core product management activity.
+
+[ 224] specification validation
+       释义: specificationvalidation
+       音标: /specification-/
+       难度: ★★
+       例句: specification validation is a core product management activity.
+
+[ 225] specification verification
+       释义: specificationverification
+       音标: /specification-/
+       难度: ★★
+       例句: specification verification is a core product management activity.
+
+[ 226] specification enhancement
+       释义: specificationenhancement
+       音标: /specification-/
+       难度: ★★
+       例句: specification enhancement is a core product management activity.
+
+[ 227] specification monitoring
+       释义: specificationmonitoring
+       音标: /specification-/
+       难度: ★★
+       例句: specification monitoring is a core product management activity.
+
+[ 228] specification reporting
+       释义: specificationreporting
+       音标: /specification-/
+       难度: ★★
+       例句: specification reporting is a core product management activity.
+
+[ 229] specification scheduling
+       释义: specificationscheduling
+       音标: /specification-/
+       难度: ★★
+       例句: specification scheduling is a core product management activity.
+
+[ 230] specification documentation
+       释义: specificationdocumentation
+       音标: /specification-/
+       难度: ★★
+       例句: specification documentation is a core product management activity.
+
+[ 231] feature debugging
+       释义: featuredebugging
+       音标: /feature-debugg/
+       难度: ★★
+       例句: feature debugging is a core product management activity.
+
+[ 232] feature enhancement
+       释义: featureenhancement
+       音标: /feature-enhanc/
+       难度: ★★
+       例句: feature enhancement is a core product management activity.
+
+[ 233] feature coordination
+       释义: featurecoordination
+       音标: /feature-coordi/
+       难度: ★★
+       例句: feature coordination is a core product management activity.
+
+[ 234] feature facilitation
+       释义: featurefacilitation
+       音标: /feature-facili/
+       难度: ★★
+       例句: feature facilitation is a core product management activity.
+
+[ 235] functionality validation
+       释义: functionalityvalidation
+       音标: /functionality-/
+       难度: ★★
+       例句: functionality validation is a core product management activity.
+
+[ 236] functionality development
+       释义: functionalitydevelopment
+       音标: /functionality-/
+       难度: ★★
+       例句: functionality development is a core product management activity.
+
+[ 237] functionality deployment
+       释义: functionalitydeployment
+       音标: /functionality-/
+       难度: ★★
+       例句: functionality deployment is a core product management activity.
+
+[ 238] functionality execution
+       释义: functionalityexecution
+       音标: /functionality-/
+       难度: ★★
+       例句: functionality execution is a core product management activity.
+
+[ 239] functionality documentation
+       释义: functionalitydocumentation
+       音标: /functionality-/
+       难度: ★★
+       例句: functionality documentation is a core product management activity.
+
+[ 240] functionality description
+       释义: functionalitydescription
+       音标: /functionality-/
+       难度: ★★
+       例句: functionality description is a core product management activity.
+
+[ 241] capability gathering
+       释义: capabilitygathering
+       音标: /capability-gat/
+       难度: ★★
+       例句: capability gathering is a core product management activity.
+
+[ 242] capability verification
+       释义: capabilityverification
+       音标: /capability-ver/
+       难度: ★★
+       例句: capability verification is a core product management activity.
+
+[ 243] capability scheduling
+       释义: capabilityscheduling
+       音标: /capability-sch/
+       难度: ★★
+       例句: capability scheduling is a core product management activity.
+
+[ 244] capability facilitation
+       释义: capabilityfacilitation
+       音标: /capability-fac/
+       难度: ★★
+       例句: capability facilitation is a core product management activity.
+
+[ 245] capability elaboration
+       释义: capabilityelaboration
+       音标: /capability-ela/
+       难度: ★★
+       例句: capability elaboration is a core product management activity.
+
+[ 246] user development
+       释义: userdevelopment
+       音标: /user-developme/
+       难度: ★★
+       例句: user development is a core product management activity.
+
+[ 247] user deployment
+       释义: userdeployment
+       音标: /user-deploymen/
+       难度: ★★
+       例句: user deployment is a core product management activity.
+
+[ 248] user debugging
+       释义: userdebugging
+       音标: /user-debugging/
+       难度: ★★
+       例句: user debugging is a core product management activity.
+
+[ 249] user enhancement
+       释义: userenhancement
+       音标: /user-enhanceme/
+       难度: ★★
+       例句: user enhancement is a core product management activity.
+
+[ 250] user documentation
+       释义: userdocumentation
+       音标: /user-documenta/
+       难度: ★★
+       例句: user documentation is a core product management activity.
+
+[ 251] customer implementation
+       释义: customerimplementation
+       音标: /customer-imple/
+       难度: ★★
+       例句: customer implementation is a core product management activity.
+
+[ 252] customer description
+       释义: customerdescription
+       音标: /customer-descr/
+       难度: ★★
+       例句: customer description is a core product management activity.
+
+[ 253] customer elaboration
+       释义: customerelaboration
+       音标: /customer-elabo/
+       难度: ★★
+       例句: customer elaboration is a core product management activity.
+
+[ 254] customer showcase
+       释义: customershowcase
+       音标: /customer-showc/
+       难度: ★★
+       例句: customer showcase is a core product management activity.
+
+[ 255] stakeholder debugging
+       释义: stakeholderdebugging
+       音标: /stakeholder-de/
+       难度: ★★
+       例句: stakeholder debugging is a core product management activity.
+
+[ 256] stakeholder enhancement
+       释义: stakeholderenhancement
+       音标: /stakeholder-en/
+       难度: ★★
+       例句: stakeholder enhancement is a core product management activity.
+
+[ 257] stakeholder facilitation
+       释义: stakeholderfacilitation
+       音标: /stakeholder-fa/
+       难度: ★★
+       例句: stakeholder facilitation is a core product management activity.
+
+[ 258] stakeholder exhibition
+       释义: stakeholderexhibition
+       音标: /stakeholder-ex/
+       难度: ★★
+       例句: stakeholder exhibition is a core product management activity.
+
+[ 259] developer prioritization
+       释义: developerprioritization
+       音标: /developer-prio/
+       难度: ★★
+       例句: developer prioritization is a core product management activity.
+
+[ 260] developer management
+       释义: developermanagement
+       音标: /developer-mana/
+       难度: ★★
+       例句: developer management is a core product management activity.
+
+[ 261] developer verification
+       释义: developerverification
+       音标: /developer-veri/
+       难度: ★★
+       例句: developer verification is a core product management activity.
+
+[ 262] developer development
+       释义: developerdevelopment
+       音标: /developer-deve/
+       难度: ★★
+       例句: developer development is a core product management activity.
+
+[ 263] developer clarification
+       释义: developerclarification
+       音标: /developer-clar/
+       难度: ★★
+       例句: developer clarification is a core product management activity.
+
+[ 264] developer communication
+       释义: developercommunication
+       音标: /developer-comm/
+       难度: ★★
+       例句: developer communication is a core product management activity.
+
+[ 265] designer verification
+       释义: designerverification
+       音标: /designer-verif/
+       难度: ★★
+       例句: designer verification is a core product management activity.
+
+[ 266] designer sign-off
+       释义: designersign-off
+       音标: /designer-sign-/
+       难度: ★★
+       例句: designer sign-off is a core product management activity.
+
+[ 267] designer integration
+       释义: designerintegration
+       音标: /designer-integ/
+       难度: ★★
+       例句: designer integration is a core product management activity.
+
+[ 268] designer debugging
+       释义: designerdebugging
+       音标: /designer-debug/
+       难度: ★★
+       例句: designer debugging is a core product management activity.
+
+[ 269] designer execution
+       释义: designerexecution
+       音标: /designer-execu/
+       难度: ★★
+       例句: designer execution is a core product management activity.
+
+[ 270] designer description
+       释义: designerdescription
+       音标: /designer-descr/
+       难度: ★★
+       例句: designer description is a core product management activity.
+
+[ 271] product measurement
+       释义: productmeasurement
+       音标: /product-measur/
+       难度: ★★
+       例句: product measurement is a core product management activity.
+
+[ 272] product specification
+       释义: productspecification
+       音标: /product-specif/
+       难度: ★★
+       例句: product specification is a core product management activity.
+
+[ 273] product exhibition
+       释义: productexhibition
+       音标: /product-exhibi/
+       难度: ★★
+       例句: product exhibition is a core product management activity.
+
+[ 274] platform definition
+       释义: platformdefinition
+       音标: /platform-defin/
+       难度: ★★
+       例句: platform definition is a core product management activity.
+
+[ 275] platform management
+       释义: platformmanagement
+       音标: /platform-manag/
+       难度: ★★
+       例句: platform management is a core product management activity.
+
+[ 276] platform development
+       释义: platformdevelopment
+       音标: /platform-devel/
+       难度: ★★
+       例句: platform development is a core product management activity.
+
+[ 277] platform testing
+       释义: platformtesting
+       音标: /platform-testi/
+       难度: ★★
+       例句: platform testing is a core product management activity.
+
+[ 278] platform refinement
+       释义: platformrefinement
+       音标: /platform-refin/
+       难度: ★★
+       例句: platform refinement is a core product management activity.
+
+[ 279] platform elaboration
+       释义: platformelaboration
+       音标: /platform-elabo/
+       难度: ★★
+       例句: platform elaboration is a core product management activity.
+
+[ 280] platform demonstration
+       释义: platformdemonstration
+       音标: /platform-demon/
+       难度: ★★
+       例句: platform demonstration is a core product management activity.
+
+[ 281] system definition
+       释义: systemdefinition
+       音标: /system-definit/
+       难度: ★★
+       例句: system definition is a core product management activity.
+
+[ 282] system approval
+       释义: systemapproval
+       音标: /system-approva/
+       难度: ★★
+       例句: system approval is a core product management activity.
+
+[ 283] system presentation
+       释义: systempresentation
+       音标: /system-present/
+       难度: ★★
+       例句: system presentation is a core product management activity.
+
+[ 284] system showcase
+       释义: systemshowcase
+       音标: /system-showcas/
+       难度: ★★
+       例句: system showcase is a core product management activity.
+
+[ 285] application validation
+       释义: applicationvalidation
+       音标: /application-va/
+       难度: ★★
+       例句: application validation is a core product management activity.
+
+[ 286] application review
+       释义: applicationreview
+       音标: /application-re/
+       难度: ★★
+       例句: application review is a core product management activity.
+
+[ 287] application design
+       释义: applicationdesign
+       音标: /application-de/
+       难度: ★★
+       例句: application design is a core product management activity.
+
+[ 288] application reporting
+       释义: applicationreporting
+       音标: /application-re/
+       难度: ★★
+       例句: application reporting is a core product management activity.
+
+[ 289] application scheduling
+       释义: applicationscheduling
+       音标: /application-sc/
+       难度: ★★
+       例句: application scheduling is a core product management activity.
+
+[ 290] application documentation
+       释义: applicationdocumentation
+       音标: /application-do/
+       难度: ★★
+       例句: application documentation is a core product management activity.
+
+[ 291] application elaboration
+       释义: applicationelaboration
+       音标: /application-el/
+       难度: ★★
+       例句: application elaboration is a core product management activity.
+
+[ 292] tool analysis
+       释义: toolanalysis
+       音标: /tool-analysis/
+       难度: ★★
+       例句: tool analysis is a core product management activity.
+
+[ 293] tool management
+       释义: toolmanagement
+       音标: /tool-managemen/
+       难度: ★★
+       例句: tool management is a core product management activity.
+
+[ 294] tool design
+       释义: tooldesign
+       音标: /tool-design/
+       难度: ★★
+       例句: tool design is a core product management activity.
+
+[ 295] tool testing
+       释义: tooltesting
+       音标: /tool-testing/
+       难度: ★★
+       例句: tool testing is a core product management activity.
+
+[ 296] tool refinement
+       释义: toolrefinement
+       音标: /tool-refinemen/
+       难度: ★★
+       例句: tool refinement is a core product management activity.
+
+[ 297] tool reporting
+       释义: toolreporting
+       音标: /tool-reporting/
+       难度: ★★
+       例句: tool reporting is a core product management activity.
+
+[ 298] tool planning
+       释义: toolplanning
+       音标: /tool-planning/
+       难度: ★★
+       例句: tool planning is a core product management activity.
+
+[ 299] tool facilitation
+       释义: toolfacilitation
+       音标: /tool-facilitat/
+       难度: ★★
+       例句: tool facilitation is a core product management activity.
+
+[ 300] tool specification
+       释义: toolspecification
+       音标: /tool-specifica/
+       难度: ★★
+       例句: tool specification is a core product management activity.
+
+[ 301] tool exhibition
+       释义: toolexhibition
+       音标: /tool-exhibitio/
+       难度: ★★
+       例句: tool exhibition is a core product management activity.
+
+[ 302] interface planning
+       释义: interfaceplanning
+       音标: /interface-plan/
+       难度: ★★
+       例句: interface planning is a core product management activity.
+
+[ 303] interface execution
+       释义: interfaceexecution
+       音标: /interface-exec/
+       难度: ★★
+       例句: interface execution is a core product management activity.
+
+[ 304] interface clarification
+       释义: interfaceclarification
+       音标: /interface-clar/
+       难度: ★★
+       例句: interface clarification is a core product management activity.
+
+[ 305] interface demonstration
+       释义: interfacedemonstration
+       音标: /interface-demo/
+       难度: ★★
+       例句: interface demonstration is a core product management activity.
+
+[ 306] experience management
+       释义: experiencemanagement
+       音标: /experience-man/
+       难度: ★★
+       例句: experience management is a core product management activity.
+
+[ 307] experience review
+       释义: experiencereview
+       音标: /experience-rev/
+       难度: ★★
+       例句: experience review is a core product management activity.
+
+[ 308] experience approval
+       释义: experienceapproval
+       音标: /experience-app/
+       难度: ★★
+       例句: experience approval is a core product management activity.
+
+[ 309] experience optimization
+       释义: experienceoptimization
+       音标: /experience-opt/
+       难度: ★★
+       例句: experience optimization is a core product management activity.
+
+[ 310] experience reporting
+       释义: experiencereporting
+       音标: /experience-rep/
+       难度: ★★
+       例句: experience reporting is a core product management activity.
+
+[ 311] experience planning
+       释义: experienceplanning
+       音标: /experience-pla/
+       难度: ★★
+       例句: experience planning is a core product management activity.
+
+[ 312] experience coordination
+       释义: experiencecoordination
+       音标: /experience-coo/
+       难度: ★★
+       例句: experience coordination is a core product management activity.
+
+[ 313] experience facilitation
+       释义: experiencefacilitation
+       音标: /experience-fac/
+       难度: ★★
+       例句: experience facilitation is a core product management activity.
+
+[ 314] experience elaboration
+       释义: experienceelaboration
+       音标: /experience-ela/
+       难度: ★★
+       例句: experience elaboration is a core product management activity.
+
+[ 315] interaction gathering
+       释义: interactiongathering
+       音标: /interaction-ga/
+       难度: ★★
+       例句: interaction gathering is a core product management activity.
+
+[ 316] interaction prioritization
+       释义: interactionprioritization
+       音标: /interaction-pr/
+       难度: ★★
+       例句: interaction prioritization is a core product management activity.
+
+[ 317] interaction verification
+       释义: interactionverification
+       音标: /interaction-ve/
+       难度: ★★
+       例句: interaction verification is a core product management activity.
+
+[ 318] interaction review
+       释义: interactionreview
+       音标: /interaction-re/
+       难度: ★★
+       例句: interaction review is a core product management activity.
+
+[ 319] interaction sign-off
+       释义: interactionsign-off
+       音标: /interaction-si/
+       难度: ★★
+       例句: interaction sign-off is a core product management activity.
+
+[ 320] interaction implementation
+       释义: interactionimplementation
+       音标: /interaction-im/
+       难度: ★★
+       例句: interaction implementation is a core product management activity.
+
+[ 321] interaction integration
+       释义: interactionintegration
+       音标: /interaction-in/
+       难度: ★★
+       例句: interaction integration is a core product management activity.
+
+[ 322] interaction deployment
+       释义: interactiondeployment
+       音标: /interaction-de/
+       难度: ★★
+       例句: interaction deployment is a core product management activity.
+
+[ 323] interaction specification
+       释义: interactionspecification
+       音标: /interaction-sp/
+       难度: ★★
+       例句: interaction specification is a core product management activity.
+
+[ 324] interaction exhibition
+       释义: interactionexhibition
+       音标: /interaction-ex/
+       难度: ★★
+       例句: interaction exhibition is a core product management activity.
+
+[ 325] workflow verification
+       释义: workflowverification
+       音标: /workflow-verif/
+       难度: ★★
+       例句: workflow verification is a core product management activity.
+
+[ 326] workflow design
+       释义: workflowdesign
+       音标: /workflow-desig/
+       难度: ★★
+       例句: workflow design is a core product management activity.
+
+[ 327] workflow implementation
+       释义: workflowimplementation
+       音标: /workflow-imple/
+       难度: ★★
+       例句: workflow implementation is a core product management activity.
+
+[ 328] workflow debugging
+       释义: workflowdebugging
+       音标: /workflow-debug/
+       难度: ★★
+       例句: workflow debugging is a core product management activity.
+
+[ 329] workflow refinement
+       释义: workflowrefinement
+       音标: /workflow-refin/
+       难度: ★★
+       例句: workflow refinement is a core product management activity.
+
+[ 330] workflow documentation
+       释义: workflowdocumentation
+       音标: /workflow-docum/
+       难度: ★★
+       例句: workflow documentation is a core product management activity.
+
+[ 331] workflow specification
+       释义: workflowspecification
+       音标: /workflow-speci/
+       难度: ★★
+       例句: workflow specification is a core product management activity.
+
+[ 332] workflow elaboration
+       释义: workflowelaboration
+       音标: /workflow-elabo/
+       难度: ★★
+       例句: workflow elaboration is a core product management activity.
+
+[ 333] workflow showcase
+       释义: workflowshowcase
+       音标: /workflow-showc/
+       难度: ★★
+       例句: workflow showcase is a core product management activity.
+
+[ 334] journey management
+       释义: journeymanagement
+       音标: /journey-manage/
+       难度: ★★
+       例句: journey management is a core product management activity.
+
+[ 335] journey approval
+       释义: journeyapproval
+       音标: /journey-approv/
+       难度: ★★
+       例句: journey approval is a core product management activity.
+
+[ 336] journey design
+       释义: journeydesign
+       音标: /journey-design/
+       难度: ★★
+       例句: journey design is a core product management activity.
+
+[ 337] journey deployment
+       释义: journeydeployment
+       音标: /journey-deploy/
+       难度: ★★
+       例句: journey deployment is a core product management activity.
+
+[ 338] journey testing
+       释义: journeytesting
+       音标: /journey-testin/
+       难度: ★★
+       例句: journey testing is a core product management activity.
+
+[ 339] journey enhancement
+       释义: journeyenhancement
+       音标: /journey-enhanc/
+       难度: ★★
+       例句: journey enhancement is a core product management activity.
+
+[ 340] journey planning
+       释义: journeyplanning
+       音标: /journey-planni/
+       难度: ★★
+       例句: journey planning is a core product management activity.
+
+[ 341] journey coordination
+       释义: journeycoordination
+       音标: /journey-coordi/
+       难度: ★★
+       例句: journey coordination is a core product management activity.
+
+[ 342] research analysis
+       释义: researchanalysis
+       音标: /research-analy/
+       难度: ★★
+       例句: research analysis is a core product management activity.
+
+[ 343] research integration
+       释义: researchintegration
+       音标: /research-integ/
+       难度: ★★
+       例句: research integration is a core product management activity.
+
+[ 344] research enhancement
+       释义: researchenhancement
+       音标: /research-enhan/
+       难度: ★★
+       例句: research enhancement is a core product management activity.
+
+[ 345] research tracking
+       释义: researchtracking
+       音标: /research-track/
+       难度: ★★
+       例句: research tracking is a core product management activity.
+
+[ 346] research measurement
+       释义: researchmeasurement
+       音标: /research-measu/
+       难度: ★★
+       例句: research measurement is a core product management activity.
+
+[ 347] research coordination
+       释义: researchcoordination
+       音标: /research-coord/
+       难度: ★★
+       例句: research coordination is a core product management activity.
+
+[ 348] research facilitation
+       释义: researchfacilitation
+       音标: /research-facil/
+       难度: ★★
+       例句: research facilitation is a core product management activity.
+
+[ 349] research communication
+       释义: researchcommunication
+       音标: /research-commu/
+       难度: ★★
+       例句: research communication is a core product management activity.
+
+[ 350] research presentation
+       释义: researchpresentation
+       音标: /research-prese/
+       难度: ★★
+       例句: research presentation is a core product management activity.
+
+[ 351] discovery definition
+       释义: discoverydefinition
+       音标: /discovery-defi/
+       难度: ★★
+       例句: discovery definition is a core product management activity.
+
+[ 352] discovery analysis
+       释义: discoveryanalysis
+       音标: /discovery-anal/
+       难度: ★★
+       例句: discovery analysis is a core product management activity.
+
+[ 353] discovery management
+       释义: discoverymanagement
+       音标: /discovery-mana/
+       难度: ★★
+       例句: discovery management is a core product management activity.
+
+[ 354] discovery approval
+       释义: discoveryapproval
+       音标: /discovery-appr/
+       难度: ★★
+       例句: discovery approval is a core product management activity.
+
+[ 355] discovery debugging
+       释义: discoverydebugging
+       音标: /discovery-debu/
+       难度: ★★
+       例句: discovery debugging is a core product management activity.
+
+[ 356] discovery enhancement
+       释义: discoveryenhancement
+       音标: /discovery-enha/
+       难度: ★★
+       例句: discovery enhancement is a core product management activity.
+
+[ 357] discovery tracking
+       释义: discoverytracking
+       音标: /discovery-trac/
+       难度: ★★
+       例句: discovery tracking is a core product management activity.
+
+[ 358] discovery specification
+       释义: discoveryspecification
+       音标: /discovery-spec/
+       难度: ★★
+       例句: discovery specification is a core product management activity.
+
+[ 359] discovery description
+       释义: discoverydescription
+       音标: /discovery-desc/
+       难度: ★★
+       例句: discovery description is a core product management activity.
+
+[ 360] discovery clarification
+       释义: discoveryclarification
+       音标: /discovery-clar/
+       难度: ★★
+       例句: discovery clarification is a core product management activity.
+
+[ 361] discovery showcase
+       释义: discoveryshowcase
+       音标: /discovery-show/
+       难度: ★★
+       例句: discovery showcase is a core product management activity.
+
+[ 362] validation management
+       释义: validationmanagement
+       音标: /validation-man/
+       难度: ★★
+       例句: validation management is a core product management activity.
+
+[ 363] validation design
+       释义: validationdesign
+       音标: /validation-des/
+       难度: ★★
+       例句: validation design is a core product management activity.
+
+[ 364] validation deployment
+       释义: validationdeployment
+       音标: /validation-dep/
+       难度: ★★
+       例句: validation deployment is a core product management activity.
+
+[ 365] validation optimization
+       释义: validationoptimization
+       音标: /validation-opt/
+       难度: ★★
+       例句: validation optimization is a core product management activity.
+
+[ 366] validation tracking
+       释义: validationtracking
+       音标: /validation-tra/
+       难度: ★★
+       例句: validation tracking is a core product management activity.
+
+[ 367] validation monitoring
+       释义: validationmonitoring
+       音标: /validation-mon/
+       难度: ★★
+       例句: validation monitoring is a core product management activity.
+
+[ 368] validation exhibition
+       释义: validationexhibition
+       音标: /validation-exh/
+       难度: ★★
+       例句: validation exhibition is a core product management activity.
+
+[ 369] testing sign-off
+       释义: testingsign-off
+       音标: /testing-sign-o/
+       难度: ★★
+       例句: testing sign-off is a core product management activity.
+
+[ 370] testing development
+       释义: testingdevelopment
+       音标: /testing-develo/
+       难度: ★★
+       例句: testing development is a core product management activity.
+
+[ 371] testing implementation
+       释义: testingimplementation
+       音标: /testing-implem/
+       难度: ★★
+       例句: testing implementation is a core product management activity.
+
+[ 372] testing integration
+       释义: testingintegration
+       音标: /testing-integr/
+       难度: ★★
+       例句: testing integration is a core product management activity.
+
+[ 373] testing measurement
+       释义: testingmeasurement
+       音标: /testing-measur/
+       难度: ★★
+       例句: testing measurement is a core product management activity.
+
+[ 374] testing reporting
+       释义: testingreporting
+       音标: /testing-report/
+       难度: ★★
+       例句: testing reporting is a core product management activity.
+
+[ 375] testing execution
+       释义: testingexecution
+       音标: /testing-execut/
+       难度: ★★
+       例句: testing execution is a core product management activity.
+
+[ 376] evaluation gathering
+       释义: evaluationgathering
+       音标: /evaluation-gat/
+       难度: ★★
+       例句: evaluation gathering is a core product management activity.
+
+[ 377] evaluation management
+       释义: evaluationmanagement
+       音标: /evaluation-man/
+       难度: ★★
+       例句: evaluation management is a core product management activity.
+
+[ 378] evaluation validation
+       释义: evaluationvalidation
+       音标: /evaluation-val/
+       难度: ★★
+       例句: evaluation validation is a core product management activity.
+
+[ 379] evaluation development
+       释义: evaluationdevelopment
+       音标: /evaluation-dev/
+       难度: ★★
+       例句: evaluation development is a core product management activity.
+
+[ 380] evaluation implementation
+       释义: evaluationimplementation
+       音标: /evaluation-imp/
+       难度: ★★
+       例句: evaluation implementation is a core product management activity.
+
+[ 381] evaluation measurement
+       释义: evaluationmeasurement
+       音标: /evaluation-mea/
+       难度: ★★
+       例句: evaluation measurement is a core product management activity.
+
+[ 382] evaluation facilitation
+       释义: evaluationfacilitation
+       音标: /evaluation-fac/
+       难度: ★★
+       例句: evaluation facilitation is a core product management activity.
+
+[ 383] evaluation documentation
+       释义: evaluationdocumentation
+       音标: /evaluation-doc/
+       难度: ★★
+       例句: evaluation documentation is a core product management activity.
+
+[ 384] metric analysis
+       释义: metricanalysis
+       音标: /metric-analysi/
+       难度: ★★
+       例句: metric analysis is a core product management activity.
+
+[ 385] metric validation
+       释义: metricvalidation
+       音标: /metric-validat/
+       难度: ★★
+       例句: metric validation is a core product management activity.
+
+[ 386] metric review
+       释义: metricreview
+       音标: /metric-review/
+       难度: ★★
+       例句: metric review is a core product management activity.
+
+[ 387] metric design
+       释义: metricdesign
+       音标: /metric-design/
+       难度: ★★
+       例句: metric design is a core product management activity.
+
+[ 388] metric deployment
+       释义: metricdeployment
+       音标: /metric-deploym/
+       难度: ★★
+       例句: metric deployment is a core product management activity.
+
+[ 389] metric optimization
+       释义: metricoptimization
+       音标: /metric-optimiz/
+       难度: ★★
+       例句: metric optimization is a core product management activity.
+
+[ 390] metric enhancement
+       释义: metricenhancement
+       音标: /metric-enhance/
+       难度: ★★
+       例句: metric enhancement is a core product management activity.
+
+[ 391] metric planning
+       释义: metricplanning
+       音标: /metric-plannin/
+       难度: ★★
+       例句: metric planning is a core product management activity.
+
+[ 392] metric scheduling
+       释义: metricscheduling
+       音标: /metric-schedul/
+       难度: ★★
+       例句: metric scheduling is a core product management activity.
+
+[ 393] metric coordination
+       释义: metriccoordination
+       音标: /metric-coordin/
+       难度: ★★
+       例句: metric coordination is a core product management activity.
+
+[ 394] metric execution
+       释义: metricexecution
+       音标: /metric-executi/
+       难度: ★★
+       例句: metric execution is a core product management activity.
+
+[ 395] metric description
+       释义: metricdescription
+       音标: /metric-descrip/
+       难度: ★★
+       例句: metric description is a core product management activity.
+
+[ 396] indicator sign-off
+       释义: indicatorsign-off
+       音标: /indicator-sign/
+       难度: ★★
+       例句: indicator sign-off is a core product management activity.
+
+[ 397] indicator design
+       释义: indicatordesign
+       音标: /indicator-desi/
+       难度: ★★
+       例句: indicator design is a core product management activity.
+
+[ 398] indicator testing
+       释义: indicatortesting
+       音标: /indicator-test/
+       难度: ★★
+       例句: indicator testing is a core product management activity.
+
+[ 399] indicator tracking
+       释义: indicatortracking
+       音标: /indicator-trac/
+       难度: ★★
+       例句: indicator tracking is a core product management activity.
+
+[ 400] indicator monitoring
+       释义: indicatormonitoring
+       音标: /indicator-moni/
+       难度: ★★
+       例句: indicator monitoring is a core product management activity.
+
+[ 401] indicator elaboration
+       释义: indicatorelaboration
+       音标: /indicator-elab/
+       难度: ★★
+       例句: indicator elaboration is a core product management activity.
+
+[ 402] indicator showcase
+       释义: indicatorshowcase
+       音标: /indicator-show/
+       难度: ★★
+       例句: indicator showcase is a core product management activity.
+
+[ 403] measurement management
+       释义: measurementmanagement
+       音标: /measurement-ma/
+       难度: ★★
+       例句: measurement management is a core product management activity.
+
+[ 404] measurement review
+       释义: measurementreview
+       音标: /measurement-re/
+       难度: ★★
+       例句: measurement review is a core product management activity.
+
+[ 405] measurement integration
+       释义: measurementintegration
+       音标: /measurement-in/
+       难度: ★★
+       例句: measurement integration is a core product management activity.
+
+[ 406] measurement debugging
+       释义: measurementdebugging
+       音标: /measurement-de/
+       难度: ★★
+       例句: measurement debugging is a core product management activity.
+
+[ 407] measurement refinement
+       释义: measurementrefinement
+       音标: /measurement-re/
+       难度: ★★
+       例句: measurement refinement is a core product management activity.
+
+[ 408] measurement scheduling
+       释义: measurementscheduling
+       音标: /measurement-sc/
+       难度: ★★
+       例句: measurement scheduling is a core product management activity.
+
+[ 409] measurement clarification
+       释义: measurementclarification
+       音标: /measurement-cl/
+       难度: ★★
+       例句: measurement clarification is a core product management activity.
+
+[ 410] measurement demonstration
+       释义: measurementdemonstration
+       音标: /measurement-de/
+       难度: ★★
+       例句: measurement demonstration is a core product management activity.
+
+[ 411] benchmark definition
+       释义: benchmarkdefinition
+       音标: /benchmark-defi/
+       难度: ★★
+       例句: benchmark definition is a core product management activity.
+
+[ 412] benchmark validation
+       释义: benchmarkvalidation
+       音标: /benchmark-vali/
+       难度: ★★
+       例句: benchmark validation is a core product management activity.
+
+[ 413] benchmark approval
+       释义: benchmarkapproval
+       音标: /benchmark-appr/
+       难度: ★★
+       例句: benchmark approval is a core product management activity.
+
+[ 414] benchmark documentation
+       释义: benchmarkdocumentation
+       音标: /benchmark-docu/
+       难度: ★★
+       例句: benchmark documentation is a core product management activity.
+
+[ 415] baseline sign-off
+       释义: baselinesign-off
+       音标: /baseline-sign-/
+       难度: ★★
+       例句: baseline sign-off is a core product management activity.
+
+[ 416] baseline specification
+       释义: baselinespecification
+       音标: /baseline-speci/
+       难度: ★★
+       例句: baseline specification is a core product management activity.
+
+[ 417] baseline elaboration
+       释义: baselineelaboration
+       音标: /baseline-elabo/
+       难度: ★★
+       例句: baseline elaboration is a core product management activity.
+
+[ 418] growth validation
+       释义: growthvalidation
+       音标: /growth-validat/
+       难度: ★★
+       例句: growth validation is a core product management activity.
+
+[ 419] growth approval
+       释义: growthapproval
+       音标: /growth-approva/
+       难度: ★★
+       例句: growth approval is a core product management activity.
+
+[ 420] growth sign-off
+       释义: growthsign-off
+       音标: /growth-sign-of/
+       难度: ★★
+       例句: growth sign-off is a core product management activity.
+
+[ 421] growth measurement
+       释义: growthmeasurement
+       音标: /growth-measure/
+       难度: ★★
+       例句: growth measurement is a core product management activity.
+
+[ 422] growth planning
+       释义: growthplanning
+       音标: /growth-plannin/
+       难度: ★★
+       例句: growth planning is a core product management activity.
+
+[ 423] growth coordination
+       释义: growthcoordination
+       音标: /growth-coordin/
+       难度: ★★
+       例句: growth coordination is a core product management activity.
+
+[ 424] growth demonstration
+       释义: growthdemonstration
+       音标: /growth-demonst/
+       难度: ★★
+       例句: growth demonstration is a core product management activity.
+
+[ 425] growth showcase
+       释义: growthshowcase
+       音标: /growth-showcas/
+       难度: ★★
+       例句: growth showcase is a core product management activity.
+
+[ 426] engagement integration
+       释义: engagementintegration
+       音标: /engagement-int/
+       难度: ★★
+       例句: engagement integration is a core product management activity.
+
+[ 427] engagement coordination
+       释义: engagementcoordination
+       音标: /engagement-coo/
+       难度: ★★
+       例句: engagement coordination is a core product management activity.
+
+[ 428] engagement facilitation
+       释义: engagementfacilitation
+       音标: /engagement-fac/
+       难度: ★★
+       例句: engagement facilitation is a core product management activity.
+
+[ 429] engagement documentation
+       释义: engagementdocumentation
+       音标: /engagement-doc/
+       难度: ★★
+       例句: engagement documentation is a core product management activity.
+
+[ 430] adoption prioritization
+       释义: adoptionprioritization
+       音标: /adoption-prior/
+       难度: ★★
+       例句: adoption prioritization is a core product management activity.
+
+[ 431] adoption deployment
+       释义: adoptiondeployment
+       音标: /adoption-deplo/
+       难度: ★★
+       例句: adoption deployment is a core product management activity.
+
+[ 432] adoption optimization
+       释义: adoptionoptimization
+       音标: /adoption-optim/
+       难度: ★★
+       例句: adoption optimization is a core product management activity.
+
+[ 433] adoption monitoring
+       释义: adoptionmonitoring
+       音标: /adoption-monit/
+       难度: ★★
+       例句: adoption monitoring is a core product management activity.
+
+[ 434] adoption reporting
+       释义: adoptionreporting
+       音标: /adoption-repor/
+       难度: ★★
+       例句: adoption reporting is a core product management activity.
+
+[ 435] adoption elaboration
+       释义: adoptionelaboration
+       音标: /adoption-elabo/
+       难度: ★★
+       例句: adoption elaboration is a core product management activity.
+
+[ 436] adoption communication
+       释义: adoptioncommunication
+       音标: /adoption-commu/
+       难度: ★★
+       例句: adoption communication is a core product management activity.
+
+[ 437] adoption demonstration
+       释义: adoptiondemonstration
+       音标: /adoption-demon/
+       难度: ★★
+       例句: adoption demonstration is a core product management activity.
+
+[ 438] retention gathering
+       释义: retentiongathering
+       音标: /retention-gath/
+       难度: ★★
+       例句: retention gathering is a core product management activity.
+
+[ 439] retention management
+       释义: retentionmanagement
+       音标: /retention-mana/
+       难度: ★★
+       例句: retention management is a core product management activity.
+
+[ 440] retention verification
+       释义: retentionverification
+       音标: /retention-veri/
+       难度: ★★
+       例句: retention verification is a core product management activity.
+
+[ 441] retention enhancement
+       释义: retentionenhancement
+       音标: /retention-enha/
+       难度: ★★
+       例句: retention enhancement is a core product management activity.
+
+[ 442] retention planning
+       释义: retentionplanning
+       音标: /retention-plan/
+       难度: ★★
+       例句: retention planning is a core product management activity.
+
+[ 443] retention clarification
+       释义: retentionclarification
+       音标: /retention-clar/
+       难度: ★★
+       例句: retention clarification is a core product management activity.
+
+[ 444] retention exhibition
+       释义: retentionexhibition
+       音标: /retention-exhi/
+       难度: ★★
+       例句: retention exhibition is a core product management activity.
+
+[ 445] monetization analysis
+       释义: monetizationanalysis
+       音标: /monetization-a/
+       难度: ★★
+       例句: monetization analysis is a core product management activity.
+
+[ 446] monetization sign-off
+       释义: monetizationsign-off
+       音标: /monetization-s/
+       难度: ★★
+       例句: monetization sign-off is a core product management activity.
+
+[ 447] monetization implementation
+       释义: monetizationimplementation
+       音标: /monetization-i/
+       难度: ★★
+       例句: monetization implementation is a core product management activity.
+
+[ 448] monetization scheduling
+       释义: monetizationscheduling
+       音标: /monetization-s/
+       难度: ★★
+       例句: monetization scheduling is a core product management activity.
+
+[ 449] monetization documentation
+       释义: monetizationdocumentation
+       音标: /monetization-d/
+       难度: ★★
+       例句: monetization documentation is a core product management activity.
+
+[ 450] monetization elaboration
+       释义: monetizationelaboration
+       音标: /monetization-e/
+       难度: ★★
+       例句: monetization elaboration is a core product management activity.
+
+[ 451] monetization demonstration
+       释义: monetizationdemonstration
+       音标: /monetization-d/
+       难度: ★★
+       例句: monetization demonstration is a core product management activity.
+
+[ 452] monetization exhibition
+       释义: monetizationexhibition
+       音标: /monetization-e/
+       难度: ★★
+       例句: monetization exhibition is a core product management activity.
+
+[ 453] release verification
+       释义: releaseverification
+       音标: /release-verifi/
+       难度: ★★
+       例句: release verification is a core product management activity.
+
+[ 454] release approval
+       释义: releaseapproval
+       音标: /release-approv/
+       难度: ★★
+       例句: release approval is a core product management activity.
+
+[ 455] release sign-off
+       释义: releasesign-off
+       音标: /release-sign-o/
+       难度: ★★
+       例句: release sign-off is a core product management activity.
+
+[ 456] release deployment
+       释义: releasedeployment
+       音标: /release-deploy/
+       难度: ★★
+       例句: release deployment is a core product management activity.
+
+[ 457] release debugging
+       释义: releasedebugging
+       音标: /release-debugg/
+       难度: ★★
+       例句: release debugging is a core product management activity.
+
+[ 458] release enhancement
+       释义: releaseenhancement
+       音标: /release-enhanc/
+       难度: ★★
+       例句: release enhancement is a core product management activity.
+
+[ 459] release scheduling
+       释义: releasescheduling
+       音标: /release-schedu/
+       难度: ★★
+       例句: release scheduling is a core product management activity.
+
+[ 460] release execution
+       释义: releaseexecution
+       音标: /release-execut/
+       难度: ★★
+       例句: release execution is a core product management activity.
+
+[ 461] release presentation
+       释义: releasepresentation
+       音标: /release-presen/
+       难度: ★★
+       例句: release presentation is a core product management activity.
+
+[ 462] release showcase
+       释义: releaseshowcase
+       音标: /release-showca/
+       难度: ★★
+       例句: release showcase is a core product management activity.
+
+[ 463] deployment prioritization
+       释义: deploymentprioritization
+       音标: /deployment-pri/
+       难度: ★★
+       例句: deployment prioritization is a core product management activity.
+
+[ 464] deployment sign-off
+       释义: deploymentsign-off
+       音标: /deployment-sig/
+       难度: ★★
+       例句: deployment sign-off is a core product management activity.
+
+[ 465] deployment design
+       释义: deploymentdesign
+       音标: /deployment-des/
+       难度: ★★
+       例句: deployment design is a core product management activity.
+
+[ 466] deployment deployment
+       释义: deploymentdeployment
+       音标: /deployment-dep/
+       难度: ★★
+       例句: deployment deployment is a core product management activity.
+
+[ 467] deployment presentation
+       释义: deploymentpresentation
+       音标: /deployment-pre/
+       难度: ★★
+       例句: deployment presentation is a core product management activity.
+
+[ 468] deployment demonstration
+       释义: deploymentdemonstration
+       音标: /deployment-dem/
+       难度: ★★
+       例句: deployment demonstration is a core product management activity.
+
+[ 469] launch analysis
+       释义: launchanalysis
+       音标: /launch-analysi/
+       难度: ★★
+       例句: launch analysis is a core product management activity.
+
+[ 470] launch management
+       释义: launchmanagement
+       音标: /launch-managem/
+       难度: ★★
+       例句: launch management is a core product management activity.
+
+[ 471] launch verification
+       释义: launchverification
+       音标: /launch-verific/
+       难度: ★★
+       例句: launch verification is a core product management activity.
+
+[ 472] launch design
+       释义: launchdesign
+       音标: /launch-design/
+       难度: ★★
+       例句: launch design is a core product management activity.
+
+[ 473] launch debugging
+       释义: launchdebugging
+       音标: /launch-debuggi/
+       难度: ★★
+       例句: launch debugging is a core product management activity.
+
+[ 474] launch optimization
+       释义: launchoptimization
+       音标: /launch-optimiz/
+       难度: ★★
+       例句: launch optimization is a core product management activity.
+
+[ 475] launch enhancement
+       释义: launchenhancement
+       音标: /launch-enhance/
+       难度: ★★
+       例句: launch enhancement is a core product management activity.
+
+[ 476] launch measurement
+       释义: launchmeasurement
+       音标: /launch-measure/
+       难度: ★★
+       例句: launch measurement is a core product management activity.
+
+[ 477] launch scheduling
+       释义: launchscheduling
+       音标: /launch-schedul/
+       难度: ★★
+       例句: launch scheduling is a core product management activity.
+
+[ 478] launch facilitation
+       释义: launchfacilitation
+       音标: /launch-facilit/
+       难度: ★★
+       例句: launch facilitation is a core product management activity.
+
+[ 479] launch clarification
+       释义: launchclarification
+       音标: /launch-clarifi/
+       难度: ★★
+       例句: launch clarification is a core product management activity.
+
+[ 480] launch exhibition
+       释义: launchexhibition
+       音标: /launch-exhibit/
+       难度: ★★
+       例句: launch exhibition is a core product management activity.
+
+[ 481] rollout enhancement
+       释义: rolloutenhancement
+       音标: /rollout-enhanc/
+       难度: ★★
+       例句: rollout enhancement is a core product management activity.
+
+[ 482] rollout execution
+       释义: rolloutexecution
+       音标: /rollout-execut/
+       难度: ★★
+       例句: rollout execution is a core product management activity.
+
+[ 483] rollout communication
+       释义: rolloutcommunication
+       音标: /rollout-commun/
+       难度: ★★
+       例句: rollout communication is a core product management activity.
+
+[ 484] rollout exhibition
+       释义: rolloutexhibition
+       音标: /rollout-exhibi/
+       难度: ★★
+       例句: rollout exhibition is a core product management activity.
+
+[ 485] iteration definition
+       释义: iterationdefinition
+       音标: /iteration-defi/
+       难度: ★★
+       例句: iteration definition is a core product management activity.
+
+[ 486] iteration development
+       释义: iterationdevelopment
+       音标: /iteration-deve/
+       难度: ★★
+       例句: iteration development is a core product management activity.
+
+[ 487] iteration execution
+       释义: iterationexecution
+       音标: /iteration-exec/
+       难度: ★★
+       例句: iteration execution is a core product management activity.
+
+[ 488] iteration specification
+       释义: iterationspecification
+       音标: /iteration-spec/
+       难度: ★★
+       例句: iteration specification is a core product management activity.
+
+[ 489] iteration exhibition
+       释义: iterationexhibition
+       音标: /iteration-exhi/
+       难度: ★★
+       例句: iteration exhibition is a core product management activity.
+
+[ 490] sprint validation
+       释义: sprintvalidation
+       音标: /sprint-validat/
+       难度: ★★
+       例句: sprint validation is a core product management activity.
+
+[ 491] sprint sign-off
+       释义: sprintsign-off
+       音标: /sprint-sign-of/
+       难度: ★★
+       例句: sprint sign-off is a core product management activity.
+
+[ 492] sprint optimization
+       释义: sprintoptimization
+       音标: /sprint-optimiz/
+       难度: ★★
+       例句: sprint optimization is a core product management activity.
+
+[ 493] sprint enhancement
+       释义: sprintenhancement
+       音标: /sprint-enhance/
+       难度: ★★
+       例句: sprint enhancement is a core product management activity.
+
+[ 494] sprint monitoring
+       释义: sprintmonitoring
+       音标: /sprint-monitor/
+       难度: ★★
+       例句: sprint monitoring is a core product management activity.
+
+[ 495] sprint facilitation
+       释义: sprintfacilitation
+       音标: /sprint-facilit/
+       难度: ★★
+       例句: sprint facilitation is a core product management activity.
+
+[ 496] sprint documentation
+       释义: sprintdocumentation
+       音标: /sprint-documen/
+       难度: ★★
+       例句: sprint documentation is a core product management activity.
+
+[ 497] milestone verification
+       释义: milestoneverification
+       音标: /milestone-veri/
+       难度: ★★
+       例句: milestone verification is a core product management activity.
+
+[ 498] milestone approval
+       释义: milestoneapproval
+       音标: /milestone-appr/
+       难度: ★★
+       例句: milestone approval is a core product management activity.
+
+[ 499] milestone testing
+       释义: milestonetesting
+       音标: /milestone-test/
+       难度: ★★
+       例句: milestone testing is a core product management activity.
+
+[ 500] milestone planning
+       释义: milestoneplanning
+       音标: /milestone-plan/
+       难度: ★★
+       例句: milestone planning is a core product management activity.
+
+[ 501] milestone exhibition
+       释义: milestoneexhibition
+       音标: /milestone-exhi/
+       难度: ★★
+       例句: milestone exhibition is a core product management activity.
+
+[ 502] increment definition
+       释义: incrementdefinition
+       音标: /increment-defi/
+       难度: ★★
+       例句: increment definition is a core product management activity.
+
+[ 503] increment gathering
+       释义: incrementgathering
+       音标: /increment-gath/
+       难度: ★★
+       例句: increment gathering is a core product management activity.
+
+[ 504] increment validation
+       释义: incrementvalidation
+       音标: /increment-vali/
+       难度: ★★
+       例句: increment validation is a core product management activity.
+
+[ 505] increment review
+       释义: incrementreview
+       音标: /increment-revi/
+       难度: ★★
+       例句: increment review is a core product management activity.
+
+[ 506] increment development
+       释义: incrementdevelopment
+       音标: /increment-deve/
+       难度: ★★
+       例句: increment development is a core product management activity.
+
+[ 507] increment testing
+       释义: incrementtesting
+       音标: /increment-test/
+       难度: ★★
+       例句: increment testing is a core product management activity.
+
+[ 508] increment debugging
+       释义: incrementdebugging
+       音标: /increment-debu/
+       难度: ★★
+       例句: increment debugging is a core product management activity.
+
+[ 509] increment tracking
+       释义: incrementtracking
+       音标: /increment-trac/
+       难度: ★★
+       例句: increment tracking is a core product management activity.
+
+[ 510] increment scheduling
+       释义: incrementscheduling
+       音标: /increment-sche/
+       难度: ★★
+       例句: increment scheduling is a core product management activity.
+
+[ 511] increment execution
+       释义: incrementexecution
+       音标: /increment-exec/
+       难度: ★★
+       例句: increment execution is a core product management activity.
+
+[ 512] increment documentation
+       释义: incrementdocumentation
+       音标: /increment-docu/
+       难度: ★★
+       例句: increment documentation is a core product management activity.
+
+[ 513] increment demonstration
+       释义: incrementdemonstration
+       音标: /increment-demo/
+       难度: ★★
+       例句: increment demonstration is a core product management activity.
+
+[ 514] delivery enhancement
+       释义: deliveryenhancement
+       音标: /delivery-enhan/
+       难度: ★★
+       例句: delivery enhancement is a core product management activity.
+
+[ 515] delivery refinement
+       释义: deliveryrefinement
+       音标: /delivery-refin/
+       难度: ★★
+       例句: delivery refinement is a core product management activity.
+
+[ 516] delivery description
+       释义: deliverydescription
+       音标: /delivery-descr/
+       难度: ★★
+       例句: delivery description is a core product management activity.
+
+[ 517] shipment prioritization
+       释义: shipmentprioritization
+       音标: /shipment-prior/
+       难度: ★★
+       例句: shipment prioritization is a core product management activity.
+
+[ 518] shipment development
+       释义: shipmentdevelopment
+       音标: /shipment-devel/
+       难度: ★★
+       例句: shipment development is a core product management activity.
+
+[ 519] shipment integration
+       释义: shipmentintegration
+       音标: /shipment-integ/
+       难度: ★★
+       例句: shipment integration is a core product management activity.
+
+[ 520] shipment refinement
+       释义: shipmentrefinement
+       音标: /shipment-refin/
+       难度: ★★
+       例句: shipment refinement is a core product management activity.
+
+[ 521] shipment monitoring
+       释义: shipmentmonitoring
+       音标: /shipment-monit/
+       难度: ★★
+       例句: shipment monitoring is a core product management activity.
+
+[ 522] shipment planning
+       释义: shipmentplanning
+       音标: /shipment-plann/
+       难度: ★★
+       例句: shipment planning is a core product management activity.
+
+[ 523] shipment execution
+       释义: shipmentexecution
+       音标: /shipment-execu/
+       难度: ★★
+       例句: shipment execution is a core product management activity.
+
+[ 524] shipment specification
+       释义: shipmentspecification
+       音标: /shipment-speci/
+       难度: ★★
+       例句: shipment specification is a core product management activity.
+
+[ 525] shipment communication
+       释义: shipmentcommunication
+       音标: /shipment-commu/
+       难度: ★★
+       例句: shipment communication is a core product management activity.
+
+[ 526] backlog definition
+       释义: backlogdefinition
+       音标: /backlog-defini/
+       难度: ★★
+       例句: backlog definition is a core product management activity.
+
+[ 527] backlog approval
+       释义: backlogapproval
+       音标: /backlog-approv/
+       难度: ★★
+       例句: backlog approval is a core product management activity.
+
+[ 528] backlog implementation
+       释义: backlogimplementation
+       音标: /backlog-implem/
+       难度: ★★
+       例句: backlog implementation is a core product management activity.
+
+[ 529] backlog execution
+       释义: backlogexecution
+       音标: /backlog-execut/
+       难度: ★★
+       例句: backlog execution is a core product management activity.
+
+[ 530] backlog elaboration
+       释义: backlogelaboration
+       音标: /backlog-elabor/
+       难度: ★★
+       例句: backlog elaboration is a core product management activity.
+
+[ 531] roadmap gathering
+       释义: roadmapgathering
+       音标: /roadmap-gather/
+       难度: ★★
+       例句: roadmap gathering is a core product management activity.
+
+[ 532] roadmap analysis
+       释义: roadmapanalysis
+       音标: /roadmap-analys/
+       难度: ★★
+       例句: roadmap analysis is a core product management activity.
+
+[ 533] roadmap refinement
+       释义: roadmaprefinement
+       音标: /roadmap-refine/
+       难度: ★★
+       例句: roadmap refinement is a core product management activity.
+
+[ 534] roadmap monitoring
+       释义: roadmapmonitoring
+       音标: /roadmap-monito/
+       难度: ★★
+       例句: roadmap monitoring is a core product management activity.
+
+[ 535] roadmap measurement
+       释义: roadmapmeasurement
+       音标: /roadmap-measur/
+       难度: ★★
+       例句: roadmap measurement is a core product management activity.
+
+[ 536] roadmap communication
+       释义: roadmapcommunication
+       音标: /roadmap-commun/
+       难度: ★★
+       例句: roadmap communication is a core product management activity.
+
+[ 537] roadmap showcase
+       释义: roadmapshowcase
+       音标: /roadmap-showca/
+       难度: ★★
+       例句: roadmap showcase is a core product management activity.
+
+[ 538] timeline definition
+       释义: timelinedefinition
+       音标: /timeline-defin/
+       难度: ★★
+       例句: timeline definition is a core product management activity.
+
+[ 539] timeline validation
+       释义: timelinevalidation
+       音标: /timeline-valid/
+       难度: ★★
+       例句: timeline validation is a core product management activity.
+
+[ 540] timeline deployment
+       释义: timelinedeployment
+       音标: /timeline-deplo/
+       难度: ★★
+       例句: timeline deployment is a core product management activity.
+
+[ 541] timeline testing
+       释义: timelinetesting
+       音标: /timeline-testi/
+       难度: ★★
+       例句: timeline testing is a core product management activity.
+
+[ 542] timeline measurement
+       释义: timelinemeasurement
+       音标: /timeline-measu/
+       难度: ★★
+       例句: timeline measurement is a core product management activity.
+
+[ 543] timeline documentation
+       释义: timelinedocumentation
+       音标: /timeline-docum/
+       难度: ★★
+       例句: timeline documentation is a core product management activity.
+
+[ 544] schedule verification
+       释义: scheduleverification
+       音标: /schedule-verif/
+       难度: ★★
+       例句: schedule verification is a core product management activity.
+
+[ 545] schedule sign-off
+       释义: schedulesign-off
+       音标: /schedule-sign-/
+       难度: ★★
+       例句: schedule sign-off is a core product management activity.
+
+[ 546] schedule monitoring
+       释义: schedulemonitoring
+       音标: /schedule-monit/
+       难度: ★★
+       例句: schedule monitoring is a core product management activity.
+
+[ 547] schedule communication
+       释义: schedulecommunication
+       音标: /schedule-commu/
+       难度: ★★
+       例句: schedule communication is a core product management activity.
+
+[ 548] calendar prioritization
+       释义: calendarprioritization
+       音标: /calendar-prior/
+       难度: ★★
+       例句: calendar prioritization is a core product management activity.
+
+[ 549] calendar approval
+       释义: calendarapproval
+       音标: /calendar-appro/
+       难度: ★★
+       例句: calendar approval is a core product management activity.
+
+[ 550] calendar sign-off
+       释义: calendarsign-off
+       音标: /calendar-sign-/
+       难度: ★★
+       例句: calendar sign-off is a core product management activity.
+
+[ 551] calendar enhancement
+       释义: calendarenhancement
+       音标: /calendar-enhan/
+       难度: ★★
+       例句: calendar enhancement is a core product management activity.
+
+[ 552] calendar facilitation
+       释义: calendarfacilitation
+       音标: /calendar-facil/
+       难度: ★★
+       例句: calendar facilitation is a core product management activity.
+
+[ 553] calendar description
+       释义: calendardescription
+       音标: /calendar-descr/
+       难度: ★★
+       例句: calendar description is a core product management activity.
+
+[ 554] calendar elaboration
+       释义: calendarelaboration
+       音标: /calendar-elabo/
+       难度: ★★
+       例句: calendar elaboration is a core product management activity.
+
+[ 555] calendar showcase
+       释义: calendarshowcase
+       音标: /calendar-showc/
+       难度: ★★
+       例句: calendar showcase is a core product management activity.
+
+[ 556] calendar exhibition
+       释义: calendarexhibition
+       音标: /calendar-exhib/
+       难度: ★★
+       例句: calendar exhibition is a core product management activity.
+
+[ 557] priority management
+       释义: prioritymanagement
+       音标: /priority-manag/
+       难度: ★★
+       例句: priority management is a core product management activity.
+
+[ 558] priority validation
+       释义: priorityvalidation
+       音标: /priority-valid/
+       难度: ★★
+       例句: priority validation is a core product management activity.
+
+[ 559] priority verification
+       释义: priorityverification
+       音标: /priority-verif/
+       难度: ★★
+       例句: priority verification is a core product management activity.
+
+[ 560] priority sign-off
+       释义: prioritysign-off
+       音标: /priority-sign-/
+       难度: ★★
+       例句: priority sign-off is a core product management activity.
+
+[ 561] priority integration
+       释义: priorityintegration
+       音标: /priority-integ/
+       难度: ★★
+       例句: priority integration is a core product management activity.
+
+[ 562] priority testing
+       释义: prioritytesting
+       音标: /priority-testi/
+       难度: ★★
+       例句: priority testing is a core product management activity.
+
+[ 563] priority enhancement
+       释义: priorityenhancement
+       音标: /priority-enhan/
+       难度: ★★
+       例句: priority enhancement is a core product management activity.
+
+[ 564] priority reporting
+       释义: priorityreporting
+       音标: /priority-repor/
+       难度: ★★
+       例句: priority reporting is a core product management activity.
+
+[ 565] priority planning
+       释义: priorityplanning
+       音标: /priority-plann/
+       难度: ★★
+       例句: priority planning is a core product management activity.
+
+[ 566] priority presentation
+       释义: prioritypresentation
+       音标: /priority-prese/
+       难度: ★★
+       例句: priority presentation is a core product management activity.
+
+[ 567] importance analysis
+       释义: importanceanalysis
+       音标: /importance-ana/
+       难度: ★★
+       例句: importance analysis is a core product management activity.
+
+[ 568] importance management
+       释义: importancemanagement
+       音标: /importance-man/
+       难度: ★★
+       例句: importance management is a core product management activity.
+
+[ 569] importance verification
+       释义: importanceverification
+       音标: /importance-ver/
+       难度: ★★
+       例句: importance verification is a core product management activity.
+
+[ 570] importance sign-off
+       释义: importancesign-off
+       音标: /importance-sig/
+       难度: ★★
+       例句: importance sign-off is a core product management activity.
+
+[ 571] importance development
+       释义: importancedevelopment
+       音标: /importance-dev/
+       难度: ★★
+       例句: importance development is a core product management activity.
+
+[ 572] importance refinement
+       释义: importancerefinement
+       音标: /importance-ref/
+       难度: ★★
+       例句: importance refinement is a core product management activity.
+
+[ 573] importance facilitation
+       释义: importancefacilitation
+       音标: /importance-fac/
+       难度: ★★
+       例句: importance facilitation is a core product management activity.
+
+[ 574] importance documentation
+       释义: importancedocumentation
+       音标: /importance-doc/
+       难度: ★★
+       例句: importance documentation is a core product management activity.
+
+[ 575] importance elaboration
+       释义: importanceelaboration
+       音标: /importance-ela/
+       难度: ★★
+       例句: importance elaboration is a core product management activity.
+
+[ 576] urgency approval
+       释义: urgencyapproval
+       音标: /urgency-approv/
+       难度: ★★
+       例句: urgency approval is a core product management activity.
+
+[ 577] urgency tracking
+       释义: urgencytracking
+       音标: /urgency-tracki/
+       难度: ★★
+       例句: urgency tracking is a core product management activity.
+
+[ 578] urgency reporting
+       释义: urgencyreporting
+       音标: /urgency-report/
+       难度: ★★
+       例句: urgency reporting is a core product management activity.
+
+[ 579] urgency description
+       释义: urgencydescription
+       音标: /urgency-descri/
+       难度: ★★
+       例句: urgency description is a core product management activity.
+
+[ 580] urgency demonstration
+       释义: urgencydemonstration
+       音标: /urgency-demons/
+       难度: ★★
+       例句: urgency demonstration is a core product management activity.
+
+[ 581] impact management
+       释义: impactmanagement
+       音标: /impact-managem/
+       难度: ★★
+       例句: impact management is a core product management activity.
+
+[ 582] impact development
+       释义: impactdevelopment
+       音标: /impact-develop/
+       难度: ★★
+       例句: impact development is a core product management activity.
+
+[ 583] impact coordination
+       释义: impactcoordination
+       音标: /impact-coordin/
+       难度: ★★
+       例句: impact coordination is a core product management activity.
+
+[ 584] impact elaboration
+       释义: impactelaboration
+       音标: /impact-elabora/
+       难度: ★★
+       例句: impact elaboration is a core product management activity.
+
+[ 585] impact demonstration
+       释义: impactdemonstration
+       音标: /impact-demonst/
+       难度: ★★
+       例句: impact demonstration is a core product management activity.
+
+[ 586] effort analysis
+       释义: effortanalysis
+       音标: /effort-analysi/
+       难度: ★★
+       例句: effort analysis is a core product management activity.
+
+[ 587] effort testing
+       释义: efforttesting
+       音标: /effort-testing/
+       难度: ★★
+       例句: effort testing is a core product management activity.
+
+[ 588] effort debugging
+       释义: effortdebugging
+       音标: /effort-debuggi/
+       难度: ★★
+       例句: effort debugging is a core product management activity.
+
+[ 589] effort planning
+       释义: effortplanning
+       音标: /effort-plannin/
+       难度: ★★
+       例句: effort planning is a core product management activity.
+
+[ 590] effort facilitation
+       释义: effortfacilitation
+       音标: /effort-facilit/
+       难度: ★★
+       例句: effort facilitation is a core product management activity.
+
+[ 591] effort execution
+       释义: effortexecution
+       音标: /effort-executi/
+       难度: ★★
+       例句: effort execution is a core product management activity.
+
+[ 592] effort demonstration
+       释义: effortdemonstration
+       音标: /effort-demonst/
+       难度: ★★
+       例句: effort demonstration is a core product management activity.
+
+[ 593] hypothesis validation
+       释义: hypothesisvalidation
+       音标: /hypothesis-val/
+       难度: ★★
+       例句: hypothesis validation is a core product management activity.
+
+[ 594] hypothesis sign-off
+       释义: hypothesissign-off
+       音标: /hypothesis-sig/
+       难度: ★★
+       例句: hypothesis sign-off is a core product management activity.
+
+[ 595] hypothesis development
+       释义: hypothesisdevelopment
+       音标: /hypothesis-dev/
+       难度: ★★
+       例句: hypothesis development is a core product management activity.
+
+[ 596] hypothesis implementation
+       释义: hypothesisimplementation
+       音标: /hypothesis-imp/
+       难度: ★★
+       例句: hypothesis implementation is a core product management activity.
+
+[ 597] hypothesis testing
+       释义: hypothesistesting
+       音标: /hypothesis-tes/
+       难度: ★★
+       例句: hypothesis testing is a core product management activity.
+
+[ 598] hypothesis coordination
+       释义: hypothesiscoordination
+       音标: /hypothesis-coo/
+       难度: ★★
+       例句: hypothesis coordination is a core product management activity.
+
+[ 599] hypothesis clarification
+       释义: hypothesisclarification
+       音标: /hypothesis-cla/
+       难度: ★★
+       例句: hypothesis clarification is a core product management activity.
+
+[ 600] experiment gathering
+       释义: experimentgathering
+       音标: /experiment-gat/
+       难度: ★★
+       例句: experiment gathering is a core product management activity.
+
+[ 601] experiment management
+       释义: experimentmanagement
+       音标: /experiment-man/
+       难度: ★★
+       例句: experiment management is a core product management activity.
+
+[ 602] experiment verification
+       释义: experimentverification
+       音标: /experiment-ver/
+       难度: ★★
+       例句: experiment verification is a core product management activity.
+
+[ 603] experiment approval
+       释义: experimentapproval
+       音标: /experiment-app/
+       难度: ★★
+       例句: experiment approval is a core product management activity.
+
+[ 604] experiment enhancement
+       释义: experimentenhancement
+       音标: /experiment-enh/
+       难度: ★★
+       例句: experiment enhancement is a core product management activity.
+
+[ 605] experiment reporting
+       释义: experimentreporting
+       音标: /experiment-rep/
+       难度: ★★
+       例句: experiment reporting is a core product management activity.
+
+[ 606] experiment communication
+       释义: experimentcommunication
+       音标: /experiment-com/
+       难度: ★★
+       例句: experiment communication is a core product management activity.
+
+[ 607] test definition
+       释义: testdefinition
+       音标: /test-definitio/
+       难度: ★★
+       例句: test definition is a core product management activity.
+
+[ 608] test review
+       释义: testreview
+       音标: /test-review/
+       难度: ★★
+       例句: test review is a core product management activity.
+
+[ 609] test approval
+       释义: testapproval
+       音标: /test-approval/
+       难度: ★★
+       例句: test approval is a core product management activity.
+
+[ 610] test deployment
+       释义: testdeployment
+       音标: /test-deploymen/
+       难度: ★★
+       例句: test deployment is a core product management activity.
+
+[ 611] test facilitation
+       释义: testfacilitation
+       音标: /test-facilitat/
+       难度: ★★
+       例句: test facilitation is a core product management activity.
+
+[ 612] test exhibition
+       释义: testexhibition
+       音标: /test-exhibitio/
+       难度: ★★
+       例句: test exhibition is a core product management activity.
+
+[ 613] trial prioritization
+       释义: trialprioritization
+       音标: /trial-prioriti/
+       难度: ★★
+       例句: trial prioritization is a core product management activity.
+
+[ 614] trial enhancement
+       释义: trialenhancement
+       音标: /trial-enhancem/
+       难度: ★★
+       例句: trial enhancement is a core product management activity.
+
+[ 615] trial specification
+       释义: trialspecification
+       音标: /trial-specific/
+       难度: ★★
+       例句: trial specification is a core product management activity.
+
+[ 616] trial description
+       释义: trialdescription
+       音标: /trial-descript/
+       难度: ★★
+       例句: trial description is a core product management activity.
+
+[ 617] trial communication
+       释义: trialcommunication
+       音标: /trial-communic/
+       难度: ★★
+       例句: trial communication is a core product management activity.
+
+[ 618] trial showcase
+       释义: trialshowcase
+       音标: /trial-showcase/
+       难度: ★★
+       例句: trial showcase is a core product management activity.
+
+[ 619] trial exhibition
+       释义: trialexhibition
+       音标: /trial-exhibiti/
+       难度: ★★
+       例句: trial exhibition is a core product management activity.
+
+[ 620] pilot gathering
+       释义: pilotgathering
+       音标: /pilot-gatherin/
+       难度: ★★
+       例句: pilot gathering is a core product management activity.
+
+[ 621] pilot facilitation
+       释义: pilotfacilitation
+       音标: /pilot-facilita/
+       难度: ★★
+       例句: pilot facilitation is a core product management activity.
+
+[ 622] pilot execution
+       释义: pilotexecution
+       音标: /pilot-executio/
+       难度: ★★
+       例句: pilot execution is a core product management activity.
+
+[ 623] pilot specification
+       释义: pilotspecification
+       音标: /pilot-specific/
+       难度: ★★
+       例句: pilot specification is a core product management activity.
+
+[ 624] pilot clarification
+       释义: pilotclarification
+       音标: /pilot-clarific/
+       难度: ★★
+       例句: pilot clarification is a core product management activity.
+
+[ 625] pilot communication
+       释义: pilotcommunication
+       音标: /pilot-communic/
+       难度: ★★
+       例句: pilot communication is a core product management activity.
+
+[ 626] pilot showcase
+       释义: pilotshowcase
+       音标: /pilot-showcase/
+       难度: ★★
+       例句: pilot showcase is a core product management activity.
+
+[ 627] feedback verification
+       释义: feedbackverification
+       音标: /feedback-verif/
+       难度: ★★
+       例句: feedback verification is a core product management activity.
+
+[ 628] feedback measurement
+       释义: feedbackmeasurement
+       音标: /feedback-measu/
+       难度: ★★
+       例句: feedback measurement is a core product management activity.
+
+[ 629] feedback scheduling
+       释义: feedbackscheduling
+       音标: /feedback-sched/
+       难度: ★★
+       例句: feedback scheduling is a core product management activity.
+
+[ 630] feedback documentation
+       释义: feedbackdocumentation
+       音标: /feedback-docum/
+       难度: ★★
+       例句: feedback documentation is a core product management activity.
+
+[ 631] feedback specification
+       释义: feedbackspecification
+       音标: /feedback-speci/
+       难度: ★★
+       例句: feedback specification is a core product management activity.
+
+[ 632] feedback description
+       释义: feedbackdescription
+       音标: /feedback-descr/
+       难度: ★★
+       例句: feedback description is a core product management activity.
+
+[ 633] insight design
+       释义: insightdesign
+       音标: /insight-design/
+       难度: ★★
+       例句: insight design is a core product management activity.
+
+[ 634] insight integration
+       释义: insightintegration
+       音标: /insight-integr/
+       难度: ★★
+       例句: insight integration is a core product management activity.
+
+[ 635] insight execution
+       释义: insightexecution
+       音标: /insight-execut/
+       难度: ★★
+       例句: insight execution is a core product management activity.
+
+[ 636] insight specification
+       释义: insightspecification
+       音标: /insight-specif/
+       难度: ★★
+       例句: insight specification is a core product management activity.
+
+[ 637] insight elaboration
+       释义: insightelaboration
+       音标: /insight-elabor/
+       难度: ★★
+       例句: insight elaboration is a core product management activity.
+
+[ 638] insight demonstration
+       释义: insightdemonstration
+       音标: /insight-demons/
+       难度: ★★
+       例句: insight demonstration is a core product management activity.
+
+[ 639] observation definition
+       释义: observationdefinition
+       音标: /observation-de/
+       难度: ★★
+       例句: observation definition is a core product management activity.
+
+[ 640] observation gathering
+       释义: observationgathering
+       音标: /observation-ga/
+       难度: ★★
+       例句: observation gathering is a core product management activity.
+
+[ 641] observation verification
+       释义: observationverification
+       音标: /observation-ve/
+       难度: ★★
+       例句: observation verification is a core product management activity.
+
+[ 642] observation implementation
+       释义: observationimplementation
+       音标: /observation-im/
+       难度: ★★
+       例句: observation implementation is a core product management activity.
+
+[ 643] observation refinement
+       释义: observationrefinement
+       音标: /observation-re/
+       难度: ★★
+       例句: observation refinement is a core product management activity.
+
+[ 644] observation scheduling
+       释义: observationscheduling
+       音标: /observation-sc/
+       难度: ★★
+       例句: observation scheduling is a core product management activity.
+
+[ 645] observation facilitation
+       释义: observationfacilitation
+       音标: /observation-fa/
+       难度: ★★
+       例句: observation facilitation is a core product management activity.
+
+[ 646] observation showcase
+       释义: observationshowcase
+       音标: /observation-sh/
+       难度: ★★
+       例句: observation showcase is a core product management activity.
+
+[ 647] finding prioritization
+       释义: findingprioritization
+       音标: /finding-priori/
+       难度: ★★
+       例句: finding prioritization is a core product management activity.
+
+[ 648] finding sign-off
+       释义: findingsign-off
+       音标: /finding-sign-o/
+       难度: ★★
+       例句: finding sign-off is a core product management activity.
+
+[ 649] finding design
+       释义: findingdesign
+       音标: /finding-design/
+       难度: ★★
+       例句: finding design is a core product management activity.
+
+[ 650] finding development
+       释义: findingdevelopment
+       音标: /finding-develo/
+       难度: ★★
+       例句: finding development is a core product management activity.
+
+[ 651] finding execution
+       释义: findingexecution
+       音标: /finding-execut/
+       难度: ★★
+       例句: finding execution is a core product management activity.
+
+[ 652] finding description
+       释义: findingdescription
+       音标: /finding-descri/
+       难度: ★★
+       例句: finding description is a core product management activity.
+
+[ 653] conclusion management
+       释义: conclusionmanagement
+       音标: /conclusion-man/
+       难度: ★★
+       例句: conclusion management is a core product management activity.
+
+[ 654] conclusion deployment
+       释义: conclusiondeployment
+       音标: /conclusion-dep/
+       难度: ★★
+       例句: conclusion deployment is a core product management activity.
+
+[ 655] conclusion tracking
+       释义: conclusiontracking
+       音标: /conclusion-tra/
+       难度: ★★
+       例句: conclusion tracking is a core product management activity.
+
+[ 656] conclusion planning
+       释义: conclusionplanning
+       音标: /conclusion-pla/
+       难度: ★★
+       例句: conclusion planning is a core product management activity.
+
+[ 657] conclusion specification
+       释义: conclusionspecification
+       音标: /conclusion-spe/
+       难度: ★★
+       例句: conclusion specification is a core product management activity.
+
+[ 658] conclusion exhibition
+       释义: conclusionexhibition
+       音标: /conclusion-exh/
+       难度: ★★
+       例句: conclusion exhibition is a core product management activity.
+
+[ 659] goal deployment
+       释义: goaldeployment
+       音标: /goal-deploymen/
+       难度: ★★
+       例句: goal deployment is a core product management activity.
+
+[ 660] goal tracking
+       释义: goaltracking
+       音标: /goal-tracking/
+       难度: ★★
+       例句: goal tracking is a core product management activity.
+
+[ 661] goal showcase
+       释义: goalshowcase
+       音标: /goal-showcase/
+       难度: ★★
+       例句: goal showcase is a core product management activity.
+
+[ 662] objective gathering
+       释义: objectivegathering
+       音标: /objective-gath/
+       难度: ★★
+       例句: objective gathering is a core product management activity.
+
+[ 663] objective integration
+       释义: objectiveintegration
+       音标: /objective-inte/
+       难度: ★★
+       例句: objective integration is a core product management activity.
+
+[ 664] objective enhancement
+       释义: objectiveenhancement
+       音标: /objective-enha/
+       难度: ★★
+       例句: objective enhancement is a core product management activity.
+
+[ 665] objective refinement
+       释义: objectiverefinement
+       音标: /objective-refi/
+       难度: ★★
+       例句: objective refinement is a core product management activity.
+
+[ 666] objective monitoring
+       释义: objectivemonitoring
+       音标: /objective-moni/
+       难度: ★★
+       例句: objective monitoring is a core product management activity.
+
+[ 667] objective reporting
+       释义: objectivereporting
+       音标: /objective-repo/
+       难度: ★★
+       例句: objective reporting is a core product management activity.
+
+[ 668] objective coordination
+       释义: objectivecoordination
+       音标: /objective-coor/
+       难度: ★★
+       例句: objective coordination is a core product management activity.
+
+[ 669] objective documentation
+       释义: objectivedocumentation
+       音标: /objective-docu/
+       难度: ★★
+       例句: objective documentation is a core product management activity.
+
+[ 670] target validation
+       释义: targetvalidation
+       音标: /target-validat/
+       难度: ★★
+       例句: target validation is a core product management activity.
+
+[ 671] target deployment
+       释义: targetdeployment
+       音标: /target-deploym/
+       难度: ★★
+       例句: target deployment is a core product management activity.
+
+[ 672] target debugging
+       释义: targetdebugging
+       音标: /target-debuggi/
+       难度: ★★
+       例句: target debugging is a core product management activity.
+
+[ 673] target enhancement
+       释义: targetenhancement
+       音标: /target-enhance/
+       难度: ★★
+       例句: target enhancement is a core product management activity.
+
+[ 674] target measurement
+       释义: targetmeasurement
+       音标: /target-measure/
+       难度: ★★
+       例句: target measurement is a core product management activity.
+
+[ 675] target scheduling
+       释义: targetscheduling
+       音标: /target-schedul/
+       难度: ★★
+       例句: target scheduling is a core product management activity.
+
+[ 676] outcome debugging
+       释义: outcomedebugging
+       音标: /outcome-debugg/
+       难度: ★★
+       例句: outcome debugging is a core product management activity.
+
+[ 677] outcome optimization
+       释义: outcomeoptimization
+       音标: /outcome-optimi/
+       难度: ★★
+       例句: outcome optimization is a core product management activity.
+
+[ 678] outcome enhancement
+       释义: outcomeenhancement
+       音标: /outcome-enhanc/
+       难度: ★★
+       例句: outcome enhancement is a core product management activity.
+
+[ 679] outcome refinement
+       释义: outcomerefinement
+       音标: /outcome-refine/
+       难度: ★★
+       例句: outcome refinement is a core product management activity.
+
+[ 680] outcome measurement
+       释义: outcomemeasurement
+       音标: /outcome-measur/
+       难度: ★★
+       例句: outcome measurement is a core product management activity.
+
+[ 681] outcome reporting
+       释义: outcomereporting
+       音标: /outcome-report/
+       难度: ★★
+       例句: outcome reporting is a core product management activity.
+
+[ 682] outcome planning
+       释义: outcomeplanning
+       音标: /outcome-planni/
+       难度: ★★
+       例句: outcome planning is a core product management activity.
+
+[ 683] result analysis
+       释义: resultanalysis
+       音标: /result-analysi/
+       难度: ★★
+       例句: result analysis is a core product management activity.
+
+[ 684] result verification
+       释义: resultverification
+       音标: /result-verific/
+       难度: ★★
+       例句: result verification is a core product management activity.
+
+[ 685] result review
+       释义: resultreview
+       音标: /result-review/
+       难度: ★★
+       例句: result review is a core product management activity.
+
+[ 686] result sign-off
+       释义: resultsign-off
+       音标: /result-sign-of/
+       难度: ★★
+       例句: result sign-off is a core product management activity.
+
+[ 687] result design
+       释义: resultdesign
+       音标: /result-design/
+       难度: ★★
+       例句: result design is a core product management activity.
+
+[ 688] result enhancement
+       释义: resultenhancement
+       音标: /result-enhance/
+       难度: ★★
+       例句: result enhancement is a core product management activity.
+
+[ 689] result reporting
+       释义: resultreporting
+       音标: /result-reporti/
+       难度: ★★
+       例句: result reporting is a core product management activity.
+
+[ 690] result elaboration
+       释义: resultelaboration
+       音标: /result-elabora/
+       难度: ★★
+       例句: result elaboration is a core product management activity.
+
+[ 691] result exhibition
+       释义: resultexhibition
+       音标: /result-exhibit/
+       难度: ★★
+       例句: result exhibition is a core product management activity.
+
+[ 692] problem prioritization
+       释义: problemprioritization
+       音标: /problem-priori/
+       难度: ★★
+       例句: problem prioritization is a core product management activity.
+
+[ 693] problem debugging
+       释义: problemdebugging
+       音标: /problem-debugg/
+       难度: ★★
+       例句: problem debugging is a core product management activity.
+
+[ 694] problem refinement
+       释义: problemrefinement
+       音标: /problem-refine/
+       难度: ★★
+       例句: problem refinement is a core product management activity.
+
+[ 695] problem measurement
+       释义: problemmeasurement
+       音标: /problem-measur/
+       难度: ★★
+       例句: problem measurement is a core product management activity.
+
+[ 696] problem scheduling
+       释义: problemscheduling
+       音标: /problem-schedu/
+       难度: ★★
+       例句: problem scheduling is a core product management activity.
+
+[ 697] problem exhibition
+       释义: problemexhibition
+       音标: /problem-exhibi/
+       难度: ★★
+       例句: problem exhibition is a core product management activity.
+
+[ 698] challenge prioritization
+       释义: challengeprioritization
+       音标: /challenge-prio/
+       难度: ★★
+       例句: challenge prioritization is a core product management activity.
+
+[ 699] challenge testing
+       释义: challengetesting
+       音标: /challenge-test/
+       难度: ★★
+       例句: challenge testing is a core product management activity.
+
+[ 700] challenge optimization
+       释义: challengeoptimization
+       音标: /challenge-opti/
+       难度: ★★
+       例句: challenge optimization is a core product management activity.
+
+[ 701] challenge reporting
+       释义: challengereporting
+       音标: /challenge-repo/
+       难度: ★★
+       例句: challenge reporting is a core product management activity.
+
+[ 702] challenge showcase
+       释义: challengeshowcase
+       音标: /challenge-show/
+       难度: ★★
+       例句: challenge showcase is a core product management activity.
+
+[ 703] obstacle definition
+       释义: obstacledefinition
+       音标: /obstacle-defin/
+       难度: ★★
+       例句: obstacle definition is a core product management activity.
+
+[ 704] obstacle prioritization
+       释义: obstacleprioritization
+       音标: /obstacle-prior/
+       难度: ★★
+       例句: obstacle prioritization is a core product management activity.
+
+[ 705] obstacle management
+       释义: obstaclemanagement
+       音标: /obstacle-manag/
+       难度: ★★
+       例句: obstacle management is a core product management activity.
+
+[ 706] obstacle integration
+       释义: obstacleintegration
+       音标: /obstacle-integ/
+       难度: ★★
+       例句: obstacle integration is a core product management activity.
+
+[ 707] obstacle deployment
+       释义: obstacledeployment
+       音标: /obstacle-deplo/
+       难度: ★★
+       例句: obstacle deployment is a core product management activity.
+
+[ 708] obstacle monitoring
+       释义: obstaclemonitoring
+       音标: /obstacle-monit/
+       难度: ★★
+       例句: obstacle monitoring is a core product management activity.
+
+[ 709] obstacle reporting
+       释义: obstaclereporting
+       音标: /obstacle-repor/
+       难度: ★★
+       例句: obstacle reporting is a core product management activity.
+
+[ 710] obstacle specification
+       释义: obstaclespecification
+       音标: /obstacle-speci/
+       难度: ★★
+       例句: obstacle specification is a core product management activity.
+
+[ 711] obstacle description
+       释义: obstacledescription
+       音标: /obstacle-descr/
+       难度: ★★
+       例句: obstacle description is a core product management activity.
+
+[ 712] obstacle demonstration
+       释义: obstacledemonstration
+       音标: /obstacle-demon/
+       难度: ★★
+       例句: obstacle demonstration is a core product management activity.
+
+[ 713] constraint analysis
+       释义: constraintanalysis
+       音标: /constraint-ana/
+       难度: ★★
+       例句: constraint analysis is a core product management activity.
+
+[ 714] constraint verification
+       释义: constraintverification
+       音标: /constraint-ver/
+       难度: ★★
+       例句: constraint verification is a core product management activity.
+
+[ 715] constraint deployment
+       释义: constraintdeployment
+       音标: /constraint-dep/
+       难度: ★★
+       例句: constraint deployment is a core product management activity.
+
+[ 716] limitation definition
+       释义: limitationdefinition
+       音标: /limitation-def/
+       难度: ★★
+       例句: limitation definition is a core product management activity.
+
+[ 717] limitation prioritization
+       释义: limitationprioritization
+       音标: /limitation-pri/
+       难度: ★★
+       例句: limitation prioritization is a core product management activity.
+
+[ 718] limitation verification
+       释义: limitationverification
+       音标: /limitation-ver/
+       难度: ★★
+       例句: limitation verification is a core product management activity.
+
+[ 719] limitation design
+       释义: limitationdesign
+       音标: /limitation-des/
+       难度: ★★
+       例句: limitation design is a core product management activity.
+
+[ 720] limitation integration
+       释义: limitationintegration
+       音标: /limitation-int/
+       难度: ★★
+       例句: limitation integration is a core product management activity.
+
+[ 721] limitation debugging
+       释义: limitationdebugging
+       音标: /limitation-deb/
+       难度: ★★
+       例句: limitation debugging is a core product management activity.
+
+[ 722] limitation optimization
+       释义: limitationoptimization
+       音标: /limitation-opt/
+       难度: ★★
+       例句: limitation optimization is a core product management activity.
+
+[ 723] limitation tracking
+       释义: limitationtracking
+       音标: /limitation-tra/
+       难度: ★★
+       例句: limitation tracking is a core product management activity.
+
+[ 724] limitation reporting
+       释义: limitationreporting
+       音标: /limitation-rep/
+       难度: ★★
+       例句: limitation reporting is a core product management activity.
+
+[ 725] limitation coordination
+       释义: limitationcoordination
+       音标: /limitation-coo/
+       难度: ★★
+       例句: limitation coordination is a core product management activity.
+
+[ 726] limitation facilitation
+       释义: limitationfacilitation
+       音标: /limitation-fac/
+       难度: ★★
+       例句: limitation facilitation is a core product management activity.
+
+[ 727] limitation specification
+       释义: limitationspecification
+       音标: /limitation-spe/
+       难度: ★★
+       例句: limitation specification is a core product management activity.
+
+[ 728] limitation description
+       释义: limitationdescription
+       音标: /limitation-des/
+       难度: ★★
+       例句: limitation description is a core product management activity.
+
+[ 729] limitation clarification
+       释义: limitationclarification
+       音标: /limitation-cla/
+       难度: ★★
+       例句: limitation clarification is a core product management activity.
+
+[ 730] opportunity gathering
+       释义: opportunitygathering
+       音标: /opportunity-ga/
+       难度: ★★
+       例句: opportunity gathering is a core product management activity.
+
+[ 731] opportunity validation
+       释义: opportunityvalidation
+       音标: /opportunity-va/
+       难度: ★★
+       例句: opportunity validation is a core product management activity.
+
+[ 732] opportunity debugging
+       释义: opportunitydebugging
+       音标: /opportunity-de/
+       难度: ★★
+       例句: opportunity debugging is a core product management activity.
+
+[ 733] opportunity showcase
+       释义: opportunityshowcase
+       音标: /opportunity-sh/
+       难度: ★★
+       例句: opportunity showcase is a core product management activity.
+
+[ 734] possibility analysis
+       释义: possibilityanalysis
+       音标: /possibility-an/
+       难度: ★★
+       例句: possibility analysis is a core product management activity.
+
+[ 735] possibility validation
+       释义: possibilityvalidation
+       音标: /possibility-va/
+       难度: ★★
+       例句: possibility validation is a core product management activity.
+
+[ 736] possibility testing
+       释义: possibilitytesting
+       音标: /possibility-te/
+       难度: ★★
+       例句: possibility testing is a core product management activity.
+
+[ 737] possibility enhancement
+       释义: possibilityenhancement
+       音标: /possibility-en/
+       难度: ★★
+       例句: possibility enhancement is a core product management activity.
+
+[ 738] possibility measurement
+       释义: possibilitymeasurement
+       音标: /possibility-me/
+       难度: ★★
+       例句: possibility measurement is a core product management activity.
+
+[ 739] potential review
+       释义: potentialreview
+       音标: /potential-revi/
+       难度: ★★
+       例句: potential review is a core product management activity.
+
+[ 740] potential sign-off
+       释义: potentialsign-off
+       音标: /potential-sign/
+       难度: ★★
+       例句: potential sign-off is a core product management activity.
+
+[ 741] potential development
+       释义: potentialdevelopment
+       音标: /potential-deve/
+       难度: ★★
+       例句: potential development is a core product management activity.
+
+[ 742] potential integration
+       释义: potentialintegration
+       音标: /potential-inte/
+       难度: ★★
+       例句: potential integration is a core product management activity.
+
+[ 743] potential debugging
+       释义: potentialdebugging
+       音标: /potential-debu/
+       难度: ★★
+       例句: potential debugging is a core product management activity.
+
+[ 744] potential optimization
+       释义: potentialoptimization
+       音标: /potential-opti/
+       难度: ★★
+       例句: potential optimization is a core product management activity.
+
+[ 745] potential enhancement
+       释义: potentialenhancement
+       音标: /potential-enha/
+       难度: ★★
+       例句: potential enhancement is a core product management activity.
+
+[ 746] potential coordination
+       释义: potentialcoordination
+       音标: /potential-coor/
+       难度: ★★
+       例句: potential coordination is a core product management activity.
+
+[ 747] potential facilitation
+       释义: potentialfacilitation
+       音标: /potential-faci/
+       难度: ★★
+       例句: potential facilitation is a core product management activity.
+
+[ 748] potential elaboration
+       释义: potentialelaboration
+       音标: /potential-elab/
+       难度: ★★
+       例句: potential elaboration is a core product management activity.
+
+[ 749] option gathering
+       释义: optiongathering
+       音标: /option-gatheri/
+       难度: ★★
+       例句: option gathering is a core product management activity.
+
+[ 750] option management
+       释义: optionmanagement
+       音标: /option-managem/
+       难度: ★★
+       例句: option management is a core product management activity.
+
+[ 751] option review
+       释义: optionreview
+       音标: /option-review/
+       难度: ★★
+       例句: option review is a core product management activity.
+
+[ 752] option development
+       释义: optiondevelopment
+       音标: /option-develop/
+       难度: ★★
+       例句: option development is a core product management activity.
+
+[ 753] option implementation
+       释义: optionimplementation
+       音标: /option-impleme/
+       难度: ★★
+       例句: option implementation is a core product management activity.
+
+[ 754] option documentation
+       释义: optiondocumentation
+       音标: /option-documen/
+       难度: ★★
+       例句: option documentation is a core product management activity.
+
+[ 755] option elaboration
+       释义: optionelaboration
+       音标: /option-elabora/
+       难度: ★★
+       例句: option elaboration is a core product management activity.
+
+[ 756] option presentation
+       释义: optionpresentation
+       音标: /option-present/
+       难度: ★★
+       例句: option presentation is a core product management activity.
+
+[ 757] option demonstration
+       释义: optiondemonstration
+       音标: /option-demonst/
+       难度: ★★
+       例句: option demonstration is a core product management activity.
+
+[ 758] option exhibition
+       释义: optionexhibition
+       音标: /option-exhibit/
+       难度: ★★
+       例句: option exhibition is a core product management activity.
+
+[ 759] alternative validation
+       释义: alternativevalidation
+       音标: /alternative-va/
+       难度: ★★
+       例句: alternative validation is a core product management activity.
+
+[ 760] alternative review
+       释义: alternativereview
+       音标: /alternative-re/
+       难度: ★★
+       例句: alternative review is a core product management activity.
+
+[ 761] alternative deployment
+       释义: alternativedeployment
+       音标: /alternative-de/
+       难度: ★★
+       例句: alternative deployment is a core product management activity.
+
+[ 762] alternative testing
+       释义: alternativetesting
+       音标: /alternative-te/
+       难度: ★★
+       例句: alternative testing is a core product management activity.
+
+[ 763] alternative optimization
+       释义: alternativeoptimization
+       音标: /alternative-op/
+       难度: ★★
+       例句: alternative optimization is a core product management activity.
+
+[ 764] alternative enhancement
+       释义: alternativeenhancement
+       音标: /alternative-en/
+       难度: ★★
+       例句: alternative enhancement is a core product management activity.
+
+[ 765] alternative tracking
+       释义: alternativetracking
+       音标: /alternative-tr/
+       难度: ★★
+       例句: alternative tracking is a core product management activity.
+
+[ 766] alternative reporting
+       释义: alternativereporting
+       音标: /alternative-re/
+       难度: ★★
+       例句: alternative reporting is a core product management activity.
+
+[ 767] alternative elaboration
+       释义: alternativeelaboration
+       音标: /alternative-el/
+       难度: ★★
+       例句: alternative elaboration is a core product management activity.
+
+[ 768] alternative demonstration
+       释义: alternativedemonstration
+       音标: /alternative-de/
+       难度: ★★
+       例句: alternative demonstration is a core product management activity.
+
+[ 769] alternative exhibition
+       释义: alternativeexhibition
+       音标: /alternative-ex/
+       难度: ★★
+       例句: alternative exhibition is a core product management activity.
+
+[ 770] market integration
+       释义: marketintegration
+       音标: /market-integra/
+       难度: ★★
+       例句: market integration is a core product management activity.
+
+[ 771] market refinement
+       释义: marketrefinement
+       音标: /market-refinem/
+       难度: ★★
+       例句: market refinement is a core product management activity.
+
+[ 772] industry design
+       释义: industrydesign
+       音标: /industry-desig/
+       难度: ★★
+       例句: industry design is a core product management activity.
+
+[ 773] industry testing
+       释义: industrytesting
+       音标: /industry-testi/
+       难度: ★★
+       例句: industry testing is a core product management activity.
+
+[ 774] industry optimization
+       释义: industryoptimization
+       音标: /industry-optim/
+       难度: ★★
+       例句: industry optimization is a core product management activity.
+
+[ 775] industry measurement
+       释义: industrymeasurement
+       音标: /industry-measu/
+       难度: ★★
+       例句: industry measurement is a core product management activity.
+
+[ 776] industry reporting
+       释义: industryreporting
+       音标: /industry-repor/
+       难度: ★★
+       例句: industry reporting is a core product management activity.
+
+[ 777] industry clarification
+       释义: industryclarification
+       音标: /industry-clari/
+       难度: ★★
+       例句: industry clarification is a core product management activity.
+
+[ 778] industry demonstration
+       释义: industrydemonstration
+       音标: /industry-demon/
+       难度: ★★
+       例句: industry demonstration is a core product management activity.
+
+[ 779] industry showcase
+       释义: industryshowcase
+       音标: /industry-showc/
+       难度: ★★
+       例句: industry showcase is a core product management activity.
+
+[ 780] competitor verification
+       释义: competitorverification
+       音标: /competitor-ver/
+       难度: ★★
+       例句: competitor verification is a core product management activity.
+
+[ 781] competitor approval
+       释义: competitorapproval
+       音标: /competitor-app/
+       难度: ★★
+       例句: competitor approval is a core product management activity.
+
+[ 782] competitor design
+       释义: competitordesign
+       音标: /competitor-des/
+       难度: ★★
+       例句: competitor design is a core product management activity.
+
+[ 783] competitor refinement
+       释义: competitorrefinement
+       音标: /competitor-ref/
+       难度: ★★
+       例句: competitor refinement is a core product management activity.
+
+[ 784] competitor measurement
+       释义: competitormeasurement
+       音标: /competitor-mea/
+       难度: ★★
+       例句: competitor measurement is a core product management activity.
+
+[ 785] competitor reporting
+       释义: competitorreporting
+       音标: /competitor-rep/
+       难度: ★★
+       例句: competitor reporting is a core product management activity.
+
+[ 786] competitor planning
+       释义: competitorplanning
+       音标: /competitor-pla/
+       难度: ★★
+       例句: competitor planning is a core product management activity.
+
+[ 787] competitor documentation
+       释义: competitordocumentation
+       音标: /competitor-doc/
+       难度: ★★
+       例句: competitor documentation is a core product management activity.
+
+[ 788] competitor elaboration
+       释义: competitorelaboration
+       音标: /competitor-ela/
+       难度: ★★
+       例句: competitor elaboration is a core product management activity.
+
+[ 789] competitor clarification
+       释义: competitorclarification
+       音标: /competitor-cla/
+       难度: ★★
+       例句: competitor clarification is a core product management activity.
+
+[ 790] trend design
+       释义: trenddesign
+       音标: /trend-design/
+       难度: ★★
+       例句: trend design is a core product management activity.
+
+[ 791] trend reporting
+       释义: trendreporting
+       音标: /trend-reportin/
+       难度: ★★
+       例句: trend reporting is a core product management activity.
+
+[ 792] trend planning
+       释义: trendplanning
+       音标: /trend-planning/
+       难度: ★★
+       例句: trend planning is a core product management activity.
+
+[ 793] trend documentation
+       释义: trenddocumentation
+       音标: /trend-document/
+       难度: ★★
+       例句: trend documentation is a core product management activity.
+
+[ 794] trend demonstration
+       释义: trenddemonstration
+       音标: /trend-demonstr/
+       难度: ★★
+       例句: trend demonstration is a core product management activity.
+
+[ 795] landscape prioritization
+       释义: landscapeprioritization
+       音标: /landscape-prio/
+       难度: ★★
+       例句: landscape prioritization is a core product management activity.
+
+[ 796] landscape implementation
+       释义: landscapeimplementation
+       音标: /landscape-impl/
+       难度: ★★
+       例句: landscape implementation is a core product management activity.
+
+[ 797] landscape enhancement
+       释义: landscapeenhancement
+       音标: /landscape-enha/
+       难度: ★★
+       例句: landscape enhancement is a core product management activity.
+
+[ 798] landscape refinement
+       释义: landscaperefinement
+       音标: /landscape-refi/
+       难度: ★★
+       例句: landscape refinement is a core product management activity.
+
+[ 799] landscape measurement
+       释义: landscapemeasurement
+       音标: /landscape-meas/
+       难度: ★★
+       例句: landscape measurement is a core product management activity.
+
+[ 800] landscape planning
+       释义: landscapeplanning
+       音标: /landscape-plan/
+       难度: ★★
+       例句: landscape planning is a core product management activity.
+
