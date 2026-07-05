@@ -7220,6 +7220,10 @@ function showCongrats() {
 
 // ====== KEYBOARD ======
 function handleKey(e) {
+  // Skip all keyboard shortcuts when focus is on an input/textarea/select or contenteditable element
+  var ae = document.activeElement;
+  if (ae && (ae.tagName === 'INPUT' || ae.tagName === 'TEXTAREA' || ae.tagName === 'SELECT' || ae.isContentEditable)) return;
+
   var panel = document.querySelector('.panel.active');
   if (!panel) return;
   var pid = panel.id;
@@ -7528,9 +7532,19 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   // Enter key on form
-  form.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') { e.preventDefault(); handleAuth(); }
-  });
+  if (form) {
+    form.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); handleAuth(); }
+    });
+  }
+  // Direct button click fallback (fixes WebView submit event issues)
+  var submitBtn = document.getElementById('authSubmit');
+  if (submitBtn) {
+    submitBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      handleAuth();
+    });
+  }
   // Page visibility for session check
   document.addEventListener('visibilitychange', function() {
     if (document.visibilityState === 'visible') {
