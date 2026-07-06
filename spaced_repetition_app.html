@@ -560,7 +560,7 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
         </div>
         <button class="audio-btn" onclick="event.stopPropagation();speakWord('learn')" title="Pronounce">&#9834;</button>
       </div>
-      <div class="btn-row" id="learnBtns" style="display:none">
+      <div class="btn-row" id="learnBtns">
         <button class="btn btn-forgot" onclick="answerCard('forgot')">Forgot</button>
         <button class="btn btn-fuzzy" onclick="answerCard('fuzzy')">Fuzzy</button>
         <button class="btn btn-known" onclick="answerCard('known')">Known</button>
@@ -578,7 +578,7 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
         </div>
         <button class="audio-btn" onclick="event.stopPropagation();speakWord('review')" title="Pronounce">&#9834;</button>
       </div>
-      <div class="btn-row" id="reviewBtns" style="display:none">
+      <div class="btn-row" id="reviewBtns">
         <button class="btn btn-forgot" onclick="answerReview('forgot')">Forgot</button>
         <button class="btn btn-fuzzy" onclick="answerReview('fuzzy')">Fuzzy</button>
         <button class="btn btn-known" onclick="answerReview('known')">Known</button>
@@ -6620,7 +6620,6 @@ function renderLearnCard() {
   var learnCardContainer = document.getElementById('learnCardContainer');
 
   learnCard.classList.remove('flipped');
-  learnBtns.style.display = 'none';
   currentCard = null;
 
   if (state.todayCompleted || state.todayLearned >= state.dailyGoal) {
@@ -6685,7 +6684,6 @@ function answerCard(feedback) {
   if (currentCard === null) return;
   var idx = currentCard;
   currentCard = null;
-  document.getElementById('learnBtns').style.display = 'none';
 
   // Record in state
   if (state.studiedIds.indexOf(idx) === -1) state.studiedIds.push(idx);
@@ -6724,7 +6722,6 @@ function answerCard(feedback) {
 // ====== REVIEW MODE ======
 function refreshReview() {
   document.getElementById('reviewCard').classList.remove('flipped');
-  document.getElementById('reviewBtns').style.display = 'none';
   currentCard = null;
 
   var pending = getPendingReviews();
@@ -6780,7 +6777,6 @@ function answerReview(feedback) {
   if (currentCard === null) return;
   var idx = currentCard;
   currentCard = null;
-  document.getElementById('reviewBtns').style.display = 'none';
 
   var ws = state.wordState[idx];
   ws.lastFeedback = feedback;
@@ -7532,9 +7528,19 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   // Enter key on form
-  form.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') { e.preventDefault(); handleAuth(); }
-  });
+  if (form) {
+    form.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') { e.preventDefault(); handleAuth(); }
+    });
+  }
+  // Direct button click fallback (fixes WebView submit event issues)
+  var submitBtn = document.getElementById('authSubmit');
+  if (submitBtn) {
+    submitBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      handleAuth();
+    });
+  }
   // Page visibility for session check
   document.addEventListener('visibilitychange', function() {
     if (document.visibilityState === 'visible') {
