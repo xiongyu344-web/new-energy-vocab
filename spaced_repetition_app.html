@@ -8374,6 +8374,26 @@ function disconnectServer() {
   });
 }
 
+// ====== BIND AUTH BUTTONS (final fallback, after all functions defined) ======
+(function bindAuthButtons() {
+  var submitBtn = document.getElementById('authSubmit');
+  var guestBtn = document.querySelector('.auth-guest-btn');
+  var form = document.getElementById('authForm');
+  if (submitBtn) {
+    submitBtn.onclick = function(e) { e.preventDefault(); handleAuth(); };
+  }
+  if (guestBtn) {
+    guestBtn.onclick = function(e) { e.preventDefault(); loginAsGuest(); };
+  }
+  if (form) {
+    form.onsubmit = function(e) { e.preventDefault(); handleAuth(); };
+  }
+  // Tab switching
+  var tabs = document.querySelectorAll('.auth-tab');
+  for (var i = 0; i < tabs.length; i++) {
+    tabs[i].onclick = function() { switchAuthMode(this.getAttribute('data-mode')); };
+  }
+})();
 </script>
 </body>
 </html>
