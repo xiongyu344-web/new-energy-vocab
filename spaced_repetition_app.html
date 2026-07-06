@@ -159,6 +159,12 @@ h1{font-size:28px}h2{font-size:22px}h3{font-size:17px}h4{font-size:15px}
 .setting-row:last-child{border-bottom:none}
 .setting-row label{font-size:14px;flex-shrink:0}
 .setting-row select,.setting-row input{padding:6px 10px;border-radius:6px;border:1px solid var(--border);background:var(--white);color:var(--text);font-size:14px}
+.custom-number-input{display:flex;align-items:center;gap:4px}
+.custom-number-input input[type=number]{width:65px;text-align:center;padding:6px 4px;-moz-appearance:textfield}
+.custom-number-input input[type=number]::-webkit-inner-spin-button,.custom-number-input input[type=number]::-webkit-outer-spin-button{opacity:1}
+.num-btn{width:30px;height:30px;border-radius:6px;border:1px solid var(--border);background:var(--white);color:var(--navy);font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s}
+.num-btn:hover{background:var(--navy);color:white;border-color:var(--navy)}
+.num-btn:active{transform:scale(0.95)}
 .cat-toggles{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
 .cat-tag{padding:5px 14px;border-radius:16px;font-size:12px;cursor:pointer;border:1px solid var(--border);background:var(--white);color:var(--text);transition:all .2s;user-select:none}
 .cat-tag.on{background:var(--navy);color:white;border-color:var(--navy)}
@@ -616,7 +622,7 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
       <div class="chart-row"><div class="section-card"><h3>Learning Calendar Heatmap</h3><div id="heatmapContainer" style="padding:8px"></div><div class="heat-legend">Less<span style="background:var(--heat-0)"></span><span style="background:var(--heat-1)"></span><span style="background:var(--heat-2)"></span><span style="background:var(--heat-3)"></span><span style="background:var(--heat-4)"></span>More</div></div><div class="section-card"><h3>Daily Learning Trend (30 Days)</h3><div class="chart-wrap"><canvas id="chartTrend"></canvas></div></div></div>
     </div>
     <div class="panel" id="panelSettings">
-      <div class="setting-group"><h3>Learning Target</h3><div class="setting-row"><label>Daily new words goal</label><select id="setDailyGoal" onchange="updateDailyGoal()"><option value="10">10</option><option value="20">20</option><option value="30" selected>30</option><option value="50">50</option><option value="100">100</option></select></div></div>
+      <div class="setting-group"><h3>Learning Target</h3><div class="setting-row"><label>Daily new words goal</label><div class="custom-number-input"><button class="num-btn minus" onclick="adjustGoal(-1)" type="button">-</button><input type="number" id="setDailyGoal" min="1" max="500" value="30" step="1" onchange="updateDailyGoal()" oninput="updateDailyGoal()"><button class="num-btn plus" onclick="adjustGoal(1)" type="button">+</button></div></div></div>
       <div class="setting-group"><h3>Animation Effects</h3><div class="setting-row"><label>Enable card flip & button transitions</label><div class="toggle-switch" id="animToggle" onclick="toggleAnimations()" title="Toggle animation effects"><div class="toggle-track"><div class="toggle-thumb"></div></div></div></div></div>
       <div class="setting-group"><h3>Appearance</h3><div class="setting-row"><label>Theme</label><select id="setTheme" onchange="switchTheme()"><option value="light">Light</option><option value="dark">Dark</option><option value="auto">Auto</option></select></div></div>
       <div class="setting-group"><h3>Category Filters</h3><div class="cat-toggles" id="catToggles"></div></div>
@@ -7148,6 +7154,16 @@ function updateDailyGoal() {
   if (state.todayLearned < state.dailyGoal) state.todayCompleted = false;
   saveState();
   showToast('Daily goal updated to ' + state.dailyGoal);
+}
+
+function adjustGoal(delta) {
+  var input = document.getElementById('setDailyGoal');
+  var current = parseInt(input.value) || 30;
+  var newVal = current + delta;
+  if (newVal >= parseInt(input.min) && newVal <= parseInt(input.max)) {
+    input.value = newVal;
+    updateDailyGoal();
+  }
 }
 
 function exportData() {
