@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: new-energy-vocab
+    env: python
+    buildCommand: pip install -r server/requirements.txt
+    startCommand: cd server && python app.py
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: JWT_SECRET
+        value: new-energy-vocab-jwt-secret-key-2024
