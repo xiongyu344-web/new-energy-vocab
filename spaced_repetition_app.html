@@ -252,6 +252,83 @@ body.no-animations *{transition-duration:0s !important;animation-duration:0s !im
 .modal-definition-en{font-size:13px;color:var(--info);margin-bottom:6px}
 .modal-example-real{font-size:13px;color:var(--text-secondary);font-style:italic;margin-bottom:8px}
 
+/* ====== RING PROGRESS ====== */
+.ring-progress-wrap{display:flex;align-items:center;justify-content:center;gap:20px;padding:8px 0;margin-bottom:24px}
+.ring-progress{position:relative;width:100px;height:100px;flex-shrink:0}
+.ring-progress svg{transform:rotate(-90deg)}
+.ring-progress .bg-circle{fill:none;stroke:var(--border-light);stroke-width:6}
+.ring-progress .fg-circle{fill:none;stroke:var(--gold);stroke-width:6;stroke-linecap:round;transition:stroke-dashoffset .6s ease}
+.ring-progress .ring-text{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center}
+.ring-progress .ring-val{font-family:Georgia,"Noto Serif SC",serif;font-size:22px;font-weight:700;color:var(--navy);line-height:1}
+.ring-progress .ring-label{font-size:10px;color:var(--text-secondary);margin-top:2px}
+.ring-side{font-size:13px;color:var(--text-secondary);line-height:1.6}
+.ring-side strong{color:var(--navy);font-size:16px}
+/* ====== TODAY STATS ====== */
+.today-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:18px}
+.today-stat{background:var(--white);border-radius:var(--radius);padding:14px 16px;text-align:center;box-shadow:0 1px 3px rgba(26,35,50,0.05);border-left:3px solid var(--navy)}
+.today-stat .tstat-val{font-family:Georgia,"Noto Serif SC",serif;font-size:26px;font-weight:700;color:var(--navy);line-height:1}
+.today-stat .tstat-lbl{font-size:11px;color:var(--text-secondary);margin-top:4px;text-transform:uppercase;letter-spacing:.5px}
+.today-stat.accent-review{border-left-color:var(--gold)}
+.today-stat.accent-mastered{border-left-color:var(--success)}
+.today-stat.accent-pending{border-left-color:var(--danger)}
+/* ====== SKIP / MASTERED / EASY/GOOD/HARD BUTTONS ====== */
+.btn-skip{background:transparent;color:var(--text-secondary);border:1.5px solid var(--border);flex:0.5}
+.btn-skip:hover{background:var(--bg);border-color:var(--text-secondary)}
+.btn-master{background:var(--info);flex:0.7}
+.btn-master:hover{filter:brightness(1.1)}
+.btn-easy{background:var(--success)}
+.btn-good{background:var(--gold);color:var(--navy)}
+.btn-hard{background:var(--danger)}
+.btn-easy:hover,.btn-good:hover,.btn-hard:hover{filter:brightness(1.08)}
+/* ====== LEARN CARD ENHANCED ====== */
+.learn-progress-info{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.learn-progress-info .pos-indicator{font-size:12px;color:var(--text-secondary)}
+.learn-progress-info .pos-indicator strong{color:var(--navy);font-size:14px}
+/* ====== REVIEW SESSION STATS ====== */
+.review-session-stats{background:var(--white);border-radius:var(--radius-lg);padding:24px;box-shadow:0 1px 3px rgba(26,35,50,0.06);margin-bottom:20px;text-align:center;display:none}
+.review-session-stats h3{font-size:16px;color:var(--navy);margin-bottom:16px}
+.review-session-stats .session-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:12px}
+.review-session-stats .session-item{text-align:center}
+.review-session-stats .session-item .sval{font-family:Georgia,"Noto Serif SC",serif;font-size:22px;font-weight:700;color:var(--navy)}
+.review-session-stats .session-item .slbl{font-size:11px;color:var(--text-secondary);margin-top:2px}
+.session-accuracy-bar{height:8px;background:var(--border-light);border-radius:4px;margin-top:12px;overflow:hidden}
+.session-accuracy-fill{height:100%;border-radius:4px;transition:width .5s ease;background:linear-gradient(90deg,var(--danger),var(--warning),var(--success))}
+.session-dismiss{display:inline-block;margin-top:12px;padding:6px 20px;background:var(--navy);color:white;border:none;border-radius:6px;cursor:pointer;font-size:13px;font-weight:600}
+/* ====== REVIEW ANSWER VISUAL FEEDBACK ====== */
+.review-answer-step{margin-bottom:20px}
+.review-answer-reveal .answer-target{font-family:Georgia,"Noto Serif SC",serif;font-size:24px;font-weight:700;color:var(--gold);margin:6px 0}
+/* ====== SETTINGS NEW TOGGLES ====== */
+.setting-row .toggle-row{display:flex;align-items:center;gap:10px}
+.setting-row select.autoflip-select{width:120px;padding:6px 8px}
+/* ====== MOBILE TOUCH ENHANCEMENTS ====== */
+@media(max-width:768px){
+  .btn{min-height:48px;font-size:15px;padding:14px 10px}
+  .btn-skip,.btn-master{min-height:44px}
+  .today-stats{grid-template-columns:repeat(2,1fr);gap:8px}
+  .today-stat{padding:12px 10px}
+  .today-stat .tstat-val{font-size:22px}
+  .ring-progress-wrap{flex-direction:column;gap:12px}
+  .review-session-stats .session-grid{grid-template-columns:repeat(2,1fr)}
+  .kbd-hint{display:none}
+  .card-container{height:260px;margin:12px auto}
+  .learn-progress-info{flex-wrap:wrap;gap:4px}
+}
+@media(min-width:1400px){
+  .card-container{max-width:600px;height:340px}
+  .card-word{font-size:36px}
+  .card-chinese{font-size:28px}
+}
+/* ====== DARK MODE OVERRIDES FOR NEW ELEMENTS ====== */
+body.dark .ring-progress .bg-circle{stroke:rgba(255,255,255,0.08)}
+body.dark .ring-progress .ring-val{color:var(--white)}
+body.dark .today-stat{background:var(--navy-light);border-color:rgba(255,255,255,0.08)}
+body.dark .today-stat .tstat-val{color:var(--white)}
+body.dark .review-session-stats{background:var(--navy-light)}
+body.dark .review-session-stats h3{color:var(--white)}
+body.dark .review-session-stats .session-item .sval{color:var(--white)}
+body.dark .btn-skip{border-color:rgba(255,255,255,0.15);color:rgba(255,255,255,0.5)}
+body.dark .btn-skip:hover{background:rgba(255,255,255,0.05)}
+
 /* Spelling Test */
 .spell-container { max-width:700px; margin:0 auto; padding:32px 24px; }
 .spell-stats { display:flex; gap:16px; margin-bottom:28px; justify-content:center; }
@@ -567,6 +644,26 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
   </div>
   <div class="content-area">
     <div class="panel active" id="panelDashboard">
+      <div class="ring-progress-wrap">
+        <div class="ring-progress">
+          <svg width="100" height="100" viewBox="0 0 100 100">
+            <circle class="bg-circle" cx="50" cy="50" r="44"/>
+            <circle class="fg-circle" id="ringCircle" cx="50" cy="50" r="44" stroke-dasharray="276.46" stroke-dashoffset="276.46"/>
+          </svg>
+          <div class="ring-text"><div class="ring-val" id="ringPct">0%</div><div class="ring-label">Daily Goal</div></div>
+        </div>
+        <div class="ring-side">
+          <div><strong id="ringLearned">0</strong> / <span id="ringGoal">30</span> words learned today</div>
+          <div style="margin-top:4px">Streak: <strong style="color:var(--gold)" id="ringStreak">0</strong> days</div>
+          <div style="font-size:11px;color:var(--text-secondary);margin-top:2px" id="ringETC">Est. completion: --</div>
+        </div>
+      </div>
+      <div class="today-stats">
+        <div class="today-stat"><div class="tstat-val" id="tstatLearned">0</div><div class="tstat-lbl">Learned Today</div></div>
+        <div class="today-stat accent-review"><div class="tstat-val" id="tstatReviewed">0</div><div class="tstat-lbl">Reviewed Today</div></div>
+        <div class="today-stat accent-mastered"><div class="tstat-val" id="tstatMastered">0</div><div class="tstat-lbl">Total Mastered</div></div>
+        <div class="today-stat accent-pending"><div class="tstat-val" id="tstatPending">0</div><div class="tstat-lbl">Pending Review</div></div>
+      </div>
       <div class="kpi-grid">
         <div class="kpi-card accent-learn"><div class="kpi-label">Today Learned</div><div class="kpi-value" id="kpiTodayLearned">0</div><div class="kpi-sub">target: <span id="kpiTarget">30</span></div></div>
         <div class="kpi-card accent-master"><div class="kpi-label">Total Mastered</div><div class="kpi-value" id="kpiTotalMastered">0</div><div class="kpi-sub">long-term memory</div></div>
@@ -586,7 +683,10 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
       </div>
     </div>
     <div class="panel" id="panelLearn">
-      <div class="progress-label"><span>Todays New Words</span><span id="learnProgress">0/30</span></div>
+      <div class="learn-progress-info">
+        <span class="pos-indicator">Word <strong id="learnPos">0</strong> of <span id="learnTotal">0</span></span>
+        <span>Todays New Words: <span id="learnProgress">0/30</span></span>
+      </div>
       <div class="progress-bar-wrap"><div class="progress-bar-fill" id="learnProgressBar" style="width:0%"></div></div>
       <div id="learnEmpty" class="empty-state" style="display:none"><div class="icon">&#10003;</div><p>Todays target completed.</p><p style="font-size:13px;margin-top:4px">Switch to Review tab to reinforce your memory.</p></div>
       <div class="card-container" id="learnCardContainer">
@@ -597,15 +697,28 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
         <button class="audio-btn" onclick="event.stopPropagation();speakWord('learn')" title="Pronounce">&#9834;</button>
       </div>
       <div class="btn-row" id="learnBtns">
+        <button class="btn btn-skip" onclick="skipCard()" title="Skip this word">Skip</button>
+        <button class="btn btn-master" onclick="markMastered()" title="Already know this word">Mastered</button>
         <button class="btn btn-forgot" onclick="answerCard('forgot')">Forgot</button>
         <button class="btn btn-fuzzy" onclick="answerCard('fuzzy')">Fuzzy</button>
         <button class="btn btn-known" onclick="answerCard('known')">Known</button>
       </div>
-      <div class="kbd-hint">Space = Flip | Left=Forgot | Down=Fuzzy | Right=Known</div>
+      <div class="kbd-hint">Space = Flip | Left=Forgot | Down=Fuzzy | Right=Known | S=Skip | M=Mastered</div>
     </div>
     <div class="panel" id="panelReview">
       <div class="progress-label"><span>Todays Reviews</span><span id="reviewProgress">0/0</span></div>
       <div class="progress-bar-wrap"><div class="progress-bar-fill" id="reviewProgressBar" style="width:0%;background:linear-gradient(90deg,var(--gold),var(--warning))"></div></div>
+      <div class="review-session-stats" id="reviewSessionStats">
+        <h3>Session Complete</h3>
+        <div class="session-grid">
+          <div class="session-item"><div class="sval" id="sessReviewed">0</div><div class="slbl">Reviewed</div></div>
+          <div class="session-item"><div class="sval" id="sessAccuracy">0%</div><div class="slbl">Accuracy</div></div>
+          <div class="session-item"><div class="sval" id="sessTime">0s</div><div class="slbl">Duration</div></div>
+          <div class="session-item"><div class="sval" id="sessPromoted">0</div><div class="slbl">Promoted</div></div>
+        </div>
+        <div class="session-accuracy-bar"><div class="session-accuracy-fill" id="sessAccBar" style="width:0%"></div></div>
+        <button class="session-dismiss" onclick="dismissReviewStats()">Continue</button>
+      </div>
       <div id="reviewEmpty" class="empty-state"><div class="icon">&#10003;</div><p>No words pending for review.</p><p style="font-size:13px;margin-top:4px">Learn new words to build your review queue.</p></div>
       <div class="card-container" id="reviewCardContainer" style="display:none">
         <div class="card" id="reviewCard" onclick="flipCard('review')">
@@ -615,11 +728,11 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
         <button class="audio-btn" onclick="event.stopPropagation();speakWord('review')" title="Pronounce">&#9834;</button>
       </div>
       <div class="btn-row" id="reviewBtns">
-        <button class="btn btn-forgot" onclick="answerReview('forgot')">Forgot</button>
-        <button class="btn btn-fuzzy" onclick="answerReview('fuzzy')">Fuzzy</button>
-        <button class="btn btn-known" onclick="answerReview('known')">Known</button>
+        <button class="btn btn-hard" onclick="answerReview('forgot')">Hard</button>
+        <button class="btn btn-good" onclick="answerReview('fuzzy')">Good</button>
+        <button class="btn btn-easy" onclick="answerReview('known')">Easy</button>
       </div>
-      <div class="kbd-hint">Space = Flip | Left=Forgot | Down=Fuzzy | Right=Known</div>
+      <div class="kbd-hint">Space = Flip | Left=Hard | Down=Good | Right=Easy</div>
     </div>
     <div class="panel" id="panelKnowledge">
       <div class="kb-toolbar">
@@ -649,6 +762,10 @@ body.dark .nav-item:hover { background:rgba(201,169,98,0.08); }
       <div class="setting-group"><h3>Learning Target</h3><div class="setting-row"><label>Daily new words goal</label><div class="custom-number-input"><button class="num-btn minus" onclick="adjustGoal(-1)" type="button">-</button><input type="number" id="setDailyGoal" min="1" max="500" value="30" step="1" onchange="updateDailyGoal()" oninput="updateDailyGoal()"><button class="num-btn plus" onclick="adjustGoal(1)" type="button">+</button></div></div></div>
       <div class="setting-group"><h3>Animation Effects</h3><div class="setting-row"><label>Enable card flip & button transitions</label><div class="toggle-switch" id="animToggle" onclick="toggleAnimations()" title="Toggle animation effects"><div class="toggle-track"><div class="toggle-thumb"></div></div></div></div></div>
       <div class="setting-group"><h3>Appearance</h3><div class="setting-row"><label>Theme</label><select id="setTheme" onchange="switchTheme()"><option value="light">Light</option><option value="dark">Dark</option><option value="auto">Auto</option></select></div></div>
+      <div class="setting-group"><h3>Learning Preferences</h3>
+        <div class="setting-row"><label>Auto-advance after answering</label><div class="toggle-switch" id="autoAdvToggle" onclick="toggleAutoAdvance()" title="Automatically show next word after answering"><div class="toggle-track"><div class="toggle-thumb"></div></div></div></div>
+        <div class="setting-row"><label>Card auto-flip timer</label><select class="autoflip-select" id="autoFlipTime" onchange="updateAutoFlip()"><option value="0">Off</option><option value="2">2 seconds</option><option value="3">3 seconds</option><option value="5">5 seconds</option><option value="8">8 seconds</option></select></div>
+      </div>
       <div class="setting-group"><h3>Category Filters</h3><div class="cat-toggles" id="catToggles"></div></div>
       <div class="setting-group"><h3>Data Management</h3>
         <div class="setting-row"><label>Export learning data</label><button class="btn btn-primary btn-sm" onclick="exportData()">Export JSON</button></div>
@@ -6377,6 +6494,10 @@ function init() {
     }
     switchTab('dashboard');
     document.getElementById('setDailyGoal').value = state.dailyGoal;
+    // Init new settings toggles
+    if (state.autoAdvance) document.getElementById('autoAdvToggle').classList.add('on');
+    else document.getElementById('autoAdvToggle').classList.remove('on');
+    document.getElementById('autoFlipTime').value = state.autoFlipTime;
     document.addEventListener('keydown', handleKey);
     document.getElementById('panelAnalytics').addEventListener('transitionend', function(e) {
       if (this.classList.contains('active') && typeof Chart !== 'undefined') {
@@ -6433,6 +6554,11 @@ function loadState() {
   if (state.todayLearned === undefined) state.todayLearned = 0;
   if (state.todayReviewed === undefined) state.todayReviewed = 0;
   if (!state.lastActiveDate) state.lastActiveDate = '';
+  // New fields for enhanced features
+  if (state.autoAdvance === undefined) state.autoAdvance = false;
+  if (state.autoFlipTime === undefined) state.autoFlipTime = 0;
+  if (!state.reviewSessionStart) state.reviewSessionStart = 0;
+  if (!state.reviewSessionStats) state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: 0 };
 }
 
 function saveState() { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
@@ -6488,7 +6614,17 @@ function switchTab(name) {
   document.getElementById('topbarSpeak').style.display = (name === 'learn' || name === 'review') ? '' : 'none';
 
   if (name === 'learn') { currentCard = null; isReviewMode = false; renderLearnCard(); }
-  if (name === 'review') { currentCard = null; isReviewMode = true; refreshReview(); }
+  if (name === 'review') {
+    currentCard = null; isReviewMode = true;
+    // Init review session stats
+    if (!state.reviewSessionStats || state.reviewSessionStats.total === 0) {
+      state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: Date.now() };
+      saveState();
+    }
+    var ss = document.getElementById('reviewSessionStats');
+    if (ss) ss.style.display = 'none';
+    refreshReview();
+  }
   if (name === 'dashboard') { refreshDashboard(); }
   if (name === 'knowledge') { renderKnowledgeBase(); }
   if (name === 'insights') { refreshInsights(); }
@@ -6498,6 +6634,17 @@ function switchTab(name) {
   }
   if (name === 'spelling') { loadSpellingWord(); }
   if (name === 'autoplay') { loadAPWords(); }
+  // Reset review session stats when switching away from review
+  if (name !== 'review' && state.reviewSessionStats && state.reviewSessionStats.total > 0) {
+    state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: 0 };
+    saveState();
+  }
+  // Handle auto-flip timer
+  if (autoFlipTimer) { clearTimeout(autoFlipTimer); autoFlipTimer = null; }
+  // Start auto-flip if on learn/review panel
+  if ((name === 'learn' || name === 'review') && state.autoFlipTime > 0) {
+    setTimeout(startAutoFlipTimer, 300);
+  }
 }
 
 // ====== DASHBOARD ======
@@ -6520,6 +6667,13 @@ function refreshDashboard() {
 
   // Weekly chart
   renderDashboardWeekChart();
+  // Update ring progress
+  updateRingProgress();
+  // Update today stat cards
+  document.getElementById('tstatLearned').textContent = state.todayLearned;
+  document.getElementById('tstatReviewed').textContent = state.todayReviewed;
+  document.getElementById('tstatMastered').textContent = countMastered();
+  document.getElementById('tstatPending').textContent = revPending;
 }
 
 function countMastered() {
@@ -6703,6 +6857,10 @@ function renderLearnCard() {
   document.getElementById('learnExampleReal').textContent = w[8] || '';
   document.getElementById('learnCat').textContent = (w[4] || w[3]) + ' L' + w[5];
 
+  // Update position indicator
+  var remainingEligible = eligible.filter(function(e) { return state.studiedIds.indexOf(e) === -1; });
+  document.getElementById('learnPos').textContent = state.todayLearned + 1;
+  document.getElementById('learnTotal').textContent = state.dailyGoal;
   var pct = Math.min(100, Math.round(state.todayLearned / state.dailyGoal * 100));
   document.getElementById('learnProgressBar').style.width = pct + '%';
   document.getElementById('learnProgress').textContent = state.todayLearned + '/' + state.dailyGoal;
@@ -6712,8 +6870,13 @@ function flipCard(mode) {
   var card = document.getElementById(mode === 'learn' ? 'learnCard' : 'reviewCard');
   if (card.classList.contains('flipped')) {
     card.classList.remove('flipped');
+    // Restart auto-flip timer when flipping back
+    if (autoFlipTimer) { clearTimeout(autoFlipTimer); autoFlipTimer = null; }
+    startAutoFlipTimer();
   } else {
     card.classList.add('flipped');
+    // Cancel auto-flip since card is now showing answer
+    if (autoFlipTimer) { clearTimeout(autoFlipTimer); autoFlipTimer = null; }
   }
 }
 
@@ -6753,7 +6916,9 @@ function answerCard(feedback) {
     showCongrats();
   }
 
-  setTimeout(renderLearnCard, 200);
+  // Auto-advance or brief delay
+  var delay = state.autoAdvance ? 100 : 200;
+  setTimeout(renderLearnCard, delay);
 }
 
 // ====== REVIEW MODE ======
@@ -6789,8 +6954,9 @@ function refreshReview() {
   document.getElementById('reviewExampleReal').textContent = w[8] || '';
   document.getElementById('reviewCat').textContent = (w[4] || w[3]) + ' L' + w[5];
 
-  document.getElementById('reviewProgress').textContent = state.todayReviewed + '/' + pending.length;
-  var pct = pending.length > 0 ? Math.round(state.todayReviewed / (state.todayReviewed + pending.length) * 100) : 0;
+  document.getElementById('reviewProgress').textContent = (state.reviewSessionStats.total || 0) + '/' + pending.length;
+  var totalReviewed = (state.reviewSessionStats.total || 0);
+  var pct = pending.length > 0 ? Math.round(totalReviewed / (totalReviewed + pending.length) * 100) : 0;
   document.getElementById('reviewProgressBar').style.width = pct + '%';
 
   updateReviewBadge();
@@ -6834,10 +7000,23 @@ function answerReview(feedback) {
   state.wordState[idx] = ws;
 
   state.todayReviewed++;
+  // Track session stats
+  if (!state.reviewSessionStats) state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: 0 };
+  if (!state.reviewSessionStats.startTime) state.reviewSessionStats.startTime = Date.now();
+  state.reviewSessionStats.total = (state.reviewSessionStats.total || 0) + 1;
+  if (feedback === 'known') state.reviewSessionStats.easy = (state.reviewSessionStats.easy || 0) + 1;
+  else if (feedback === 'fuzzy') state.reviewSessionStats.good = (state.reviewSessionStats.good || 0) + 1;
+  else state.reviewSessionStats.hard = (state.reviewSessionStats.hard || 0) + 1;
   var today = getDateStr();
   if (!state.dailyLog[today]) state.dailyLog[today] = { newCount: 0, reviewCount: 0, minutes: 0 };
   state.dailyLog[today].reviewCount = (state.dailyLog[today].reviewCount || 0) + 1;
   saveState();
+
+  // Check if session is complete
+  var pending = getPendingReviews();
+  if (pending.length === 0 && state.reviewSessionStats.total > 0) {
+    showReviewStats();
+  }
 
   setTimeout(refreshReview, 200);
 }
@@ -7278,6 +7457,8 @@ function handleKey(e) {
     if (e.key === 'ArrowLeft') { e.preventDefault(); if (pid === 'panelReview') answerReview('forgot'); else if (pid === 'panelLearn') { if (document.getElementById('learnCard').classList.contains('flipped')) answerCard('forgot'); } }
     if (e.key === 'ArrowDown') { e.preventDefault(); if (pid === 'panelReview') answerReview('fuzzy'); else if (pid === 'panelLearn') { if (document.getElementById('learnCard').classList.contains('flipped')) answerCard('fuzzy'); } }
     if (e.key === 'ArrowRight') { e.preventDefault(); if (pid === 'panelReview') answerReview('known'); else if (pid === 'panelLearn') { if (document.getElementById('learnCard').classList.contains('flipped')) answerCard('known'); } }
+    if ((e.key === 's' || e.key === 'S') && pid === 'panelLearn') { e.preventDefault(); skipCard(); }
+    if ((e.key === 'm' || e.key === 'M') && pid === 'panelLearn') { e.preventDefault(); markMastered(); }
   }
 
   // Number key tab switching
@@ -7465,6 +7646,125 @@ function applyTheme(theme) {
     if (localStorage.getItem('spaced_repetition_theme') === 'auto') applyTheme('auto');
   });
 })();
+
+// ====== NEW ENHANCED FUNCTIONS ======
+function updateRingProgress() {
+  var learned = state.todayLearned || 0;
+  var goal = state.dailyGoal || 30;
+  var pct = Math.min(100, Math.round(learned / goal * 100));
+  var offset = 276.46 - (276.46 * pct / 100);
+  var circle = document.getElementById('ringCircle');
+  if (circle) circle.setAttribute('stroke-dashoffset', offset);
+  var rp = document.getElementById('ringPct');
+  if (rp) rp.textContent = pct + '%';
+  var rl = document.getElementById('ringLearned');
+  if (rl) rl.textContent = learned;
+  var rg = document.getElementById('ringGoal');
+  if (rg) rg.textContent = goal;
+  var rs = document.getElementById('ringStreak');
+  if (rs) rs.textContent = calcStreak();
+  var re = document.getElementById('ringETC');
+  if (re) re.textContent = 'Est. completion: ' + calcETC();
+}
+
+function skipCard() {
+  if (currentCard === null) return;
+  // Just advance to next card without recording anything
+  currentCard = null;
+  setTimeout(renderLearnCard, state.autoAdvance ? 80 : 150);
+}
+
+function markMastered() {
+  if (currentCard === null) return;
+  var idx = currentCard;
+  currentCard = null;
+  // Mark as studied and set stage to mastered (stage >= 6)
+  if (state.studiedIds.indexOf(idx) === -1) state.studiedIds.push(idx);
+  var ws = state.wordState[idx] || { stage: 0, nextReview: '', consecutiveHard: 0, timesReviewed: 0, lastFeedback: '' };
+  ws.stage = 6; // Mastered level
+  ws.timesReviewed = (ws.timesReviewed || 0) + 1;
+  ws.lastFeedback = 'mastered';
+  ws.consecutiveHard = 0;
+  var stage = STAGES[6];
+  ws.nextReview = calcNextReview(stage);
+  state.wordState[idx] = ws;
+  state.todayLearned++;
+  var today = getDateStr();
+  if (!state.dailyLog[today]) state.dailyLog[today] = { newCount: 0, reviewCount: 0, minutes: 0 };
+  state.dailyLog[today].newCount = (state.dailyLog[today].newCount || 0) + 1;
+  if (state.todayLearned >= state.dailyGoal) state.todayCompleted = true;
+  saveState();
+  if (state.todayLearned >= state.dailyGoal) showCongrats();
+  setTimeout(renderLearnCard, state.autoAdvance ? 80 : 150);
+}
+
+function toggleAutoAdvance() {
+  var toggle = document.getElementById('autoAdvToggle');
+  var isOn = toggle.classList.contains('on');
+  if (isOn) {
+    toggle.classList.remove('on');
+    state.autoAdvance = false;
+  } else {
+    toggle.classList.add('on');
+    state.autoAdvance = true;
+  }
+  saveState();
+}
+
+function updateAutoFlip() {
+  var val = parseInt(document.getElementById('autoFlipTime').value) || 0;
+  state.autoFlipTime = val;
+  saveState();
+  // Restart auto-flip timer if active
+  if (autoFlipTimer) { clearTimeout(autoFlipTimer); autoFlipTimer = null; }
+  startAutoFlipTimer();
+}
+
+var autoFlipTimer = null;
+function startAutoFlipTimer() {
+  if (autoFlipTimer) clearTimeout(autoFlipTimer);
+  var time = state.autoFlipTime || 0;
+  if (time <= 0) return;
+  var mode = (document.getElementById('panelLearn').classList.contains('active')) ? 'learn' : 'review';
+  var card = document.getElementById(mode === 'learn' ? 'learnCard' : 'reviewCard');
+  if (!card || card.classList.contains('flipped')) return;
+  autoFlipTimer = setTimeout(function() {
+    var currentMode = (document.getElementById('panelLearn').classList.contains('active')) ? 'learn' : 'review';
+    flipCard(currentMode);
+    autoFlipTimer = null;
+  }, time * 1000);
+}
+
+function showReviewStats() {
+  var stats = state.reviewSessionStats;
+  if (!stats || stats.total === 0) return;
+  var total = stats.total;
+  var easy = stats.easy || 0;
+  var good = stats.good || 0;
+  var hard = stats.hard || 0;
+  var accurate = total > 0 ? Math.round((easy + good) / total * 100) : 0;
+  var duration = stats.startTime ? Math.round((Date.now() - stats.startTime) / 1000) : 0;
+  var min = Math.floor(duration / 60);
+  var sec = duration % 60;
+  var timeStr = min > 0 ? min + 'm ' + sec + 's' : sec + 's';
+  
+  document.getElementById('sessReviewed').textContent = total;
+  document.getElementById('sessAccuracy').textContent = accurate + '%';
+  document.getElementById('sessTime').textContent = timeStr;
+  document.getElementById('sessPromoted').textContent = easy;
+  document.getElementById('sessAccBar').style.width = accurate + '%';
+  document.getElementById('reviewSessionStats').style.display = 'block';
+  
+  // Reset session stats
+  state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: 0 };
+  saveState();
+}
+
+function dismissReviewStats() {
+  document.getElementById('reviewSessionStats').style.display = 'none';
+  state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: 0 };
+  saveState();
+}
 
 // ====== AUTH SYSTEM ======
 var authState = { user: null, isLoggedIn: false, sessions: [] };
