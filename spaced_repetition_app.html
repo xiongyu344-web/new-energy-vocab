@@ -6670,13 +6670,10 @@ function renderLearnCard() {
 
 function flipCard(mode) {
   var card = document.getElementById(mode === 'learn' ? 'learnCard' : 'reviewCard');
-  var btns = document.getElementById(mode === 'learn' ? 'learnBtns' : 'reviewBtns');
   if (card.classList.contains('flipped')) {
     card.classList.remove('flipped');
-    btns.style.display = 'none';
   } else {
     card.classList.add('flipped');
-    btns.style.display = 'flex';
   }
 }
 
@@ -6731,10 +6728,12 @@ function refreshReview() {
   if (pending.length === 0) {
     revContainer.style.display = 'none';
     revEmpty.style.display = '';
+    document.getElementById('reviewBtns').style.display = 'none';
     document.getElementById('reviewProgressBar').style.width = '0%';
     document.getElementById('reviewProgress').textContent = '0/0';
     return;
   }
+  document.getElementById('reviewBtns').style.display = '';
 
   revContainer.style.display = '';
   revEmpty.style.display = 'none';
