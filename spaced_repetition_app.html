@@ -6467,7 +6467,14 @@ var STAGES = [
   {name:'R8', days:60},
   {name:'R9', days:120},
 ];
-var STORAGE_KEY = 'spaced_repetition_state';
+function getStorageKey() {
+  var email = localStorage.getItem('spaced_repetition_current_user');
+  if (email) {
+    var safe = email.replace(/[^a-zA-Z0-9@._-]/g, '_');
+    return 'spaced_repetition_state_' + safe;
+  }
+  return 'spaced_repetition_state_guest';
+}
 var state = null;
 var currentCard = null;
 var isReviewMode = false;
@@ -6525,7 +6532,7 @@ function toggleAnimations() {
 }
 
 function loadState() {
-  var raw = localStorage.getItem(STORAGE_KEY);
+  var raw = localStorage.getItem(getStorageKey());
   if (raw) {
     try { state = JSON.parse(raw); } catch(e) { state = null; }
   }
@@ -6561,7 +6568,7 @@ function loadState() {
   if (!state.reviewSessionStats) state.reviewSessionStats = { easy: 0, good: 0, hard: 0, total: 0, startTime: 0 };
 }
 
-function saveState() { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+function saveState() { localStorage.setItem(getStorageKey(), JSON.stringify(state)); }
 
 function ensureDailyReset() {
   var today = getDateStr();
@@ -7403,7 +7410,7 @@ function importData(e) {
 
 function resetProgress() {
   if (confirm('This will erase all learning progress. Continue?')) {
-    localStorage.removeItem(STORAGE_KEY);
+    localStorage.removeItem(getStorageKey());
     state = null;
     loadState();
     saveState();
@@ -7966,6 +7973,9 @@ function register(email, password) {
     updateSidebarUser();
     updateProfilePanel();
     loadSessions();
+    saveState();
+    loadState();
+    switchTab('dashboard');
   } catch(e) {
     document.getElementById('authError').textContent = 'Registration failed. Please try again.';
   }
@@ -8007,12 +8017,16 @@ function login(email, password, remember) {
     updateSidebarUser();
     updateProfilePanel();
     loadSessions();
+    saveState();
+    loadState();
+    switchTab('dashboard');
   } catch(e) {
     document.getElementById('authError').textContent = 'Login failed. Please try again.';
   }
 }
 
 function loginAsGuest() {
+  saveState();
   authState.user = null;
   authState.isLoggedIn = false;
   localStorage.removeItem('spaced_repetition_current_user');
@@ -8020,10 +8034,13 @@ function loginAsGuest() {
   hideAuthOverlay();
   updateSidebarUser();
   updateProfilePanel();
+  loadState();
+  switchTab('dashboard');
 }
 
 function handleLogout() {
   try {
+    saveState();
     var currentSessionId = localStorage.getItem('spaced_repetition_current_session');
     if (currentSessionId) {
       authState.sessions = authState.sessions.filter(function(s) { return s.id !== currentSessionId; });
